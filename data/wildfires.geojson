@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4875043506674,
+                    30.2088945162605
+                ]
+            },
+            "properties": {
+                "IncidentName": "CHIPOLA COMPLEX",
+                "IncidentSize": 34203,
+                "PercentContained": 100,
+                "FireDiscoveryDateTime": 1646412300000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1100029530053,
+                    25.9700047162047
+                ]
+            },
+            "properties": {
+                "IncidentName": "AVIAN COMPLEX",
+                "IncidentSize": 82461,
+                "PercentContained": 100,
+                "FireDiscoveryDateTime": 1525208400000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3545540360517,
+                    30.3998756947089
+                ]
+            },
+            "properties": {
+                "IncidentName": "Seminole Tribe of FL RX Grasslands 2021",
+                "IncidentSize": 0.1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1612381532000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2115439867262,
+                    30.1925056516489
+                ]
+            },
+            "properties": {
+                "IncidentName": "FY 2020 Prescribed Fire FL-SMR",
+                "IncidentSize": 0.1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1580758692000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9697029212118,
+                    26.3036748030525
+                ]
+            },
+            "properties": {
+                "IncidentName": "SW 3",
+                "IncidentSize": 0.1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1617883600000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9393728821112,
+                    25.1377145090037
+                ]
+            },
+            "properties": {
+                "IncidentName": "Flamingo RX  Burn",
+                "IncidentSize": 0.1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1572615238000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.4772313180744,
+                    30.7433822911406
+                ]
+            },
+            "properties": {
+                "IncidentName": "RACCOON KEY PILE RX",
+                "IncidentSize": 0.1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1687786239000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0250029371731,
+                    26.2988938006223
+                ]
+            },
+            "properties": {
+                "IncidentName": "SEA WUI 12 Cowbone Island Dumpsite Rx 1209",
+                "IncidentSize": 0.1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1765288187000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0249699371766,
+                    26.2993718007428
+                ]
+            },
+            "properties": {
+                "IncidentName": "SEA WUI-12 Pile RX 0609",
+                "IncidentSize": 0.1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1781011063000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9473629145383,
+                    26.2974448019895
+                ]
+            },
+            "properties": {
+                "IncidentName": "NC 6 Moses Jumper Pasture 0822",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1661177843000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0630629715867,
+                    27.1177250034836
+                ]
+            },
+            "properties": {
+                "IncidentName": "SEA NW 10 Kay Braswell 1115",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1668527114000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6060131922756,
+                    29.0586254611432
+                ]
+            },
+            "properties": {
+                "IncidentName": "OCF CPT 259 Perkins 0315",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1647343536000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8906928983602,
+                    26.309164806189
+                ]
+            },
+            "properties": {
+                "IncidentName": "SEA NE5 0221",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1645451431000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3034030070566,
+                    25.8894046917361
+                ]
+            },
+            "properties": {
+                "IncidentName": "Ochopee Rx FY 22",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1644409529000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0248929371405,
+                    26.2988748006201
+                ]
+            },
+            "properties": {
+                "IncidentName": "WUI 12 1110",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1636550745000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.167932950661,
+                    25.2230745260772
+                ]
+            },
+            "properties": {
+                "IncidentName": "NW Cape",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1647455172000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1187529843296,
+                    27.0000049730491
+                ]
+            },
+            "properties": {
+                "IncidentName": "SEA SW 22 0221",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1645452244000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.939462912368,
+                    26.3021648033482
+                ]
+            },
+            "properties": {
+                "IncidentName": "NC 6",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1630506402000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9385129123134,
+                    26.3102548053962
+                ]
+            },
+            "properties": {
+                "IncidentName": "SEA NC 1 Rodney Osceola Pasture Rx 0901",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1662044304000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3397527431714,
+                    26.5097148688052
+                ]
+            },
+            "properties": {
+                "IncidentName": "LXR A.R.M. Strazulla Rx 0131",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1643390241000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2094345769494,
+                    30.7361157119785
+                ]
+            },
+            "properties": {
+                "IncidentName": "Eglin AFB RX 0130",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1643576786000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9695469212563,
+                    26.3069488038761
+                ]
+            },
+            "properties": {
+                "IncidentName": "STOF Grasslands RX 2020",
+                "IncidentSize": 1,
+                "PercentContained": null,
+                "FireDiscoveryDateTime": 1580758091000
+            }
+        }
+    ]
+}

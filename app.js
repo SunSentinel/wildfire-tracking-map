@@ -1,4 +1,4 @@
-// 1. Initialize the map centered on Florida with a solid statewide view
+// 1. Initialize the map centered on Florida
 var map = L.map('map').setView([27.8, -81.5], 7);
 
 // 2. Add a clean, journalistic basemap (CartoDB Positron)
@@ -8,21 +8,22 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
     maxZoom: 12
 }).addTo(map);
 
-// 3. Proportional sizing rule: Larger fires get larger circle markers on the map
+// 3. Proportional sizing rule: Larger fires get larger circle markers
 function getMarkerRadius(acres) {
     if (!acres || acres < 5) return 6;
     if (acres < 50) return 10;
     if (acres < 500) return 16;
-    return 24; // Visual emphasis for major structural or brush fires
+    return 24; // Big footprint for massive brush/forest fires
 }
 
-// 4. Build clean, descriptive journalistic cards for the hover tooltips
+// 4. Build clean, descriptive tooltips for map interactions
 function onEachFire(feature, layer) {
     if (feature.properties) {
         var name = feature.properties.IncidentName || "Unnamed Incident";
-        var acres = feature.properties.DailyAcres ? Math.round(feature.properties.DailyAcres).toLocaleString() : "Not Reported";
         
-        // Handle containment numbers gracefully if they haven't been entered yet
+        // 2026 property update: Map 'IncidentSize' instead of 'DailyAcres'
+        var acres = feature.properties.IncidentSize ? Math.round(feature.properties.IncidentSize).toLocaleString() : "Not Reported";
+        
         var containment = "Not Reported";
         if (feature.properties.PercentContained !== null && feature.properties.PercentContained !== undefined) {
             containment = feature.properties.PercentContained + "%";
@@ -44,7 +45,7 @@ function onEachFire(feature, layer) {
             className: 'custom-wildfire-tooltip'
         });
 
-        // Highlight marker faintly on hover for physical desktop users
+        // Highlight marker weight faintly on mouse hover
         layer.on({
             mouseover: function (e) {
                 e.target.setStyle({ fillOpacity: 0.8, weight: 3 });
@@ -56,24 +57,25 @@ function onEachFire(feature, layer) {
     }
 }
 
-// 5. Query and map the live scraped database file with a cache-buster timestamp string
+// 5. Query and map the live local GeoJSON data feed
 var geojsonUrl = "data/wildfires.geojson?t=" + new Date().getTime();
 
 fetch(geojsonUrl)
     .then(function(response) {
         if (!response.ok) {
-            throw new Error("No active wildfire database layer discovered.");
+            throw new Error("No active wildfire data file found.");
         }
         return response.json();
     })
     .then(function(data) {
         L.geoJSON(data, {
             pointToLayer: function (feature, latlng) {
-                var acres = feature.properties.DailyAcres;
+                // 2026 property update: Size dynamically using 'IncidentSize'
+                var acres = feature.properties.IncidentSize;
                 return L.circleMarker(latlng, {
                     radius: getMarkerRadius(acres),
-                    fillColor: '#e34a33', // Deep blaze orange/red fill
-                    color: '#b30000',     // Dark crimson crisp border
+                    fillColor: '#e34a33', // Flame orange
+                    color: '#b30000',     // Dark borders
                     weight: 2,
                     fillOpacity: 0.6
                 });
