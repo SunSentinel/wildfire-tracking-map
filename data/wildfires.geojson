@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "generated_at": "2026-06-19T20:13:49Z",
+    "generated_at": "2026-06-19T20:55:21Z",
     "features": [
         {
             "type": "Feature",
@@ -798,7 +798,7 @@
                 "FinalFireReportApprovedByTitle": null,
                 "FinalFireReportApprovedByUnit": null,
                 "FinalFireReportApprovedDate": null,
-                "FireBehaviorGeneral": "Extreme",
+                "FireBehaviorGeneral": "Active",
                 "FireBehaviorGeneral1": null,
                 "FireBehaviorGeneral2": "Running",
                 "FireBehaviorGeneral3": null,
@@ -817,9 +817,9 @@
                 "FSJobCode": null,
                 "FSOverrideCode": null,
                 "GACC": "SACC",
-                "ICS209ReportDateTime": 1781825725000,
-                "ICS209ReportForTimePeriodFrom": 1781780400000,
-                "ICS209ReportForTimePeriodTo": 1781817300000,
+                "ICS209ReportDateTime": 1781902114000,
+                "ICS209ReportForTimePeriodFrom": 1781866800000,
+                "ICS209ReportForTimePeriodTo": 1781901000000,
                 "ICS209ReportStatus": "U",
                 "IncidentManagementOrganization": "Type 5 IC",
                 "IncidentName": "SR 47 (21)",
@@ -872,7 +872,7 @@
                 "OrganizationalAssessment": null,
                 "StrategicDecisionPublishDate": null,
                 "CreatedOnDateTime_dt": 1780698781067,
-                "ModifiedOnDateTime_dt": 1781825725573,
+                "ModifiedOnDateTime_dt": 1781902114890,
                 "ActiveFireCandidate": 1,
                 "IsCpxChild": 0,
                 "CpxName": null,
