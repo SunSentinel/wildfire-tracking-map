@@ -3,14 +3,12 @@ import json
 import requests
 from datetime import datetime
 
-# THE FIX: Pointing exactly to the "Current" live feed, not the historical database
 URL = "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Incident_Locations_Current/FeatureServer/0/query"
 
-# NIFC already handles the expiration rules on this endpoint, so we just ask for active Wildfires and Complexes
 PARAMS = {
     "where": "IncidentTypeCategory IN ('WF', 'CX')",
     "outFields": "*",
-    "geometry": "-87.6,24.0,-79.5,31.5", # Florida boundaries
+    "geometry": "-87.6,24.0,-79.5,31.5",
     "geometryType": "esriGeometryEnvelope",
     "inSR": "4326",
     "spatialRel": "esriSpatialRelIntersects",
@@ -42,18 +40,13 @@ def run_scraper():
                 continue
 
             props = feature.get('properties', {})
-            
-            # Extract standard names
             name = props.get('IncidentName') or "Unnamed Fire"
-            
-            # THE ACREAGE HUNT: Check every column where local crews might hide the size
             size = props.get('IncidentSize') or props.get('DailyAcres') or props.get('DiscoveryAcres')
             if not size: 
-                size = 0.1 # Fallback to 0.1 so app.js doesn't say "Unreported acreage"
+                size = 0.1
                 
             containment = props.get('PercentContained') or 0
 
-            # Map the clean data back to the properties
             props['IncidentName'] = name
             props['IncidentSize'] = size
             props['PercentContained'] = containment
@@ -61,8 +54,12 @@ def run_scraper():
             feature['properties'] = props
             cleaned_features.append(feature)
 
+        # THE FIX: Generate a clean human-readable timestamp string
+        timestamp_str = datetime.now().strftime("%B %d, %Y at %I:%M %p")
+
         florida_geojson = {
             "type": "FeatureCollection",
+            "generated_at": timestamp_str, # Embed timestamp into the file metadata
             "features": cleaned_features
         }
 
@@ -72,8 +69,7 @@ def run_scraper():
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(florida_geojson, f, indent=4)
             
-        timestamp_str = datetime.now().strftime("%Y-%m-%d %I:%M:%S %p")
-        print(f"✅ SUCCESS: Perfectly mirrored the live NIFC map ({len(cleaned_features)} active fires) at {timestamp_str}!")
+        print(f"✅ SUCCESS: Perfectly mirrored live NIFC map at {timestamp_str}!")
 
     except Exception as e:
         print(f"❌ CRASH: {e}")
