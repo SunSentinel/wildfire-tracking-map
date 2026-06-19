@@ -77,9 +77,20 @@
             .then(response => response.json())
             .then(data => {
                 
-                // Safety check: Update the timestamp ONLY if the new scraper format is detected
+                // Read the universal time and convert it to the user's local time zone
                 if (data && data.generated_at) {
-                    document.getElementById('update-time').innerText = data.generated_at;
+                    const utcDate = new Date(data.generated_at);
+                    
+                    const localTimeStr = utcDate.toLocaleString(undefined, {
+                        month: 'long',
+                        day: 'numeric',
+                        year: 'numeric',
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        hour12: true
+                    });
+                    
+                    document.getElementById('update-time').innerText = localTimeStr;
                 }
 
                 // Plot the active fires on the map
