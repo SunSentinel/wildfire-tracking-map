@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "generated_at": "2026-06-20T19:32:29Z",
+    "generated_at": "2026-06-20T20:30:03Z",
     "features": [
         {
             "type": "Feature",
@@ -2550,7 +2550,7 @@
                 "ContainmentDateTime": null,
                 "ControlDateTime": null,
                 "CreatedBySystem": "wildcade",
-                "IncidentSize": 2935,
+                "IncidentSize": 5733,
                 "DiscoveryAcres": 50,
                 "DispatchCenterID": "FLFIC",
                 "EstimatedCostToDate": 200000,
@@ -2632,7 +2632,7 @@
                 "OrganizationalAssessment": null,
                 "StrategicDecisionPublishDate": null,
                 "CreatedOnDateTime_dt": 1781735115573,
-                "ModifiedOnDateTime_dt": 1781961711997,
+                "ModifiedOnDateTime_dt": 1781987112340,
                 "ActiveFireCandidate": 1,
                 "IsCpxChild": 0,
                 "CpxName": null,
