@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "generated_at": "2026-06-21T16:34:22Z",
+    "generated_at": "2026-06-21T17:32:41Z",
     "features": [
         {
             "type": "Feature",
@@ -1560,7 +1560,7 @@
                 "ContainmentDateTime": null,
                 "ControlDateTime": null,
                 "CreatedBySystem": "wildcade",
-                "IncidentSize": 3900,
+                "IncidentSize": 3700,
                 "DiscoveryAcres": 334.5,
                 "DispatchCenterID": "FLFIC",
                 "EstimatedCostToDate": 40000,
@@ -1572,7 +1572,7 @@
                 "FireBehaviorGeneral1": null,
                 "FireBehaviorGeneral2": "Smoldering",
                 "FireBehaviorGeneral3": null,
-                "FireCause": "Undetermined",
+                "FireCause": "Natural",
                 "FireCauseGeneral": null,
                 "FireCauseSpecific": null,
                 "FireCode": "SQRE",
@@ -1609,7 +1609,7 @@
                 "IsTrespass": 0,
                 "IsUnifiedCommand": 0,
                 "LocalIncidentIdentifier": "001886",
-                "ModifiedBySystem": "ics209",
+                "ModifiedBySystem": "wildcade",
                 "PercentContained": 25,
                 "PercentPerimeterToBeContained": 100,
                 "POOCity": "Deland",
@@ -1642,7 +1642,7 @@
                 "OrganizationalAssessment": "Type 4 IC",
                 "StrategicDecisionPublishDate": 1781544388000,
                 "CreatedOnDateTime_dt": 1781449028730,
-                "ModifiedOnDateTime_dt": 1781995876230,
+                "ModifiedOnDateTime_dt": 1782060818417,
                 "ActiveFireCandidate": 1,
                 "IsCpxChild": 0,
                 "CpxName": null,
