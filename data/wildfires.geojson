@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "generated_at": "2026-06-21T12:41:43Z",
+    "generated_at": "2026-06-21T13:34:59Z",
     "features": [
         {
             "type": "Feature",
@@ -2782,7 +2782,7 @@
                 "FireBehaviorGeneral1": null,
                 "FireBehaviorGeneral2": null,
                 "FireBehaviorGeneral3": null,
-                "FireCause": "Undetermined",
+                "FireCause": "Natural",
                 "FireCauseGeneral": null,
                 "FireCauseSpecific": null,
                 "FireCode": "SRMW",
@@ -2819,7 +2819,7 @@
                 "IsTrespass": 0,
                 "IsUnifiedCommand": null,
                 "LocalIncidentIdentifier": "001958",
-                "ModifiedBySystem": "wfdssng",
+                "ModifiedBySystem": "wildcade",
                 "PercentContained": 0,
                 "PercentPerimeterToBeContained": null,
                 "POOCity": null,
@@ -2852,7 +2852,7 @@
                 "OrganizationalAssessment": null,
                 "StrategicDecisionPublishDate": null,
                 "CreatedOnDateTime_dt": 1781990797273,
-                "ModifiedOnDateTime_dt": 1782004941953,
+                "ModifiedOnDateTime_dt": 1782047280793,
                 "ActiveFireCandidate": 1,
                 "IsCpxChild": 0,
                 "CpxName": null,
