@@ -1,81 +1,86 @@
 import os
-import json
+import sys
 import requests
+import json
 from datetime import datetime
+import time
 
-# Pointing exactly to the "Current" live feed, not the historical database
-URL = "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Incident_Locations_Current/FeatureServer/0/query"
+def main():
+    print(f"[{datetime.now()}] Starting Wildfire & Smoke Data Scraper...")
+    
+    # Ensure data directory exists
+    os.makedirs('data', exist_ok=True)
 
-# Ask for active Wildfires and Complexes in Florida
-PARAMS = {
-    "where": "IncidentTypeCategory IN ('WF', 'CX')",
-    "outFields": "*",
-    "geometry": "-87.6,24.0,-79.5,31.5",
-    "geometryType": "esriGeometryEnvelope",
-    "inSR": "4326",
-    "spatialRel": "esriSpatialRelIntersects",
-    "returnGeometry": "true",
-    "outSR": "4326",
-    "f": "geojson"
-}
+    # Florida Spatial Bounding Box for NOAA Smoke
+    florida_bbox = "-88.5,24.0,-79.0,31.5"
+    cache_buster = int(time.time())
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) NewsroomDataScraper"
-}
-
-def run_scraper():
-    print("Connecting directly to the NIFC 'Current' Live Map feed...")
+    # ==========================================
+    # 1. FETCH WILDFIRE DATA FROM NIFC (SQL FILTER)
+    # ==========================================
+    nifc_base_url = "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Incident_Locations_Current/FeatureServer/0/query"
+    
+    # Use SQL state filter to bypass buggy geometry engine, bypass pagination, and match NWCG exactly
+    nifc_params = {
+        "where": "POOState = 'US-FL'",
+        "outFields": "*",
+        "returnGeometry": "true",
+        "outSR": "4326",  
+        "f": "geojson",
+        "cb": cache_buster 
+    }
+    
     try:
-        response = requests.get(URL, params=PARAMS, headers=HEADERS, timeout=20)
+        print("Fetching live wildfire data from NIFC...")
+        response = requests.get(nifc_base_url, params=nifc_params, timeout=30)
+        response.raise_for_status()
+        fire_data = response.json()
         
-        if response.status_code != 200:
-            print(f"❌ SERVER ERROR: {response.status_code}")
-            return
-
-        live_data = response.json()
-        raw_features = live_data.get('features', [])
+        # Inject custom generation timestamp for front-end footer syncing
+        fire_data['generated_at'] = datetime.utcnow().isoformat() + 'Z'
         
-        cleaned_features = []
+        features_count = len(fire_data.get('features', []))
+        with open('data/wildfires.geojson', 'w') as f:
+            json.dump(fire_data, f)
+        print(f"✅ Wildfire data saved successfully ({features_count} active incidents found in Florida).")
         
-        for feature in raw_features:
-            if not feature.get('geometry'):
-                continue
-
-            props = feature.get('properties', {})
-            
-            name = props.get('IncidentName') or "Unnamed Fire"
-            size = props.get('IncidentSize') or props.get('DailyAcres') or props.get('DiscoveryAcres')
-            if not size: 
-                size = 0.1 
-                
-            containment = props.get('PercentContained') or 0
-
-            props['IncidentName'] = name
-            props['IncidentSize'] = size
-            props['PercentContained'] = containment
-
-            feature['properties'] = props
-            cleaned_features.append(feature)
-
-        # Generate universal UTC time for the browser to read
-        timestamp_str = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-
-        florida_geojson = {
-            "type": "FeatureCollection",
-            "generated_at": timestamp_str,
-            "features": cleaned_features
-        }
-
-        os.makedirs("data", exist_ok=True)
-        output_path = os.path.join("data", "wildfires.geojson")
-        
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(florida_geojson, f, indent=4)
-            
-        print(f"✅ SUCCESS: Perfectly mirrored the live NIFC map ({len(cleaned_features)} active fires) at UTC {timestamp_str}!")
-
     except Exception as e:
-        print(f"❌ CRASH: {e}")
+        print(f"❌ Error fetching wildfire data: {e}")
+
+    # ==========================================
+    # 2. FETCH SMOKE DATA FROM NOAA (SPATIAL FILTER)
+    # ==========================================
+    noaa_base_url = "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NOAA_Satellite_Smoke_Detection_(v1)/FeatureServer/0/query"
+    
+    # Use Spatial Filter for smoke polygons
+    noaa_params = {
+        "where": "1=1",
+        "geometry": florida_bbox,
+        "geometryType": "esriGeometryEnvelope",
+        "inSR": "4326",
+        "spatialRel": "esriSpatialRelIntersects",
+        "outFields": "*",
+        "returnGeometry": "true",
+        "outSR": "4326",  
+        "f": "geojson",
+        "cb": cache_buster 
+    }
+    
+    try:
+        print("Fetching live smoke plume data from NOAA...")
+        response = requests.get(noaa_base_url, params=noaa_params, timeout=30)
+        response.raise_for_status()
+        smoke_data = response.json()
+        
+        features_count = len(smoke_data.get('features', []))
+        with open('data/smoke.geojson', 'w') as f:
+            json.dump(smoke_data, f)
+        print(f"✅ Smoke data saved successfully ({features_count} plumes found).")
+        
+    except Exception as e:
+        print(f"❌ Error fetching smoke data: {e}")
+
+    print(f"[{datetime.now()}] Scraping cycle complete.")
 
 if __name__ == "__main__":
-    run_scraper()
+    main()
