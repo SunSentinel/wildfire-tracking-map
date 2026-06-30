@@ -29,5 +29,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/wildfires.geojson
+          git add data/wildfires.geojson data/smoke.geojson
           git diff-index --quiet HEAD || (git commit -m "Automated data refresh" && git push)

@@ -9,7 +9,6 @@ def main():
     print(f"[{datetime.now()}] Starting Wildfire & Smoke Data Scraper...")
     
     os.makedirs('data', exist_ok=True)
-    florida_bbox = "-88.5,24.0,-79.0,31.5"
     cache_buster = int(time.time())
 
     # ==========================================
@@ -51,16 +50,12 @@ def main():
         print(f"❌ Error fetching wildfire data: {e}")
 
     # ==========================================
-    # 2. FETCH SMOKE DATA FROM NOAA (SPATIAL FILTER)
+    # 2. FETCH SMOKE DATA FROM NOAA (NATIONAL FEED)
     # ==========================================
     noaa_base_url = "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NOAA_Satellite_Smoke_Detection_(v1)/FeatureServer/0/query"
     
     noaa_params = {
         "where": "1=1",
-        "geometry": florida_bbox,
-        "geometryType": "esriGeometryEnvelope",
-        "inSR": "4326",
-        "spatialRel": "esriSpatialRelIntersects",
         "outFields": "*",
         "returnGeometry": "true",
         "outSR": "4326",  
@@ -77,7 +72,7 @@ def main():
         features_count = len(smoke_data.get('features', []))
         with open('data/smoke.geojson', 'w') as f:
             json.dump(smoke_data, f)
-        print(f"✅ Smoke data saved successfully ({features_count} plumes found).")
+        print(f"✅ Smoke data saved successfully ({features_count} plumes found nationwide).")
         
     except Exception as e:
         print(f"❌ Error fetching smoke data: {e}")
