@@ -8,19 +8,23 @@ import time
 def main():
     print(f"[{datetime.now()}] Starting Wildfire & Smoke Data Scraper...")
     
-    # Ensure data directory exists
     os.makedirs('data', exist_ok=True)
-
-    # Florida Spatial Bounding Box for NOAA Smoke
     florida_bbox = "-88.5,24.0,-79.0,31.5"
     cache_buster = int(time.time())
+
+    # ==========================================
+    # FAKE BROWSER HEADERS TO BYPASS FIREWALLS
+    # ==========================================
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "*/*"
+    }
 
     # ==========================================
     # 1. FETCH WILDFIRE DATA FROM NIFC (SQL FILTER)
     # ==========================================
     nifc_base_url = "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Incident_Locations_Current/FeatureServer/0/query"
     
-    # Use SQL state filter to bypass buggy geometry engine, bypass pagination, and match NWCG exactly
     nifc_params = {
         "where": "POOState = 'US-FL'",
         "outFields": "*",
@@ -32,11 +36,10 @@ def main():
     
     try:
         print("Fetching live wildfire data from NIFC...")
-        response = requests.get(nifc_base_url, params=nifc_params, timeout=30)
+        response = requests.get(nifc_base_url, params=nifc_params, headers=headers, timeout=30)
         response.raise_for_status()
         fire_data = response.json()
         
-        # Inject custom generation timestamp for front-end footer syncing
         fire_data['generated_at'] = datetime.utcnow().isoformat() + 'Z'
         
         features_count = len(fire_data.get('features', []))
@@ -52,7 +55,6 @@ def main():
     # ==========================================
     noaa_base_url = "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NOAA_Satellite_Smoke_Detection_(v1)/FeatureServer/0/query"
     
-    # Use Spatial Filter for smoke polygons
     noaa_params = {
         "where": "1=1",
         "geometry": florida_bbox,
@@ -68,7 +70,7 @@ def main():
     
     try:
         print("Fetching live smoke plume data from NOAA...")
-        response = requests.get(noaa_base_url, params=noaa_params, timeout=30)
+        response = requests.get(noaa_base_url, params=noaa_params, headers=headers, timeout=30)
         response.raise_for_status()
         smoke_data = response.json()
         
