@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Florida Wildfire and Smoke Tracking Map</title>
+    <title>Florida wildfire and smoke tracking map</title>
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
@@ -97,7 +97,7 @@
 <body>
 
     <div class="header">
-        <h2>Florida Wildfire and Smoke Tracking Map</h2>
+        <h2>Florida wildfire and smoke tracking map</h2>
         <div class="legend">
             <div class="legend-item"><span class="circle-box" style="background: rgba(179, 0, 0, 0.45);"></span> Active Wildfire</div>
             <div class="legend-item"><span class="circle-box" style="background: rgba(253, 204, 138, 0.45);"></span> Controlled Burn</div>
@@ -111,8 +111,9 @@
     <div id="map"></div>
 
     <div class="footer">
-        <p><strong>Note:</strong> Smoke plumes can drift hundreds of miles from active fires due to winds. Conversely, some small or canopy-covered incidents may not produce smoke plumes visible to satellites.</p>
+        <p><strong>Note:</strong> Smoke plumes can drift hundreds of miles from active fires due to winds. In addition, cloud cover or canopies such as trees may prevent smoke plumes from being visible to satellites.</p>
         <p id="mapFooter"><strong>Data sources:</strong> NIFC WFIGS (Fires), NOAA HMS (Smoke) | Updating automatically every 30 minutes.</p>
+        <div id="smokeWarning"></div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -187,6 +188,11 @@
         fetch('data/smoke.geojson?nocache=' + new Date().getTime())
             .then(response => response.json())
             .then(data => {
+                if (!data.features || data.features.length === 0) {
+                    document.getElementById('smokeWarning').innerHTML = 
+                        "<p style='margin: 4px 0; color: #b30000;'><em>*Morning Smoke Update Pending: NOAA typically publishes the first smoke polygons around noon EDT.</em></p>";
+                }
+                
                 L.geoJSON(data, {
                     style: function(feature) {
                         return getSmokeStyle(feature.properties.Density || feature.properties.density || 'light');
