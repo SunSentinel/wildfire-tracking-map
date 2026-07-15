@@ -5,12 +5,17 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MAP_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,7 +32,17 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/wildfires.geojson data/smoke.geojson
-          git diff-index --quiet HEAD || (git commit -m "Automated data refresh" && git push)
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated wildfire data refresh" && git push)
+
+      - name: Force GitHub Pages to Rebuild
+        env:
+          MAP_TOKEN: ${{ secrets.MAP_TOKEN }}
+        run: |
+          curl -L -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $MAP_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/SunSentinel/wildfire-tracking-map/pages/builds
