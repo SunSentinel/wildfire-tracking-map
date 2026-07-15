@@ -25,7 +25,7 @@ def main():
     nifc_base_url = "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Incident_Locations_Current/FeatureServer/0/query"
     
     nifc_params = {
-        "where": "POOState = 'US-FL'",
+        "where": "POOState = 'US-FL' AND (PercentContained < 100 OR PercentContained IS NULL)",
         "outFields": "*",
         "returnGeometry": "true",
         "outSR": "4326",  
