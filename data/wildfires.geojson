@@ -1,1 +1,1 @@
-{"error": {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (59130 request units)! maximum allowed request units (57600) per Minute. Retry after 60 sec."]}, "generated_at": "2026-07-15T16:17:33.172236Z"}
+{"error": {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (73207 request units)! maximum allowed request units (57600) per Minute. Retry after 60 sec."]}, "generated_at": "2026-07-15T17:45:57.051554Z"}
