@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T22:50:48.559946Z",
+  "updated_at": "2026-07-30T23:13:51.892677Z",
   "incidents": [
     {
       "id": "213ee9e1-70d4-4ea0-8efd-3def5d0b8a4b",
@@ -388,8 +388,8 @@
       "name": "HOLEY LAND (6)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 4900.0,
-      "containment_percent": 20,
+      "acres": 5400.0,
+      "containment_percent": 50,
       "county": "Broward",
       "field_unit": "Everglades",
       "region": "Region 4",
