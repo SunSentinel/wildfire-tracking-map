@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Florida wildfire and smoke tracking map</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        .header {
+            background: white;
+            padding: 15px 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            z-index: 1000;
+        }
+        .header h2 {
+            margin: 0 0 10px 0;
+            font-size: 20px;
+            color: #333;
+        }
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .legend-item {
+            font-size: 13px;
+            color: #333;
+            display: flex;
+            align-items: center;
+            font-weight: 500;
+        }
+        .color-box {
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            margin-right: 5px;
+            border-radius: 3px;
+        }
+        .circle-box {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            margin-right: 5px;
+            border-radius: 50%;
+        }
+
+        #map {
+            flex-grow: 1;
+            width: 100%;
+            min-height: 400px;
+            z-index: 1;
+        }
+
+        .footer {
+            background: white;
+            padding: 12px 20px;
+            box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+            font-size: 12px;
+            color: #555;
+            z-index: 1000;
+        }
+        .footer p {
+            margin: 4px 0;
+            line-height: 1.4;
+        }
+
+        .locate-button {
+            background-color: white;
+            width: 34px;
+            height: 34px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            border-bottom: 1px solid #ccc;
+            font-size: 18px;
+            color: #333;
+            text-decoration: none;
+        }
+        .locate-button:hover {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h2>Florida wildfire and smoke tracking map</h2>
+        <div class="legend">
+            <div class="legend-item"><span class="circle-box" style="background: rgba(179, 0, 0, 0.45);"></span> Active Wildfire</div>
+            <div class="legend-item"><span class="circle-box" style="background: rgba(253, 204, 138, 0.45);"></span> Controlled / Contained Fire</div>
+            <div style="width: 15px;"></div> 
+            <div class="legend-item"><span class="color-box" style="background: #d7b5d8; opacity: 0.65;"></span> Heavy Smoke</div>
+            <div class="legend-item"><span class="color-box" style="background: #d7b5d8; opacity: 0.40;"></span> Moderate Smoke</div>
+            <div class="legend-item"><span class="color-box" style="background: #d7b5d8; opacity: 0.20;"></span> Light Smoke / Haze</div>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <div class="footer">
+        <p><strong>Note:</strong> Smoke plumes can drift hundreds of miles from active fires due to winds. In addition, cloud cover or canopy cover (like trees) may prevent smoke plumes from being visible to satellites.</p>
+        <p id="mapFooter"><strong>Data sources:</strong> Florida Forest Service (Fires), NOAA HMS (Smoke) | Updating automatically every 30 minutes.</p>
+        <div id="smokeWarning"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <script>
+        var map = L.map('map', {
+            center: [27.8, -82.5],
+            zoom: 7,
+            minZoom: 4,
+            maxZoom: 11
+        });
+
+        var baseCarto = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+        }).addTo(map);
+
+        const locateControl = L.Control.extend({
+            options: { position: 'topleft' },
+            onAdd: function (map) {
+                const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+                const button = L.DomUtil.create('a', 'locate-button', container);
+                button.innerHTML = '🎯'; 
+                button.title = "Locate Me";
+                button.href = "#";
+
+                button.onclick = function(e) {
+                    e.preventDefault();
+                    map.locate({setView: true, maxZoom: 12});
+                }
+                return container;
+            }
+        });
+        map.addControl(new locateControl());
+
+        let userMarker;
+        map.on('locationfound', function(e) {
+            if (userMarker) {
+                map.removeLayer(userMarker);
+            }
+            userMarker = L.circleMarker(e.latlng, {
+                radius: 8,
+                fillColor: "#2980b9",
+                color: "#ffffff",
+                weight: 3,
+                opacity: 1,
+                fillOpacity: 1
+            }).addTo(map).bindPopup("📍 You are here!").openPopup();
+        });
+
+        map.on('locationerror', function(e) {
+            alert("Could not find your location.");
+        });
+
+        var smokeLayer = L.layerGroup().addTo(map);
+        var fireLayer = L.layerGroup().addTo(map);
+
+        function getFireColor(status) {
+            if (status === 'Controlled' || status === 'Contained') return '#fdcc8a';
+            return '#b30000'; 
+        }
+
+        function getSmokeStyle(density) {
+            var densityStr = String(density).toLowerCase();
+            if (densityStr === 'heavy' || densityStr === 'high') {
+                return { fillColor: '#d7b5d8', fillOpacity: 0.65, stroke: false };
+            } else if (densityStr === 'medium' || densityStr === 'mod' || densityStr === 'moderate') {
+                return { fillColor: '#d7b5d8', fillOpacity: 0.40, stroke: false };
+            }
+            return { fillColor: '#d7b5d8', fillOpacity: 0.20, stroke: false };
+        }
+
+        fetch('data/smoke.geojson?nocache=' + new Date().getTime())
+            .then(response => response.json())
+            .then(data => {
+                if (!data.features || data.features.length === 0) {
+                    document.getElementById('smokeWarning').innerHTML = 
+                        "<p style='margin: 4px 0; color: #b30000;'><em>*Morning Smoke Update Pending: NOAA typically publishes the first smoke polygons around noon EDT.</em></p>";
+                }
+                
+                L.geoJSON(data, {
+                    style: function(feature) {
+                        return getSmokeStyle(feature.properties.Density || feature.properties.density || 'light');
+                    }
+                }).addTo(smokeLayer);
+            })
+            .catch(err => console.error("Error initializing NOAA smoke layer:", err));
+
+        fetch('ffs_active_fires.geojson?nocache=' + new Date().getTime())
+            .then(response => response.json())
+            .then(data => {
+                if (data.updated_at) {
+                    var localTime = new Date(data.updated_at).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+                    document.getElementById('mapFooter').innerHTML = `<strong>Data sources:</strong> Florida Forest Service (Fires), NOAA HMS (Smoke) | Real-Time Feed Updated Today at ${localTime}.`;
+                }
+
+                L.geoJSON(data, {
+                    pointToLayer: function(feature, latlng) {
+                        var props = feature.properties;
+                        var status = props.status;
+                        var color = getFireColor(status);
+                        
+                        var acres = props.acres || 0;
+                        acres = parseFloat(acres);
+                        if (isNaN(acres)) acres = 0;
+
+                        var markerRadius = 5;
+                        if (acres > 0) {
+                            markerRadius = Math.min(5 + Math.sqrt(acres) * 0.15, 18);
+                        }
+                        
+                        return L.circleMarker(latlng, {
+                            radius: markerRadius,
+                            fillColor: color,
+                            stroke: false,    
+                            fillOpacity: 0.45 
+                        });
+                    },
+                    onEachFeature: function(feature, layer) {
+                        var props = feature.properties;
+                        var status = props.status || 'Active';
+                        
+                        var acres = props.acres !== undefined && props.acres !== null ? props.acres : 'Unknown';
+                        if (acres !== 'Unknown' && !isNaN(acres)) {
+                            acres = Number(acres).toLocaleString();
+                        }
+
+                        var contained = props.containment_percent;
+                        var containmentStr = (contained !== undefined && contained !== null) ? contained + '%' : 'Not Reported';
+                        var countyStr = props.county ? ` (${props.county} County)` : '';
+
+                        var popupContent = `
+                            <div style="font-family: sans-serif; font-size: 13px; line-height: 1.4; padding: 4px;">
+                                <h4 style="margin: 0 0 6px 0; font-size: 14px; color: ${getFireColor(status)};">${status} Fire</h4>
+                                <strong>Incident Name:</strong> ${props.name || 'Unnamed Incident'}${countyStr}<br>
+                                <strong>Size:</strong> ${acres} Acres<br>
+                                <strong>Containment:</strong> ${containmentStr}
+                            </div>
+                        `;
+                        layer.bindPopup(popupContent);
+                    }
+                }).addTo(fireLayer);
+            })
+            .catch(err => console.error("Error initializing FFS layer:", err));
+
+        var overlayLayers = {
+            "Active Incidents": fireLayer,
+            "Satellite Smoke Plumes": smokeLayer
+        };
+        L.control.layers(null, overlayLayers, { collapsed: false, position: 'topright' }).addTo(map);
+
+        setTimeout(() => map.invalidateSize(), 100);
+
+    </script>
+</body>
+</html>
