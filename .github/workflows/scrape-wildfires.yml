@@ -31,11 +31,23 @@ jobs:
         run: python scraper.py
 
       - name: Commit and Push changes
+        env:
+          MAP_TOKEN: ${{ secrets.MAP_TOKEN }}
         run: |
-          git config --global user.name "GitHub Action Bot"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Ensure data directory exists and stage generated GeoJSON
+          mkdir -p data
           git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated wildfire data refresh" && git push)
+
+          # Only commit and push if data/wildfires.geojson changed
+          if ! git diff --staged --quiet; then
+            git commit -m "Automated wildfire data refresh [skip ci]"
+            git push "https://${MAP_TOKEN}@github.com/SunSentinel/wildfire-tracking-map.git" HEAD:main
+          else
+            echo "No changes in wildfire data to commit."
+          fi
 
       - name: Force GitHub Pages to Rebuild
         env:
