@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Florida wildfire and smoke tracking map</title>
+    <title>Florida Wildfire Tracking Map</title>
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
@@ -97,23 +97,27 @@
 <body>
 
     <div class="header">
-        <h2>Florida wildfire and smoke tracking map</h2>
+        <h2>Florida Wildfire Tracking Map</h2>
         <div class="legend">
             <div class="legend-item"><span class="circle-box" style="background: rgba(179, 0, 0, 0.45);"></span> Active Wildfire</div>
             <div class="legend-item"><span class="circle-box" style="background: rgba(253, 204, 138, 0.45);"></span> Controlled / Contained Fire</div>
+            
+            <!-- SMOKE LEGEND ITEMS (COMMENTED OUT)
             <div style="width: 15px;"></div> 
             <div class="legend-item"><span class="color-box" style="background: #d7b5d8; opacity: 0.65;"></span> Heavy Smoke</div>
             <div class="legend-item"><span class="color-box" style="background: #d7b5d8; opacity: 0.40;"></span> Moderate Smoke</div>
             <div class="legend-item"><span class="color-box" style="background: #d7b5d8; opacity: 0.20;"></span> Light Smoke / Haze</div>
+            -->
         </div>
     </div>
 
     <div id="map"></div>
 
     <div class="footer">
-        <p><strong>Note:</strong> Smoke plumes can drift hundreds of miles from active fires due to winds. In addition, cloud cover or canopy cover (like trees) may prevent smoke plumes from being visible to satellites.</p>
-        <p id="mapFooter"><strong>Data sources:</strong> Florida Forest Service (Fires), NOAA HMS (Smoke) | Updating automatically every 30 minutes.</p>
+        <!-- <p><strong>Note:</strong> Smoke plumes can drift hundreds of miles from active fires due to winds.</p> -->
+        <p id="mapFooter"><strong>Data source:</strong> Florida Forest Service | Updating automatically every 30 minutes.</p>
         <div id="smokeWarning"></div>
+        <p id="lastUpdated" style="font-weight: 500; color: #333; margin-top: 6px;"><strong>Last updated:</strong> Loading date and time...</p>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -167,7 +171,10 @@
             alert("Could not find your location.");
         });
 
+        /* SMOKE LAYER INITIALIZATION (COMMENTED OUT)
         var smokeLayer = L.layerGroup().addTo(map);
+        */
+        
         var fireLayer = L.layerGroup().addTo(map);
 
         function getFireColor(status) {
@@ -175,6 +182,7 @@
             return '#b30000'; 
         }
 
+        /* SMOKE STYLING & FETCH LOGIC (COMMENTED OUT)
         function getSmokeStyle(density) {
             var densityStr = String(density).toLowerCase();
             if (densityStr === 'heavy' || densityStr === 'high') {
@@ -200,13 +208,28 @@
                 }).addTo(smokeLayer);
             })
             .catch(err => console.error("Error initializing NOAA smoke layer:", err));
+        */
 
         fetch('ffs_active_fires.geojson?nocache=' + new Date().getTime())
-            .then(response => response.json())
+            .then(response => {
+                if (!response.ok) throw new Error("HTTP error " + response.status);
+                return response.json();
+            })
             .then(data => {
+                var updateDate = data.updated_at ? new Date(data.updated_at) : new Date();
+                var formattedDateTime = updateDate.toLocaleString(undefined, {
+                    month: 'long',
+                    day: 'numeric',
+                    year: 'numeric',
+                    hour: 'numeric',
+                    minute: '2-digit',
+                    hour12: true
+                });
+                document.getElementById('lastUpdated').innerHTML = `<strong>Last updated:</strong> ${formattedDateTime}`;
+
                 if (data.updated_at) {
                     var localTime = new Date(data.updated_at).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
-                    document.getElementById('mapFooter').innerHTML = `<strong>Data sources:</strong> Florida Forest Service (Fires), NOAA HMS (Smoke) | Real-Time Feed Updated Today at ${localTime}.`;
+                    document.getElementById('mapFooter').innerHTML = `<strong>Data source:</strong> Florida Forest Service | Real-Time Feed Updated Today at ${localTime}.`;
                 }
 
                 L.geoJSON(data, {
@@ -256,13 +279,18 @@
                     }
                 }).addTo(fireLayer);
             })
-            .catch(err => console.error("Error initializing FFS layer:", err));
+            .catch(err => {
+                console.error("Error initializing FFS layer:", err);
+                document.getElementById('lastUpdated').innerHTML = `<strong>Last updated:</strong> Unable to load live wildfire data.`;
+            });
 
+        /* LAYER CONTROL (COMMENTED OUT WHILE SMOKE IS DISABLED)
         var overlayLayers = {
             "Active Incidents": fireLayer,
             "Satellite Smoke Plumes": smokeLayer
         };
         L.control.layers(null, overlayLayers, { collapsed: false, position: 'topright' }).addTo(map);
+        */
 
         setTimeout(() => map.invalidateSize(), 100);
 
