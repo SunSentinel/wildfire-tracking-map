@@ -6,26 +6,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.64874267578125,
-          30.19972801208496
+          -81.56011962890625,
+          27.63811492919922
         ]
       },
       "properties": {
-        "id": "213ee9e1-70d4-4ea0-8efd-3def5d0b8a4b",
-        "incident_number": "260600942",
-        "incident_code": "2026-FLFLS-260600942",
-        "name": "NW LONG ST (12)",
+        "id": "c1078f44-b557-42ee-bb8b-de0f7fae113f",
+        "incident_number": "261600632",
+        "incident_code": "2026-FLFLS-261600632",
+        "name": "OSI- Thompson (28)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Highlands",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-07-31T13:20:00",
+        "status_updated_time": "2026-07-31T13:20:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09200286865234,
+          30.39995002746582
+        ]
+      },
+      "properties": {
+        "id": "fc53b5dd-49bf-4989-8a3f-d36212eb1ef8",
+        "incident_number": "260600943",
+        "incident_code": "2026-FLFLS-260600943",
+        "name": "167TH RD (61)",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 100,
-        "county": "Columbia",
+        "county": "Suwannee",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
-        "discovery_time": "2026-07-30T21:07:00",
-        "status_updated_time": "2026-07-30T23:29:01",
+        "discovery_time": "2026-07-31T10:44:00",
+        "status_updated_time": "2026-07-31T12:39:01",
         "is_obscured": false
       }
     },
@@ -71,7 +99,7 @@
         "incident_number": "260500270",
         "incident_code": "2026-FLFLS-260500270",
         "name": "98- Taylor (62)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 3.0,
         "containment_percent": 100,
@@ -79,9 +107,9 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-30T19:51:00",
-        "status_updated_time": "2026-07-30T20:07:00",
+        "status_updated_time": "2026-07-30T21:00:00",
         "is_obscured": false
       }
     },
@@ -127,17 +155,17 @@
         "incident_number": "260600941",
         "incident_code": "2026-FLFLS-260600941",
         "name": "SWIFT CREEK POND (63)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 20.6,
+        "containment_percent": 100,
         "county": "Union",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-07-30T18:39:00",
-        "status_updated_time": "2026-07-30T18:51:01",
+        "status_updated_time": "2026-07-30T21:45:01",
         "is_obscured": false
       }
     },
@@ -219,7 +247,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-30T15:53:35",
         "status_updated_time": "2026-07-30T19:00:51",
         "is_obscured": false
@@ -275,7 +303,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 12,
         "discovery_time": "2026-07-30T15:01:00",
         "status_updated_time": "2026-07-30T15:01:01",
         "is_obscured": false
@@ -342,34 +370,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.62157440185547,
-          30.518774032592773
-        ]
-      },
-      "properties": {
-        "id": "2e5a63ef-eebd-4e6f-8907-ef883bdb7d50",
-        "incident_number": "260200512",
-        "incident_code": "2026-FLFLS-260200512",
-        "name": "Glendale Drive (67)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 92,
-        "county": "Washington",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-29T21:31:57",
-        "status_updated_time": "2026-07-29T22:49:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.11834716796875,
           28.793577194213867
         ]
@@ -379,7 +379,7 @@
         "incident_number": "261200497",
         "incident_code": "2026-FLFLS-261200497",
         "name": "Boars Nest (59)",
-        "status": "Controlled",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 16.0,
         "containment_percent": 100,
@@ -389,7 +389,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-07-29T21:12:41",
-        "status_updated_time": "2026-07-30T17:02:09",
+        "status_updated_time": "2026-07-31T13:46:22",
         "is_obscured": false
       }
     },
@@ -443,7 +443,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-29T18:44:38",
         "status_updated_time": "2026-07-29T23:40:38",
         "is_obscured": false
@@ -471,65 +471,9 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-28T23:44:47",
         "status_updated_time": "2026-07-29T01:20:54",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0795669555664,
-          29.60622215270996
-        ]
-      },
-      "properties": {
-        "id": "5e721a43-ff37-43d7-a5fb-31ec544cfa98",
-        "incident_number": "260500268",
-        "incident_code": "2026-FLFLS-260500268",
-        "name": "89th Avenue- Dixie (15)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Dixie",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-28T22:50:00",
-        "status_updated_time": "2026-07-29T00:11:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5280532836914,
-          27.820833206176758
-        ]
-      },
-      "properties": {
-        "id": "2ee374e3-9fe0-4987-b72b-74dfe7f7e2c5",
-        "incident_number": "261600625",
-        "incident_code": "2026-FLFLS-261600625",
-        "name": "Blue Trail (31)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 247.0,
-        "containment_percent": 100,
-        "county": "Indian River",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-28T19:06:41",
-        "status_updated_time": "2026-07-28T22:39:00",
         "is_obscured": false
       }
     },
@@ -547,17 +491,17 @@
         "incident_number": "261800117",
         "incident_code": "2026-FLFLS-261800117",
         "name": "HOLEY LAND (6)",
-        "status": "Active",
+        "status": "Controlled",
         "category": "Wildfire",
-        "acres": 5400.0,
-        "containment_percent": 50,
+        "acres": 5000.0,
+        "containment_percent": 100,
         "county": "Broward",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 13,
+        "resources_assigned": 9,
         "discovery_time": "2026-07-28T13:35:34",
-        "status_updated_time": "2026-07-28T20:22:57.003",
+        "status_updated_time": "2026-07-31T15:53:26",
         "is_obscured": false
       }
     },
@@ -667,7 +611,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 10,
         "discovery_time": "2026-07-27T14:10:00",
         "status_updated_time": "2026-07-27T14:51:00",
         "is_obscured": false
@@ -695,7 +639,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-27T03:58:42",
         "status_updated_time": "2026-07-27T17:40:07",
         "is_obscured": false
@@ -726,34 +670,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-27T00:42:20",
         "status_updated_time": "2026-07-30T15:28:07",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.93196868896484,
-          29.477861404418945
-        ]
-      },
-      "properties": {
-        "id": "c824d8aa-d980-4f3e-a629-a0c66fa3a25b",
-        "incident_number": "260800735",
-        "incident_code": "2026-FLFLS-260800735",
-        "name": "NE 228TH LN (42)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 50,
-        "county": "Marion",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-26T23:57:36",
-        "status_updated_time": "2026-07-27T01:53:00",
         "is_obscured": false
       }
     },
@@ -818,62 +734,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.107666015625,
-          28.895414352416992
-        ]
-      },
-      "properties": {
-        "id": "18ce1593-3b33-4b82-ba02-f787923d2e7a",
-        "incident_number": "261200487",
-        "incident_code": "2026-FLFLS-261200487",
-        "name": "Two Trail (64)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 21.0,
-        "containment_percent": 100,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-26T20:12:38",
-        "status_updated_time": "2026-07-30T11:19:12",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.37044525146484,
-          30.015851974487305
-        ]
-      },
-      "properties": {
-        "id": "e2e4e363-2e1f-42fb-9dc4-9be5876844f6",
-        "incident_number": "260600924",
-        "incident_code": "2026-FLFLS-260600924",
-        "name": "SW 150TH RUN (63)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Union",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-26T19:04:00",
-        "status_updated_time": "2026-07-30T15:42:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.91355895996094,
           30.591083526611328
         ]
@@ -891,7 +751,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 1,
+        "resources_assigned": 4,
         "discovery_time": "2026-07-26T17:00:00",
         "status_updated_time": "2026-07-26T21:10:51",
         "is_obscured": false
@@ -922,90 +782,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-26T15:53:00",
         "status_updated_time": "2026-07-26T16:24:53",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.28614807128906,
-          29.747417449951172
-        ]
-      },
-      "properties": {
-        "id": "4ad5c374-095c-4dcb-b235-873c963c3da7",
-        "incident_number": "260800731",
-        "incident_code": "2026-FLFLS-260800731",
-        "name": "CR 225 (01)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 2.29,
-        "containment_percent": 80,
-        "county": "Alachua",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-26T01:15:00",
-        "status_updated_time": "2026-07-26T01:20:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.93194580078125,
-          29.24888801574707
-        ]
-      },
-      "properties": {
-        "id": "184d3f06-56a8-4043-9767-672d7b096405",
-        "incident_number": "260800728",
-        "incident_code": "2026-FLFLS-260800728",
-        "name": "HOG POND (38)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 80,
-        "county": "Levy",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-25T19:15:00",
-        "status_updated_time": "2026-07-25T19:25:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.60277557373047,
-          28.21527862548828
-        ]
-      },
-      "properties": {
-        "id": "ae51d092-6cd7-4a44-b31f-9476b4cd60ce",
-        "incident_number": "261400414",
-        "incident_code": "2026-FLFLS-261400414",
-        "name": "ERNIE CALDWELL (53)**",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-25T15:03:06",
-        "status_updated_time": "2026-07-25T18:19:48",
         "is_obscured": false
       }
     },
@@ -1070,34 +846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.72305297851562,
-          28.22249984741211
-        ]
-      },
-      "properties": {
-        "id": "4633fc02-5d63-4d76-aaae-1fcf061b6ddd",
-        "incident_number": "261400410",
-        "incident_code": "2026-FLFLS-261400410",
-        "name": "Sweet Hill (53)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 60,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-23T19:03:46",
-        "status_updated_time": "2026-07-23T20:31:53.002",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.15306854248047,
           29.313512802124023
         ]
@@ -1143,7 +891,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-21T20:04:19",
         "status_updated_time": "2026-07-21T23:19:16",
         "is_obscured": false
@@ -1171,7 +919,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-21T17:23:21",
         "status_updated_time": "2026-07-22T01:28:49",
         "is_obscured": false
@@ -1199,7 +947,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-20T15:03:00",
         "status_updated_time": "2026-07-20T21:22:51",
         "is_obscured": false
@@ -1311,7 +1059,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 1,
+        "resources_assigned": 5,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
@@ -1350,34 +1098,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.45305633544922,
-          29.139999389648438
-        ]
-      },
-      "properties": {
-        "id": "4f9430c6-82e6-4b19-9d60-a1d2b0368cef",
-        "incident_number": "261200462",
-        "incident_code": "2026-FLFLS-261200462",
-        "name": "ROAD 44 (64)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 120.0,
-        "containment_percent": 100,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-12T12:06:29",
-        "status_updated_time": "2026-07-30T17:01:44",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.79627990722656,
           30.46227264404297
         ]
@@ -1398,34 +1118,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-11T20:31:00",
         "status_updated_time": "2026-07-12T00:07:53",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.70055389404297,
-          28.3174991607666
-        ]
-      },
-      "properties": {
-        "id": "042306f8-bd0c-4625-a665-9f3f769ae53f",
-        "incident_number": "261400366",
-        "incident_code": "2026-FLFLS-261400366",
-        "name": "**SAND MINE**(53)~",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 185.0,
-        "containment_percent": 90,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-09T22:10:50",
-        "status_updated_time": "2026-07-09T23:42:25",
         "is_obscured": false
       }
     },
@@ -1490,62 +1182,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.73055267333984,
-          27.80583381652832
-        ]
-      },
-      "properties": {
-        "id": "b88712bd-9834-4c7a-af9c-bc481471a8d9",
-        "incident_number": "261400326",
-        "incident_code": "2026-FLFLS-261400326",
-        "name": "GARFIELD (53)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 50.0,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-06-23T21:34:30",
-        "status_updated_time": "2026-07-21T16:09:40",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.40370178222656,
-          25.842792510986328
-        ]
-      },
-      "properties": {
-        "id": "2b82025c-44bb-42aa-b5e5-f85d7bfe857b",
-        "incident_number": "261800093",
-        "incident_code": "2026-FLFLS-261800093",
-        "name": "WELL (13)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2814.0,
-        "containment_percent": 100,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-06-16T16:08:00",
-        "status_updated_time": "2026-07-17T15:07:47",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.17520141601562,
           29.85179328918457
         ]
@@ -1563,7 +1199,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 4,
         "discovery_time": "2026-05-04T20:15:00",
         "status_updated_time": "2026-05-04T21:02:00",
         "is_obscured": false
