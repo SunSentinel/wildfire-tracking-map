@@ -15,7 +15,7 @@
         "incident_number": "260600947",
         "incident_code": "2026-FLFLS-260600947",
         "name": "CR 122 (02)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -23,9 +23,9 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-07-31T22:07:00",
-        "status_updated_time": "2026-07-31T22:07:00",
+        "status_updated_time": "2026-07-31T22:36:01",
         "is_obscured": false
       }
     },
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.83588409423828,
-          29.789716720581055
+          -82.83305358886719,
+          29.7902774810791
         ]
       },
       "properties": {
@@ -45,13 +45,13 @@
         "name": "NW 20TH AVE (21)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.75,
-        "containment_percent": 0,
+        "acres": 0.44,
+        "containment_percent": 90,
         "county": "Gilchrist",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-31T21:23:00",
         "status_updated_time": "2026-07-31T22:29:00",
         "is_obscured": false
