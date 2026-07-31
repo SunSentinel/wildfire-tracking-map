@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-07-30T23:13:51.892677Z",
+  "updated_at": "2026-07-31T00:16:48.700086Z",
   "incidents": [
     {
       "id": "213ee9e1-70d4-4ea0-8efd-3def5d0b8a4b",
       "incident_number": "260600942",
       "incident_code": "2026-FLFLS-260600942",
       "name": "NW LONG ST (12)",
-      "status": "Active",
+      "status": "Contained",
       "category": "Wildfire",
       "acres": 0.0,
-      "containment_percent": 0,
+      "containment_percent": 100,
       "county": "Columbia",
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-30T21:07:00",
-      "status_updated_time": "2026-07-30T21:55:01",
+      "status_updated_time": "2026-07-30T23:29:01",
       "latitude": 30.19972801208496,
       "longitude": -82.64874267578125,
       "is_obscured": false
