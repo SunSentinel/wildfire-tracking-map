@@ -258,34 +258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.2397232055664,
-          29.470277786254883
-        ]
-      },
-      "properties": {
-        "id": "e76dc5f8-6cc6-433c-9275-1f79fb67d921",
-        "incident_number": "260700569",
-        "incident_code": "2026-FLFLS-260700569",
-        "name": "Commerce Parkway(18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-30T15:08:21",
-        "status_updated_time": "2026-07-30T16:03:50",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.65039825439453,
           30.573917388916016
         ]
@@ -303,7 +275,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 12,
+        "resources_assigned": 4,
         "discovery_time": "2026-07-30T15:01:00",
         "status_updated_time": "2026-07-30T15:01:01",
         "is_obscured": false
@@ -443,7 +415,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-29T18:44:38",
         "status_updated_time": "2026-07-29T23:40:38",
         "is_obscured": false
@@ -471,37 +443,9 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-28T23:44:47",
         "status_updated_time": "2026-07-29T01:20:54",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.81194305419922,
-          26.259721755981445
-        ]
-      },
-      "properties": {
-        "id": "1464713f-8681-4302-bdf7-6102d3ce3766",
-        "incident_number": "261800117",
-        "incident_code": "2026-FLFLS-261800117",
-        "name": "HOLEY LAND (6)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 5000.0,
-        "containment_percent": 100,
-        "county": "Broward",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-07-28T13:35:34",
-        "status_updated_time": "2026-07-31T15:53:26",
         "is_obscured": false
       }
     },
@@ -639,7 +583,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-27T03:58:42",
         "status_updated_time": "2026-07-27T17:40:07",
         "is_obscured": false
@@ -762,34 +706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.56809997558594,
-          29.49892234802246
-        ]
-      },
-      "properties": {
-        "id": "b4ef9ea6-83cc-46f6-aada-3fb9c673f6ce",
-        "incident_number": "260800732",
-        "incident_code": "2026-FLFLS-260800732",
-        "name": "ARCHER SAND (38)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 54.0,
-        "containment_percent": 85,
-        "county": "Levy",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-07-26T15:53:00",
-        "status_updated_time": "2026-07-26T16:24:53",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.86083221435547,
           28.879722595214844
         ]
@@ -835,7 +751,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-24T13:20:00",
         "status_updated_time": "2026-07-24T13:35:00",
         "is_obscured": false
@@ -863,37 +779,9 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-23T17:53:24",
         "status_updated_time": "2026-07-25T00:27:42",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6142349243164,
-          30.53349494934082
-        ]
-      },
-      "properties": {
-        "id": "2474d957-8797-4211-83a4-6d80deb3f4a9",
-        "incident_number": "260700553",
-        "incident_code": "2026-FLFLS-260700553",
-        "name": "Tisons Bluff Road (16)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 18.0,
-        "containment_percent": 100,
-        "county": "Duval",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-07-21T20:04:19",
-        "status_updated_time": "2026-07-31T17:04:30",
         "is_obscured": false
       }
     },
@@ -919,7 +807,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-21T17:23:21",
         "status_updated_time": "2026-07-22T01:28:49",
         "is_obscured": false
@@ -947,7 +835,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-20T15:03:00",
         "status_updated_time": "2026-07-20T21:22:51",
         "is_obscured": false
@@ -1059,7 +947,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
@@ -1199,7 +1087,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-05-04T20:15:00",
         "status_updated_time": "2026-05-04T21:02:00",
         "is_obscured": false
