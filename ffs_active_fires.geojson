@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.30960845947266,
-          29.58769989013672
+          -81.29888916015625,
+          29.59027862548828
         ]
       },
       "properties": {
@@ -15,17 +15,17 @@
         "incident_number": "260700572",
         "incident_code": "2026-FLFLS-260700572",
         "name": "Peavy Grade (18)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 0.1,
+        "containment_percent": 100,
         "county": "Flagler",
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-31T19:18:37",
-        "status_updated_time": "2026-07-31T19:28:07",
+        "status_updated_time": "2026-07-31T21:03:39",
         "is_obscured": false
       }
     },
@@ -611,7 +611,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-27T00:42:20",
         "status_updated_time": "2026-07-30T15:28:07",
         "is_obscured": false
@@ -695,7 +695,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-26T17:00:00",
         "status_updated_time": "2026-07-26T21:10:51",
         "is_obscured": false
@@ -723,7 +723,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-24T22:29:03",
         "status_updated_time": "2026-07-25T02:33:09",
         "is_obscured": false
@@ -919,7 +919,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
