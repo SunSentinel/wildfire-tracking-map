@@ -45,7 +45,7 @@
         "name": "167TH RD (61)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 7.0,
         "containment_percent": 100,
         "county": "Suwannee",
         "field_unit": "Suwannee",
@@ -107,7 +107,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-30T19:51:00",
         "status_updated_time": "2026-07-30T21:00:00",
         "is_obscured": false
@@ -129,8 +129,8 @@
         "name": "137 HWY 100 (54)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 2.5,
-        "containment_percent": 75,
+        "acres": 4.35,
+        "containment_percent": 95,
         "county": "Putnam",
         "field_unit": "Waccasassa",
         "region": "Region 2",
@@ -247,7 +247,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-30T15:53:35",
         "status_updated_time": "2026-07-30T19:00:51",
         "is_obscured": false
@@ -499,7 +499,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 9,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-28T13:35:34",
         "status_updated_time": "2026-07-31T15:53:26",
         "is_obscured": false
@@ -779,7 +779,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-26T15:53:00",
         "status_updated_time": "2026-07-26T16:24:53",
         "is_obscured": false
@@ -883,7 +883,7 @@
         "incident_number": "260700553",
         "incident_code": "2026-FLFLS-260700553",
         "name": "Tisons Bluff Road (16)",
-        "status": "Contained",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 18.0,
         "containment_percent": 100,
@@ -893,7 +893,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 2,
         "discovery_time": "2026-07-21T20:04:19",
-        "status_updated_time": "2026-07-21T23:19:16",
+        "status_updated_time": "2026-07-31T17:04:30",
         "is_obscured": false
       }
     },
@@ -1059,7 +1059,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 7,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
