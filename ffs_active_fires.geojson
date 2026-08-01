@@ -23,37 +23,9 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-31T22:07:00",
         "status_updated_time": "2026-07-31T22:36:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.83305358886719,
-          29.7902774810791
-        ]
-      },
-      "properties": {
-        "id": "193d7f7b-08c1-43e0-a4f6-19e89b8ca7d9",
-        "incident_number": "260800749",
-        "incident_code": "2026-FLFLS-260800749",
-        "name": "NW 20TH AVE (21)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.44,
-        "containment_percent": 90,
-        "county": "Gilchrist",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-31T21:23:00",
-        "status_updated_time": "2026-07-31T22:29:00",
         "is_obscured": false
       }
     },
@@ -79,7 +51,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-31T19:18:37",
         "status_updated_time": "2026-07-31T21:03:39",
         "is_obscured": false
@@ -135,7 +107,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-30T20:00:00",
         "status_updated_time": "2026-07-30T20:45:00",
         "is_obscured": false
@@ -191,7 +163,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-30T19:32:00",
         "status_updated_time": "2026-07-30T19:45:00",
         "is_obscured": false
@@ -639,7 +611,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-27T03:58:42",
         "status_updated_time": "2026-07-27T17:40:07",
         "is_obscured": false
@@ -670,34 +642,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-27T00:42:20",
         "status_updated_time": "2026-07-30T15:28:07",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.03022766113281,
-          29.718523025512695
-        ]
-      },
-      "properties": {
-        "id": "2006d9a5-6918-427f-adf5-803acd07148b",
-        "incident_number": "260800733",
-        "incident_code": "2026-FLFLS-260800733",
-        "name": "CR 219 (54)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 7.0,
-        "containment_percent": 95,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-26T21:39:00",
-        "status_updated_time": "2026-07-26T22:25:00",
         "is_obscured": false
       }
     },
@@ -863,7 +807,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-07-20T15:03:00",
         "status_updated_time": "2026-07-20T21:22:51",
         "is_obscured": false
@@ -1115,7 +1059,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-05-04T20:15:00",
         "status_updated_time": "2026-05-04T21:02:00",
         "is_obscured": false
