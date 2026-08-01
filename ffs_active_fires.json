@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T16:57:13.392318Z",
+  "updated_at": "2026-08-01T17:59:35.064101Z",
   "incidents": [
     {
       "id": "fc21c5a1-9f03-40d4-ba36-48a87e3a66cf",
@@ -654,7 +654,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-13T18:19:40",
       "status_updated_time": "2026-07-24T04:13:11",
       "latitude": 28.91666603088379,
