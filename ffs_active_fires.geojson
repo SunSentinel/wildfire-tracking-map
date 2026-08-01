@@ -751,7 +751,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-24T13:20:00",
         "status_updated_time": "2026-07-24T13:35:00",
         "is_obscured": false
@@ -782,34 +782,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-21T17:23:21",
         "status_updated_time": "2026-07-22T01:28:49",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.52172088623047,
-          29.55930519104004
-        ]
-      },
-      "properties": {
-        "id": "1b8433fb-4020-43ef-b839-cb31a88aa57a",
-        "incident_number": "260700548",
-        "incident_code": "2026-FLFLS-260700548",
-        "name": "SR 20 County Line (18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 179.0,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-07-20T15:03:00",
-        "status_updated_time": "2026-07-20T21:22:51",
         "is_obscured": false
       }
     },
