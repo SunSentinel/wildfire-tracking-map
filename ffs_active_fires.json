@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:18:19.838420Z",
+  "updated_at": "2026-08-01T20:25:02.425835Z",
   "incidents": [
     {
       "id": "fc21c5a1-9f03-40d4-ba36-48a87e3a66cf",
@@ -194,7 +194,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-30T15:53:35",
       "status_updated_time": "2026-07-30T19:00:51",
       "latitude": 29.889089584350586,
@@ -534,7 +534,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-24T13:20:00",
       "status_updated_time": "2026-07-24T13:35:00",
       "latitude": 29.303054809570312,
