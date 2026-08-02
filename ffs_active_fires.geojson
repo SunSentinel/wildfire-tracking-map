@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.58216857910156,
-          26.200851440429688
+          -81.58277893066406,
+          26.20027732849121
         ]
       },
       "properties": {
@@ -15,7 +15,7 @@
         "incident_number": "261700187",
         "incident_code": "2026-FLFLS-261700187",
         "name": "1633 Ivy Way (11)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -25,35 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 6,
         "discovery_time": "2026-08-02T16:20:00",
-        "status_updated_time": "2026-08-02T16:20:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.60456085205078,
-          25.76084327697754
-        ]
-      },
-      "properties": {
-        "id": "2ab39951-d742-45bd-afee-e2e11e596de5",
-        "incident_number": "261800121",
-        "incident_code": "2026-FLFLS-261800121",
-        "name": "25400 SW 8 ST (13)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
-        "discovery_time": "2026-08-02T15:51:00",
-        "status_updated_time": "2026-08-02T15:51:00",
+        "status_updated_time": "2026-08-02T16:54:00",
         "is_obscured": false
       }
     },
@@ -79,7 +51,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-31T22:07:00",
         "status_updated_time": "2026-07-31T22:36:01",
         "is_obscured": false
@@ -555,7 +527,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-27T14:10:00",
         "status_updated_time": "2026-07-27T14:51:00",
         "is_obscured": false
