@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:07:30.042067Z",
+  "updated_at": "2026-08-02T20:27:16.395618Z",
   "incidents": [
     {
       "id": "40fdc925-82d0-48c8-ad3f-491d4e78df15",
@@ -8,7 +8,7 @@
       "name": "1633 Ivy Way (11)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 15.0,
+      "acres": 20.0,
       "containment_percent": 95,
       "county": "Collier",
       "field_unit": "Caloosahatchee",
@@ -99,26 +99,6 @@
       "status_updated_time": "2026-07-30T20:45:00",
       "latitude": 29.762239456176758,
       "longitude": -82.8004150390625,
-      "is_obscured": false
-    },
-    {
-      "id": "368df427-d13a-46a5-a805-ffd2540c629e",
-      "incident_number": "260500270",
-      "incident_code": "2026-FLFLS-260500270",
-      "name": "98- Taylor (62)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 3.0,
-      "containment_percent": 100,
-      "county": "Taylor",
-      "field_unit": "Perry",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-07-30T19:51:00",
-      "status_updated_time": "2026-07-30T21:00:00",
-      "latitude": 30.08824920654297,
-      "longitude": -83.65489196777344,
       "is_obscured": false
     },
     {
