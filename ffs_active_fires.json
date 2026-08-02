@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T11:12:46.574581Z",
+  "updated_at": "2026-08-02T12:34:31.830447Z",
   "incidents": [
     {
       "id": "776676aa-a032-47fe-975b-b696e49dcf4e",
@@ -134,7 +134,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-07-30T19:32:00",
       "status_updated_time": "2026-07-30T19:45:00",
       "latitude": 29.726110458374023,
