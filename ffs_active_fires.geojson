@@ -17,8 +17,8 @@
         "name": "1633 Ivy Way (11)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 15.0,
+        "containment_percent": 95,
         "county": "Collier",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
@@ -510,34 +510,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.07249450683594,
-          29.402820587158203
-        ]
-      },
-      "properties": {
-        "id": "b284e362-55ae-4a42-bc41-e85cc20e2aaf",
-        "incident_number": "260500267",
-        "incident_code": "2026-FLFLS-260500267",
-        "name": "Hudson 19- Dixie (15)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 125.0,
-        "containment_percent": 70,
-        "county": "Dixie",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-07-27T14:10:00",
-        "status_updated_time": "2026-07-27T14:51:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.12171173095703,
           28.875030517578125
         ]
@@ -807,7 +779,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
