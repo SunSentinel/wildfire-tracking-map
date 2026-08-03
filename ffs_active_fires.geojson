@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.21660614013672,
-          28.48038673400879
+          -81.2199478149414,
+          28.470643997192383
         ]
       },
       "properties": {
         "id": "7fe59f0c-0139-4553-91ac-6e99233c30e9",
         "incident_number": "261200502",
         "incident_code": "2026-FLFLS-261200502",
-        "name": "5901 Young Pine Road- Orange (48)",
-        "status": "Reported",
+        "name": "Bay Branch Command (48)",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 1.0,
+        "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-02T22:25:05",
-        "status_updated_time": "2026-08-02T22:25:05",
+        "status_updated_time": "2026-08-03T00:24:26",
         "is_obscured": false
       }
     },
@@ -51,7 +51,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-02T16:20:00",
         "status_updated_time": "2026-08-02T16:54:00",
         "is_obscured": false
