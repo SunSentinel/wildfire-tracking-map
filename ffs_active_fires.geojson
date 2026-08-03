@@ -118,34 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.09200286865234,
-          30.39995002746582
-        ]
-      },
-      "properties": {
-        "id": "fc53b5dd-49bf-4989-8a3f-d36212eb1ef8",
-        "incident_number": "260600943",
-        "incident_code": "2026-FLFLS-260600943",
-        "name": "167TH RD (61)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 7.0,
-        "containment_percent": 100,
-        "county": "Suwannee",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-31T10:37:00",
-        "status_updated_time": "2026-07-31T12:39:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.8004150390625,
           29.762239456176758
         ]
