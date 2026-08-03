@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.05107116699219,
+          27.98702621459961
+        ]
+      },
+      "properties": {
+        "id": "c685fa41-d965-4943-8c61-87bd069d74e8",
+        "incident_number": "261400428",
+        "incident_code": "2026-FLFLS-261400428",
+        "name": "4269 Hamilton Road- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-03T20:06:24",
+        "status_updated_time": "2026-08-03T20:06:24",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34160614013672,
+          26.850587844848633
+        ]
+      },
+      "properties": {
+        "id": "19305b6a-8a2f-4bdb-8160-f5e69f809425",
+        "incident_number": "261800124",
+        "incident_code": "2026-FLFLS-261800124",
+        "name": "Pond (50)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.1,
+        "containment_percent": 0,
+        "county": "Palm Beach",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-03T19:39:02",
+        "status_updated_time": "2026-08-03T20:25:04",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.4969482421875,
           25.737499237060547
         ]
@@ -17,13 +73,13 @@
         "name": "THE KROME - (13)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 75.0,
         "containment_percent": 0,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 10,
         "discovery_time": "2026-08-03T18:05:21",
         "status_updated_time": "2026-08-03T18:29:39",
         "is_obscured": false
