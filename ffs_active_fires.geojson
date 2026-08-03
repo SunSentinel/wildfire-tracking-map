@@ -34,34 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.34160614013672,
-          26.850587844848633
-        ]
-      },
-      "properties": {
-        "id": "19305b6a-8a2f-4bdb-8160-f5e69f809425",
-        "incident_number": "261800124",
-        "incident_code": "2026-FLFLS-261800124",
-        "name": "Pond (50)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 0,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-03T19:39:02",
-        "status_updated_time": "2026-08-03T20:25:04",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.4969482421875,
           25.737499237060547
         ]
@@ -74,12 +46,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 75.0,
-        "containment_percent": 0,
+        "containment_percent": 70,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 10,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-03T18:05:21",
         "status_updated_time": "2026-08-03T18:29:39",
         "is_obscured": false
@@ -191,7 +163,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-31T19:18:37",
         "status_updated_time": "2026-07-31T21:03:39",
         "is_obscured": false
