@@ -51,7 +51,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-02T16:20:00",
         "status_updated_time": "2026-08-02T16:54:00",
         "is_obscured": false
@@ -342,34 +342,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.09805297851562,
-          29.181110382080078
-        ]
-      },
-      "properties": {
-        "id": "d5cd01e4-4e4b-423a-bfd1-036de56b7295",
-        "incident_number": "261200488",
-        "incident_code": "2026-FLFLS-261200488",
-        "name": "Mobile  (64)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.75,
-        "containment_percent": 100,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-26T20:18:36",
-        "status_updated_time": "2026-07-26T21:55:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.91355895996094,
           30.591083526611328
         ]
@@ -555,7 +527,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
@@ -586,34 +558,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-13T00:26:00",
         "status_updated_time": "2026-07-13T01:12:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.79627990722656,
-          30.46227264404297
-        ]
-      },
-      "properties": {
-        "id": "44b92d32-91a8-4051-9dea-985927c7a618",
-        "incident_number": "260600876",
-        "incident_code": "2026-FLFLS-260600876",
-        "name": "POOLE POND CEMETERY - 2 (24-06)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 6.0,
-        "containment_percent": 100,
-        "county": "Hamilton",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-11T20:31:00",
-        "status_updated_time": "2026-07-12T00:07:53",
         "is_obscured": false
       }
     },
