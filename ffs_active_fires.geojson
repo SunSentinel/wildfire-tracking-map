@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.4969482421875,
+          25.737499237060547
+        ]
+      },
+      "properties": {
+        "id": "dc679d04-1cc2-443d-a354-9f43fe5daac7",
+        "incident_number": "261800123",
+        "incident_code": "2026-FLFLS-261800123",
+        "name": "THE KROME - (13)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Miami-Dade",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 7,
+        "discovery_time": "2026-08-03T18:05:21",
+        "status_updated_time": "2026-08-03T18:29:39",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.2199478149414,
           28.470643997192383
         ]
@@ -107,7 +135,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-31T19:18:37",
         "status_updated_time": "2026-07-31T21:03:39",
         "is_obscured": false
