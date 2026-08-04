@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.74371337890625,
+          26.37907600402832
+        ]
+      },
+      "properties": {
+        "id": "771a6231-8c6a-4e87-b710-6ee52b2aeff4",
+        "incident_number": "261800125",
+        "incident_code": "2026-FLFLS-261800125",
+        "name": "Palm Beach",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Palm Beach",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-04T19:37:50",
+        "status_updated_time": "2026-08-04T20:34:36",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.2199478149414,
           28.470643997192383
         ]
@@ -51,7 +79,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-02T16:20:00",
         "status_updated_time": "2026-08-02T16:54:00",
         "is_obscured": false
@@ -219,7 +247,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-27T03:58:42",
         "status_updated_time": "2026-07-27T17:40:07",
         "is_obscured": false
@@ -443,7 +471,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
