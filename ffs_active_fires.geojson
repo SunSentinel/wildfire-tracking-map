@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.05107116699219,
-          27.98702621459961
-        ]
-      },
-      "properties": {
-        "id": "c685fa41-d965-4943-8c61-87bd069d74e8",
-        "incident_number": "261400428",
-        "incident_code": "2026-FLFLS-261400428",
-        "name": "4269 Hamilton Road- Polk (53)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-03T20:06:24",
-        "status_updated_time": "2026-08-03T20:06:24",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.4969482421875,
           25.737499237060547
         ]
@@ -51,7 +23,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-03T18:05:21",
         "status_updated_time": "2026-08-03T18:29:39",
         "is_obscured": false
@@ -73,13 +45,13 @@
         "name": "Bay Branch Command (48)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 1.0,
+        "acres": 1.66,
         "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-02T22:25:05",
         "status_updated_time": "2026-08-03T00:24:26",
         "is_obscured": false
@@ -135,7 +107,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-31T22:07:00",
         "status_updated_time": "2026-07-31T22:36:01",
         "is_obscured": false
@@ -166,34 +138,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-31T19:18:37",
         "status_updated_time": "2026-07-31T21:03:39",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.92583465576172,
-          29.726110458374023
-        ]
-      },
-      "properties": {
-        "id": "59726be8-897b-41af-be15-5e95b6373602",
-        "incident_number": "260800746",
-        "incident_code": "2026-FLFLS-260800746",
-        "name": "137 HWY 100 (54)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 4.35,
-        "containment_percent": 100,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-30T19:32:00",
-        "status_updated_time": "2026-08-02T17:00:00",
         "is_obscured": false
       }
     },
@@ -258,34 +202,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.07144165039062,
-          29.787046432495117
-        ]
-      },
-      "properties": {
-        "id": "9a23821b-8c93-4e58-9a7a-f3879af65199",
-        "incident_number": "260600927",
-        "incident_code": "2026-FLFLS-260600927",
-        "name": "SE COUNTY ROAD 21B (04)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.0,
-        "containment_percent": 100,
-        "county": "Bradford",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-27T23:00:00",
-        "status_updated_time": "2026-07-28T00:58:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.09852600097656,
           29.96259307861328
         ]
@@ -314,34 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.47918701171875,
-          30.483278274536133
-        ]
-      },
-      "properties": {
-        "id": "8ecaf084-7d32-4c2e-a8a5-d7fba252a896",
-        "incident_number": "260700562",
-        "incident_code": "2026-FLFLS-260700562",
-        "name": "Sawpit Road (16)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 3.6,
-        "containment_percent": 100,
-        "county": "Duval",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-27T16:54:22",
-        "status_updated_time": "2026-07-28T15:25:25",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.12171173095703,
           28.875030517578125
         ]
@@ -359,7 +247,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-07-27T03:58:42",
         "status_updated_time": "2026-07-27T17:40:07",
         "is_obscured": false
@@ -443,7 +331,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-24T22:29:03",
         "status_updated_time": "2026-07-25T02:33:09",
         "is_obscured": false
@@ -471,7 +359,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-24T13:20:00",
         "status_updated_time": "2026-07-24T13:35:00",
         "is_obscured": false
@@ -642,34 +530,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-09T18:32:41",
         "status_updated_time": "2026-07-10T02:46:32",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.96318054199219,
-          29.550701141357422
-        ]
-      },
-      "properties": {
-        "id": "a01620cb-325f-4ad8-acdd-eba9328c77bb",
-        "incident_number": "260800648",
-        "incident_code": "2026-FLFLS-260800648",
-        "name": "LAMBERTH POND RD (54)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-06-28T23:06:19",
-        "status_updated_time": "2026-08-03T14:28:00",
         "is_obscured": false
       }
     },
