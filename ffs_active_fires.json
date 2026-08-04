@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-04T20:49:29.042055Z",
+  "updated_at": "2026-08-04T22:06:50.057349Z",
   "incidents": [
     {
       "id": "771a6231-8c6a-4e87-b710-6ee52b2aeff4",
       "incident_number": "261800125",
       "incident_code": "2026-FLFLS-261800125",
-      "name": "Palm Beach",
+      "name": "A1 BASIN - (50)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
+      "acres": 75.0,
+      "containment_percent": 25,
       "county": "Palm Beach",
       "field_unit": "Everglades",
       "region": "Region 4",
@@ -17,8 +17,8 @@
       "resources_assigned": 2,
       "discovery_time": "2026-08-04T19:37:50",
       "status_updated_time": "2026-08-04T20:34:36",
-      "latitude": 26.37907600402832,
-      "longitude": -80.74371337890625,
+      "latitude": 26.433332443237305,
+      "longitude": -80.679443359375,
       "is_obscured": false
     },
     {
