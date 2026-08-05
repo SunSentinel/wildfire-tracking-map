@@ -43,17 +43,17 @@
         "incident_number": "261800125",
         "incident_code": "2026-FLFLS-261800125",
         "name": "A1 BASIN - (50)",
-        "status": "Active",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 150.0,
-        "containment_percent": 95,
+        "containment_percent": 100,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-04T19:37:50",
-        "status_updated_time": "2026-08-04T20:34:36",
+        "status_updated_time": "2026-08-05T14:47:52",
         "is_obscured": false
       }
     },
@@ -70,7 +70,7 @@
         "id": "7fe59f0c-0139-4553-91ac-6e99233c30e9",
         "incident_number": "261200502",
         "incident_code": "2026-FLFLS-261200502",
-        "name": "Bay Branch Command (48)",
+        "name": "Bay Branch (48)",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 1.66,
@@ -107,7 +107,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-31T22:07:00",
         "status_updated_time": "2026-07-31T22:36:01",
         "is_obscured": false
@@ -135,7 +135,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-31T19:18:37",
         "status_updated_time": "2026-07-31T21:03:39",
         "is_obscured": false
@@ -191,7 +191,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-29T20:38:01",
         "status_updated_time": "2026-07-30T00:03:25",
         "is_obscured": false
@@ -250,34 +250,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-27T03:58:42",
         "status_updated_time": "2026-07-27T17:40:07",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.41276550292969,
-          28.276626586914062
-        ]
-      },
-      "properties": {
-        "id": "525b0323-d1c0-4332-ba66-28dc12d1f254",
-        "incident_number": "261100564",
-        "incident_code": "2026-FLFLS-261100564",
-        "name": "CYPRESS CREEK (51)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 17.29,
-        "containment_percent": 100,
-        "county": "Pasco",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-27T00:42:20",
-        "status_updated_time": "2026-07-30T15:28:07",
         "is_obscured": false
       }
     },
@@ -482,34 +454,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.14006805419922,
-          29.556459426879883
-        ]
-      },
-      "properties": {
-        "id": "fc95f8eb-c001-4448-8d5f-4bf176967f6d",
-        "incident_number": "260800703",
-        "incident_code": "2026-FLFLS-260800703",
-        "name": "FISH CAMP RD (01)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 33.8,
-        "containment_percent": 90,
-        "county": "Alachua",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-13T00:26:00",
-        "status_updated_time": "2026-07-13T01:12:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.89250183105469,
           28.40333366394043
         ]
@@ -527,7 +471,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-09T18:32:41",
         "status_updated_time": "2026-07-10T02:46:32",
         "is_obscured": false
@@ -555,7 +499,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-05-04T20:15:00",
         "status_updated_time": "2026-05-04T21:02:00",
         "is_obscured": false
