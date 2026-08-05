@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T16:59:20.337091Z",
+  "updated_at": "2026-08-05T18:25:47.144922Z",
   "incidents": [
     {
       "id": "55e155cd-cfa9-4f5a-83ec-523d0a59102e",
@@ -34,11 +34,31 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 6,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-04T19:37:50",
       "status_updated_time": "2026-08-05T14:47:52",
       "latitude": 26.433332443237305,
       "longitude": -80.679443359375,
+      "is_obscured": false
+    },
+    {
+      "id": "dc679d04-1cc2-443d-a354-9f43fe5daac7",
+      "incident_number": "261800123",
+      "incident_code": "2026-FLFLS-261800123",
+      "name": "THE KROME - (13)",
+      "status": "Active",
+      "category": "Wildfire",
+      "acres": 75.0,
+      "containment_percent": 100,
+      "county": "Miami-Dade",
+      "field_unit": "Everglades",
+      "region": "Region 4",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-08-03T18:05:21",
+      "status_updated_time": "2026-08-05T16:57:46",
+      "latitude": 25.737499237060547,
+      "longitude": -80.4969482421875,
       "is_obscured": false
     },
     {
@@ -114,7 +134,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-07-27T20:25:00",
       "status_updated_time": "2026-07-27T21:40:01",
       "latitude": 29.96259307861328,
@@ -174,7 +194,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 4,
       "discovery_time": "2026-07-24T22:29:03",
       "status_updated_time": "2026-07-25T02:33:09",
       "latitude": 28.879722595214844,
