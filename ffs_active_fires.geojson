@@ -45,7 +45,7 @@
         "name": "A1 BASIN - (50)",
         "status": "Controlled",
         "category": "Wildfire",
-        "acres": 150.0,
+        "acres": 135.0,
         "containment_percent": 100,
         "county": "Palm Beach",
         "field_unit": "Everglades",
@@ -107,37 +107,9 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-31T22:07:00",
         "status_updated_time": "2026-07-31T22:36:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.29888916015625,
-          29.59027862548828
-        ]
-      },
-      "properties": {
-        "id": "46fa2690-0afe-4e7c-9ef5-addb6f77f9e9",
-        "incident_number": "260700572",
-        "incident_code": "2026-FLFLS-260700572",
-        "name": "Peavy Grade (18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-07-31T19:18:37",
-        "status_updated_time": "2026-07-31T21:03:39",
         "is_obscured": false
       }
     },
@@ -166,34 +138,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-30T15:01:00",
         "status_updated_time": "2026-07-30T15:01:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.43638610839844,
-          28.31999969482422
-        ]
-      },
-      "properties": {
-        "id": "13fd8c7a-c093-478f-89a0-4f021c6c1850",
-        "incident_number": "261100571",
-        "incident_code": "2026-FLFLS-261100571",
-        "name": "CONNER PRESERVE  (51)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 8.0,
-        "containment_percent": 100,
-        "county": "Pasco",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-07-29T20:38:01",
-        "status_updated_time": "2026-07-30T00:03:25",
         "is_obscured": false
       }
     },
@@ -491,17 +435,17 @@
         "incident_number": "260500199",
         "incident_code": "2026-FLFLS-260500199",
         "name": "South Canal- Lafayette (34)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 2265.0,
-        "containment_percent": 97,
+        "containment_percent": 100,
         "county": "Lafayette",
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-05-04T20:15:00",
-        "status_updated_time": "2026-05-04T21:02:00",
+        "status_updated_time": "2026-08-05T15:35:00",
         "is_obscured": false
       }
     }
