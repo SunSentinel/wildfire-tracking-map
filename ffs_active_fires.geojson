@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.53045654296875,
+          28.434417724609375
+        ]
+      },
+      "properties": {
+        "id": "c4189dde-0846-48bf-bd13-c8fad02478fc",
+        "incident_number": "261100581",
+        "incident_code": "2026-FLFLS-261100581",
+        "name": "11395 County Line Road- Hernando (27)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hernando",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 1,
+        "discovery_time": "2026-08-05T04:56:55",
+        "status_updated_time": "2026-08-05T04:56:55",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.679443359375,
           26.433332443237305
         ]
