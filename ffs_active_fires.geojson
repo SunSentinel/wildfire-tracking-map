@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.71888732910156,
-          27.254335403442383
+          -81.7166748046875,
+          26.792743682861328
         ]
       },
       "properties": {
-        "id": "54393512-ed49-4997-bf16-c811ea01d4b8",
-        "incident_number": "261600639",
-        "incident_code": "2026-FLFLS-261600639",
-        "name": "1092 Aquarius Drive- Okeechobee (47)",
+        "id": "bfeb2357-44ce-49ed-9d65-f6e8be83886a",
+        "incident_number": "261500547",
+        "incident_code": "2026-FLFLS-261500547",
+        "name": "Frontier Drive- Charlotte (08)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
+        "county": "Charlotte",
+        "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-05T19:50:00",
-        "status_updated_time": "2026-08-05T19:50:00",
+        "resources_assigned": 6,
+        "discovery_time": "2026-08-05T20:53:26",
+        "status_updated_time": "2026-08-05T20:53:26",
         "is_obscured": false
       }
     },
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.96156311035156,
-          27.160987854003906
+          -81.96888732910156,
+          27.14035987854004
         ]
       },
       "properties": {
@@ -275,7 +275,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-27T20:25:00",
         "status_updated_time": "2026-07-27T21:40:01",
         "is_obscured": false
@@ -362,34 +362,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-24T22:29:03",
         "status_updated_time": "2026-07-25T02:33:09",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6308364868164,
-          29.303054809570312
-        ]
-      },
-      "properties": {
-        "id": "0e5abc0c-be06-4232-a0ec-0b3702fbb605",
-        "incident_number": "260800724",
-        "incident_code": "2026-FLFLS-260800724",
-        "name": "WELLHEAD 1 (38)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 75.0,
-        "containment_percent": 70,
-        "county": "Levy",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-24T13:20:00",
-        "status_updated_time": "2026-07-24T13:35:00",
         "is_obscured": false
       }
     },
