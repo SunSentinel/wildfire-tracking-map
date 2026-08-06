@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T13:00:08.995485Z",
+  "updated_at": "2026-08-06T15:20:49.720514Z",
   "incidents": [
     {
       "id": "886f666e-d710-4078-bddf-d03082688d73",
@@ -62,26 +62,6 @@
       "is_obscured": false
     },
     {
-      "id": "e84e7849-9b76-4efc-bfcc-fd4fc731d84b",
-      "incident_number": "261800126",
-      "incident_code": "2026-FLFLS-261800126",
-      "name": "Big Pine Key Fire",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 20.0,
-      "containment_percent": 10,
-      "county": "Monroe",
-      "field_unit": "Everglades",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 11,
-      "discovery_time": "2026-08-05T19:03:02",
-      "status_updated_time": "2026-08-05T22:00:02.002",
-      "latitude": 24.69059944152832,
-      "longitude": -81.37000274658203,
-      "is_obscured": false
-    },
-    {
       "id": "55e155cd-cfa9-4f5a-83ec-523d0a59102e",
       "incident_number": "260800753",
       "incident_code": "2026-FLFLS-260800753",
@@ -134,9 +114,9 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-03T18:05:21",
-      "status_updated_time": "2026-08-05T16:57:46",
+      "status_updated_time": "2026-08-05T16:57:46.002",
       "latitude": 25.737499237060547,
       "longitude": -80.4969482421875,
       "is_obscured": false
@@ -154,7 +134,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-02T22:25:05",
       "status_updated_time": "2026-08-03T00:24:26",
       "latitude": 28.470643997192383,
@@ -254,7 +234,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-07-26T17:00:00",
       "status_updated_time": "2026-07-26T21:10:51",
       "latitude": 30.591083526611328,
@@ -354,7 +334,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 5,
       "discovery_time": "2026-07-13T18:19:40",
       "status_updated_time": "2026-07-24T04:13:11",
       "latitude": 28.91666603088379,
