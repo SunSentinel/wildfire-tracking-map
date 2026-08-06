@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.33486938476562,
+          27.888629913330078
+        ]
+      },
+      "properties": {
+        "id": "886f666e-d710-4078-bddf-d03082688d73",
+        "incident_number": "261400432",
+        "incident_code": "2026-FLFLS-261400432",
+        "name": "105 Camp Tiger- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-08-06T01:05:57",
+        "status_updated_time": "2026-08-06T01:05:57",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.7166748046875,
           26.792743682861328
         ]
@@ -70,18 +98,18 @@
         "id": "e84e7849-9b76-4efc-bfcc-fd4fc731d84b",
         "incident_number": "261800126",
         "incident_code": "2026-FLFLS-261800126",
-        "name": "KEY DEER BLVD & WATSON (44)",
+        "name": "Big Pine Key Fire",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 20.0,
+        "containment_percent": 10,
         "county": "Monroe",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 1,
         "discovery_time": "2026-08-05T19:03:02",
-        "status_updated_time": "2026-08-05T22:00:02",
+        "status_updated_time": "2026-08-05T22:00:02.002",
         "is_obscured": false
       }
     },
