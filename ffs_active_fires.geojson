@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.33486938476562,
-          27.888629913330078
+          -81.32444763183594,
+          27.91083335876465
         ]
       },
       "properties": {
         "id": "886f666e-d710-4078-bddf-d03082688d73",
         "incident_number": "261400432",
         "incident_code": "2026-FLFLS-261400432",
-        "name": "105 Camp Tiger- Polk (53)",
-        "status": "Reported",
+        "name": "T L  FIRE (53)",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 15.0,
+        "containment_percent": 100,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-06T01:05:57",
-        "status_updated_time": "2026-08-06T01:05:57",
+        "status_updated_time": "2026-08-06T03:27:59",
         "is_obscured": false
       }
     },
