@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.23079681396484,
+          28.018577575683594
+        ]
+      },
+      "properties": {
+        "id": "b8a2cb1a-b126-413d-8f3f-6d2061c621fb",
+        "incident_number": "261400433",
+        "incident_code": "2026-FLFLS-261400433",
+        "name": "13211 U.S. 92- Hillsborough (29)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hillsborough",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-07T22:14:13",
+        "status_updated_time": "2026-08-07T22:14:13",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.62650299072266,
           25.76434326171875
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 1,
         "discovery_time": "2026-08-07T21:46:00",
         "status_updated_time": "2026-08-07T21:46:00",
         "is_obscured": false
@@ -82,34 +110,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-06T01:05:57",
         "status_updated_time": "2026-08-06T03:27:59",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.7166748046875,
-          26.792743682861328
-        ]
-      },
-      "properties": {
-        "id": "bfeb2357-44ce-49ed-9d65-f6e8be83886a",
-        "incident_number": "261500547",
-        "incident_code": "2026-FLFLS-261500547",
-        "name": "Frontier Drive- Charlotte (08)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Charlotte",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-05T20:53:26",
-        "status_updated_time": "2026-08-05T21:59:11",
         "is_obscured": false
       }
     },
@@ -222,62 +222,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-31T22:07:00",
         "status_updated_time": "2026-08-07T14:31:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.65039825439453,
-          30.573917388916016
-        ]
-      },
-      "properties": {
-        "id": "f369f7fd-8bbf-40f0-b240-4e77ca20d549",
-        "incident_number": "260600939",
-        "incident_code": "2026-FLFLS-260600939",
-        "name": "WATLEY RD (12)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 2.5,
-        "containment_percent": 100,
-        "county": "Columbia",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-30T15:01:00",
-        "status_updated_time": "2026-08-07T13:44:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.09852600097656,
-          29.96259307861328
-        ]
-      },
-      "properties": {
-        "id": "85408c43-e301-4b79-ac37-308cef1f86ea",
-        "incident_number": "260600926",
-        "incident_code": "2026-FLFLS-260600926",
-        "name": "OLD LAWTEY RD (04)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Bradford",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-27T20:25:00",
-        "status_updated_time": "2026-07-27T21:40:01",
         "is_obscured": false
       }
     },
