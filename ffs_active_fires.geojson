@@ -23,37 +23,9 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-06T19:53:00",
         "status_updated_time": "2026-08-06T22:27:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.49112701416016,
-          30.449378967285156
-        ]
-      },
-      "properties": {
-        "id": "0d26cf65-d83b-41e4-b37d-ff2d62f5ea62",
-        "incident_number": "260200523",
-        "incident_code": "2026-FLFLS-260200523",
-        "name": "OSI - GOOLSBY- Singer Road (67)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Washington",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-06T17:12:03",
-        "status_updated_time": "2026-08-06T17:12:03",
         "is_obscured": false
       }
     },
@@ -79,7 +51,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-06T01:05:57",
         "status_updated_time": "2026-08-06T03:27:59",
         "is_obscured": false
@@ -247,7 +219,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-30T15:01:00",
         "status_updated_time": "2026-07-30T15:01:01",
         "is_obscured": false
@@ -275,7 +247,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-27T20:25:00",
         "status_updated_time": "2026-07-27T21:40:01",
         "is_obscured": false
@@ -359,7 +331,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-24T22:29:03",
         "status_updated_time": "2026-07-25T02:33:09",
         "is_obscured": false
@@ -443,7 +415,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
