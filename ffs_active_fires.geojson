@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.3738021850586,
-          24.699668884277344
-        ]
-      },
-      "properties": {
-        "id": "7e8358b7-d899-4c8a-8183-38ba67837816",
-        "incident_number": "261800127",
-        "incident_code": "2026-FLFLS-261800127",
-        "name": "BIG PINE KEY 2",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Monroe",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
-        "discovery_time": "2026-08-07T17:04:13",
-        "status_updated_time": "2026-08-07T17:11:20",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.67945098876953,
           30.331758499145508
         ]
