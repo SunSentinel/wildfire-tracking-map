@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:22:42.197935Z",
+  "updated_at": "2026-08-07T16:14:42.748092Z",
   "incidents": [
     {
       "id": "50562096-c544-40d8-b3c7-ac9c699b7fd4",
@@ -179,26 +179,6 @@
       "status_updated_time": "2026-07-27T21:40:01",
       "latitude": 29.96259307861328,
       "longitude": -82.09852600097656,
-      "is_obscured": false
-    },
-    {
-      "id": "40583f89-fc8d-40d2-9d9e-2d7076f87c7c",
-      "incident_number": "261200489",
-      "incident_code": "2026-FLFLS-261200489",
-      "name": "Fork (64)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 30.0,
-      "containment_percent": 100,
-      "county": "Volusia",
-      "field_unit": "Orlando",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
-      "discovery_time": "2026-07-27T03:58:42",
-      "status_updated_time": "2026-07-27T17:40:07",
-      "latitude": 28.875030517578125,
-      "longitude": -81.12171173095703,
       "is_obscured": false
     },
     {
