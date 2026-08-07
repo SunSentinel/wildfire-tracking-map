@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T11:40:34.532176Z",
+  "updated_at": "2026-08-07T12:49:30.452572Z",
   "incidents": [
     {
       "id": "50562096-c544-40d8-b3c7-ac9c699b7fd4",
@@ -354,7 +354,7 @@
       "field_unit": "Perry",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 4,
       "discovery_time": "2026-05-04T20:15:00",
       "status_updated_time": "2026-08-05T15:35:00",
       "latitude": 29.85179328918457,
