@@ -23,7 +23,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-06T19:53:00",
         "status_updated_time": "2026-08-06T22:27:01",
         "is_obscured": false
@@ -51,7 +51,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-06T01:05:57",
         "status_updated_time": "2026-08-06T03:27:59",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-02T22:25:05",
         "status_updated_time": "2026-08-03T00:24:26",
         "is_obscured": false
@@ -183,17 +183,17 @@
         "incident_number": "260600947",
         "incident_code": "2026-FLFLS-260600947",
         "name": "BENNY JOE BENNETT RD (02)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 2.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Baker",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-07-31T22:07:00",
-        "status_updated_time": "2026-07-31T22:36:01",
+        "status_updated_time": "2026-08-07T14:31:00",
         "is_obscured": false
       }
     },
@@ -211,17 +211,17 @@
         "incident_number": "260600939",
         "incident_code": "2026-FLFLS-260600939",
         "name": "WATLEY RD (12)",
-        "status": "Active",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 2.5,
-        "containment_percent": 85,
+        "containment_percent": 100,
         "county": "Columbia",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-30T15:01:00",
-        "status_updated_time": "2026-07-30T15:01:01",
+        "status_updated_time": "2026-08-07T13:44:02",
         "is_obscured": false
       }
     },
@@ -247,7 +247,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-27T20:25:00",
         "status_updated_time": "2026-07-27T21:40:01",
         "is_obscured": false
@@ -275,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-27T03:58:42",
         "status_updated_time": "2026-07-27T17:40:07",
         "is_obscured": false
@@ -306,34 +306,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-26T17:00:00",
         "status_updated_time": "2026-07-26T21:10:51",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.86083221435547,
-          28.879722595214844
-        ]
-      },
-      "properties": {
-        "id": "30f62612-4cdb-40ec-ba0c-06d0ee7308c7",
-        "incident_number": "261100562",
-        "incident_code": "2026-FLFLS-261100562",
-        "name": "SPRING ROAD (35)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 4.5,
-        "containment_percent": 100,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-07-24T22:29:03",
-        "status_updated_time": "2026-07-25T02:33:09",
         "is_obscured": false
       }
     },
