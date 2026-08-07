@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.67945098876953,
+          30.331758499145508
+        ]
+      },
+      "properties": {
+        "id": "50562096-c544-40d8-b3c7-ac9c699b7fd4",
+        "incident_number": "260600956",
+        "incident_code": "2026-FLFLS-260600956",
+        "name": "JORDAN RANCH (12)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 100,
+        "county": "Columbia",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-06T19:53:00",
+        "status_updated_time": "2026-08-06T22:27:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49112701416016,
+          30.449378967285156
+        ]
+      },
+      "properties": {
+        "id": "0d26cf65-d83b-41e4-b37d-ff2d62f5ea62",
+        "incident_number": "260200523",
+        "incident_code": "2026-FLFLS-260200523",
+        "name": "OSI - GOOLSBY- Singer Road (67)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Washington",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-06T17:12:03",
+        "status_updated_time": "2026-08-06T17:12:03",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.32444763183594,
           27.91083335876465
         ]
@@ -62,34 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.96888732910156,
-          27.14035987854004
-        ]
-      },
-      "properties": {
-        "id": "e530537b-349d-4003-8f29-ca7d1135184b",
-        "incident_number": "261500546",
-        "incident_code": "2026-FLFLS-261500546",
-        "name": "Peace River- DeSoto (14)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "DeSoto",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-05T19:15:39",
-        "status_updated_time": "2026-08-05T19:38:40",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.43226623535156,
           29.159822463989258
         ]
@@ -118,34 +146,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.679443359375,
-          26.433332443237305
-        ]
-      },
-      "properties": {
-        "id": "771a6231-8c6a-4e87-b710-6ee52b2aeff4",
-        "incident_number": "261800125",
-        "incident_code": "2026-FLFLS-261800125",
-        "name": "A1 BASIN - (50)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 135.0,
-        "containment_percent": 100,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-04T19:37:50",
-        "status_updated_time": "2026-08-05T14:47:52",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.4969482421875,
           25.737499237060547
         ]
@@ -163,7 +163,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-03T18:05:21",
         "status_updated_time": "2026-08-05T16:57:46.002",
         "is_obscured": false
@@ -331,7 +331,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-26T17:00:00",
         "status_updated_time": "2026-07-26T21:10:51",
         "is_obscured": false
@@ -362,34 +362,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-24T22:29:03",
         "status_updated_time": "2026-07-25T02:33:09",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.33194732666016,
-          27.06361198425293
-        ]
-      },
-      "properties": {
-        "id": "0ac414b3-d939-433e-8f6d-bbbf7b57b34b",
-        "incident_number": "261600601",
-        "incident_code": "2026-FLFLS-261600601",
-        "name": "South Ridge (28)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 337.0,
-        "containment_percent": 100,
-        "county": "Highlands",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-21T17:23:21",
-        "status_updated_time": "2026-07-22T01:28:49",
         "is_obscured": false
       }
     },
@@ -471,7 +443,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
