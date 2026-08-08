@@ -34,34 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.23079681396484,
-          28.018577575683594
-        ]
-      },
-      "properties": {
-        "id": "b8a2cb1a-b126-413d-8f3f-6d2061c621fb",
-        "incident_number": "261400433",
-        "incident_code": "2026-FLFLS-261400433",
-        "name": "13211 U.S. 92- Hillsborough (29)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Hillsborough",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-07T22:14:13",
-        "status_updated_time": "2026-08-07T22:14:13",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.61425018310547,
           25.825721740722656
         ]

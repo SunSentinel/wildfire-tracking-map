@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T14:57:24.752565Z",
+  "updated_at": "2026-08-08T15:29:06.251434Z",
   "incidents": [
     {
       "id": "bb99b931-b0fe-408e-9353-9c893a9c8b66",
@@ -19,26 +19,6 @@
       "status_updated_time": "2026-08-08T03:16:01",
       "latitude": 30.570188522338867,
       "longitude": -82.99700164794922,
-      "is_obscured": false
-    },
-    {
-      "id": "b8a2cb1a-b126-413d-8f3f-6d2061c621fb",
-      "incident_number": "261400433",
-      "incident_code": "2026-FLFLS-261400433",
-      "name": "13211 U.S. 92- Hillsborough (29)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Hillsborough",
-      "field_unit": "Lakeland",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-07T22:14:13",
-      "status_updated_time": "2026-08-07T22:14:13",
-      "latitude": 28.018577575683594,
-      "longitude": -82.23079681396484,
       "is_obscured": false
     },
     {
