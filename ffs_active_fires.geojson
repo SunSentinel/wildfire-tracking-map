@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.37162017822266,
-          30.61478042602539
-        ]
-      },
-      "properties": {
-        "id": "d2da2040-f76e-40ac-a9fe-ff50edc0c7a5",
-        "incident_number": "260100408",
-        "incident_code": "2026-FLFLS-260100408",
-        "name": "CANX-331 Annie Bell Drive (17)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Escambia",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-08T20:34:35",
-        "status_updated_time": "2026-08-08T20:35:23",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.99700164794922,
           30.570188522338867
         ]
