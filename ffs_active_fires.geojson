@@ -79,7 +79,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-07T21:46:00",
         "status_updated_time": "2026-08-07T23:57:09",
         "is_obscured": false
@@ -222,34 +222,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-31T22:07:00",
         "status_updated_time": "2026-08-07T14:31:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.91355895996094,
-          30.591083526611328
-        ]
-      },
-      "properties": {
-        "id": "f44c5209-e0e0-4d81-908a-8b4324231bf0",
-        "incident_number": "260600922",
-        "incident_code": "2026-FLFLS-260600922",
-        "name": "BAKERS MILL (24-04)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 12.0,
-        "containment_percent": 100,
-        "county": "Hamilton",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-07-26T17:00:00",
-        "status_updated_time": "2026-07-26T21:10:51",
         "is_obscured": false
       }
     },
