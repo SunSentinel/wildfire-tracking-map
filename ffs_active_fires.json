@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T16:31:43.973111Z",
+  "updated_at": "2026-08-08T17:23:35.404864Z",
   "incidents": [
     {
       "id": "bb99b931-b0fe-408e-9353-9c893a9c8b66",
@@ -26,17 +26,17 @@
       "incident_number": "261800128",
       "incident_code": "2026-FLFLS-261800128",
       "name": "LEMON PEPPER (13)",
-      "status": "Active",
+      "status": "Controlled",
       "category": "Wildfire",
       "acres": 100.0,
-      "containment_percent": 0,
+      "containment_percent": 100,
       "county": "Miami-Dade",
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-07T21:46:00",
-      "status_updated_time": "2026-08-07T23:57:09",
+      "status_updated_time": "2026-08-08T16:22:10",
       "latitude": 25.825721740722656,
       "longitude": -80.61425018310547,
       "is_obscured": false
