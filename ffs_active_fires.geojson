@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.99700164794922,
+          30.570188522338867
+        ]
+      },
+      "properties": {
+        "id": "bb99b931-b0fe-408e-9353-9c893a9c8b66",
+        "incident_number": "260600959",
+        "incident_code": "2026-FLFLS-260600959",
+        "name": "NW 24TH TERR (24-04)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hamilton",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 4,
+        "discovery_time": "2026-08-08T00:51:00",
+        "status_updated_time": "2026-08-08T02:08:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.23079681396484,
           28.018577575683594
         ]
