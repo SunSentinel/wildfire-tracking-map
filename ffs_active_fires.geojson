@@ -202,34 +202,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.2199478149414,
-          28.470643997192383
-        ]
-      },
-      "properties": {
-        "id": "7fe59f0c-0139-4553-91ac-6e99233c30e9",
-        "incident_number": "261200502",
-        "incident_code": "2026-FLFLS-261200502",
-        "name": "Bay Branch (48)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.66,
-        "containment_percent": 100,
-        "county": "Orange",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-02T22:25:05",
-        "status_updated_time": "2026-08-03T00:24:26",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.24256896972656,
           30.438039779663086
         ]
