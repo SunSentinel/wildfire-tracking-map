@@ -51,7 +51,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-08T00:51:00",
         "status_updated_time": "2026-08-08T03:16:01",
         "is_obscured": false
@@ -219,7 +219,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
