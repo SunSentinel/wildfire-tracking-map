@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:38:06.717126Z",
+  "updated_at": "2026-08-09T19:27:56.899967Z",
   "incidents": [
     {
       "id": "596df8fe-5a39-408c-bc58-65f918b27841",
@@ -34,31 +34,11 @@
       "field_unit": "Perry",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-08T23:00:00",
       "status_updated_time": "2026-08-09T02:54:08",
       "latitude": 30.14527702331543,
       "longitude": -83.92082977294922,
-      "is_obscured": false
-    },
-    {
-      "id": "bb99b931-b0fe-408e-9353-9c893a9c8b66",
-      "incident_number": "260600959",
-      "incident_code": "2026-FLFLS-260600959",
-      "name": "NW 24TH TERR (24-04)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 0.1,
-      "containment_percent": 100,
-      "county": "Hamilton",
-      "field_unit": "Suwannee",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-08-08T00:51:00",
-      "status_updated_time": "2026-08-08T03:16:01",
-      "latitude": 30.570188522338867,
-      "longitude": -82.99700164794922,
       "is_obscured": false
     },
     {
@@ -94,7 +74,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-06T19:53:00",
       "status_updated_time": "2026-08-06T22:27:01",
       "latitude": 30.331758499145508,
@@ -174,7 +154,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-14T17:59:00",
       "status_updated_time": "2026-07-14T18:57:01",
       "latitude": 30.493410110473633,
