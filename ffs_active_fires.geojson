@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.8812255859375,
-          28.914445877075195
+          -80.88027954101562,
+          28.91111183166504
         ]
       },
       "properties": {
         "id": "513d0edf-3c47-407c-8342-14ac841aeefb",
         "incident_number": "261200518",
         "incident_code": "2026-FLFLS-261200518",
-        "name": "4280 Clinton Cemetery Road- Volusia (64)",
+        "name": "Cemetery (64)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
@@ -51,7 +51,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-09T20:37:50",
         "is_obscured": false
@@ -62,24 +62,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.13841247558594,
-          30.276466369628906
+          -85.13639831542969,
+          30.275487899780273
         ]
       },
       "properties": {
         "id": "cfee5b77-3ed7-4290-a8aa-1412da3a5af9",
         "incident_number": "260200526",
         "incident_code": "2026-FLFLS-260200526",
-        "name": "Red Horse Sucker Road (07)",
+        "name": "IOLA  Road (07)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 0,
+        "acres": 12.0,
+        "containment_percent": 90,
         "county": "Calhoun",
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T19:40:25",
         "status_updated_time": "2026-08-09T20:22:05",
         "is_obscured": false
