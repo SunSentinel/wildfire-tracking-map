@@ -1,12 +1,32 @@
 {
-  "updated_at": "2026-08-09T20:34:21.476071Z",
+  "updated_at": "2026-08-09T21:25:09.544948Z",
   "incidents": [
+    {
+      "id": "8372373e-0324-467d-b548-2ea51cbe70bc",
+      "incident_number": "260700580",
+      "incident_code": "2026-FLFLS-260700580",
+      "name": "Hudson 4 (18)",
+      "status": "Active",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Flagler",
+      "field_unit": "Jacksonville",
+      "region": "Region 2",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 3,
+      "discovery_time": "2026-08-09T20:37:07",
+      "status_updated_time": "2026-08-09T20:37:50",
+      "latitude": 29.288610458374023,
+      "longitude": -81.27166748046875,
+      "is_obscured": false
+    },
     {
       "id": "cfee5b77-3ed7-4290-a8aa-1412da3a5af9",
       "incident_number": "260200526",
       "incident_code": "2026-FLFLS-260200526",
       "name": "Red Horse Sucker Road (07)",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
       "containment_percent": 0,
@@ -16,7 +36,7 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 3,
       "discovery_time": "2026-08-09T19:40:25",
-      "status_updated_time": "2026-08-09T19:40:25",
+      "status_updated_time": "2026-08-09T20:22:05",
       "latitude": 30.276466369628906,
       "longitude": -85.13841247558594,
       "is_obscured": false
