@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:53:41.116062Z",
+  "updated_at": "2026-08-09T12:37:28.173512Z",
   "incidents": [
     {
       "id": "42a34745-78d4-47e1-84bd-1571cd15b12f",
@@ -79,26 +79,6 @@
       "status_updated_time": "2026-08-06T22:27:01",
       "latitude": 30.331758499145508,
       "longitude": -82.67945098876953,
-      "is_obscured": false
-    },
-    {
-      "id": "55e155cd-cfa9-4f5a-83ec-523d0a59102e",
-      "incident_number": "260800753",
-      "incident_code": "2026-FLFLS-260800753",
-      "name": "IB- SW 31ST ST (42)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Marion",
-      "field_unit": "Waccasassa",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-05T12:54:00",
-      "status_updated_time": "2026-08-05T12:54:00",
-      "latitude": 29.159822463989258,
-      "longitude": -82.43226623535156,
       "is_obscured": false
     },
     {
