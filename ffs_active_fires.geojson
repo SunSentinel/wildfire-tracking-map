@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.13841247558594,
+          30.276466369628906
+        ]
+      },
+      "properties": {
+        "id": "cfee5b77-3ed7-4290-a8aa-1412da3a5af9",
+        "incident_number": "260200526",
+        "incident_code": "2026-FLFLS-260200526",
+        "name": "Red Horse Sucker Road (07)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Calhoun",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-09T19:40:25",
+        "status_updated_time": "2026-08-09T19:40:25",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.54437255859375,
           27.920337677001953
         ]
