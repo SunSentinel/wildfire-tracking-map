@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.54437255859375,
+          27.920337677001953
+        ]
+      },
+      "properties": {
+        "id": "596df8fe-5a39-408c-bc58-65f918b27841",
+        "incident_number": "261200517",
+        "incident_code": "2026-FLFLS-261200517",
+        "name": "3865 Grant Road- Brevard (05)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Brevard",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-09T18:11:35",
+        "status_updated_time": "2026-08-09T18:11:35",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.92082977294922,
           30.14527702331543
         ]
