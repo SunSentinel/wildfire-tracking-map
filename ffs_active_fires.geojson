@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.43724822998047,
-          27.236677169799805
-        ]
-      },
-      "properties": {
-        "id": "c62bb774-450f-4211-9258-7aadf3eaa9e5",
-        "incident_number": "261500548",
-        "incident_code": "2026-FLFLS-261500548",
-        "name": "Fort Pierce Avenue- Sarasota (58)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Sarasota",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-10T14:31:40",
-        "status_updated_time": "2026-08-10T14:31:40",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.88027954101562,
           28.91111183166504
         ]
@@ -107,7 +79,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T19:40:25",
         "status_updated_time": "2026-08-10T13:55:11",
         "is_obscured": false
@@ -135,7 +107,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T18:11:35",
         "status_updated_time": "2026-08-09T22:36:29",
         "is_obscured": false
@@ -163,7 +135,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-08T23:00:00",
         "status_updated_time": "2026-08-09T02:54:08",
         "is_obscured": false
@@ -191,7 +163,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-06T19:53:00",
         "status_updated_time": "2026-08-10T13:31:01",
         "is_obscured": false
@@ -331,7 +303,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
@@ -359,7 +331,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-09T18:32:41",
         "status_updated_time": "2026-07-10T02:46:32",
         "is_obscured": false
