@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:04:35.547669Z",
+  "updated_at": "2026-08-10T12:07:14.034012Z",
   "incidents": [
     {
       "id": "513d0edf-3c47-407c-8342-14ac841aeefb",
@@ -77,8 +77,8 @@
       "resources_assigned": 0,
       "discovery_time": "2026-08-09T18:11:35",
       "status_updated_time": "2026-08-09T22:36:29",
-      "latitude": 27.920337677001953,
-      "longitude": -80.54437255859375,
+      "latitude": 27.91777801513672,
+      "longitude": -80.54499816894531,
       "is_obscured": false
     },
     {
