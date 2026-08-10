@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.54328918457031,
+          30.876659393310547
+        ]
+      },
+      "properties": {
+        "id": "8f73a731-dedc-4d8f-9ebd-3978cf074692",
+        "incident_number": "260100410",
+        "incident_code": "2026-FLFLS-260100410",
+        "name": "Brushy Creek Ln (17)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Escambia",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-08-10T18:28:43",
+        "status_updated_time": "2026-08-10T18:28:43",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.88027954101562,
           28.91111183166504
         ]
@@ -51,7 +79,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
@@ -303,7 +331,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
