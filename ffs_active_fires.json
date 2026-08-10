@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:51:25.449394Z",
+  "updated_at": "2026-08-10T20:35:24.527140Z",
   "incidents": [
     {
       "id": "8f73a731-dedc-4d8f-9ebd-3978cf074692",
@@ -8,7 +8,7 @@
       "name": "Brushy Creek Ln (17)",
       "status": "Reported",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 0.1,
       "containment_percent": 0,
       "county": "Escambia",
       "field_unit": "Blackwater",
