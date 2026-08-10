@@ -303,37 +303,9 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.89250183105469,
-          28.40333366394043
-        ]
-      },
-      "properties": {
-        "id": "a481c936-008d-4bc8-ac63-9ef935e1fb33",
-        "incident_number": "261100526",
-        "incident_code": "2026-FLFLS-261100526",
-        "name": "VAN FLEET EAST (35)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 25.0,
-        "containment_percent": 100,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-07-09T18:32:41",
-        "status_updated_time": "2026-07-10T02:46:32",
         "is_obscured": false
       }
     },
