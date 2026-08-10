@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T03:47:31.225123Z",
+  "updated_at": "2026-08-10T05:20:23.659640Z",
   "incidents": [
     {
       "id": "513d0edf-3c47-407c-8342-14ac841aeefb",
@@ -34,7 +34,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 6,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-09T20:37:07",
       "status_updated_time": "2026-08-10T00:22:54",
       "latitude": 29.288610458374023,
