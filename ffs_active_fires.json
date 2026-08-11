@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:51:38.973001Z",
+  "updated_at": "2026-08-11T14:52:41.931559Z",
   "incidents": [
     {
       "id": "b7c448b7-8b09-4e44-b01b-f894e9de9570",
@@ -54,7 +54,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-09T22:15:24",
       "status_updated_time": "2026-08-10T00:13:41",
       "latitude": 28.91111183166504,
@@ -74,7 +74,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 4,
       "discovery_time": "2026-08-09T20:37:07",
       "status_updated_time": "2026-08-10T00:22:54",
       "latitude": 29.288610458374023,
@@ -86,7 +86,7 @@
       "incident_number": "260200526",
       "incident_code": "2026-FLFLS-260200526",
       "name": "IOLA  Road (07)",
-      "status": "Contained",
+      "status": "Controlled",
       "category": "Wildfire",
       "acres": 12.0,
       "containment_percent": 100,
@@ -96,7 +96,7 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 2,
       "discovery_time": "2026-08-09T19:40:25",
-      "status_updated_time": "2026-08-10T13:55:11",
+      "status_updated_time": "2026-08-11T14:01:52",
       "latitude": 30.275487899780273,
       "longitude": -85.13639831542969,
       "is_obscured": false
@@ -159,26 +159,6 @@
       "status_updated_time": "2026-08-05T16:57:46.002",
       "latitude": 25.737499237060547,
       "longitude": -80.4969482421875,
-      "is_obscured": false
-    },
-    {
-      "id": "fc21c5a1-9f03-40d4-ba36-48a87e3a66cf",
-      "incident_number": "260600947",
-      "incident_code": "2026-FLFLS-260600947",
-      "name": "BENNY JOE BENNETT RD (02)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 2.0,
-      "containment_percent": 100,
-      "county": "Baker",
-      "field_unit": "Suwannee",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-07-31T22:07:00",
-      "status_updated_time": "2026-08-07T14:31:00",
-      "latitude": 30.438039779663086,
-      "longitude": -82.24256896972656,
       "is_obscured": false
     },
     {
