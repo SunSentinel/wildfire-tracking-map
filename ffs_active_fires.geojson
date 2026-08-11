@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.33611297607422,
-          27.50260353088379
+          -81.37638854980469,
+          27.573055267333984
         ]
       },
       "properties": {
         "id": "be626222-d8e4-47fb-a245-e6a588171058",
         "incident_number": "261600653",
         "incident_code": "2026-FLFLS-261600653",
-        "name": "Sebring- Highlands (28)",
-        "status": "Reported",
+        "name": "Bay (28)",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Highlands",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-11T17:23:00",
-        "status_updated_time": "2026-08-11T17:23:00",
+        "status_updated_time": "2026-08-11T18:16:00",
         "is_obscured": false
       }
     },
@@ -79,7 +79,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-10T18:28:00",
         "status_updated_time": "2026-08-10T22:07:30.1442518",
         "is_obscured": false
@@ -211,7 +211,7 @@
         "incident_number": "261800123",
         "incident_code": "2026-FLFLS-261800123",
         "name": "THE KROME - (13)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 75.0,
         "containment_percent": 100,
@@ -221,7 +221,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-03T18:05:21",
-        "status_updated_time": "2026-08-05T16:57:46.002",
+        "status_updated_time": "2026-08-11T18:37:13",
         "is_obscured": false
       }
     },
@@ -303,7 +303,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
@@ -331,7 +331,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-05-04T20:15:00",
         "status_updated_time": "2026-08-05T15:35:00",
         "is_obscured": false
