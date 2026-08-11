@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-11T08:08:00.364485Z",
+  "updated_at": "2026-08-11T09:29:06.358406Z",
   "incidents": [
     {
       "id": "b7c448b7-8b09-4e44-b01b-f894e9de9570",
       "incident_number": "260100413",
       "incident_code": "2026-FLFLS-260100413",
       "name": "Chumuckla Springs Rd",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 0.1,
       "containment_percent": 0,
       "county": "Santa Rosa",
       "field_unit": "Blackwater",
@@ -16,7 +16,7 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 3,
       "discovery_time": "2026-08-11T04:49:14",
-      "status_updated_time": "2026-08-11T04:49:14",
+      "status_updated_time": "2026-08-11T08:48:46",
       "latitude": 30.78757095336914,
       "longitude": -87.23490142822266,
       "is_obscured": false

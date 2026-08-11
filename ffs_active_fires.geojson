@@ -15,9 +15,9 @@
         "incident_number": "260100413",
         "incident_code": "2026-FLFLS-260100413",
         "name": "Chumuckla Springs Rd",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.1,
         "containment_percent": 0,
         "county": "Santa Rosa",
         "field_unit": "Blackwater",
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-11T04:49:14",
-        "status_updated_time": "2026-08-11T04:49:14",
+        "status_updated_time": "2026-08-11T08:48:46",
         "is_obscured": false
       }
     },
