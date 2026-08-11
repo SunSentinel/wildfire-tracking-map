@@ -23,7 +23,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 12,
+        "resources_assigned": 9,
         "discovery_time": "2026-08-11T18:38:00",
         "status_updated_time": "2026-08-11T18:41:30",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
@@ -222,34 +222,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-08T23:00:00",
         "status_updated_time": "2026-08-09T02:54:08",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.4969482421875,
-          25.737499237060547
-        ]
-      },
-      "properties": {
-        "id": "dc679d04-1cc2-443d-a354-9f43fe5daac7",
-        "incident_number": "261800123",
-        "incident_code": "2026-FLFLS-261800123",
-        "name": "THE KROME - (13)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 75.0,
-        "containment_percent": 100,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-03T18:05:21",
-        "status_updated_time": "2026-08-11T18:37:13",
         "is_obscured": false
       }
     },
@@ -359,7 +331,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-05-04T20:15:00",
         "status_updated_time": "2026-08-05T15:35:00",
         "is_obscured": false
