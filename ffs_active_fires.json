@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-12T20:37:00.072562Z",
+  "updated_at": "2026-08-12T21:38:46.312237Z",
   "incidents": [
     {
       "id": "9381fcd8-5960-4302-bcf9-6ca938254d12",
       "incident_number": "261100595",
       "incident_code": "2026-FLFLS-261100595",
-      "name": "8973 Southeast 12th Drive- Sumter (60)",
+      "name": "SE 12TH DR (60)",
       "status": "Active",
       "category": "Wildfire",
       "acres": 5.0,
@@ -14,7 +14,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 7,
       "discovery_time": "2026-08-12T18:30:37",
       "status_updated_time": "2026-08-12T18:33:33",
       "latitude": 28.625228881835938,
