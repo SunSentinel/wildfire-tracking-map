@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.02460479736328,
+          29.601051330566406
+        ]
+      },
+      "properties": {
+        "id": "fbfd780b-d43d-4a66-af66-4311bbcea8a4",
+        "incident_number": "260800762",
+        "incident_code": "2026-FLFLS-260800762",
+        "name": "PINE ST (54)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-12T18:07:00",
+        "status_updated_time": "2026-08-12T18:07:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.06158447265625,
+          29.6314754486084
+        ]
+      },
+      "properties": {
+        "id": "6e5cd83c-6c5e-413b-b52c-6f1dae6d518e",
+        "incident_number": "260800761",
+        "incident_code": "2026-FLFLS-260800761",
+        "name": "IB - SE 41ST LN (01)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Alachua",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-12T17:43:00",
+        "status_updated_time": "2026-08-12T17:43:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.25708770751953,
           29.36651039123535
         ]
