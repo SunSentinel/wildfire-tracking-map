@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:36:01.341144Z",
+  "updated_at": "2026-08-12T20:37:00.072562Z",
   "incidents": [
     {
       "id": "9381fcd8-5960-4302-bcf9-6ca938254d12",
@@ -54,7 +54,7 @@
       "field_unit": "Blackwater",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-10T18:28:00",
       "status_updated_time": "2026-08-10T22:07:30.1442518",
       "latitude": 30.876659393310547,
@@ -119,26 +119,6 @@
       "status_updated_time": "2026-08-09T22:36:29",
       "latitude": 27.91777801513672,
       "longitude": -80.54499816894531,
-      "is_obscured": false
-    },
-    {
-      "id": "42a34745-78d4-47e1-84bd-1571cd15b12f",
-      "incident_number": "260500272",
-      "incident_code": "2026-FLFLS-260500272",
-      "name": "Two Trail (62)",
-      "status": "Controlled",
-      "category": "Wildfire",
-      "acres": 10.0,
-      "containment_percent": 100,
-      "county": "Taylor",
-      "field_unit": "Perry",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-08-08T23:00:00",
-      "status_updated_time": "2026-08-12T18:25:00",
-      "latitude": 30.14527702331543,
-      "longitude": -83.92082977294922,
       "is_obscured": false
     },
     {
@@ -214,7 +194,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-13T18:19:40",
       "status_updated_time": "2026-07-24T04:13:11",
       "latitude": 28.91666603088379,
