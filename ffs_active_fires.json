@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:38:46.312237Z",
+  "updated_at": "2026-08-12T22:33:44.828436Z",
   "incidents": [
     {
       "id": "9381fcd8-5960-4302-bcf9-6ca938254d12",
@@ -9,12 +9,12 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 5.0,
-      "containment_percent": 0,
+      "containment_percent": 95,
       "county": "Sumter",
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 7,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-12T18:30:37",
       "status_updated_time": "2026-08-12T18:33:33",
       "latitude": 28.625228881835938,
@@ -54,7 +54,7 @@
       "field_unit": "Blackwater",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-10T18:28:00",
       "status_updated_time": "2026-08-10T22:07:30.1442518",
       "latitude": 30.876659393310547,
