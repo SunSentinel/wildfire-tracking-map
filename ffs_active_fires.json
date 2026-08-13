@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-13T17:28:05.627324Z",
+  "updated_at": "2026-08-13T18:27:54.780739Z",
   "incidents": [
+    {
+      "id": "3e2edfa2-8436-4b53-b2d3-63243f5fce6a",
+      "incident_number": "260400482",
+      "incident_code": "2026-FLFLS-260400482",
+      "name": "Gretna- Gadsden (20)",
+      "status": "Reported",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Gadsden",
+      "field_unit": "Tallahassee",
+      "region": "Region 1",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-08-13T18:05:00",
+      "status_updated_time": "2026-08-13T18:05:00",
+      "latitude": 30.63745880126953,
+      "longitude": -84.6398696899414,
+      "is_obscured": false
+    },
     {
       "id": "ffde7a40-555b-481f-8ae5-92daf9c26559",
       "incident_number": "261800131",
@@ -94,7 +114,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-09T20:37:07",
       "status_updated_time": "2026-08-10T00:22:54",
       "latitude": 29.288610458374023,
