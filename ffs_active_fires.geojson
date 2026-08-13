@@ -71,17 +71,17 @@
         "incident_number": "260100410",
         "incident_code": "2026-FLFLS-260100410",
         "name": "Brushy Creek Ln (17)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.1,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Escambia",
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-10T18:28:00",
-        "status_updated_time": "2026-08-10T22:07:30.1442518",
+        "status_updated_time": "2026-08-10T19:48:19",
         "is_obscured": false
       }
     },
@@ -163,7 +163,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-09T18:11:35",
         "status_updated_time": "2026-08-09T22:36:29",
         "is_obscured": false
@@ -191,7 +191,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-26T23:57:36",
         "status_updated_time": "2026-08-08T16:44:30.001",
         "is_obscured": false
