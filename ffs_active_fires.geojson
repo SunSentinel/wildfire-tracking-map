@@ -51,7 +51,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T22:10:00",
         "status_updated_time": "2026-08-13T22:10:00",
         "is_obscured": false
@@ -62,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2715072631836,
-          26.687835693359375
+          -80.38571166992188,
+          26.96601676940918
         ]
       },
       "properties": {
@@ -75,11 +75,11 @@
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
+        "county": "Martin",
+        "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
         "is_obscured": false
@@ -90,15 +90,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.27429962158203,
-          26.687280654907227
+          -80.34416961669922,
+          26.93166732788086
         ]
       },
       "properties": {
         "id": "0725469d-26c6-4a39-874a-d7a2ff475d2a",
         "incident_number": "261800134",
         "incident_code": "2026-FLFLS-261800134",
-        "name": "14424 6th Court North- Palm Beach (50)",
+        "name": "THE AIRPORT (50)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
@@ -130,7 +130,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 75,
         "county": "Bradford",
         "field_unit": "Suwannee",
         "region": "Region 2",
@@ -191,7 +191,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T18:21:00",
         "status_updated_time": "2026-08-13T18:50:00.9346571",
         "is_obscured": false
@@ -214,7 +214,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 25.0,
-        "containment_percent": 75,
+        "containment_percent": 80,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
