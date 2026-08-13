@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-08-13T01:23:10.336882Z",
+  "updated_at": "2026-08-13T03:38:13.914084Z",
   "incidents": [
-    {
-      "id": "025409a4-949d-46e0-83cc-862546713f99",
-      "incident_number": "261800130",
-      "incident_code": "2026-FLFLS-261800130",
-      "name": "5833 Southwest 177th AVE (13)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Miami-Dade",
-      "field_unit": "Everglades",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-13T00:57:46",
-      "status_updated_time": "2026-08-12T23:57:46",
-      "latitude": 25.72021484375,
-      "longitude": -80.4797592163086,
-      "is_obscured": false
-    },
     {
       "id": "9381fcd8-5960-4302-bcf9-6ca938254d12",
       "incident_number": "261100595",
