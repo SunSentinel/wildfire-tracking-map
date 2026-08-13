@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.36600494384766,
+          26.379491806030273
+        ]
+      },
+      "properties": {
+        "id": "0b5f95b6-1ad0-43f2-bc9c-ac763a931a65",
+        "incident_number": "261700194",
+        "incident_code": "2026-FLFLS-261700194",
+        "name": "Creek 846 (11)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Collier",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-13T18:46:00",
+        "status_updated_time": "2026-08-13T18:46:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6669921875,
+          29.730676651000977
+        ]
+      },
+      "properties": {
+        "id": "ccd185a5-77d2-407d-8583-5334897653c7",
+        "incident_number": "260800763",
+        "incident_code": "2026-FLFLS-260800763",
+        "name": "COW BAY 3 (54)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 2.0,
+        "containment_percent": 0,
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-08-13T18:21:00",
+        "status_updated_time": "2026-08-13T18:50:00.9346571",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -84.6398696899414,
           30.63745880126953
         ]
@@ -14,8 +70,8 @@
         "id": "3e2edfa2-8436-4b53-b2d3-63243f5fce6a",
         "incident_number": "260400482",
         "incident_code": "2026-FLFLS-260400482",
-        "name": "Gretna- Gadsden (20)",
-        "status": "Reported",
+        "name": "Gretna- Gadsden (20) 0482",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -23,9 +79,9 @@
         "field_unit": "Tallahassee",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T18:05:00",
-        "status_updated_time": "2026-08-13T18:05:00",
+        "status_updated_time": "2026-08-13T18:11:00",
         "is_obscured": false
       }
     },
@@ -107,7 +163,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-11T18:38:00",
         "status_updated_time": "2026-08-11T21:04:26",
         "is_obscured": false
@@ -163,7 +219,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
