@@ -6,26 +6,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.36600494384766,
-          26.379491806030273
+          -82.03775787353516,
+          29.568832397460938
         ]
       },
       "properties": {
-        "id": "0b5f95b6-1ad0-43f2-bc9c-ac763a931a65",
-        "incident_number": "261700194",
-        "incident_code": "2026-FLFLS-261700194",
-        "name": "Creek 846 (11)",
+        "id": "e3b20fd7-8d01-409a-bd18-90f710dd1de1",
+        "incident_number": "260800764",
+        "incident_code": "2026-FLFLS-260800764",
+        "name": "GORDON CHAPEL RD (54)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Collier",
-        "field_unit": "Caloosahatchee",
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 10,
+        "discovery_time": "2026-08-13T20:09:00",
+        "status_updated_time": "2026-08-13T20:09:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17243194580078,
+          29.846717834472656
+        ]
+      },
+      "properties": {
+        "id": "a8ea3cf5-fb01-49f7-9ed0-b76870be6fb5",
+        "incident_number": "260600973",
+        "incident_code": "2026-FLFLS-260600973",
+        "name": "HAMPTON LAKE / 86TH ST (04)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Bradford",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-13T19:59:00",
+        "status_updated_time": "2026-08-13T19:59:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47444152832031,
+          25.710832595825195
+        ]
+      },
+      "properties": {
+        "id": "8392d5a1-54d0-40b2-9a3a-38a109d4934c",
+        "incident_number": "261800132",
+        "incident_code": "2026-FLFLS-261800132",
+        "name": "THE RADIO TOWER (13)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 30.0,
+        "containment_percent": 0,
+        "county": "Miami-Dade",
+        "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-13T18:46:00",
-        "status_updated_time": "2026-08-13T18:46:00",
+        "resources_assigned": 4,
+        "discovery_time": "2026-08-13T19:32:12",
+        "status_updated_time": "2026-08-13T20:08:05",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54391479492188,
+          25.590972900390625
+        ]
+      },
+      "properties": {
+        "id": "dc57e29d-8e74-48f7-b4d6-9c431a7c30a1",
+        "incident_number": "261800133",
+        "incident_code": "2026-FLFLS-261800133",
+        "name": "18850 Southwest 168th Street- Miami-Dade (13)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Miami-Dade",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-08-13T19:32:55",
+        "status_updated_time": "2026-08-13T19:32:55",
         "is_obscured": false
       }
     },
@@ -45,7 +129,7 @@
         "name": "COW BAY 3 (54)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 2.0,
+        "acres": 3.17,
         "containment_percent": 0,
         "county": "Putnam",
         "field_unit": "Waccasassa",
@@ -62,36 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.6398696899414,
-          30.63745880126953
-        ]
-      },
-      "properties": {
-        "id": "3e2edfa2-8436-4b53-b2d3-63243f5fce6a",
-        "incident_number": "260400482",
-        "incident_code": "2026-FLFLS-260400482",
-        "name": "Gretna- Gadsden (20) 0482",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Gadsden",
-        "field_unit": "Tallahassee",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-13T18:05:00",
-        "status_updated_time": "2026-08-13T18:11:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.47140502929688,
-          25.76082992553711
+          -80.47000122070312,
+          25.748056411743164
         ]
       },
       "properties": {
@@ -101,13 +157,13 @@
         "name": "THE TRAIL (13)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 25.0,
+        "containment_percent": 75,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 14,
+        "resources_assigned": 10,
         "discovery_time": "2026-08-13T16:42:47",
         "status_updated_time": "2026-08-13T17:03:53",
         "is_obscured": false
@@ -163,7 +219,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-11T18:38:00",
         "status_updated_time": "2026-08-11T21:04:26",
         "is_obscured": false
