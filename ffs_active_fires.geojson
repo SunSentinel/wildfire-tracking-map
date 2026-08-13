@@ -18,7 +18,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 5.0,
-        "containment_percent": 95,
+        "containment_percent": 100,
         "county": "Sumter",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
@@ -275,7 +275,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
@@ -303,7 +303,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-05-04T20:15:00",
         "status_updated_time": "2026-08-05T15:35:00",
         "is_obscured": false
