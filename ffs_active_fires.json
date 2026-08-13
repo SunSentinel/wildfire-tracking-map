@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T12:56:22.806258Z",
+  "updated_at": "2026-08-13T14:20:57.663852Z",
   "incidents": [
     {
       "id": "9381fcd8-5960-4302-bcf9-6ca938254d12",
@@ -74,7 +74,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-09T22:15:24",
       "status_updated_time": "2026-08-10T00:13:41",
       "latitude": 28.91111183166504,
@@ -134,7 +134,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 6,
       "discovery_time": "2026-07-26T23:57:36",
       "status_updated_time": "2026-08-08T16:44:30.001",
       "latitude": 29.477861404418945,
@@ -174,7 +174,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-07-14T17:59:00",
       "status_updated_time": "2026-07-14T18:57:01",
       "latitude": 30.493410110473633,
@@ -194,31 +194,11 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 4,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-13T18:19:40",
       "status_updated_time": "2026-07-24T04:13:11",
       "latitude": 28.91666603088379,
       "longitude": -81.48666381835938,
-      "is_obscured": false
-    },
-    {
-      "id": "b113d6ad-b121-4af2-9c99-11c3d45db9de",
-      "incident_number": "260500199",
-      "incident_code": "2026-FLFLS-260500199",
-      "name": "South Canal- Lafayette (34)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 2265.0,
-      "containment_percent": 100,
-      "county": "Lafayette",
-      "field_unit": "Perry",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-05-04T20:15:00",
-      "status_updated_time": "2026-08-05T15:35:00",
-      "latitude": 29.85179328918457,
-      "longitude": -83.17520141601562,
       "is_obscured": false
     }
   ]
