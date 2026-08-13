@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.03775787353516,
-          29.568832397460938
-        ]
-      },
-      "properties": {
-        "id": "e3b20fd7-8d01-409a-bd18-90f710dd1de1",
-        "incident_number": "260800764",
-        "incident_code": "2026-FLFLS-260800764",
-        "name": "GORDON CHAPEL RD (54)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 10,
-        "discovery_time": "2026-08-13T20:09:00",
-        "status_updated_time": "2026-08-13T20:09:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.17243194580078,
           29.846717834472656
         ]
@@ -43,7 +15,7 @@
         "incident_number": "260600973",
         "incident_code": "2026-FLFLS-260600973",
         "name": "HAMPTON LAKE / 86TH ST (04)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -51,9 +23,9 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 10,
         "discovery_time": "2026-08-13T19:59:00",
-        "status_updated_time": "2026-08-13T19:59:00",
+        "status_updated_time": "2026-08-13T20:32:00",
         "is_obscured": false
       }
     },
@@ -79,7 +51,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 10,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05",
         "is_obscured": false
@@ -98,10 +70,10 @@
         "id": "dc57e29d-8e74-48f7-b4d6-9c431a7c30a1",
         "incident_number": "261800133",
         "incident_code": "2026-FLFLS-261800133",
-        "name": "18850 Southwest 168th Street- Miami-Dade (13)",
-        "status": "Reported",
+        "name": "THE CATTIS (13)",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 75.0,
         "containment_percent": 0,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
@@ -109,7 +81,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 6,
         "discovery_time": "2026-08-13T19:32:55",
-        "status_updated_time": "2026-08-13T19:32:55",
+        "status_updated_time": "2026-08-13T21:31:30",
         "is_obscured": false
       }
     },
