@@ -6,8 +6,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.88866424560547,
-          30.34479522705078
+          -81.74264526367188,
+          28.178756713867188
+        ]
+      },
+      "properties": {
+        "id": "271197be-359d-4538-b47e-2bcf520cd255",
+        "incident_number": "261400444",
+        "incident_code": "2026-FLFLS-261400444",
+        "name": "6000 State Road 557- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 4,
+        "discovery_time": "2026-08-14T20:29:45",
+        "status_updated_time": "2026-08-14T20:29:45",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88912963867188,
+          30.346590042114258
         ]
       },
       "properties": {
@@ -15,17 +43,17 @@
         "incident_number": "260200529",
         "incident_code": "2026-FLFLS-260200529",
         "name": "STEEL FIELD RD (03)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 0.5,
+        "containment_percent": 100,
         "county": "Bay",
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T18:47:31",
-        "status_updated_time": "2026-08-14T19:10:48",
+        "status_updated_time": "2026-08-14T20:06:38",
         "is_obscured": false
       }
     },
@@ -43,17 +71,17 @@
         "incident_number": "261200527",
         "incident_code": "2026-FLFLS-261200527",
         "name": "CEDAR WAY (64)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 0,
+        "acres": 2.7,
+        "containment_percent": 100,
         "county": "Volusia",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-14T18:01:39",
-        "status_updated_time": "2026-08-14T18:02:25",
+        "status_updated_time": "2026-08-14T20:00:27",
         "is_obscured": false
       }
     },
@@ -107,7 +135,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-14T16:53:55",
         "is_obscured": false
@@ -135,7 +163,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
         "is_obscured": false
