@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.51911926269531,
+          29.558629989624023
+        ]
+      },
+      "properties": {
+        "id": "4161b92a-7892-424c-8d3e-a1ccf06de921",
+        "incident_number": "260700590",
+        "incident_code": "2026-FLFLS-260700590",
+        "name": "SR 20 County Line #2 (18)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Flagler",
+        "field_unit": "Jacksonville",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-14T15:19:00",
+        "status_updated_time": "2026-08-14T15:19:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.38571166992188,
           26.96601676940918
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
         "is_obscured": false
@@ -45,13 +73,13 @@
         "name": "THE AIRPORT (50)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.5,
+        "acres": 0.4,
         "containment_percent": 100,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T20:55:26",
         "status_updated_time": "2026-08-14T12:09:02",
         "is_obscured": false
@@ -73,7 +101,7 @@
         "name": "HAMPTON LAKE / 86TH ST (04)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 5.0,
         "containment_percent": 75,
         "county": "Bradford",
         "field_unit": "Suwannee",
