@@ -6,8 +6,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4939193725586,
-          29.26736068725586
+          -85.88866424560547,
+          30.34479522705078
+        ]
+      },
+      "properties": {
+        "id": "8e1ff365-2ff8-4534-bb20-2c6edff8696f",
+        "incident_number": "260200529",
+        "incident_code": "2026-FLFLS-260200529",
+        "name": "STEEL FIELD RD (03)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Bay",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-14T18:47:31",
+        "status_updated_time": "2026-08-14T19:10:48",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49500274658203,
+          29.268054962158203
         ]
       },
       "properties": {
@@ -17,7 +45,7 @@
         "name": "CEDAR WAY (64)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 3.0,
         "containment_percent": 0,
         "county": "Volusia",
         "field_unit": "Orlando",
@@ -79,7 +107,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-14T16:53:55",
         "is_obscured": false
@@ -163,7 +191,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T19:59:00",
         "status_updated_time": "2026-08-13T20:32:00",
         "is_obscured": false
@@ -191,37 +219,9 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 27,
+        "resources_assigned": 30,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.54391479492188,
-          25.590972900390625
-        ]
-      },
-      "properties": {
-        "id": "dc57e29d-8e74-48f7-b4d6-9c431a7c30a1",
-        "incident_number": "261800133",
-        "incident_code": "2026-FLFLS-261800133",
-        "name": "THE CADDIS (13)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 117.0,
-        "containment_percent": 100,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-13T19:32:55",
-        "status_updated_time": "2026-08-14T12:10:13",
         "is_obscured": false
       }
     },
@@ -387,7 +387,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
@@ -499,7 +499,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
