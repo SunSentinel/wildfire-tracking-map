@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.9664077758789,
-          29.057811737060547
-        ]
-      },
-      "properties": {
-        "id": "597d7a30-a829-4bc5-a254-39b5dcfb4a54",
-        "incident_number": "260800765",
-        "incident_code": "2026-FLFLS-260800765",
-        "name": "LOCUST RUN (42)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 0,
-        "county": "Marion",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-13T22:10:00",
-        "status_updated_time": "2026-08-13T23:30:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.38571166992188,
           26.96601676940918
         ]
@@ -107,7 +79,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 14,
         "discovery_time": "2026-08-13T19:59:00",
         "status_updated_time": "2026-08-13T20:32:00",
         "is_obscured": false
@@ -135,7 +107,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 25,
+        "resources_assigned": 30,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -387,7 +359,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-26T23:57:36",
         "status_updated_time": "2026-08-08T16:44:30.001",
         "is_obscured": false
