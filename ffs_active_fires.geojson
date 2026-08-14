@@ -23,7 +23,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T22:10:00",
         "status_updated_time": "2026-08-13T23:30:00",
         "is_obscured": false
@@ -51,7 +51,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
         "is_obscured": false
@@ -79,7 +79,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T20:55:26",
         "status_updated_time": "2026-08-14T12:09:02",
         "is_obscured": false
@@ -129,13 +129,13 @@
         "name": "THE RADIO TOWER (13)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 50.0,
+        "acres": 188.0,
         "containment_percent": 50,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 22,
+        "resources_assigned": 25,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -191,7 +191,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T18:21:00",
         "status_updated_time": "2026-08-13T18:50:00.9346571",
         "is_obscured": false
@@ -230,34 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.90750122070312,
-          27.4647216796875
-        ]
-      },
-      "properties": {
-        "id": "0ddf477d-9dd0-4c4c-97e0-27684cc08a93",
-        "incident_number": "261600662",
-        "incident_code": "2026-FLFLS-261600662",
-        "name": "Eagle Island Rd (47)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 11.0,
-        "containment_percent": 100,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
-        "discovery_time": "2026-08-13T14:58:00",
-        "status_updated_time": "2026-08-14T04:41:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.08506774902344,
           28.625228881835938
         ]
@@ -286,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.25708770751953,
-          29.36651039123535
+          -81.25824737548828,
+          29.36993408203125
         ]
       },
       "properties": {
@@ -342,8 +314,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.27166748046875,
-          29.288610458374023
+          -81.26480102539062,
+          29.2821044921875
         ]
       },
       "properties": {
@@ -415,7 +387,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-26T23:57:36",
         "status_updated_time": "2026-08-08T16:44:30.001",
         "is_obscured": false
