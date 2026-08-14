@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:26:59.425379Z",
+  "updated_at": "2026-08-14T20:03:01.329603Z",
   "incidents": [
     {
       "id": "8e1ff365-2ff8-4534-bb20-2c6edff8696f",
@@ -88,8 +88,8 @@
       "name": "NORTH HUNGRYLAND (50)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 10.0,
-      "containment_percent": 40,
+      "acres": 45.0,
+      "containment_percent": 75,
       "county": "Martin",
       "field_unit": "Okeechobee",
       "region": "Region 4",
@@ -274,7 +274,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-09T20:37:07",
       "status_updated_time": "2026-08-10T00:22:54",
       "latitude": 29.2821044921875,
