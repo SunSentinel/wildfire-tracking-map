@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.3052749633789,
+          27.026111602783203
+        ]
+      },
+      "properties": {
+        "id": "2124b8d8-dc4a-4add-b31a-5814a44704eb",
+        "incident_number": "261600668",
+        "incident_code": "2026-FLFLS-261600668",
+        "name": "Cabbage (43)",
+        "status": "Controlled",
+        "category": "Wildfire",
+        "acres": 0.1,
+        "containment_percent": 100,
+        "county": "Martin",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-14T16:27:16",
+        "status_updated_time": "2026-08-14T16:58:49",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.51911926269531,
           29.558629989624023
         ]
@@ -15,7 +43,7 @@
         "incident_number": "260700590",
         "incident_code": "2026-FLFLS-260700590",
         "name": "SR 20 County Line #2 (18)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -23,9 +51,9 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-14T15:19:00",
-        "status_updated_time": "2026-08-14T15:19:00",
+        "status_updated_time": "2026-08-14T16:53:55",
         "is_obscured": false
       }
     },
@@ -34,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.38571166992188,
-          26.96601676940918
+          -80.37694549560547,
+          26.9777774810791
         ]
       },
       "properties": {
@@ -45,13 +73,13 @@
         "name": "NORTH HUNGRYLAND (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 5.0,
+        "containment_percent": 30,
         "county": "Martin",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
         "is_obscured": false
@@ -107,7 +135,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 14,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-13T19:59:00",
         "status_updated_time": "2026-08-13T20:32:00",
         "is_obscured": false
