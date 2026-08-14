@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.74264526367188,
-          28.178756713867188
+          -81.73916625976562,
+          28.18027687072754
         ]
       },
       "properties": {
         "id": "271197be-359d-4538-b47e-2bcf520cd255",
         "incident_number": "261400444",
         "incident_code": "2026-FLFLS-261400444",
-        "name": "6000 State Road 557- Polk (53)",
-        "status": "Reported",
+        "name": "OSPREY FIRE (53)",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 3.0,
         "containment_percent": 0,
         "county": "Polk",
         "field_unit": "Lakeland",
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 4,
         "discovery_time": "2026-08-14T20:29:45",
-        "status_updated_time": "2026-08-14T20:29:45",
+        "status_updated_time": "2026-08-14T22:06:31",
         "is_obscured": false
       }
     },
