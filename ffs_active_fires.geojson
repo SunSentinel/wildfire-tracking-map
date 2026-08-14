@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.3672866821289,
-          26.983436584472656
-        ]
-      },
-      "properties": {
-        "id": "2f1ca732-60f0-4553-b4a3-1a56e1ed6768",
-        "incident_number": "261600661",
-        "incident_code": "2026-FLFLS-261600661",
-        "name": "WArfield (43)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-13T22:12:00",
-        "status_updated_time": "2026-08-13T22:12:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.9664077758789,
           29.057811737060547
         ]
@@ -43,17 +15,17 @@
         "incident_number": "260800765",
         "incident_code": "2026-FLFLS-260800765",
         "name": "LOCUST RUN (42)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.25,
         "containment_percent": 0,
         "county": "Marion",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T22:10:00",
-        "status_updated_time": "2026-08-13T22:10:00",
+        "status_updated_time": "2026-08-13T23:30:00",
         "is_obscured": false
       }
     },
@@ -70,7 +42,7 @@
         "id": "193bdce3-c109-4552-83da-4e192325bd8f",
         "incident_number": "261800135",
         "incident_code": "2026-FLFLS-261800135",
-        "name": "14281 Collecting Canal Road- Palm Beach (50)",
+        "name": "NORTH HUNGRYLAND (50)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
@@ -79,37 +51,9 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.34416961669922,
-          26.93166732788086
-        ]
-      },
-      "properties": {
-        "id": "0725469d-26c6-4a39-874a-d7a2ff475d2a",
-        "incident_number": "261800134",
-        "incident_code": "2026-FLFLS-261800134",
-        "name": "THE AIRPORT (50)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-13T20:55:26",
-        "status_updated_time": "2026-08-13T22:02:15",
         "is_obscured": false
       }
     },
@@ -135,37 +79,9 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 10,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T19:59:00",
         "status_updated_time": "2026-08-13T20:32:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.54391479492188,
-          25.590972900390625
-        ]
-      },
-      "properties": {
-        "id": "dc57e29d-8e74-48f7-b4d6-9c431a7c30a1",
-        "incident_number": "261800133",
-        "incident_code": "2026-FLFLS-261800133",
-        "name": "THE CADDIS (13)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 75.0,
-        "containment_percent": 0,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
-        "discovery_time": "2026-08-13T19:32:55",
-        "status_updated_time": "2026-08-13T21:31:30",
         "is_obscured": false
       }
     },
