@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:15:56.662467Z",
+  "updated_at": "2026-08-14T22:47:41.470307Z",
   "incidents": [
     {
       "id": "271197be-359d-4538-b47e-2bcf520cd255",
@@ -9,12 +9,12 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 3.0,
-      "containment_percent": 0,
+      "containment_percent": 50,
       "county": "Polk",
       "field_unit": "Lakeland",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 4,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-14T20:29:45",
       "status_updated_time": "2026-08-14T22:06:31",
       "latitude": 28.18027687072754,
