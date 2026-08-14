@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.4939193725586,
+          29.26736068725586
+        ]
+      },
+      "properties": {
+        "id": "de2540d9-1e1e-49ab-a39c-edc13ca292a4",
+        "incident_number": "261200527",
+        "incident_code": "2026-FLFLS-261200527",
+        "name": "CEDAR WAY (64)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-08-14T18:01:39",
+        "status_updated_time": "2026-08-14T18:02:25",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.3052749633789,
           27.026111602783203
         ]
@@ -73,13 +101,13 @@
         "name": "NORTH HUNGRYLAND (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 30,
+        "acres": 10.0,
+        "containment_percent": 40,
         "county": "Martin",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
         "is_obscured": false
@@ -163,7 +191,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 30,
+        "resources_assigned": 27,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -191,7 +219,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T19:32:55",
         "status_updated_time": "2026-08-14T12:10:13",
         "is_obscured": false
@@ -471,7 +499,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-13T18:19:40",
         "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
