@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T01:22:15.369836Z",
+  "updated_at": "2026-08-14T03:36:01.993321Z",
   "incidents": [
     {
       "id": "597d7a30-a829-4bc5-a254-39b5dcfb4a54",
@@ -34,7 +34,7 @@
       "field_unit": "Okeechobee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 7,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-13T21:50:32",
       "status_updated_time": "2026-08-13T22:09:12",
       "latitude": 26.96601676940918,
@@ -94,11 +94,31 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 8,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-13T16:42:47",
       "status_updated_time": "2026-08-13T17:03:53",
       "latitude": 25.748056411743164,
       "longitude": -80.47000122070312,
+      "is_obscured": false
+    },
+    {
+      "id": "0ddf477d-9dd0-4c4c-97e0-27684cc08a93",
+      "incident_number": "261600662",
+      "incident_code": "2026-FLFLS-261600662",
+      "name": "9192 County Road 724- Okeechobee (47)",
+      "status": "Reported",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Okeechobee",
+      "field_unit": "Okeechobee",
+      "region": "Region 4",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 3,
+      "discovery_time": "2026-08-13T14:58:00",
+      "status_updated_time": "2026-08-13T14:58:00",
+      "latitude": 27.464916229248047,
+      "longitude": -80.93649291992188,
       "is_obscured": false
     },
     {
