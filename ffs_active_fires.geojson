@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.59850311279297,
+          27.924694061279297
+        ]
+      },
+      "properties": {
+        "id": "cc4f9691-8443-4d8d-bf1a-05e53b2953d3",
+        "incident_number": "261200529",
+        "incident_code": "2026-FLFLS-261200529",
+        "name": "1230 Perry Road- Brevard (05)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Brevard",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-15T18:14:51",
+        "status_updated_time": "2026-08-15T18:14:51",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17657470703125,
+          27.09491729736328
+        ]
+      },
+      "properties": {
+        "id": "4e7b2d89-48f2-47b4-91c6-16d0748200fe",
+        "incident_number": "261500551",
+        "incident_code": "2026-FLFLS-261500551",
+        "name": "Tahiti Street (58)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Sarasota",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-15T18:10:20",
+        "status_updated_time": "2026-08-15T18:10:20",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.08899688720703,
           26.532699584960938
         ]
@@ -17,7 +73,7 @@
         "name": "5015 Stringfellow Road- Lee (36)",
         "status": "Reported",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.25,
         "containment_percent": 0,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
@@ -34,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.89485168457031,
-          29.54384994506836
+          -81.89583587646484,
+          29.557777404785156
         ]
       },
       "properties": {
@@ -415,7 +471,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-11T18:38:00",
         "status_updated_time": "2026-08-11T21:04:26",
         "is_obscured": false
