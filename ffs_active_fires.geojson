@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.5529556274414,
+          29.70733642578125
+        ]
+      },
+      "properties": {
+        "id": "e3aeaef1-12e8-4365-a754-430554699c0c",
+        "incident_number": "260800768",
+        "incident_code": "2026-FLFLS-260800768",
+        "name": "FEDERAL POINT RD (54)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-15T19:56:00",
+        "status_updated_time": "2026-08-15T19:56:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.59850311279297,
           27.924694061279297
         ]
