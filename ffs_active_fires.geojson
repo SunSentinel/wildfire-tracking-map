@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.91947174072266,
-          29.261444091796875
-        ]
-      },
-      "properties": {
-        "id": "4ece0214-6745-4eec-8de2-93eb0c318e64",
-        "incident_number": "260800767",
-        "incident_code": "2026-FLFLS-260800767",
-        "name": "9031 Purdue Road- Levy (38)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Levy",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-15T16:10:58",
-        "status_updated_time": "2026-08-15T16:10:58",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.89485168457031,
           29.54384994506836
         ]
@@ -42,7 +14,7 @@
         "id": "391a557b-2324-4448-be50-58e14ffe9a8a",
         "incident_number": "260800766",
         "incident_code": "2026-FLFLS-260800766",
-        "name": "COUSINTOWN RD (54)",
+        "name": "COUSINTOWN TRACT (54)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
@@ -135,7 +107,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27",
         "is_obscured": false
@@ -415,7 +387,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-11T18:38:00",
         "status_updated_time": "2026-08-11T21:04:26",
         "is_obscured": false
@@ -471,7 +443,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
