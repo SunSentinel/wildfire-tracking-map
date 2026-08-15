@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.73916625976562,
-          28.18027687072754
-        ]
-      },
-      "properties": {
-        "id": "271197be-359d-4538-b47e-2bcf520cd255",
-        "incident_number": "261400444",
-        "incident_code": "2026-FLFLS-261400444",
-        "name": "OSPREY FIRE (53)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 50,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-08-14T20:29:45",
-        "status_updated_time": "2026-08-14T22:06:31",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -85.88912963867188,
           30.346590042114258
         ]
@@ -135,7 +107,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-15T13:33:00",
         "is_obscured": false
@@ -415,7 +387,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
