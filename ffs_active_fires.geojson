@@ -14,7 +14,7 @@
         "id": "cc4f9691-8443-4d8d-bf1a-05e53b2953d3",
         "incident_number": "261200529",
         "incident_code": "2026-FLFLS-261200529",
-        "name": "1230 Perry Road- Brevard (05)",
+        "name": "Perry Road- Brevard (05)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
@@ -23,37 +23,9 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-15T18:14:51",
         "status_updated_time": "2026-08-15T18:14:51",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.17657470703125,
-          27.09491729736328
-        ]
-      },
-      "properties": {
-        "id": "4e7b2d89-48f2-47b4-91c6-16d0748200fe",
-        "incident_number": "261500551",
-        "incident_code": "2026-FLFLS-261500551",
-        "name": "Tahiti Street (58)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Sarasota",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-15T18:10:20",
-        "status_updated_time": "2026-08-15T18:10:20",
         "is_obscured": false
       }
     },
@@ -101,8 +73,8 @@
         "name": "COUSINTOWN TRACT (54)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 1.0,
+        "containment_percent": 95,
         "county": "Putnam",
         "field_unit": "Waccasassa",
         "region": "Region 2",
@@ -275,7 +247,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T21:50:32",
         "status_updated_time": "2026-08-13T22:09:12",
         "is_obscured": false
