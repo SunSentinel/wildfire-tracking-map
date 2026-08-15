@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.18769836425781,
+          28.286300659179688
+        ]
+      },
+      "properties": {
+        "id": "bdc91813-1c6c-4097-84c7-af8c3a5d4073",
+        "incident_number": "261200530",
+        "incident_code": "2026-FLFLS-261200530",
+        "name": "601 Eden Drive- Osceola (49)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Osceola",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-15T20:29:57",
+        "status_updated_time": "2026-08-15T20:29:57",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62247467041016,
+          29.694746017456055
+        ]
+      },
+      "properties": {
+        "id": "1fcda19e-7f21-499a-a417-c8db954425bd",
+        "incident_number": "260800769",
+        "incident_code": "2026-FLFLS-260800769",
+        "name": "ATKINS LANE (54)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-15T20:02:00",
+        "status_updated_time": "2026-08-15T20:02:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.5529556274414,
           29.70733642578125
         ]
@@ -23,7 +79,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-15T19:56:00",
         "status_updated_time": "2026-08-15T19:56:00",
         "is_obscured": false
@@ -34,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.59850311279297,
-          27.924694061279297
+          -80.5955581665039,
+          27.908889770507812
         ]
       },
       "properties": {
@@ -43,45 +99,17 @@
         "incident_number": "261200529",
         "incident_code": "2026-FLFLS-261200529",
         "name": "Gasline- Brevard (05)",
-        "status": "Reported",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Brevard",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-15T18:14:51",
-        "status_updated_time": "2026-08-15T18:14:51",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.08860778808594,
-          26.532222747802734
-        ]
-      },
-      "properties": {
-        "id": "8315d7c1-b09a-46a5-9c3d-1aaa36e060c5",
-        "incident_number": "261700196",
-        "incident_code": "2026-FLFLS-261700196",
-        "name": "5015 Stringfellow Road- Lee (36)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Lee",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-15T17:03:36",
-        "status_updated_time": "2026-08-15T19:03:59",
+        "status_updated_time": "2026-08-15T20:11:50",
         "is_obscured": false
       }
     },
