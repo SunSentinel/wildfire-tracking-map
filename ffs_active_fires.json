@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:45:35.761917Z",
+  "updated_at": "2026-08-15T21:15:04.451649Z",
   "incidents": [
     {
       "id": "bdc91813-1c6c-4097-84c7-af8c3a5d4073",
@@ -14,7 +14,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 5,
       "discovery_time": "2026-08-15T20:29:57",
       "status_updated_time": "2026-08-15T20:29:57",
       "latitude": 28.286300659179688,
@@ -46,7 +46,7 @@
       "incident_number": "260800768",
       "incident_code": "2026-FLFLS-260800768",
       "name": "FEDERAL POINT RD (54)",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
       "containment_percent": 0,
@@ -56,7 +56,7 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 3,
       "discovery_time": "2026-08-15T19:56:00",
-      "status_updated_time": "2026-08-15T19:56:00",
+      "status_updated_time": "2026-08-15T21:04:40",
       "latitude": 29.70733642578125,
       "longitude": -81.5529556274414,
       "is_obscured": false
@@ -74,7 +74,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-15T18:14:51",
       "status_updated_time": "2026-08-15T20:11:50",
       "latitude": 27.908889770507812,
