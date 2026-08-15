@@ -14,7 +14,7 @@
         "id": "e1e0a671-e347-4cd1-8e0d-21e087aac66a",
         "incident_number": "261200531",
         "incident_code": "2026-FLFLS-261200531",
-        "name": "Odyssey Lane- Orange (48)",
+        "name": "Wilderness Creek Fire- Orange (48)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
@@ -62,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.18769836425781,
-          28.286300659179688
+          -81.18777465820312,
+          28.29222297668457
         ]
       },
       "properties": {
@@ -74,7 +74,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 20,
         "county": "Osceola",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -102,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.5,
-        "containment_percent": 0,
+        "containment_percent": 95,
         "county": "Putnam",
         "field_unit": "Waccasassa",
         "region": "Region 2",
@@ -438,7 +438,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 700.0,
-        "containment_percent": 50,
+        "containment_percent": 80,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
