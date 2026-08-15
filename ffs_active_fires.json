@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-08-15T04:02:38.172086Z",
+  "updated_at": "2026-08-15T04:54:56.332861Z",
   "incidents": [
-    {
-      "id": "f435ad39-5e4f-47e6-8ad1-b06234a7cab2",
-      "incident_number": "260200530",
-      "incident_code": "2026-FLFLS-260200530",
-      "name": "Bishop-Tolbert Road (66)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 0.25,
-      "containment_percent": 100,
-      "county": "Walton",
-      "field_unit": "Chipola",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-08-15T02:12:00",
-      "status_updated_time": "2026-08-15T03:37:47",
-      "latitude": 30.383310317993164,
-      "longitude": -86.24899291992188,
-      "is_obscured": false
-    },
     {
       "id": "271197be-359d-4538-b47e-2bcf520cd255",
       "incident_number": "261400444",
@@ -194,7 +174,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 7,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-13T19:32:12",
       "status_updated_time": "2026-08-13T20:08:05.002",
       "latitude": 25.710832595825195,
