@@ -15,7 +15,7 @@
         "incident_number": "260800766",
         "incident_code": "2026-FLFLS-260800766",
         "name": "COUSINTOWN TRACT (54)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-15T16:07:00",
-        "status_updated_time": "2026-08-15T16:07:00",
+        "status_updated_time": "2026-08-15T16:46:46",
         "is_obscured": false
       }
     },
