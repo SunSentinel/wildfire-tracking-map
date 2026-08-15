@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T23:13:51.337432Z",
+  "updated_at": "2026-08-15T23:42:15.349784Z",
   "incidents": [
     {
       "id": "e1e0a671-e347-4cd1-8e0d-21e087aac66a",
@@ -49,12 +49,12 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
-      "containment_percent": 20,
+      "containment_percent": 30,
       "county": "Osceola",
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 8,
+      "resources_assigned": 11,
       "discovery_time": "2026-08-15T20:29:57",
       "status_updated_time": "2026-08-15T21:34:09",
       "latitude": 28.29222297668457,
@@ -74,7 +74,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 6,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-15T19:56:00",
       "status_updated_time": "2026-08-15T21:04:40",
       "latitude": 29.704166412353516,
