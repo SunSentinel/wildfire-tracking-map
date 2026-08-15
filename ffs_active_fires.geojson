@@ -51,7 +51,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T18:47:31",
         "status_updated_time": "2026-08-14T20:06:38",
         "is_obscured": false
@@ -135,7 +135,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-15T13:33:00",
         "is_obscured": false
@@ -275,7 +275,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T18:21:00",
         "status_updated_time": "2026-08-13T18:50:00.9346571",
         "is_obscured": false
@@ -387,7 +387,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T22:15:24",
         "status_updated_time": "2026-08-10T00:13:41",
         "is_obscured": false
@@ -471,7 +471,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-26T23:57:36",
         "status_updated_time": "2026-08-08T16:44:30.001",
         "is_obscured": false
