@@ -15,7 +15,7 @@
         "incident_number": "261200531",
         "incident_code": "2026-FLFLS-261200531",
         "name": "Odyssey Lane- Orange (48)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -23,9 +23,9 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-15T21:23:47",
-        "status_updated_time": "2026-08-15T21:23:47",
+        "status_updated_time": "2026-08-15T21:46:52",
         "is_obscured": false
       }
     },
@@ -79,7 +79,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-15T20:29:57",
         "status_updated_time": "2026-08-15T21:34:09",
         "is_obscured": false
@@ -90,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5529556274414,
-          29.70733642578125
+          -81.55722045898438,
+          29.704166412353516
         ]
       },
       "properties": {
