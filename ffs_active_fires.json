@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T19:16:46.467613Z",
+  "updated_at": "2026-08-16T19:42:36.853082Z",
   "incidents": [
     {
       "id": "2d5e48cb-9b21-42f5-88bd-dcb3d2da5b6e",
@@ -79,26 +79,6 @@
       "status_updated_time": "2026-08-16T03:14:23",
       "latitude": 28.3799991607666,
       "longitude": -81.46583557128906,
-      "is_obscured": false
-    },
-    {
-      "id": "d2fa99e1-2d96-4f81-a9a8-1231a94f4df2",
-      "incident_number": "261700197",
-      "incident_code": "2026-FLFLS-261700197",
-      "name": "Otter Grade (26)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 5.88,
-      "containment_percent": 100,
-      "county": "Hendry",
-      "field_unit": "Caloosahatchee",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-15T21:18:00",
-      "status_updated_time": "2026-08-15T23:44:34",
-      "latitude": 26.590599060058594,
-      "longitude": -81.2072982788086,
       "is_obscured": false
     },
     {
@@ -329,7 +309,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 700.0,
-      "containment_percent": 80,
+      "containment_percent": 95,
       "county": "Miami-Dade",
       "field_unit": "Everglades",
       "region": "Region 4",
