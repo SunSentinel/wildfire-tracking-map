@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T19:42:36.853082Z",
+  "updated_at": "2026-08-16T20:14:57.699133Z",
   "incidents": [
     {
       "id": "2d5e48cb-9b21-42f5-88bd-dcb3d2da5b6e",
@@ -17,8 +17,8 @@
       "resources_assigned": 3,
       "discovery_time": "2026-08-16T17:22:00",
       "status_updated_time": "2026-08-16T17:53:00",
-      "latitude": 29.40659523010254,
-      "longitude": -81.62494659423828,
+      "latitude": 29.403610229492188,
+      "longitude": -81.62222290039062,
       "is_obscured": false
     },
     {
@@ -188,7 +188,7 @@
       "name": "THE H1 (50)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 3375.0,
+      "acres": 3600.0,
       "containment_percent": 50,
       "county": "Palm Beach",
       "field_unit": "Everglades",

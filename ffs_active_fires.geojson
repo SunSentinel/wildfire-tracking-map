@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.62494659423828,
-          29.40659523010254
+          -81.62222290039062,
+          29.403610229492188
         ]
       },
       "properties": {
@@ -269,7 +269,7 @@
         "name": "THE H1 (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 3375.0,
+        "acres": 3600.0,
         "containment_percent": 50,
         "county": "Palm Beach",
         "field_unit": "Everglades",
