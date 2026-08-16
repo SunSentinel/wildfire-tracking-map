@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:14:54.237081Z",
+  "updated_at": "2026-08-16T15:44:18.138603Z",
   "incidents": [
     {
       "id": "fc1bbb4a-95a6-4994-a336-fd82ed72ff8e",
@@ -85,7 +85,7 @@
       "id": "bdc91813-1c6c-4097-84c7-af8c3a5d4073",
       "incident_number": "261200530",
       "incident_code": "2026-FLFLS-261200530",
-      "name": "OUTBACK- Osceola (49)",
+      "name": "OUTBACK (49)",
       "status": "Contained",
       "category": "Wildfire",
       "acres": 200.0,
@@ -114,7 +114,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-15T19:56:00",
       "status_updated_time": "2026-08-15T21:04:40",
       "latitude": 29.704166412353516,
@@ -439,26 +439,6 @@
       "status_updated_time": "2026-08-09T22:36:29",
       "latitude": 27.91777801513672,
       "longitude": -80.54499816894531,
-      "is_obscured": false
-    },
-    {
-      "id": "c824d8aa-d980-4f3e-a629-a0c66fa3a25b",
-      "incident_number": "260800735",
-      "incident_code": "2026-FLFLS-260800735",
-      "name": "NE 228TH LN (42)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 5.0,
-      "containment_percent": 100,
-      "county": "Marion",
-      "field_unit": "Waccasassa",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
-      "discovery_time": "2026-07-26T23:57:36",
-      "status_updated_time": "2026-08-08T16:44:30.001",
-      "latitude": 29.477861404418945,
-      "longitude": -81.93196868896484,
       "is_obscured": false
     },
     {
