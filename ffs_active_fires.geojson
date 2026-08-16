@@ -45,7 +45,7 @@
         "name": "Wilderness Creek Fire- Orange (48)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 20.0,
         "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
@@ -247,7 +247,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-14T20:02:48",
         "status_updated_time": "2026-08-14T21:56:23.001",
         "is_obscured": false
