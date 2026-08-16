@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:51:29.474985Z",
+  "updated_at": "2026-08-16T14:16:09.119450Z",
   "incidents": [
     {
       "id": "fc1bbb4a-95a6-4994-a336-fd82ed72ff8e",
@@ -94,7 +94,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 8,
       "discovery_time": "2026-08-15T20:29:57",
       "status_updated_time": "2026-08-16T05:35:24",
       "latitude": 28.29222297668457,
@@ -128,7 +128,7 @@
       "name": "Gasline- Brevard (05)",
       "status": "Contained",
       "category": "Wildfire",
-      "acres": 1.0,
+      "acres": 2.0,
       "containment_percent": 100,
       "county": "Brevard",
       "field_unit": "Orlando",
@@ -234,7 +234,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-14T18:01:39",
       "status_updated_time": "2026-08-14T20:00:27.002",
       "latitude": 29.268054962158203,
