@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T18:18:54.046368Z",
+  "updated_at": "2026-08-16T18:53:49.099890Z",
   "incidents": [
     {
       "id": "2d5e48cb-9b21-42f5-88bd-dcb3d2da5b6e",
@@ -214,7 +214,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 1,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-14T20:02:48",
       "status_updated_time": "2026-08-14T21:56:23.001",
       "latitude": 26.368610382080078,
@@ -254,7 +254,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 4,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-14T15:19:00",
       "status_updated_time": "2026-08-15T13:33:00",
       "latitude": 29.558629989624023,
@@ -334,7 +334,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 10,
+      "resources_assigned": 11,
       "discovery_time": "2026-08-13T19:32:12",
       "status_updated_time": "2026-08-13T20:08:05.002",
       "latitude": 25.710832595825195,
