@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T10:46:47.447414Z",
+  "updated_at": "2026-08-16T11:14:45.962678Z",
   "incidents": [
     {
       "id": "2e564198-5ea4-477a-8049-c2b4cc94c85d",
@@ -68,7 +68,7 @@
       "name": "OUTBACK- Osceola (49)",
       "status": "Contained",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 200.0,
       "containment_percent": 100,
       "county": "Osceola",
       "field_unit": "Orlando",
@@ -108,7 +108,7 @@
       "name": "Gasline- Brevard (05)",
       "status": "Contained",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 1.0,
       "containment_percent": 100,
       "county": "Brevard",
       "field_unit": "Orlando",
