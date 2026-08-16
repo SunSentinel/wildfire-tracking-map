@@ -6,8 +6,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4671401977539,
-          28.383346557617188
+          -81.4813232421875,
+          27.517555236816406
+        ]
+      },
+      "properties": {
+        "id": "2e564198-5ea4-477a-8049-c2b4cc94c85d",
+        "incident_number": "261600670",
+        "incident_code": "2026-FLFLS-261600670",
+        "name": "2314 East Boulevard- Highlands (28)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Highlands",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-16T01:22:00",
+        "status_updated_time": "2026-08-16T01:22:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.46583557128906,
+          28.3799991607666
         ]
       },
       "properties": {
@@ -23,7 +51,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-15T21:23:47",
         "status_updated_time": "2026-08-15T21:46:52",
         "is_obscured": false
@@ -51,7 +79,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-15T21:18:00",
         "status_updated_time": "2026-08-15T23:44:34",
         "is_obscured": false
@@ -74,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 30,
+        "containment_percent": 60,
         "county": "Osceola",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -415,7 +443,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 14,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
