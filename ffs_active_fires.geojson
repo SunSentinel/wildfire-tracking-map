@@ -238,7 +238,7 @@
         "id": "153bc738-cd2e-4cb8-9ba3-05a373381bd7",
         "incident_number": "261800137",
         "incident_code": "2026-FLFLS-261800137",
-        "name": "THE H1 EAST",
+        "name": "THE H1 EAST (50)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 200.0,
@@ -275,7 +275,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 1,
         "discovery_time": "2026-08-14T20:02:48",
         "status_updated_time": "2026-08-14T21:56:23.001",
         "is_obscured": false
