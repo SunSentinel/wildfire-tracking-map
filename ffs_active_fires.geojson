@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.7651138305664,
+          27.091262817382812
+        ]
+      },
+      "properties": {
+        "id": "9c87eda1-590c-4f87-aafb-6222d08a075f",
+        "incident_number": "261500552",
+        "incident_code": "2026-FLFLS-261500552",
+        "name": "6837 Pine Island Street- DeSoto (14)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "DeSoto",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-16T15:49:41",
+        "status_updated_time": "2026-08-16T15:49:41",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.58834838867188,
           27.912296295166016
         ]
