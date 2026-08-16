@@ -15,7 +15,7 @@
         "incident_number": "260800770",
         "incident_code": "2026-FLFLS-260800770",
         "name": "LANDVALE 2 (54)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-16T17:22:00",
-        "status_updated_time": "2026-08-16T17:22:00",
+        "status_updated_time": "2026-08-16T17:53:00",
         "is_obscured": false
       }
     },
@@ -303,7 +303,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 1,
         "discovery_time": "2026-08-14T20:02:48",
         "status_updated_time": "2026-08-14T21:56:23.001",
         "is_obscured": false
