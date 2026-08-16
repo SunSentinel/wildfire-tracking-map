@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T05:31:45.007085Z",
+  "updated_at": "2026-08-16T06:28:28.615987Z",
   "incidents": [
     {
       "id": "2e564198-5ea4-477a-8049-c2b4cc94c85d",
@@ -66,17 +66,17 @@
       "incident_number": "261200530",
       "incident_code": "2026-FLFLS-261200530",
       "name": "OUTBACK- Osceola (49)",
-      "status": "Active",
+      "status": "Contained",
       "category": "Wildfire",
       "acres": 0.0,
-      "containment_percent": 90,
+      "containment_percent": 100,
       "county": "Osceola",
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 11,
       "discovery_time": "2026-08-15T20:29:57",
-      "status_updated_time": "2026-08-15T21:34:09",
+      "status_updated_time": "2026-08-16T05:35:24",
       "latitude": 28.29222297668457,
       "longitude": -81.18777465820312,
       "is_obscured": false
