@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T04:07:18.317216Z",
+  "updated_at": "2026-08-16T04:58:55.014355Z",
   "incidents": [
     {
       "id": "2e564198-5ea4-477a-8049-c2b4cc94c85d",
@@ -34,7 +34,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 7,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-15T21:23:47",
       "status_updated_time": "2026-08-16T03:14:23",
       "latitude": 28.3799991607666,
@@ -69,7 +69,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
-      "containment_percent": 60,
+      "containment_percent": 80,
       "county": "Osceola",
       "field_unit": "Orlando",
       "region": "Region 3",
