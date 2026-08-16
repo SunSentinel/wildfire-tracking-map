@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.83999633789062,
-          27.280555725097656
+          -81.62494659423828,
+          29.40659523010254
         ]
       },
       "properties": {
-        "id": "b704ffc0-06b5-42cc-a897-e1297b05682e",
-        "incident_number": "261600671",
-        "incident_code": "2026-FLFLS-261600671",
-        "name": "39th Circle (47)",
-        "status": "Active",
+        "id": "2d5e48cb-9b21-42f5-88bd-dcb3d2da5b6e",
+        "incident_number": "260800770",
+        "incident_code": "2026-FLFLS-260800770",
+        "name": "LANDVALE 2 (54)",
+        "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-08-16T16:40:00",
-        "status_updated_time": "2026-08-16T16:57:00",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-16T17:22:00",
+        "status_updated_time": "2026-08-16T17:22:00",
         "is_obscured": false
       }
     },
@@ -331,7 +331,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27.002",
         "is_obscured": false
@@ -555,7 +555,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-12T18:30:37",
         "status_updated_time": "2026-08-12T18:33:33",
         "is_obscured": false
@@ -639,7 +639,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-09T18:11:35",
         "status_updated_time": "2026-08-09T22:36:29",
         "is_obscured": false
