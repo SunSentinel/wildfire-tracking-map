@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-17T20:51:37.847585Z",
+  "updated_at": "2026-08-17T21:19:52.821244Z",
   "incidents": [
+    {
+      "id": "3cea9d09-79d8-4302-bed8-83028e9bec14",
+      "incident_number": "261600673",
+      "incident_code": "2026-FLFLS-261600673",
+      "name": "August 2026 130/190 (28)",
+      "status": "Reported",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Highlands",
+      "field_unit": "Okeechobee",
+      "region": "Region 4",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-08-17T21:09:21",
+      "status_updated_time": "2026-08-17T21:09:21",
+      "latitude": 27.568889617919922,
+      "longitude": -81.50277709960938,
+      "is_obscured": false
+    },
     {
       "id": "7eddb330-f027-452c-8dcf-4fd7b239e244",
       "incident_number": "260700592",
@@ -314,7 +334,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 6,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-13T19:32:12",
       "status_updated_time": "2026-08-13T20:08:05.002",
       "latitude": 25.710832595825195,
