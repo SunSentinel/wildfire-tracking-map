@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T12:31:32.206393Z",
+  "updated_at": "2026-08-17T13:34:57.008052Z",
   "incidents": [
     {
       "id": "2d5e48cb-9b21-42f5-88bd-dcb3d2da5b6e",
@@ -54,7 +54,7 @@
       "field_unit": "Okeechobee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 4,
       "discovery_time": "2026-08-16T01:22:00",
       "status_updated_time": "2026-08-16T02:43:00",
       "latitude": 27.517778396606445,
@@ -94,7 +94,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 4,
+      "resources_assigned": 10,
       "discovery_time": "2026-08-15T20:29:57",
       "status_updated_time": "2026-08-16T05:35:24",
       "latitude": 28.29222297668457,
@@ -254,7 +254,7 @@
       "field_unit": "Okeechobee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-13T21:50:32",
       "status_updated_time": "2026-08-13T22:09:12",
       "latitude": 26.9777774810791,
@@ -439,6 +439,26 @@
       "status_updated_time": "2026-08-09T22:36:29",
       "latitude": 27.91777801513672,
       "longitude": -80.54499816894531,
+      "is_obscured": false
+    },
+    {
+      "id": "c824d8aa-d980-4f3e-a629-a0c66fa3a25b",
+      "incident_number": "260800735",
+      "incident_code": "2026-FLFLS-260800735",
+      "name": "NE 228TH LN (42)",
+      "status": "Contained",
+      "category": "Wildfire",
+      "acres": 5.0,
+      "containment_percent": 100,
+      "county": "Marion",
+      "field_unit": "Waccasassa",
+      "region": "Region 2",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 3,
+      "discovery_time": "2026-07-26T23:57:36",
+      "status_updated_time": "2026-08-17T13:19:00",
+      "latitude": 29.477861404418945,
+      "longitude": -81.93196868896484,
       "is_obscured": false
     },
     {
