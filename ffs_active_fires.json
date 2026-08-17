@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:08:14.929404Z",
+  "updated_at": "2026-08-17T19:49:40.814893Z",
   "incidents": [
     {
       "id": "77b916fd-d152-45a5-b011-47fd0e9412d6",
@@ -94,7 +94,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 8,
       "discovery_time": "2026-08-15T20:29:57",
       "status_updated_time": "2026-08-16T05:35:24",
       "latitude": 28.29222297668457,
@@ -174,7 +174,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-14T20:02:48",
       "status_updated_time": "2026-08-14T21:56:23.001",
       "latitude": 26.368610382080078,
@@ -414,7 +414,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-07-13T18:19:40",
       "status_updated_time": "2026-07-24T04:13:11",
       "latitude": 28.91666603088379,
