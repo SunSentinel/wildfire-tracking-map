@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.1214828491211,
+          27.819671630859375
+        ]
+      },
+      "properties": {
+        "id": "b55e5085-4df2-4c2d-8113-d42a32cf10bf",
+        "incident_number": "261400446",
+        "incident_code": "2026-FLFLS-261400446",
+        "name": "12729 Amber Lane- Hillsborough (29)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hillsborough",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-17T15:10:45",
+        "status_updated_time": "2026-08-17T15:10:45",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.62222290039062,
           29.403610229492188
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-16T17:22:00",
         "status_updated_time": "2026-08-16T17:53:00",
         "is_obscured": false
@@ -135,7 +163,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-15T19:56:00",
         "status_updated_time": "2026-08-15T21:04:40",
         "is_obscured": false
@@ -191,7 +219,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-15T16:07:00",
         "status_updated_time": "2026-08-15T16:46:46",
         "is_obscured": false
@@ -454,34 +482,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.08506774902344,
-          28.625228881835938
-        ]
-      },
-      "properties": {
-        "id": "9381fcd8-5960-4302-bcf9-6ca938254d12",
-        "incident_number": "261100595",
-        "incident_code": "2026-FLFLS-261100595",
-        "name": "SE 12TH DR (60)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 100,
-        "county": "Sumter",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-12T18:30:37",
-        "status_updated_time": "2026-08-12T18:33:33",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.88027954101562,
           28.91111183166504
         ]
@@ -558,34 +558,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-09T18:11:35",
         "status_updated_time": "2026-08-09T22:36:29",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.93196868896484,
-          29.477861404418945
-        ]
-      },
-      "properties": {
-        "id": "c824d8aa-d980-4f3e-a629-a0c66fa3a25b",
-        "incident_number": "260800735",
-        "incident_code": "2026-FLFLS-260800735",
-        "name": "NE 228TH LN (42)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 100,
-        "county": "Marion",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-07-26T23:57:36",
-        "status_updated_time": "2026-08-17T13:19:00",
         "is_obscured": false
       }
     },
