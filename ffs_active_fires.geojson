@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.64105987548828,
+          30.046825408935547
+        ]
+      },
+      "properties": {
+        "id": "fdb2e4ef-5698-4c4b-a9fd-14d786e6d862",
+        "incident_number": "260700591",
+        "incident_code": "2026-FLFLS-260700591",
+        "name": "635 Sapling Terrace- St. Johns (55)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "St. Johns",
+        "field_unit": "Jacksonville",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-17T19:52:37",
+        "status_updated_time": "2026-08-17T19:52:37",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.31378173828125,
           27.105804443359375
         ]
@@ -387,7 +415,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -558,34 +586,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.48666381835938,
-          28.91666603088379
-        ]
-      },
-      "properties": {
-        "id": "43e9ef55-69eb-4952-81a0-1e1d0b52a0e9",
-        "incident_number": "261100542",
-        "incident_code": "2026-FLFLS-261100542",
-        "name": "CATTLE PEN (35)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 119.02,
-        "containment_percent": 100,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-07-13T18:19:40",
-        "status_updated_time": "2026-07-24T04:13:11",
         "is_obscured": false
       }
     }
