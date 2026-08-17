@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T16:20:02.506419Z",
+  "updated_at": "2026-08-17T16:53:55.766590Z",
   "incidents": [
     {
       "id": "06542aaa-bf68-4520-9061-ac108b6d969b",
@@ -74,7 +74,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-15T21:23:47",
       "status_updated_time": "2026-08-16T03:14:23",
       "latitude": 28.3799991607666,
@@ -94,7 +94,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 10,
+      "resources_assigned": 7,
       "discovery_time": "2026-08-15T20:29:57",
       "status_updated_time": "2026-08-16T05:35:24",
       "latitude": 28.29222297668457,
@@ -168,7 +168,7 @@
       "name": "THE H1 (50)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 3600.0,
+      "acres": 4000.0,
       "containment_percent": 50,
       "county": "Palm Beach",
       "field_unit": "Everglades",
