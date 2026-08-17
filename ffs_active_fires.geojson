@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.1214828491211,
-          27.819671630859375
+          -84.9355239868164,
+          30.66451644897461
         ]
       },
       "properties": {
-        "id": "b55e5085-4df2-4c2d-8113-d42a32cf10bf",
-        "incident_number": "261400446",
-        "incident_code": "2026-FLFLS-261400446",
-        "name": "12729 Amber Lane- Hillsborough (29)",
+        "id": "06542aaa-bf68-4520-9061-ac108b6d969b",
+        "incident_number": "260200531",
+        "incident_code": "2026-FLFLS-260200531",
+        "name": "SHADY GROVE DR (32)",
         "status": "Reported",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.25,
         "containment_percent": 0,
-        "county": "Hillsborough",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
+        "county": "Jackson",
+        "field_unit": "Chipola",
+        "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
-        "discovery_time": "2026-08-17T15:10:45",
-        "status_updated_time": "2026-08-17T15:10:45",
+        "discovery_time": "2026-08-17T15:29:11",
+        "status_updated_time": "2026-08-17T15:29:11",
         "is_obscured": false
       }
     },
@@ -51,7 +51,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-16T17:22:00",
         "status_updated_time": "2026-08-16T17:53:00",
         "is_obscured": false
@@ -219,7 +219,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-15T16:07:00",
         "status_updated_time": "2026-08-15T16:46:46",
         "is_obscured": false
@@ -275,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27.002",
         "is_obscured": false
@@ -303,7 +303,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-15T13:33:00",
         "is_obscured": false
@@ -527,7 +527,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
