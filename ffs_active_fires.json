@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T22:48:23.017387Z",
+  "updated_at": "2026-08-17T23:17:05.835444Z",
   "incidents": [
     {
       "id": "f8ead438-25f0-4dcb-83c4-9715d8e65518",
@@ -28,7 +28,7 @@
       "name": "EAST END 2 (54)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 75.0,
       "containment_percent": 0,
       "county": "Putnam",
       "field_unit": "Waccasassa",
@@ -37,8 +37,8 @@
       "resources_assigned": 6,
       "discovery_time": "2026-08-17T21:40:00",
       "status_updated_time": "2026-08-17T22:07:00",
-      "latitude": 29.588293075561523,
-      "longitude": -81.54524993896484,
+      "latitude": 29.58353614807129,
+      "longitude": -81.52865600585938,
       "is_obscured": false
     },
     {
@@ -49,7 +49,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 5.0,
-      "containment_percent": 0,
+      "containment_percent": 30,
       "county": "Lake",
       "field_unit": "Withlacoochee",
       "region": "Region 3",

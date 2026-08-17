@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.54524993896484,
-          29.588293075561523
+          -81.52865600585938,
+          29.58353614807129
         ]
       },
       "properties": {
@@ -45,7 +45,7 @@
         "name": "EAST END 2 (54)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 75.0,
         "containment_percent": 0,
         "county": "Putnam",
         "field_unit": "Waccasassa",
@@ -74,7 +74,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 5.0,
-        "containment_percent": 0,
+        "containment_percent": 30,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
