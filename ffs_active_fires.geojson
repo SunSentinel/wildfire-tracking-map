@@ -79,7 +79,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-16T01:22:00",
         "status_updated_time": "2026-08-16T02:43:00",
         "is_obscured": false
@@ -107,7 +107,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-15T21:23:47",
         "status_updated_time": "2026-08-16T03:14:23",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-15T19:56:00",
         "status_updated_time": "2026-08-15T21:04:40",
         "is_obscured": false
@@ -191,7 +191,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-15T18:14:51",
         "status_updated_time": "2026-08-15T20:11:50",
         "is_obscured": false
@@ -230,34 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.73249816894531,
-          26.378889083862305
-        ]
-      },
-      "properties": {
-        "id": "153bc738-cd2e-4cb8-9ba3-05a373381bd7",
-        "incident_number": "261800137",
-        "incident_code": "2026-FLFLS-261800137",
-        "name": "THE H1 EAST (50)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 200.0,
-        "containment_percent": 10,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-15T16:00:05",
-        "status_updated_time": "2026-08-15T16:01:24",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.75166320800781,
           26.368610382080078
         ]
@@ -275,7 +247,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-14T20:02:48",
         "status_updated_time": "2026-08-14T21:56:23.001",
         "is_obscured": false
@@ -303,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27.002",
         "is_obscured": false
@@ -443,7 +415,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
