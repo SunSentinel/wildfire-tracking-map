@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.28382110595703,
+          29.57906150817871
+        ]
+      },
+      "properties": {
+        "id": "7eddb330-f027-452c-8dcf-4fd7b239e244",
+        "incident_number": "260700592",
+        "incident_code": "2026-FLFLS-260700592",
+        "name": "Golden Bell Ave (18)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Flagler",
+        "field_unit": "Jacksonville",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-17T20:08:16",
+        "status_updated_time": "2026-08-17T20:08:16",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.64105987548828,
           30.046825408935547
         ]
