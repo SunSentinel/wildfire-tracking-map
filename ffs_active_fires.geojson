@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.16600036621094,
-          30.89531707763672
-        ]
-      },
-      "properties": {
-        "id": "7a83b3d6-1aae-4fcd-817c-9ceaa0af618c",
-        "incident_number": "260100417",
-        "incident_code": "2026-FLFLS-260100417",
-        "name": "Greenwood Rd  (57)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-17T16:52:03",
-        "status_updated_time": "2026-08-17T16:52:03",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.62222290039062,
           29.403610229492188
         ]
@@ -314,34 +286,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.37694549560547,
-          26.9777774810791
-        ]
-      },
-      "properties": {
-        "id": "193bdce3-c109-4552-83da-4e192325bd8f",
-        "incident_number": "261800135",
-        "incident_code": "2026-FLFLS-261800135",
-        "name": "NORTH HUNGRYLAND (50)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 21.0,
-        "containment_percent": 100,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-08-13T21:50:32",
-        "status_updated_time": "2026-08-17T17:10:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.34416961669922,
           26.93166732788086
         ]
@@ -527,7 +471,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false

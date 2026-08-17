@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-08-17T17:21:46.007554Z",
+  "updated_at": "2026-08-17T17:53:58.051775Z",
   "incidents": [
-    {
-      "id": "7a83b3d6-1aae-4fcd-817c-9ceaa0af618c",
-      "incident_number": "260100417",
-      "incident_code": "2026-FLFLS-260100417",
-      "name": "Greenwood Rd  (57)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Santa Rosa",
-      "field_unit": "Blackwater",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-08-17T16:52:03",
-      "status_updated_time": "2026-08-17T16:52:03",
-      "latitude": 30.89531707763672,
-      "longitude": -87.16600036621094,
-      "is_obscured": false
-    },
     {
       "id": "2d5e48cb-9b21-42f5-88bd-dcb3d2da5b6e",
       "incident_number": "260800770",
@@ -222,26 +202,6 @@
       "is_obscured": false
     },
     {
-      "id": "193bdce3-c109-4552-83da-4e192325bd8f",
-      "incident_number": "261800135",
-      "incident_code": "2026-FLFLS-261800135",
-      "name": "NORTH HUNGRYLAND (50)",
-      "status": "Controlled",
-      "category": "Wildfire",
-      "acres": 21.0,
-      "containment_percent": 100,
-      "county": "Martin",
-      "field_unit": "Okeechobee",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 4,
-      "discovery_time": "2026-08-13T21:50:32",
-      "status_updated_time": "2026-08-17T17:10:00",
-      "latitude": 26.9777774810791,
-      "longitude": -80.37694549560547,
-      "is_obscured": false
-    },
-    {
       "id": "0725469d-26c6-4a39-874a-d7a2ff475d2a",
       "incident_number": "261800134",
       "incident_code": "2026-FLFLS-261800134",
@@ -374,7 +334,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-09T20:37:07",
       "status_updated_time": "2026-08-10T00:22:54",
       "latitude": 29.2821044921875,
