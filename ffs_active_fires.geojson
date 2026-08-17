@@ -135,7 +135,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-15T20:29:57",
         "status_updated_time": "2026-08-16T05:35:24",
         "is_obscured": false
@@ -611,7 +611,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T18:11:35",
         "status_updated_time": "2026-08-09T22:36:29",
         "is_obscured": false
