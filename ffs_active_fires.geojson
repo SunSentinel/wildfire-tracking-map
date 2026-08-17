@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.31378173828125,
+          27.105804443359375
+        ]
+      },
+      "properties": {
+        "id": "77b916fd-d152-45a5-b011-47fd0e9412d6",
+        "incident_number": "261600672",
+        "incident_code": "2026-FLFLS-261600672",
+        "name": "OSI-Luciano (43)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Martin",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-17T18:32:41",
+        "status_updated_time": "2026-08-17T18:32:41",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.62222290039062,
           29.403610229492188
         ]
