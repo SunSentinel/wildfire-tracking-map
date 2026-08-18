@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.04475402832031,
+          27.9442195892334
+        ]
+      },
+      "properties": {
+        "id": "7a5a4a84-7930-40b2-8695-8dac1f9b8b97",
+        "incident_number": "261400449",
+        "incident_code": "2026-FLFLS-261400449",
+        "name": "OSI STEVE LASCOLA(53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-18T12:00:20",
+        "status_updated_time": "2026-08-18T12:00:20",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.28755950927734,
           26.819725036621094
         ]
@@ -51,7 +79,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-18T00:14:09",
         "status_updated_time": "2026-08-18T00:23:11",
         "is_obscured": false
