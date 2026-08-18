@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.15948486328125,
+          30.979393005371094
+        ]
+      },
+      "properties": {
+        "id": "d020c459-2386-45a0-8068-acd69e4e26b2",
+        "incident_number": "260200533",
+        "incident_code": "2026-FLFLS-260200533",
+        "name": "Snow Hill Road (32)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Jackson",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-18T17:46:35",
+        "status_updated_time": "2026-08-18T17:46:35",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.28333282470703,
           26.821388244628906
         ]
@@ -17,7 +45,7 @@
         "name": "Dump (22)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 5.0,
+        "acres": 6.75,
         "containment_percent": 100,
         "county": "Glades",
         "field_unit": "Okeechobee",
@@ -359,7 +387,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-15T13:33:00",
         "is_obscured": false
@@ -555,7 +583,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
