@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T22:48:29.825015Z",
+  "updated_at": "2026-08-18T23:16:20.855045Z",
   "incidents": [
     {
       "id": "7196e661-e32b-43b3-893b-5fee33952a18",
@@ -14,7 +14,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-18T22:11:13",
       "status_updated_time": "2026-08-18T22:11:13",
       "latitude": 29.890546798706055,
@@ -109,12 +109,12 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 50.0,
-      "containment_percent": 70,
+      "containment_percent": 90,
       "county": "Putnam",
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 11,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-17T21:40:00",
       "status_updated_time": "2026-08-18T20:29:00",
       "latitude": 29.58353614807129,
