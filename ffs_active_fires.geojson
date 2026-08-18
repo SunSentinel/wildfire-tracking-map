@@ -15,17 +15,17 @@
         "incident_number": "261600676",
         "incident_code": "2026-FLFLS-261600676",
         "name": "Dump (22)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 75,
+        "acres": 5.0,
+        "containment_percent": 100,
         "county": "Glades",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-18T02:00:00",
-        "status_updated_time": "2026-08-18T13:15:00",
+        "status_updated_time": "2026-08-18T15:05:00",
         "is_obscured": false
       }
     },
@@ -45,7 +45,7 @@
         "name": "Cattle Farm 2 Fire  (18)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 5.0,
         "containment_percent": 100,
         "county": "Flagler",
         "field_unit": "Jacksonville",
@@ -129,7 +129,7 @@
         "name": "Golden Bell Ave (18)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.1,
         "containment_percent": 100,
         "county": "Flagler",
         "field_unit": "Jacksonville",
@@ -194,34 +194,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-16T12:07:11",
         "status_updated_time": "2026-08-16T16:18:50",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.46583557128906,
-          28.3799991607666
-        ]
-      },
-      "properties": {
-        "id": "e1e0a671-e347-4cd1-8e0d-21e087aac66a",
-        "incident_number": "261200531",
-        "incident_code": "2026-FLFLS-261200531",
-        "name": "Wilderness Creek Fire- Orange (48)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 20.0,
-        "containment_percent": 100,
-        "county": "Orange",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-15T21:23:47",
-        "status_updated_time": "2026-08-16T03:14:23",
         "is_obscured": false
       }
     },
@@ -303,7 +275,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-15T16:07:00",
         "status_updated_time": "2026-08-15T16:46:46",
         "is_obscured": false
@@ -325,8 +297,8 @@
         "name": "THE H1 (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 4000.0,
-        "containment_percent": 50,
+        "acres": 4500.0,
+        "containment_percent": 75,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
@@ -359,7 +331,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27.002",
         "is_obscured": false
@@ -642,6 +614,34 @@
         "resources_assigned": 0,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55472564697266,
+          28.412221908569336
+        ]
+      },
+      "properties": {
+        "id": "5c338159-d1d5-47ba-842a-6d62c03a13cb",
+        "incident_number": "261200377",
+        "incident_code": "2026-FLFLS-261200377",
+        "name": "Fort Wilderness Command (48)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 4.0,
+        "containment_percent": 100,
+        "county": "Orange",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-06-16T21:02:54",
+        "status_updated_time": "2026-08-18T15:48:48",
         "is_obscured": false
       }
     }
