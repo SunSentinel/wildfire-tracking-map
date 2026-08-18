@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T10:55:15.463048Z",
+  "updated_at": "2026-08-18T11:19:49.485839Z",
   "incidents": [
     {
       "id": "a660cd24-843c-4076-898a-f4ec560c7798",
@@ -102,26 +102,6 @@
       "is_obscured": false
     },
     {
-      "id": "3cea9d09-79d8-4302-bed8-83028e9bec14",
-      "incident_number": "261600673",
-      "incident_code": "2026-FLFLS-261600673",
-      "name": "August 2026 130/190 (28)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Highlands",
-      "field_unit": "Okeechobee",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-17T21:09:21",
-      "status_updated_time": "2026-08-17T21:09:21",
-      "latitude": 27.568889617919922,
-      "longitude": -81.50277709960938,
-      "is_obscured": false
-    },
-    {
       "id": "7eddb330-f027-452c-8dcf-4fd7b239e244",
       "incident_number": "260700592",
       "incident_code": "2026-FLFLS-260700592",
@@ -159,26 +139,6 @@
       "status_updated_time": "2026-08-17T19:52:37",
       "latitude": 30.046825408935547,
       "longitude": -81.64105987548828,
-      "is_obscured": false
-    },
-    {
-      "id": "77b916fd-d152-45a5-b011-47fd0e9412d6",
-      "incident_number": "261600672",
-      "incident_code": "2026-FLFLS-261600672",
-      "name": "OSI-Luciano (43)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Martin",
-      "field_unit": "Okeechobee",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-17T18:32:41",
-      "status_updated_time": "2026-08-17T18:32:41",
-      "latitude": 27.105804443359375,
-      "longitude": -80.31378173828125,
       "is_obscured": false
     },
     {
@@ -279,26 +239,6 @@
       "status_updated_time": "2026-08-15T21:04:40",
       "latitude": 29.704166412353516,
       "longitude": -81.55722045898438,
-      "is_obscured": false
-    },
-    {
-      "id": "cc4f9691-8443-4d8d-bf1a-05e53b2953d3",
-      "incident_number": "261200529",
-      "incident_code": "2026-FLFLS-261200529",
-      "name": "Gasline- Brevard (05)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 2.0,
-      "containment_percent": 100,
-      "county": "Brevard",
-      "field_unit": "Orlando",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
-      "discovery_time": "2026-08-15T18:14:51",
-      "status_updated_time": "2026-08-15T20:11:50",
-      "latitude": 27.908889770507812,
-      "longitude": -80.5955581665039,
       "is_obscured": false
     },
     {
