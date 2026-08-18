@@ -6,8 +6,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.22665405273438,
-          29.423053741455078
+          -81.71573638916016,
+          28.385665893554688
+        ]
+      },
+      "properties": {
+        "id": "1e80b51c-2d0d-49fc-92be-34e2985dcd9f",
+        "incident_number": "261100606",
+        "incident_code": "2026-FLFLS-261100606",
+        "name": "Four Corners- Lake (35)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lake",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-18T00:14:09",
+        "status_updated_time": "2026-08-18T00:23:11",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.22638702392578,
+          29.391780853271484
         ]
       },
       "properties": {
@@ -15,17 +43,17 @@
         "incident_number": "260700593",
         "incident_code": "2026-FLFLS-260700593",
         "name": "Cattle Farm 2 Fire  (18)",
-        "status": "Reported",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Flagler",
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-17T21:43:46",
-        "status_updated_time": "2026-08-17T21:43:46",
+        "status_updated_time": "2026-08-17T23:45:59",
         "is_obscured": false
       }
     },
@@ -43,17 +71,17 @@
         "incident_number": "260800772",
         "incident_code": "2026-FLFLS-260800772",
         "name": "EAST END 2 (54)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 75.0,
-        "containment_percent": 0,
+        "acres": 5.5,
+        "containment_percent": 100,
         "county": "Putnam",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 6,
         "discovery_time": "2026-08-17T21:40:00",
-        "status_updated_time": "2026-08-17T22:07:00",
+        "status_updated_time": "2026-08-18T00:04:57",
         "is_obscured": false
       }
     },
@@ -62,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.9127426147461,
-          28.511980056762695
+          -81.92555236816406,
+          28.517778396606445
         ]
       },
       "properties": {
@@ -73,13 +101,13 @@
         "name": "FENDER CEMETERY  (35)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 30,
+        "acres": 3.0,
+        "containment_percent": 100,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-17T21:26:22",
         "status_updated_time": "2026-08-17T21:26:52",
         "is_obscured": false
@@ -127,17 +155,17 @@
         "incident_number": "260700592",
         "incident_code": "2026-FLFLS-260700592",
         "name": "Golden Bell Ave (18)",
-        "status": "Reported",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Flagler",
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-17T20:08:16",
-        "status_updated_time": "2026-08-17T20:08:16",
+        "status_updated_time": "2026-08-17T23:46:45",
         "is_obscured": false
       }
     },
@@ -555,7 +583,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
