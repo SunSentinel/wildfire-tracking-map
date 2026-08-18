@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:16:04.092901Z",
+  "updated_at": "2026-08-18T20:47:20.285587Z",
   "incidents": [
     {
       "id": "5d1a3a0f-aea9-4457-b589-e23d97f6339b",
@@ -106,17 +106,17 @@
       "incident_number": "260800772",
       "incident_code": "2026-FLFLS-260800772",
       "name": "EAST END 2 (54)",
-      "status": "Contained",
+      "status": "Active",
       "category": "Wildfire",
-      "acres": 5.5,
-      "containment_percent": 100,
+      "acres": 50.0,
+      "containment_percent": 30,
       "county": "Putnam",
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 18,
       "discovery_time": "2026-08-17T21:40:00",
-      "status_updated_time": "2026-08-18T00:04:57",
+      "status_updated_time": "2026-08-18T20:29:00",
       "latitude": 29.58353614807129,
       "longitude": -81.52865600585938,
       "is_obscured": false
