@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.711669921875,
+          28.297222137451172
+        ]
+      },
+      "properties": {
+        "id": "5d1a3a0f-aea9-4457-b589-e23d97f6339b",
+        "incident_number": "261200538",
+        "incident_code": "2026-FLFLS-261200538",
+        "name": "Evan Hall Escape (05)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Brevard",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-18T19:02:40",
+        "status_updated_time": "2026-08-18T19:13:48",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.0591812133789,
           30.591144561767578
         ]
@@ -43,17 +71,17 @@
         "incident_number": "260200533",
         "incident_code": "2026-FLFLS-260200533",
         "name": "Snow Hill Road (32)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Jackson",
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-18T17:46:35",
-        "status_updated_time": "2026-08-18T18:23:57.2498499",
+        "status_updated_time": "2026-08-18T18:59:43",
         "is_obscured": false
       }
     },
@@ -359,7 +387,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-14T20:02:48",
         "status_updated_time": "2026-08-14T21:56:23.001",
         "is_obscured": false
@@ -415,7 +443,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-15T13:33:00",
         "is_obscured": false
