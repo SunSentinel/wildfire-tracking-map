@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.27621459960938,
+          29.295772552490234
+        ]
+      },
+      "properties": {
+        "id": "3b8b8835-6603-4ef8-a736-c58921c6bb2b",
+        "incident_number": "260700596",
+        "incident_code": "2026-FLFLS-260700596",
+        "name": "Relay Street Wildlife Management (18)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Flagler",
+        "field_unit": "Jacksonville",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 14,
+        "discovery_time": "2026-08-19T12:55:21",
+        "status_updated_time": "2026-08-19T12:55:47",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.62694549560547,
           27.206111907958984
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 13,
         "discovery_time": "2026-08-18T23:59:00",
         "status_updated_time": "2026-08-19T02:25:28",
         "is_obscured": false
@@ -51,7 +79,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 11,
         "discovery_time": "2026-08-18T22:11:13",
         "status_updated_time": "2026-08-18T22:12:07",
         "is_obscured": false
@@ -79,7 +107,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-18T18:44:05",
         "status_updated_time": "2026-08-18T21:50:35",
         "is_obscured": false
@@ -135,7 +163,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
         "is_obscured": false
@@ -191,7 +219,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-17T21:40:00",
         "status_updated_time": "2026-08-18T20:29:00",
         "is_obscured": false
@@ -387,7 +415,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-15T16:07:00",
         "status_updated_time": "2026-08-15T16:46:46",
         "is_obscured": false
