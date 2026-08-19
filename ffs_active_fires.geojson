@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.54191589355469,
+          27.557056427001953
+        ]
+      },
+      "properties": {
+        "id": "84503d57-155e-4d84-bd59-1cd82f84ec93",
+        "incident_number": "261500554",
+        "incident_code": "2026-FLFLS-261500554",
+        "name": "2131 49th Street East- Manatee (41)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Manatee",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-19T16:18:16",
+        "status_updated_time": "2026-08-19T16:18:16",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.20010375976562,
+          29.25040054321289
+        ]
+      },
+      "properties": {
+        "id": "d9a2eb0e-4389-467c-9a7d-1b5668f9c0fb",
+        "incident_number": "261200539",
+        "incident_code": "2026-FLFLS-261200539",
+        "name": "SAWGRASS POND (64)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.25,
+        "containment_percent": 0,
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 9,
+        "discovery_time": "2026-08-19T15:49:19",
+        "status_updated_time": "2026-08-19T16:00:31",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.26980590820312,
           29.293167114257812
         ]
@@ -46,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 75.0,
-        "containment_percent": 60,
+        "containment_percent": 70,
         "county": "Martin",
         "field_unit": "Okeechobee",
         "region": "Region 4",
@@ -387,7 +443,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27.002",
         "is_obscured": false
