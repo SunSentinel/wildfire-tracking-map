@@ -23,7 +23,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 19,
+        "resources_assigned": 17,
         "discovery_time": "2026-08-19T12:55:21",
         "status_updated_time": "2026-08-19T12:55:47",
         "is_obscured": false
@@ -51,7 +51,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 16,
+        "resources_assigned": 14,
         "discovery_time": "2026-08-18T23:59:00",
         "status_updated_time": "2026-08-19T02:25:28",
         "is_obscured": false
@@ -90,34 +90,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.0591812133789,
-          30.591144561767578
-        ]
-      },
-      "properties": {
-        "id": "d73108f0-10b6-478a-aef4-499e8c0475b6",
-        "incident_number": "260200534",
-        "incident_code": "2026-FLFLS-260200534",
-        "name": "Rock Hill Road (66)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 30.0,
-        "containment_percent": 100,
-        "county": "Walton",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-08-18T18:44:05",
-        "status_updated_time": "2026-08-18T21:50:35",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -85.15948486328125,
           30.979393005371094
         ]
@@ -135,7 +107,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-18T17:46:35",
         "status_updated_time": "2026-08-18T18:59:43",
         "is_obscured": false
@@ -163,7 +135,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
         "is_obscured": false
@@ -443,7 +415,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27.002",
         "is_obscured": false
@@ -583,7 +555,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T16:42:47",
         "status_updated_time": "2026-08-13T17:03:53",
         "is_obscured": false
@@ -667,7 +639,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-09T18:11:35",
         "status_updated_time": "2026-08-09T22:36:29",
         "is_obscured": false
