@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:55:13.872838Z",
+  "updated_at": "2026-08-19T11:19:55.825555Z",
   "incidents": [
     {
       "id": "105cbb37-38ea-4e7f-8bfd-b58f6b03009e",
@@ -25,7 +25,7 @@
       "id": "7196e661-e32b-43b3-893b-5fee33952a18",
       "incident_number": "260700595",
       "incident_code": "2026-FLFLS-260700595",
-      "name": "(55)  Carter Rd",
+      "name": "Carter Rd (55)",
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
