@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:19:55.825555Z",
+  "updated_at": "2026-08-19T11:48:46.682110Z",
   "incidents": [
     {
       "id": "105cbb37-38ea-4e7f-8bfd-b58f6b03009e",
@@ -8,7 +8,7 @@
       "name": "Micanopy (43)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 75.0,
       "containment_percent": 0,
       "county": "Martin",
       "field_unit": "Okeechobee",
@@ -17,8 +17,8 @@
       "resources_assigned": 0,
       "discovery_time": "2026-08-18T23:59:00",
       "status_updated_time": "2026-08-19T02:25:28",
-      "latitude": 27.162052154541016,
-      "longitude": -80.6217269897461,
+      "latitude": 27.206111907958984,
+      "longitude": -80.62694549560547,
       "is_obscured": false
     },
     {

@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.6217269897461,
-          27.162052154541016
+          -80.62694549560547,
+          27.206111907958984
         ]
       },
       "properties": {
@@ -17,7 +17,7 @@
         "name": "Micanopy (43)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 75.0,
         "containment_percent": 0,
         "county": "Martin",
         "field_unit": "Okeechobee",
