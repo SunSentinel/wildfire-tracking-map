@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-19T02:15:19.648488Z",
+  "updated_at": "2026-08-19T03:24:08.975496Z",
   "incidents": [
     {
       "id": "105cbb37-38ea-4e7f-8bfd-b58f6b03009e",
       "incident_number": "261600679",
       "incident_code": "2026-FLFLS-261600679",
       "name": "Micanopy (43)",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
       "containment_percent": 0,
@@ -16,7 +16,7 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 11,
       "discovery_time": "2026-08-18T23:59:00",
-      "status_updated_time": "2026-08-18T23:59:00",
+      "status_updated_time": "2026-08-19T02:25:28",
       "latitude": 27.162052154541016,
       "longitude": -80.6217269897461,
       "is_obscured": false
@@ -94,7 +94,7 @@
       "field_unit": "Okeechobee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-18T02:00:00",
       "status_updated_time": "2026-08-19T00:22:27",
       "latitude": 26.821388244628906,
