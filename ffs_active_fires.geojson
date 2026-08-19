@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.6072998046875,
+          25.76282501220703
+        ]
+      },
+      "properties": {
+        "id": "4cf5e1ed-04ee-48fc-ad90-8985eac3cd71",
+        "incident_number": "261800140",
+        "incident_code": "2026-FLFLS-261800140",
+        "name": "US-41- MM26 NORTH (13)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Miami-Dade",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 1,
+        "discovery_time": "2026-08-19T21:53:00",
+        "status_updated_time": "2026-08-19T21:53:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78119659423828,
+          29.71782112121582
+        ]
+      },
+      "properties": {
+        "id": "bc58ab26-d28a-47c0-850c-881c477c5928",
+        "incident_number": "260800776",
+        "incident_code": "2026-FLFLS-260800776",
+        "name": "CARRAWAY CHURCH RD (54)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-19T21:44:00",
+        "status_updated_time": "2026-08-19T21:44:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.30437469482422,
           26.905149459838867
         ]
@@ -43,17 +99,17 @@
         "incident_number": "261200540",
         "incident_code": "2026-FLFLS-261200540",
         "name": "Spur- Volusia (64)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Volusia",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 4,
         "discovery_time": "2026-08-19T20:31:27",
-        "status_updated_time": "2026-08-19T21:00:28",
+        "status_updated_time": "2026-08-19T22:09:13",
         "is_obscured": false
       }
     },
@@ -155,7 +211,7 @@
         "incident_number": "261200539",
         "incident_code": "2026-FLFLS-261200539",
         "name": "SAWGRASS POND (64)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 40.0,
         "containment_percent": 100,
@@ -163,9 +219,9 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-19T15:49:19",
-        "status_updated_time": "2026-08-19T16:00:31",
+        "status_updated_time": "2026-08-19T21:45:57",
         "is_obscured": false
       }
     },
