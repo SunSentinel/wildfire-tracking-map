@@ -6,24 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.36810302734375,
-          26.744199752807617
+          -81.36805725097656,
+          26.74416732788086
         ]
       },
       "properties": {
         "id": "9d36a4d1-e0f1-4ef6-857d-39f14d958c43",
         "incident_number": "261700201",
         "incident_code": "2026-FLFLS-261700201",
-        "name": "9027 South Indio Circle- Hendry (26)",
+        "name": "South Indio Circle (26)",
         "status": "Reported",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.25,
         "containment_percent": 0,
         "county": "Hendry",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-19T16:51:00",
         "status_updated_time": "2026-08-19T16:51:00",
         "is_obscured": false
@@ -51,7 +51,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 12,
+        "resources_assigned": 14,
         "discovery_time": "2026-08-19T15:49:19",
         "status_updated_time": "2026-08-19T16:00:31",
         "is_obscured": false
@@ -157,7 +157,7 @@
         "name": "Dump (22)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 75.0,
+        "acres": 147.73,
         "containment_percent": 100,
         "county": "Glades",
         "field_unit": "Okeechobee",
@@ -499,7 +499,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -614,34 +614,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-09T20:37:07",
         "status_updated_time": "2026-08-10T00:22:54",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.54499816894531,
-          27.91777801513672
-        ]
-      },
-      "properties": {
-        "id": "596df8fe-5a39-408c-bc58-65f918b27841",
-        "incident_number": "261200517",
-        "incident_code": "2026-FLFLS-261200517",
-        "name": "Hidden Lane (05)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 100,
-        "county": "Brevard",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-09T18:11:35",
-        "status_updated_time": "2026-08-09T22:36:29",
         "is_obscured": false
       }
     },
