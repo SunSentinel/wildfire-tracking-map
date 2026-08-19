@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.8741455078125,
+          28.16295051574707
+        ]
+      },
+      "properties": {
+        "id": "06b1ce68-f896-41ef-8e0c-a3e1968b898f",
+        "incident_number": "261400456",
+        "incident_code": "2026-FLFLS-261400456",
+        "name": "4055 Big Bend Trail- Polk (53)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 10,
+        "discovery_time": "2026-08-19T19:49:18",
+        "status_updated_time": "2026-08-19T20:05:39",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.31210327148438,
           27.084121704101562
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-19T19:19:23",
         "status_updated_time": "2026-08-19T19:37:18",
         "is_obscured": false
@@ -73,8 +101,8 @@
         "name": "SAWGRASS POND (64)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 15.0,
-        "containment_percent": 30,
+        "acres": 40.0,
+        "containment_percent": 50,
         "county": "Volusia",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -135,7 +163,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 16,
+        "resources_assigned": 13,
         "discovery_time": "2026-08-18T23:59:00",
         "status_updated_time": "2026-08-19T18:14:00",
         "is_obscured": false
@@ -247,7 +275,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-17T21:40:00",
         "status_updated_time": "2026-08-18T20:29:00",
         "is_obscured": false
@@ -331,7 +359,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-16T17:22:00",
         "status_updated_time": "2026-08-16T17:53:00",
         "is_obscured": false
@@ -387,7 +415,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-15T19:56:00",
         "status_updated_time": "2026-08-15T21:04:40",
         "is_obscured": false
@@ -555,7 +583,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-13T18:21:00",
         "status_updated_time": "2026-08-18T18:00:00",
         "is_obscured": false
