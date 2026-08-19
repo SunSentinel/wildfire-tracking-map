@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:00:57.167245Z",
+  "updated_at": "2026-08-19T15:55:34.384617Z",
   "incidents": [
     {
       "id": "3b8b8835-6603-4ef8-a736-c58921c6bb2b",
@@ -9,7 +9,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 20.0,
-      "containment_percent": 0,
+      "containment_percent": 90,
       "county": "Flagler",
       "field_unit": "Jacksonville",
       "region": "Region 2",
@@ -29,7 +29,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 75.0,
-      "containment_percent": 0,
+      "containment_percent": 60,
       "county": "Martin",
       "field_unit": "Okeechobee",
       "region": "Region 4",
@@ -59,26 +59,6 @@
       "status_updated_time": "2026-08-18T22:12:07",
       "latitude": 29.890546798706055,
       "longitude": -81.38081359863281,
-      "is_obscured": false
-    },
-    {
-      "id": "d020c459-2386-45a0-8068-acd69e4e26b2",
-      "incident_number": "260200533",
-      "incident_code": "2026-FLFLS-260200533",
-      "name": "Snow Hill Road (32)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 0.1,
-      "containment_percent": 100,
-      "county": "Jackson",
-      "field_unit": "Chipola",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-08-18T17:46:35",
-      "status_updated_time": "2026-08-18T18:59:43",
-      "latitude": 30.979393005371094,
-      "longitude": -85.15948486328125,
       "is_obscured": false
     },
     {
