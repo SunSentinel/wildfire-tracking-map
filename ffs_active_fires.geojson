@@ -6,8 +6,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.20010375976562,
-          29.25040054321289
+          -81.36810302734375,
+          26.744199752807617
+        ]
+      },
+      "properties": {
+        "id": "9d36a4d1-e0f1-4ef6-857d-39f14d958c43",
+        "incident_number": "261700201",
+        "incident_code": "2026-FLFLS-261700201",
+        "name": "9027 South Indio Circle- Hendry (26)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hendry",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-19T16:51:00",
+        "status_updated_time": "2026-08-19T16:51:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19527435302734,
+          29.245832443237305
         ]
       },
       "properties": {
@@ -17,13 +45,13 @@
         "name": "SAWGRASS POND (64)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.25,
+        "acres": 5.0,
         "containment_percent": 0,
         "county": "Volusia",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 9,
+        "resources_assigned": 12,
         "discovery_time": "2026-08-19T15:49:19",
         "status_updated_time": "2026-08-19T16:00:31",
         "is_obscured": false
@@ -74,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 75.0,
-        "containment_percent": 70,
+        "containment_percent": 85,
         "county": "Martin",
         "field_unit": "Okeechobee",
         "region": "Region 4",
@@ -471,7 +499,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -611,7 +639,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-09T18:11:35",
         "status_updated_time": "2026-08-09T22:36:29",
         "is_obscured": false
