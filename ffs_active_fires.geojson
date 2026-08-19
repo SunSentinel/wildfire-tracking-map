@@ -43,7 +43,7 @@
         "incident_number": "260700595",
         "incident_code": "2026-FLFLS-260700595",
         "name": "(55)  Carter Rd",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -53,7 +53,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-18T22:11:13",
-        "status_updated_time": "2026-08-18T22:11:13",
+        "status_updated_time": "2026-08-18T22:12:07",
         "is_obscured": false
       }
     },
