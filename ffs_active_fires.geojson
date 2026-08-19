@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.30437469482422,
+          26.905149459838867
+        ]
+      },
+      "properties": {
+        "id": "73812af5-2eaa-44cf-9be4-af9aee2ec0e1",
+        "incident_number": "261800139",
+        "incident_code": "2026-FLFLS-261800139",
+        "name": "PRATT WHITNEY (50)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Palm Beach",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-08-19T21:02:00",
+        "status_updated_time": "2026-08-19T21:02:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.96309661865234,
           28.812299728393555
         ]
@@ -51,7 +79,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 10,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T19:49:18",
         "status_updated_time": "2026-08-19T21:14:02",
         "is_obscured": false
@@ -130,12 +158,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 40.0,
-        "containment_percent": 50,
+        "containment_percent": 100,
         "county": "Volusia",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 27,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-19T15:49:19",
         "status_updated_time": "2026-08-19T16:00:31",
         "is_obscured": false
@@ -191,7 +219,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-18T23:59:00",
         "status_updated_time": "2026-08-19T18:14:00",
         "is_obscured": false
