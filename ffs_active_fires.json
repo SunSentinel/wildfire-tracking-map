@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:49:10.429654Z",
+  "updated_at": "2026-08-19T23:17:09.933597Z",
   "incidents": [
     {
       "id": "4cf5e1ed-04ee-48fc-ad90-8985eac3cd71",
@@ -26,19 +26,19 @@
       "incident_number": "261800139",
       "incident_code": "2026-FLFLS-261800139",
       "name": "PRATT WHITNEY (50)",
-      "status": "Active",
+      "status": "Controlled",
       "category": "Wildfire",
       "acres": 0.25,
-      "containment_percent": 0,
+      "containment_percent": 100,
       "county": "Palm Beach",
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 6,
       "discovery_time": "2026-08-19T21:02:00",
-      "status_updated_time": "2026-08-19T22:18:34",
-      "latitude": 26.905149459838867,
-      "longitude": -80.30437469482422,
+      "status_updated_time": "2026-08-19T23:07:10",
+      "latitude": 26.90333366394043,
+      "longitude": -80.32166290283203,
       "is_obscured": false
     },
     {
@@ -94,7 +94,7 @@
       "field_unit": "Myakka River",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 8,
+      "resources_assigned": 6,
       "discovery_time": "2026-08-19T19:19:23",
       "status_updated_time": "2026-08-19T19:37:18",
       "latitude": 27.084121704101562,
