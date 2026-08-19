@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-08-19T16:24:35.892063Z",
+  "updated_at": "2026-08-19T16:54:55.140039Z",
   "incidents": [
-    {
-      "id": "84503d57-155e-4d84-bd59-1cd82f84ec93",
-      "incident_number": "261500554",
-      "incident_code": "2026-FLFLS-261500554",
-      "name": "2131 49th Street East- Manatee (41)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Manatee",
-      "field_unit": "Myakka River",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-19T16:18:16",
-      "status_updated_time": "2026-08-19T16:18:16",
-      "latitude": 27.557056427001953,
-      "longitude": -82.54191589355469,
-      "is_obscured": false
-    },
     {
       "id": "d9a2eb0e-4389-467c-9a7d-1b5668f9c0fb",
       "incident_number": "261200539",
@@ -154,7 +134,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 7,
+      "resources_assigned": 9,
       "discovery_time": "2026-08-17T21:40:00",
       "status_updated_time": "2026-08-18T20:29:00",
       "latitude": 29.58353614807129,
@@ -219,26 +199,6 @@
       "status_updated_time": "2026-08-16T17:53:00",
       "latitude": 29.403610229492188,
       "longitude": -81.62222290039062,
-      "is_obscured": false
-    },
-    {
-      "id": "fc1bbb4a-95a6-4994-a336-fd82ed72ff8e",
-      "incident_number": "261200532",
-      "incident_code": "2026-FLFLS-261200532",
-      "name": "Grant-Valkaria- Brevard (05)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Brevard",
-      "field_unit": "Orlando",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-16T12:07:11",
-      "status_updated_time": "2026-08-16T16:18:50",
-      "latitude": 27.912296295166016,
-      "longitude": -80.58834838867188,
       "is_obscured": false
     },
     {
