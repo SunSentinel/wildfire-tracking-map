@@ -23,37 +23,9 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 1,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-19T21:53:00",
         "status_updated_time": "2026-08-19T21:53:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.78119659423828,
-          29.71782112121582
-        ]
-      },
-      "properties": {
-        "id": "bc58ab26-d28a-47c0-850c-881c477c5928",
-        "incident_number": "260800776",
-        "incident_code": "2026-FLFLS-260800776",
-        "name": "CARRAWAY CHURCH RD (54)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-19T21:44:00",
-        "status_updated_time": "2026-08-19T21:44:00",
         "is_obscured": false
       }
     },
@@ -71,9 +43,9 @@
         "incident_number": "261800139",
         "incident_code": "2026-FLFLS-261800139",
         "name": "PRATT WHITNEY (50)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.25,
         "containment_percent": 0,
         "county": "Palm Beach",
         "field_unit": "Everglades",
@@ -81,7 +53,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 6,
         "discovery_time": "2026-08-19T21:02:00",
-        "status_updated_time": "2026-08-19T21:02:00",
+        "status_updated_time": "2026-08-19T22:18:34",
         "is_obscured": false
       }
     },
@@ -555,7 +527,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T20:02:48",
         "status_updated_time": "2026-08-14T21:56:23.001",
         "is_obscured": false
