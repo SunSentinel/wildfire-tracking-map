@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:20:00.020560Z",
+  "updated_at": "2026-08-20T22:53:34.421601Z",
   "incidents": [
     {
       "id": "b658571d-3e89-4ad3-b4cf-63188ac69075",
@@ -69,7 +69,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
-      "containment_percent": 0,
+      "containment_percent": 30,
       "county": "Brevard",
       "field_unit": "Orlando",
       "region": "Region 3",
@@ -114,7 +114,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-20T18:11:34",
       "status_updated_time": "2026-08-20T20:40:40",
       "latitude": 27.93429946899414,

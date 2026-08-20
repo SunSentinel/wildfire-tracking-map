@@ -102,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 30,
         "county": "Brevard",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -163,7 +163,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T18:11:34",
         "status_updated_time": "2026-08-20T20:40:40",
         "is_obscured": false
