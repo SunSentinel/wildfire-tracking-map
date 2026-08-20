@@ -107,7 +107,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T21:53:00",
         "status_updated_time": "2026-08-19T23:12:06",
         "is_obscured": false
@@ -247,7 +247,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 9,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-19T15:49:19",
         "status_updated_time": "2026-08-19T21:45:57",
         "is_obscured": false
@@ -583,7 +583,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-14T18:01:39",
         "status_updated_time": "2026-08-14T20:00:27.002",
         "is_obscured": false
