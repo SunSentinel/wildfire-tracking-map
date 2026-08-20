@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.02339935302734,
+          27.733600616455078
+        ]
+      },
+      "properties": {
+        "id": "b658571d-3e89-4ad3-b4cf-63188ac69075",
+        "incident_number": "261200546",
+        "incident_code": "2026-FLFLS-261200546",
+        "name": "Peavine Road- Osceola (49)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Osceola",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-20T21:33:46",
+        "status_updated_time": "2026-08-20T21:33:46",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.57316589355469,
           26.595779418945312
         ]
@@ -14,8 +42,8 @@
         "id": "8b2fce2c-5354-4fd2-9f62-9a36098c1540",
         "incident_number": "261700202",
         "incident_code": "2026-FLFLS-261700202",
-        "name": "Nassau Ave S (36)",
-        "status": "Reported",
+        "name": "Nassau Ave (36)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.5,
         "containment_percent": 0,
@@ -25,7 +53,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-20T20:48:00",
-        "status_updated_time": "2026-08-20T20:48:00",
+        "status_updated_time": "2026-08-20T21:25:00",
         "is_obscured": false
       }
     },
@@ -34,19 +62,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.58870697021484,
-          27.73651123046875
+          -80.57749938964844,
+          27.723888397216797
         ]
       },
       "properties": {
         "id": "7b033eb3-68e5-46ae-bf4f-dc1780a114d7",
         "incident_number": "261600683",
         "incident_code": "2026-FLFLS-261600683",
-        "name": "12730 77th Street- Indian River (31)",
+        "name": "77th (31)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 50,
         "county": "Indian River",
         "field_unit": "Okeechobee",
         "region": "Region 4",
@@ -107,7 +135,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 12,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T18:37:11",
         "status_updated_time": "2026-08-20T20:20:56",
         "is_obscured": false
@@ -275,7 +303,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T20:31:27",
         "status_updated_time": "2026-08-19T22:09:13",
         "is_obscured": false
