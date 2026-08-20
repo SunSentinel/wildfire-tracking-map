@@ -71,9 +71,9 @@
         "incident_number": "260700597",
         "incident_code": "2026-FLFLS-260700597",
         "name": "Old Kings Rd. (18)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 4.0,
         "containment_percent": 0,
         "county": "Flagler",
         "field_unit": "Jacksonville",
@@ -81,7 +81,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 7,
         "discovery_time": "2026-08-19T23:19:00",
-        "status_updated_time": "2026-08-19T23:19:00",
+        "status_updated_time": "2026-08-20T14:30:09",
         "is_obscured": false
       }
     },
@@ -275,7 +275,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-19T12:55:21",
         "status_updated_time": "2026-08-19T17:49:57",
         "is_obscured": false
@@ -379,7 +379,7 @@
         "incident_number": "260700593",
         "incident_code": "2026-FLFLS-260700593",
         "name": "Cattle Farm 2 Fire  (18)",
-        "status": "Contained",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 5.0,
         "containment_percent": 100,
@@ -389,7 +389,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-17T21:43:46",
-        "status_updated_time": "2026-08-17T23:45:59",
+        "status_updated_time": "2026-08-20T14:40:18",
         "is_obscured": false
       }
     },
@@ -538,34 +538,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55722045898438,
-          29.704166412353516
-        ]
-      },
-      "properties": {
-        "id": "e3aeaef1-12e8-4365-a754-430554699c0c",
-        "incident_number": "260800768",
-        "incident_code": "2026-FLFLS-260800768",
-        "name": "FEDERAL POINT RD (54)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-15T19:56:00",
-        "status_updated_time": "2026-08-20T14:05:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.75166320800781,
           26.368610382080078
         ]
@@ -662,12 +634,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 700.0,
-        "containment_percent": 95,
+        "containment_percent": 97,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -751,7 +723,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
