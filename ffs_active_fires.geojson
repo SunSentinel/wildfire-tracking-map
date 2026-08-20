@@ -6,18 +6,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.6072998046875,
-          25.76282501220703
+          -81.27664947509766,
+          29.622068405151367
+        ]
+      },
+      "properties": {
+        "id": "4e1c54bb-101c-46dd-af8f-e06df1bd87e3",
+        "incident_number": "260700597",
+        "incident_code": "2026-FLFLS-260700597",
+        "name": "Old Kings Rd. (18)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Flagler",
+        "field_unit": "Jacksonville",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-19T23:19:00",
+        "status_updated_time": "2026-08-19T23:19:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.75555419921875,
+          25.823055267333984
         ]
       },
       "properties": {
         "id": "4cf5e1ed-04ee-48fc-ad90-8985eac3cd71",
         "incident_number": "261800140",
         "incident_code": "2026-FLFLS-261800140",
-        "name": "US-41- MM26 NORTH (13)",
-        "status": "Reported",
+        "name": "41-31 MILE MARKER (13)",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 120.0,
         "containment_percent": 0,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
@@ -25,7 +53,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 2,
         "discovery_time": "2026-08-19T21:53:00",
-        "status_updated_time": "2026-08-19T21:53:00",
+        "status_updated_time": "2026-08-19T23:12:06",
         "is_obscured": false
       }
     },
@@ -51,7 +79,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T21:02:00",
         "status_updated_time": "2026-08-19T23:07:10",
         "is_obscured": false
@@ -135,7 +163,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T19:19:23",
         "status_updated_time": "2026-08-19T19:37:18",
         "is_obscured": false
