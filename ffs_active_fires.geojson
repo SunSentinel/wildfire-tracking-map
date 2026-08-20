@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.16374969482422,
+          30.867399215698242
+        ]
+      },
+      "properties": {
+        "id": "719ed547-9345-498e-b142-90f55942bcfc",
+        "incident_number": "260200536",
+        "incident_code": "2026-FLFLS-260200536",
+        "name": "SMITH ST. (32)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Jackson",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-20T00:49:00",
+        "status_updated_time": "2026-08-20T01:54:08",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.27664947509766,
           29.622068405151367
         ]
@@ -45,13 +73,13 @@
         "name": "41-31 MILE MARKER (13)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 120.0,
+        "acres": 200.0,
         "containment_percent": 0,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T21:53:00",
         "status_updated_time": "2026-08-19T23:12:06",
         "is_obscured": false
