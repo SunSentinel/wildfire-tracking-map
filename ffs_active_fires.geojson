@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.65911102294922,
+          27.845596313476562
+        ]
+      },
+      "properties": {
+        "id": "46f6b1b7-f4fe-46ef-99c3-5356c57899f3",
+        "incident_number": "261400458",
+        "incident_code": "2026-FLFLS-261400458",
+        "name": "Alturas- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 12,
+        "discovery_time": "2026-08-20T18:37:11",
+        "status_updated_time": "2026-08-20T18:37:11",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.5521011352539,
           27.93429946899414
         ]
@@ -14,7 +42,7 @@
         "id": "b4e2a6a2-0dc7-4ca6-a5cd-7db3978307b3",
         "incident_number": "261200544",
         "incident_code": "2026-FLFLS-261200544",
-        "name": "Red Bay Lane- Brevard (05)",
+        "name": "MISTLE TRACK SOUTH- Brevard (05)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
@@ -23,7 +51,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-20T18:11:34",
         "status_updated_time": "2026-08-20T18:11:34",
         "is_obscured": false
@@ -34,26 +62,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.9736099243164,
-          27.2722225189209
+          -80.97222137451172,
+          27.27166748046875
         ]
       },
       "properties": {
         "id": "00c1e497-b1cd-430f-a2c7-212fd84fd80f",
         "incident_number": "261600682",
         "incident_code": "2026-FLFLS-261600682",
-        "name": "Okeechobee- Okeechobee (47)",
-        "status": "Reported",
+        "name": "JW (47)",
+        "status": "Controlled",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 3.98,
+        "containment_percent": 100,
         "county": "Okeechobee",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 4,
         "discovery_time": "2026-08-20T17:54:18",
-        "status_updated_time": "2026-08-20T17:54:18",
+        "status_updated_time": "2026-08-20T18:47:00",
         "is_obscured": false
       }
     },
@@ -359,7 +387,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-18T23:59:00",
         "status_updated_time": "2026-08-19T18:14:00",
         "is_obscured": false
@@ -463,17 +491,17 @@
         "incident_number": "260800772",
         "incident_code": "2026-FLFLS-260800772",
         "name": "EAST END 2 (54)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 50.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Putnam",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-17T21:40:00",
-        "status_updated_time": "2026-08-18T20:29:00",
+        "status_updated_time": "2026-08-20T18:27:00",
         "is_obscured": false
       }
     },
@@ -555,7 +583,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-16T17:22:00",
         "status_updated_time": "2026-08-16T17:53:00",
         "is_obscured": false
@@ -659,7 +687,7 @@
         "incident_number": "260700590",
         "incident_code": "2026-FLFLS-260700590",
         "name": "SR 20 County Line #2 (18)",
-        "status": "Contained",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 100,
@@ -669,7 +697,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 4,
         "discovery_time": "2026-08-14T15:19:00",
-        "status_updated_time": "2026-08-15T13:33:00",
+        "status_updated_time": "2026-08-20T18:34:47",
         "is_obscured": false
       }
     },
