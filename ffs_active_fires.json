@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T11:20:29.962274Z",
+  "updated_at": "2026-08-20T11:51:02.775531Z",
   "incidents": [
     {
       "id": "719ed547-9345-498e-b142-90f55942bcfc",
@@ -85,10 +85,10 @@
       "id": "5fa4d97a-94ac-4108-8ab3-eacb5a35fad6",
       "incident_number": "261200540",
       "incident_code": "2026-FLFLS-261200540",
-      "name": "Spur- Volusia (64)",
+      "name": "SPUR (64)",
       "status": "Contained",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 0.1,
       "containment_percent": 100,
       "county": "Volusia",
       "field_unit": "Orlando",
