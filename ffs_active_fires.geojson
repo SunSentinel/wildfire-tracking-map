@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.21666717529297,
+          29.04888916015625
+        ]
+      },
+      "properties": {
+        "id": "287a0830-d1e0-4033-99b6-8d470df3e651",
+        "incident_number": "261200541",
+        "incident_code": "2026-FLFLS-261200541",
+        "name": "Hilldale (64)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-20T12:18:22",
+        "status_updated_time": "2026-08-20T12:18:22",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.16374969482422,
           30.867399215698242
         ]
@@ -51,7 +79,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T23:19:00",
         "status_updated_time": "2026-08-19T23:19:00",
         "is_obscured": false
@@ -642,34 +670,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-14T15:19:00",
         "status_updated_time": "2026-08-15T13:33:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.34416961669922,
-          26.93166732788086
-        ]
-      },
-      "properties": {
-        "id": "0725469d-26c6-4a39-874a-d7a2ff475d2a",
-        "incident_number": "261800134",
-        "incident_code": "2026-FLFLS-261800134",
-        "name": "THE AIRPORT (50)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.4,
-        "containment_percent": 100,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-13T20:55:26",
-        "status_updated_time": "2026-08-14T12:09:02",
         "is_obscured": false
       }
     },
