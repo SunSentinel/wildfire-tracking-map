@@ -23,7 +23,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-20T20:12:00",
         "status_updated_time": "2026-08-20T20:12:00",
         "is_obscured": false
@@ -34,16 +34,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.71629333496094,
-          28.305917739868164
+          -80.71499633789062,
+          28.30638885498047
         ]
       },
       "properties": {
         "id": "493ce008-cd5c-42fd-9a19-3c168973f493",
         "incident_number": "261200545",
         "incident_code": "2026-FLFLS-261200545",
-        "name": "398 Gus Hipp Boulevard- Brevard (05)",
-        "status": "Reported",
+        "name": "398 Gus Hipp- Brevard (05)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -53,35 +53,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-20T19:39:24",
-        "status_updated_time": "2026-08-20T19:39:24",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.38484191894531,
-          30.01339340209961
-        ]
-      },
-      "properties": {
-        "id": "6b010e10-4129-47d2-995a-663073dffea1",
-        "incident_number": "260400486",
-        "incident_code": "2026-FLFLS-260400486",
-        "name": "LEAVY BAY  (65) 0486",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Wakulla",
-        "field_unit": "Tallahassee",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-20T18:41:00",
-        "status_updated_time": "2026-08-20T19:46:00",
+        "status_updated_time": "2026-08-20T20:29:57",
         "is_obscured": false
       }
     },
@@ -99,17 +71,17 @@
         "incident_number": "261400458",
         "incident_code": "2026-FLFLS-261400458",
         "name": "ORANGE ACRES (53)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 6.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 12,
         "discovery_time": "2026-08-20T18:37:11",
-        "status_updated_time": "2026-08-20T19:53:05",
+        "status_updated_time": "2026-08-20T20:20:56",
         "is_obscured": false
       }
     },
@@ -127,17 +99,17 @@
         "incident_number": "261200544",
         "incident_code": "2026-FLFLS-261200544",
         "name": "MISTLE TRACK SOUTH- Brevard (05)",
-        "status": "Reported",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Brevard",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-20T18:11:34",
-        "status_updated_time": "2026-08-20T18:11:34",
+        "status_updated_time": "2026-08-20T20:40:40",
         "is_obscured": false
       }
     },
@@ -499,7 +471,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
         "is_obscured": false
