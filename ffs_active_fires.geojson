@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.38301849365234,
+          26.962940216064453
+        ]
+      },
+      "properties": {
+        "id": "61a5fb21-2840-470f-9019-f7ea8f948f06",
+        "incident_number": "261600684",
+        "incident_code": "2026-FLFLS-261600684",
+        "name": "Warfield 710 (43)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Martin",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-08-20T22:45:09",
+        "status_updated_time": "2026-08-20T22:45:09",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.02339935302734,
           27.733600616455078
         ]
@@ -71,17 +99,17 @@
         "incident_number": "261600683",
         "incident_code": "2026-FLFLS-261600683",
         "name": "77th (31)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 38.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Indian River",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-20T20:12:00",
-        "status_updated_time": "2026-08-20T20:57:00",
+        "status_updated_time": "2026-08-20T22:54:00",
         "is_obscured": false
       }
     },
