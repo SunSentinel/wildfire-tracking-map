@@ -102,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 200.0,
-        "containment_percent": 0,
+        "containment_percent": 50,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
@@ -247,7 +247,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 15,
         "discovery_time": "2026-08-19T15:49:19",
         "status_updated_time": "2026-08-19T21:45:57",
         "is_obscured": false
@@ -303,7 +303,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-18T23:59:00",
         "status_updated_time": "2026-08-19T18:14:00",
         "is_obscured": false
@@ -331,7 +331,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-18T22:11:13",
         "status_updated_time": "2026-08-19T17:58:07",
         "is_obscured": false
@@ -527,7 +527,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-15T20:29:57",
         "status_updated_time": "2026-08-16T05:35:24",
         "is_obscured": false
@@ -547,17 +547,17 @@
         "incident_number": "260800768",
         "incident_code": "2026-FLFLS-260800768",
         "name": "FEDERAL POINT RD (54)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.5,
-        "containment_percent": 95,
+        "containment_percent": 100,
         "county": "Putnam",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-15T19:56:00",
-        "status_updated_time": "2026-08-15T21:04:40",
+        "status_updated_time": "2026-08-20T14:05:00",
         "is_obscured": false
       }
     },
@@ -667,65 +667,9 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6669921875,
-          29.730676651000977
-        ]
-      },
-      "properties": {
-        "id": "ccd185a5-77d2-407d-8583-5334897653c7",
-        "incident_number": "260800763",
-        "incident_code": "2026-FLFLS-260800763",
-        "name": "COW BAY 3 (54)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 3.17,
-        "containment_percent": 100,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-13T18:21:00",
-        "status_updated_time": "2026-08-18T18:00:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.47000122070312,
-          25.748056411743164
-        ]
-      },
-      "properties": {
-        "id": "ffde7a40-555b-481f-8ae5-92daf9c26559",
-        "incident_number": "261800131",
-        "incident_code": "2026-FLFLS-261800131",
-        "name": "THE TRAIL (13)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 25.0,
-        "containment_percent": 80,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-13T16:42:47",
-        "status_updated_time": "2026-08-13T17:03:53",
         "is_obscured": false
       }
     },
@@ -751,7 +695,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-09T22:15:24",
         "status_updated_time": "2026-08-10T00:13:41",
         "is_obscured": false
