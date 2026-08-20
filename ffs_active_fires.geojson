@@ -23,7 +23,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-20T21:33:46",
         "status_updated_time": "2026-08-20T21:33:46",
         "is_obscured": false
@@ -51,7 +51,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T20:48:00",
         "status_updated_time": "2026-08-20T21:25:00",
         "is_obscured": false
@@ -73,8 +73,8 @@
         "name": "77th (31)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 50,
+        "acres": 38.0,
+        "containment_percent": 90,
         "county": "Indian River",
         "field_unit": "Okeechobee",
         "region": "Region 4",
