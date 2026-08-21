@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.08899688720703,
-          28.450000762939453
-        ]
-      },
-      "properties": {
-        "id": "7d1ac0f0-67be-4a71-8891-474b795e2264",
-        "incident_number": "261200548",
-        "incident_code": "2026-FLFLS-261200548",
-        "name": "Wedgefield- Orange (48)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Orange",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-21T14:52:17",
-        "status_updated_time": "2026-08-21T14:52:17",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -85.97209167480469,
           30.3857421875
         ]
@@ -54,34 +26,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-21T12:46:22",
         "status_updated_time": "2026-08-21T12:46:22",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.57749938964844,
-          27.723888397216797
-        ]
-      },
-      "properties": {
-        "id": "7b033eb3-68e5-46ae-bf4f-dc1780a114d7",
-        "incident_number": "261600683",
-        "incident_code": "2026-FLFLS-261600683",
-        "name": "77th (31)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 38.0,
-        "containment_percent": 100,
-        "county": "Indian River",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-20T20:12:00",
-        "status_updated_time": "2026-08-20T22:54:00",
         "is_obscured": false
       }
     },
@@ -129,13 +73,13 @@
         "name": "ORANGE ACRES (53)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 6.0,
+        "acres": 20.0,
         "containment_percent": 100,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T18:37:11",
         "status_updated_time": "2026-08-20T20:20:56",
         "is_obscured": false
@@ -398,34 +342,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.62694549560547,
-          27.206111907958984
-        ]
-      },
-      "properties": {
-        "id": "105cbb37-38ea-4e7f-8bfd-b58f6b03009e",
-        "incident_number": "261600679",
-        "incident_code": "2026-FLFLS-261600679",
-        "name": "Micanopy (43)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 90.0,
-        "containment_percent": 100,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-08-18T23:59:00",
-        "status_updated_time": "2026-08-19T18:14:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.38460540771484,
           29.898792266845703
         ]
@@ -471,37 +387,9 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.22638702392578,
-          29.391780853271484
-        ]
-      },
-      "properties": {
-        "id": "f8ead438-25f0-4dcb-83c4-9715d8e65518",
-        "incident_number": "260700593",
-        "incident_code": "2026-FLFLS-260700593",
-        "name": "Cattle Farm 2 Fire  (18)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-17T21:43:46",
-        "status_updated_time": "2026-08-20T14:40:18",
         "is_obscured": false
       }
     },
@@ -611,7 +499,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-15T20:29:57",
         "status_updated_time": "2026-08-16T05:35:24",
         "is_obscured": false
@@ -667,7 +555,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-13T20:08:05.002",
         "is_obscured": false
@@ -695,7 +583,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-09T22:15:24",
         "status_updated_time": "2026-08-10T00:13:41",
         "is_obscured": false
