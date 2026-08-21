@@ -6,16 +6,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.30316925048828,
-          27.478639602661133
+          -80.5500259399414,
+          27.93334197998047
+        ]
+      },
+      "properties": {
+        "id": "ff9babf5-db83-468a-aa38-06ff64f263bd",
+        "incident_number": "261200549",
+        "incident_code": "2026-FLFLS-261200549",
+        "name": "Cypress Creek Drive- Brevard (05)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Brevard",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-21T20:36:08",
+        "status_updated_time": "2026-08-21T20:36:08",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3022232055664,
+          27.47916603088379
         ]
       },
       "properties": {
         "id": "4f79fe4d-62d7-43e6-982e-4a35efada9d3",
         "incident_number": "261600690",
         "incident_code": "2026-FLFLS-261600690",
-        "name": "Arbuckle Branch (28)",
-        "status": "Reported",
+        "name": "Branch (28)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -23,9 +51,9 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-21T20:05:00",
-        "status_updated_time": "2026-08-21T20:05:00",
+        "status_updated_time": "2026-08-21T20:23:00",
         "is_obscured": false
       }
     },
@@ -34,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.66180419921875,
-          26.945138931274414
+          -81.64888763427734,
+          26.885000228881836
         ]
       },
       "properties": {
@@ -43,17 +71,17 @@
         "incident_number": "261500557",
         "incident_code": "2026-FLFLS-261500557",
         "name": "Charlotte",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 30.0,
         "containment_percent": 0,
         "county": "Charlotte",
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 14,
         "discovery_time": "2026-08-21T19:55:37",
-        "status_updated_time": "2026-08-21T19:55:37",
+        "status_updated_time": "2026-08-21T20:26:08",
         "is_obscured": false
       }
     },
@@ -62,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.59786987304688,
-          27.160022735595703
+          -80.60444641113281,
+          27.141944885253906
         ]
       },
       "properties": {
@@ -79,7 +107,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 9,
+        "resources_assigned": 14,
         "discovery_time": "2026-08-21T19:46:00",
         "status_updated_time": "2026-08-21T20:13:00",
         "is_obscured": false
@@ -101,7 +129,7 @@
         "name": "CAMP LIMA (50)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 5.0,
+        "acres": 10.0,
         "containment_percent": 100,
         "county": "Palm Beach",
         "field_unit": "Everglades",
