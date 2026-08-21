@@ -6,26 +6,82 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.57369995117188,
-          26.591100692749023
+          -81.30316925048828,
+          27.478639602661133
         ]
       },
       "properties": {
-        "id": "3a455e18-2bc1-41f6-8cb9-db675730bc14",
-        "incident_number": "261700204",
-        "incident_code": "2026-FLFLS-261700204",
-        "name": "Randan (36)",
-        "status": "Contained",
+        "id": "4f79fe4d-62d7-43e6-982e-4a35efada9d3",
+        "incident_number": "261600690",
+        "incident_code": "2026-FLFLS-261600690",
+        "name": "Arbuckle Branch (28)",
+        "status": "Reported",
         "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Lee",
-        "field_unit": "Caloosahatchee",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Highlands",
+        "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-21T18:17:34",
-        "status_updated_time": "2026-08-21T19:20:00",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-21T20:05:00",
+        "status_updated_time": "2026-08-21T20:05:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66180419921875,
+          26.945138931274414
+        ]
+      },
+      "properties": {
+        "id": "d5b46107-70f1-4d31-aa2c-f20bf8e7e02a",
+        "incident_number": "261500557",
+        "incident_code": "2026-FLFLS-261500557",
+        "name": "Charlotte",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Charlotte",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-21T19:55:37",
+        "status_updated_time": "2026-08-21T19:55:37",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.59786987304688,
+          27.160022735595703
+        ]
+      },
+      "properties": {
+        "id": "57e3c63f-4873-4cfb-90b2-450e4705e1ed",
+        "incident_number": "261600689",
+        "incident_code": "2026-FLFLS-261600689",
+        "name": "Martin (43)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Martin",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 9,
+        "discovery_time": "2026-08-21T19:46:00",
+        "status_updated_time": "2026-08-21T20:13:00",
         "is_obscured": false
       }
     },
