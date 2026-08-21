@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.42382049560547,
+          26.88844108581543
+        ]
+      },
+      "properties": {
+        "id": "cf7bd6e8-2e6f-4875-8ad9-73b1b86d387f",
+        "incident_number": "261800141",
+        "incident_code": "2026-FLFLS-261800141",
+        "name": "REPORTED CORBETT (50)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Palm Beach",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 4,
+        "discovery_time": "2026-08-21T16:22:00",
+        "status_updated_time": "2026-08-21T16:22:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.97209167480469,
           30.3857421875
         ]
@@ -250,34 +278,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-19T19:49:18",
         "status_updated_time": "2026-08-19T21:14:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.31210327148438,
-          27.084121704101562
-        ]
-      },
-      "properties": {
-        "id": "c63ca988-bd3e-4d2f-9514-569b93261250",
-        "incident_number": "261500555",
-        "incident_code": "2026-FLFLS-261500555",
-        "name": "Deer Prairie - Sarasota (58)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 30.0,
-        "containment_percent": 100,
-        "county": "Sarasota",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-19T19:19:23",
-        "status_updated_time": "2026-08-21T13:49:51",
         "is_obscured": false
       }
     },
