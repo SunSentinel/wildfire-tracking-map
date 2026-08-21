@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.89159393310547,
+          27.787382125854492
+        ]
+      },
+      "properties": {
+        "id": "e228de6e-6715-4269-8bf8-009c6809c006",
+        "incident_number": "261400464",
+        "incident_code": "2026-FLFLS-261400464",
+        "name": "7701 County Road 555- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-21T23:24:20",
+        "status_updated_time": "2026-08-21T23:24:20",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.76480102539062,
           30.62411880493164
         ]
@@ -18,7 +46,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 3.0,
-        "containment_percent": 80,
+        "containment_percent": 90,
         "county": "Washington",
         "field_unit": "Chipola",
         "region": "Region 1",
@@ -191,7 +219,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T19:46:00",
         "status_updated_time": "2026-08-21T22:18:00",
         "is_obscured": false
