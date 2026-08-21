@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.78416442871094,
-          28.664443969726562
-        ]
-      },
-      "properties": {
-        "id": "8fb2033b-1d9b-45de-aca3-4145609b57df",
-        "incident_number": "261100612",
-        "incident_code": "2026-FLFLS-261100612",
-        "name": "SR 19(35)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-21T03:10:05",
-        "status_updated_time": "2026-08-21T03:29:14",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.38301849365234,
           26.962940216064453
         ]
@@ -214,7 +186,7 @@
         "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 100,
+        "containment_percent": 10,
         "county": "Brevard",
         "field_unit": "Orlando",
         "region": "Region 3",
