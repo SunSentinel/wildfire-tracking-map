@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.78280639648438,
+          28.666423797607422
+        ]
+      },
+      "properties": {
+        "id": "8fb2033b-1d9b-45de-aca3-4145609b57df",
+        "incident_number": "261100612",
+        "incident_code": "2026-FLFLS-261100612",
+        "name": "22185 Obrien Road- Lake (35)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lake",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-21T03:10:05",
+        "status_updated_time": "2026-08-21T03:10:05",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.38301849365234,
           26.962940216064453
         ]
