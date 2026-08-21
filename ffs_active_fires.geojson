@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.4732437133789,
-          27.710020065307617
-        ]
-      },
-      "properties": {
-        "id": "f8ffa851-5d78-415a-a479-609270122c91",
-        "incident_number": "261600692",
-        "incident_code": "2026-FLFLS-261600692",
-        "name": "65th  (31)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Indian River",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-21T22:00:00",
-        "status_updated_time": "2026-08-21T22:00:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -85.76480102539062,
           30.62411880493164
         ]
@@ -45,8 +17,8 @@
         "name": "CREEK RD (67)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 3.0,
+        "containment_percent": 80,
         "county": "Washington",
         "field_unit": "Chipola",
         "region": "Region 1",
@@ -79,7 +51,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T21:44:00",
         "status_updated_time": "2026-08-21T21:44:00",
         "is_obscured": false
@@ -129,7 +101,7 @@
         "name": "MISSILE TRACK II- Brevard (05)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 33.0,
+        "acres": 39.0,
         "containment_percent": 100,
         "county": "Brevard",
         "field_unit": "Orlando",
@@ -219,7 +191,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-21T19:46:00",
         "status_updated_time": "2026-08-21T22:18:00",
         "is_obscured": false
