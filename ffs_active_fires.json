@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:57:25.328077Z",
+  "updated_at": "2026-08-21T16:34:17.305254Z",
   "incidents": [
     {
       "id": "f0f0112a-07e4-4e88-9821-f1e5407856d0",
@@ -254,7 +254,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-18T22:11:13",
       "status_updated_time": "2026-08-19T17:58:07",
       "latitude": 29.898792266845703,
@@ -342,26 +342,6 @@
       "is_obscured": false
     },
     {
-      "id": "bdc91813-1c6c-4097-84c7-af8c3a5d4073",
-      "incident_number": "261200530",
-      "incident_code": "2026-FLFLS-261200530",
-      "name": "OUTBACK (49)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 269.0,
-      "containment_percent": 100,
-      "county": "Osceola",
-      "field_unit": "Orlando",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-15T20:29:57",
-      "status_updated_time": "2026-08-16T05:35:24",
-      "latitude": 28.29222297668457,
-      "longitude": -81.18777465820312,
-      "is_obscured": false
-    },
-    {
       "id": "de2540d9-1e1e-49ab-a39c-edc13ca292a4",
       "incident_number": "261200527",
       "incident_code": "2026-FLFLS-261200527",
@@ -394,7 +374,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-13T19:32:12",
       "status_updated_time": "2026-08-13T20:08:05.002",
       "latitude": 25.710832595825195,
