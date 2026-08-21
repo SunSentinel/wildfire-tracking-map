@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T11:21:33.632110Z",
+  "updated_at": "2026-08-21T11:50:35.966880Z",
   "incidents": [
     {
       "id": "61a5fb21-2840-470f-9019-f7ea8f948f06",
@@ -128,8 +128,8 @@
       "name": "MISTLE TRACK SOUTH- Brevard (05)",
       "status": "Contained",
       "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 10,
+      "acres": 10.0,
+      "containment_percent": 100,
       "county": "Brevard",
       "field_unit": "Orlando",
       "region": "Region 3",
