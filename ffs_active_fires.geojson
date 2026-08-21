@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.08899688720703,
+          28.450000762939453
+        ]
+      },
+      "properties": {
+        "id": "7d1ac0f0-67be-4a71-8891-474b795e2264",
+        "incident_number": "261200548",
+        "incident_code": "2026-FLFLS-261200548",
+        "name": "Wedgefield- Orange (48)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Orange",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-21T14:52:17",
+        "status_updated_time": "2026-08-21T14:52:17",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.97209167480469,
           30.3857421875
         ]
@@ -107,7 +135,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-20T18:37:11",
         "status_updated_time": "2026-08-20T20:20:56",
         "is_obscured": false
@@ -230,34 +258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.75555419921875,
-          25.823055267333984
-        ]
-      },
-      "properties": {
-        "id": "4cf5e1ed-04ee-48fc-ad90-8985eac3cd71",
-        "incident_number": "261800140",
-        "incident_code": "2026-FLFLS-261800140",
-        "name": "41-31 MILE MARKER (13)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 200.0,
-        "containment_percent": 75,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-19T21:53:00",
-        "status_updated_time": "2026-08-19T23:12:06",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.96309661865234,
           28.812299728393555
         ]
@@ -275,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-19T20:31:27",
         "status_updated_time": "2026-08-19T22:09:13",
         "is_obscured": false
@@ -527,7 +527,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-17T21:40:00",
         "status_updated_time": "2026-08-20T18:27:00",
         "is_obscured": false
@@ -614,34 +614,6 @@
         "resources_assigned": 3,
         "discovery_time": "2026-08-15T20:29:57",
         "status_updated_time": "2026-08-16T05:35:24",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.75166320800781,
-          26.368610382080078
-        ]
-      },
-      "properties": {
-        "id": "30c0ab29-680e-4037-b4e4-3a9727e37d83",
-        "incident_number": "261800136",
-        "incident_code": "2026-FLFLS-261800136",
-        "name": "THE H1 (50)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 9450.0,
-        "containment_percent": 100,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-14T20:02:48",
-        "status_updated_time": "2026-08-20T18:42:02",
         "is_obscured": false
       }
     },
