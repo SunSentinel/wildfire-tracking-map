@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5740966796875,
-          26.59047508239746
+          -81.57369995117188,
+          26.591100692749023
         ]
       },
       "properties": {
@@ -15,7 +15,7 @@
         "incident_number": "261700204",
         "incident_code": "2026-FLFLS-261700204",
         "name": "215 Narcissus Avenue South- Lee (36)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-21T18:17:34",
-        "status_updated_time": "2026-08-21T18:17:34",
+        "status_updated_time": "2026-08-21T18:50:00",
         "is_obscured": false
       }
     },
@@ -43,17 +43,17 @@
         "incident_number": "261800141",
         "incident_code": "2026-FLFLS-261800141",
         "name": "CAMP LIMA (50)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 5.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 4,
         "discovery_time": "2026-08-21T16:22:00",
-        "status_updated_time": "2026-08-21T17:41:29",
+        "status_updated_time": "2026-08-21T18:44:02",
         "is_obscured": false
       }
     },
@@ -107,7 +107,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T19:39:24",
         "status_updated_time": "2026-08-21T01:05:33",
         "is_obscured": false
@@ -519,7 +519,7 @@
         "incident_number": "261200527",
         "incident_code": "2026-FLFLS-261200527",
         "name": "CEDAR WAY (64)",
-        "status": "Contained",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 2.7,
         "containment_percent": 100,
@@ -529,7 +529,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-14T18:01:39",
-        "status_updated_time": "2026-08-14T20:00:27.002",
+        "status_updated_time": "2026-08-21T18:35:24",
         "is_obscured": false
       }
     },
