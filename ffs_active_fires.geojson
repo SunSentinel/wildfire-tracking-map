@@ -23,7 +23,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T22:45:09",
         "status_updated_time": "2026-08-20T22:45:09",
         "is_obscured": false
@@ -42,8 +42,8 @@
         "id": "b658571d-3e89-4ad3-b4cf-63188ac69075",
         "incident_number": "261200546",
         "incident_code": "2026-FLFLS-261200546",
-        "name": "Peavine Road- Osceola (49)",
-        "status": "Reported",
+        "name": "LEVY- Osceola (49)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -53,7 +53,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-20T21:33:46",
-        "status_updated_time": "2026-08-20T21:33:46",
+        "status_updated_time": "2026-08-21T00:09:29",
         "is_obscured": false
       }
     },
@@ -107,7 +107,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T20:12:00",
         "status_updated_time": "2026-08-20T22:54:00",
         "is_obscured": false
@@ -130,7 +130,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 30,
+        "containment_percent": 80,
         "county": "Brevard",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -390,34 +390,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-19T19:19:23",
         "status_updated_time": "2026-08-19T19:37:18",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.36805725097656,
-          26.74416732788086
-        ]
-      },
-      "properties": {
-        "id": "9d36a4d1-e0f1-4ef6-857d-39f14d958c43",
-        "incident_number": "261700201",
-        "incident_code": "2026-FLFLS-261700201",
-        "name": "South Indio Circle (26)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Hendry",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-19T16:51:00",
-        "status_updated_time": "2026-08-19T18:17:10",
         "is_obscured": false
       }
     },
