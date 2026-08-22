@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.43966674804688,
-          27.38466453552246
-        ]
-      },
-      "properties": {
-        "id": "590acf89-3cd1-4138-9ed7-12dbe8f983c8",
-        "incident_number": "261600693",
-        "incident_code": "2026-FLFLS-261600693",
-        "name": "Josephine (28)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Highlands",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-22T01:30:00",
-        "status_updated_time": "2026-08-22T01:30:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.0779037475586,
           28.498300552368164
         ]
@@ -71,17 +43,17 @@
         "incident_number": "261400464",
         "incident_code": "2026-FLFLS-261400464",
         "name": "NIGHT FIRE (53)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 25.0,
+        "containment_percent": 100,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 9,
         "discovery_time": "2026-08-21T23:24:20",
-        "status_updated_time": "2026-08-22T01:06:33",
+        "status_updated_time": "2026-08-22T03:49:38",
         "is_obscured": false
       }
     },
@@ -110,34 +82,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-21T21:59:00",
         "status_updated_time": "2026-08-21T22:35:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39852142333984,
-          27.237590789794922
-        ]
-      },
-      "properties": {
-        "id": "54f47a1a-4bd0-4e28-88ca-4c17c9d4db2e",
-        "incident_number": "261600691",
-        "incident_code": "2026-FLFLS-261600691",
-        "name": "Tobler  (28)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Highlands",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-21T21:44:00",
-        "status_updated_time": "2026-08-21T21:44:00",
         "is_obscured": false
       }
     },
