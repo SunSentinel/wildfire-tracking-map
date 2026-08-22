@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.1229476928711,
+          27.928083419799805
+        ]
+      },
+      "properties": {
+        "id": "fbaac45b-e098-4805-af23-350a2f3cb4cb",
+        "incident_number": "261200554",
+        "incident_code": "2026-FLFLS-261200554",
+        "name": "3 Lakes  (49)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Osceola",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-22T18:28:30",
+        "status_updated_time": "2026-08-22T18:31:42",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75824737548828,
+          28.84105110168457
+        ]
+      },
+      "properties": {
+        "id": "df71b22d-c18c-4d60-8085-cbbeffd99bb2",
+        "incident_number": "261100617",
+        "incident_code": "2026-FLFLS-261100617",
+        "name": "11996 Northern Avenue- Lake (35)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lake",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-22T18:25:26",
+        "status_updated_time": "2026-08-22T18:44:28",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.38932800292969,
           29.007858276367188
         ]
@@ -15,7 +71,7 @@
         "incident_number": "261100615",
         "incident_code": "2026-FLFLS-261100615",
         "name": "34120 County Road 42- Lake (35)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -23,9 +79,9 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T18:03:06",
-        "status_updated_time": "2026-08-22T18:03:06",
+        "status_updated_time": "2026-08-22T18:45:35",
         "is_obscured": false
       }
     },
@@ -51,7 +107,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 12,
         "discovery_time": "2026-08-22T16:40:19",
         "status_updated_time": "2026-08-22T16:58:00",
         "is_obscured": false
@@ -79,7 +135,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T16:01:00",
         "status_updated_time": "2026-08-22T17:27:00",
         "is_obscured": false
@@ -219,7 +275,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T19:55:37",
         "status_updated_time": "2026-08-21T20:26:08",
         "is_obscured": false
