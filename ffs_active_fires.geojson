@@ -51,37 +51,9 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T23:24:20",
         "status_updated_time": "2026-08-22T03:49:38",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.76480102539062,
-          30.62411880493164
-        ]
-      },
-      "properties": {
-        "id": "3628e26f-5470-4eec-97e4-a098ec4e250d",
-        "incident_number": "260200539",
-        "incident_code": "2026-FLFLS-260200539",
-        "name": "CREEK RD (67)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 90,
-        "county": "Washington",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-21T21:59:00",
-        "status_updated_time": "2026-08-21T22:35:00",
         "is_obscured": false
       }
     },
@@ -303,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-20T19:39:24",
         "status_updated_time": "2026-08-21T01:05:33",
         "is_obscured": false
@@ -415,7 +387,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T23:19:00",
         "status_updated_time": "2026-08-20T15:29:31",
         "is_obscured": false
@@ -443,7 +415,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T20:31:27",
         "status_updated_time": "2026-08-19T22:09:13",
         "is_obscured": false
@@ -471,7 +443,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T19:49:18",
         "status_updated_time": "2026-08-19T21:14:02",
         "is_obscured": false
@@ -499,7 +471,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-19T15:49:19",
         "status_updated_time": "2026-08-19T21:45:57",
         "is_obscured": false
