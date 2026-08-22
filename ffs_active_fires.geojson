@@ -594,34 +594,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.92555236816406,
-          28.517778396606445
-        ]
-      },
-      "properties": {
-        "id": "54c5d06e-25bf-44d9-90c3-00795b0c41b2",
-        "incident_number": "261100605",
-        "incident_code": "2026-FLFLS-261100605",
-        "name": "FENDER CEMETERY  (35)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 100,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-17T21:26:22",
-        "status_updated_time": "2026-08-18T00:46:49",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.28382110595703,
           29.57906150817871
         ]
