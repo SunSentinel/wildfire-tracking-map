@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.74124145507812,
+          26.548282623291016
+        ]
+      },
+      "properties": {
+        "id": "0853caf5-f9ed-41a1-bd75-1bd44d23dfee",
+        "incident_number": "261700205",
+        "incident_code": "2026-FLFLS-261700205",
+        "name": "Fuel Farm Road (36)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lee",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-22T16:01:00",
+        "status_updated_time": "2026-08-22T16:29:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.0779037475586,
           28.498300552368164
         ]
@@ -471,7 +499,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-19T12:55:21",
         "status_updated_time": "2026-08-19T17:49:57",
         "is_obscured": false
