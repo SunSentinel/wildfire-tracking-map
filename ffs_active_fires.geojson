@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.34976196289062,
+          26.698894500732422
+        ]
+      },
+      "properties": {
+        "id": "21999d8a-af66-4dbb-9d87-489741d8d1a1",
+        "incident_number": "261700207",
+        "incident_code": "2026-FLFLS-261700207",
+        "name": "Port LaBelle- Hendry (26)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hendry",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-22T21:48:00",
+        "status_updated_time": "2026-08-22T21:48:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.58969116210938,
           27.841983795166016
         ]
@@ -34,16 +62,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.3932876586914,
-          27.16371726989746
+          -80.39472198486328,
+          27.165555953979492
         ]
       },
       "properties": {
         "id": "44e49a91-6b5e-4c07-9f19-d3028dba600a",
         "incident_number": "261600695",
         "incident_code": "2026-FLFLS-261600695",
-        "name": "Green farms (43)",
-        "status": "Reported",
+        "name": "Green Farms (43)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -53,7 +81,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-22T20:42:00",
-        "status_updated_time": "2026-08-22T20:42:00",
+        "status_updated_time": "2026-08-22T21:41:00",
         "is_obscured": false
       }
     },
@@ -74,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 80.0,
-        "containment_percent": 0,
+        "containment_percent": 10,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
@@ -130,7 +158,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 100.0,
-        "containment_percent": 0,
+        "containment_percent": 85,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
@@ -183,7 +211,7 @@
         "incident_number": "261100617",
         "incident_code": "2026-FLFLS-261100617",
         "name": "NORTHERN (35)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 9.1,
         "containment_percent": 100,
@@ -191,9 +219,9 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:25:26",
-        "status_updated_time": "2026-08-22T18:44:28",
+        "status_updated_time": "2026-08-22T21:55:56",
         "is_obscured": false
       }
     },
@@ -210,7 +238,7 @@
         "id": "2ed2314b-e408-4843-830e-9635144c5197",
         "incident_number": "261100615",
         "incident_code": "2026-FLFLS-261100615",
-        "name": "34120 County Road 42- Lake (35)",
+        "name": "CROWS BLUFF (35)",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 7.0,
