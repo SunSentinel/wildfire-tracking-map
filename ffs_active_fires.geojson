@@ -23,7 +23,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T01:30:00",
         "status_updated_time": "2026-08-22T01:30:00",
         "is_obscured": false
@@ -219,7 +219,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T20:05:00",
         "status_updated_time": "2026-08-21T21:24:00",
         "is_obscured": false
