@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T10:47:19.263420Z",
+  "updated_at": "2026-08-22T11:15:11.487855Z",
   "incidents": [
     {
       "id": "c3b07b86-a73f-4121-ab41-d4f71f43e6a8",
@@ -479,26 +479,6 @@
       "status_updated_time": "2026-08-17T23:46:45",
       "latitude": 29.57906150817871,
       "longitude": -81.28382110595703,
-      "is_obscured": false
-    },
-    {
-      "id": "de2540d9-1e1e-49ab-a39c-edc13ca292a4",
-      "incident_number": "261200527",
-      "incident_code": "2026-FLFLS-261200527",
-      "name": "CEDAR WAY (64)",
-      "status": "Controlled",
-      "category": "Wildfire",
-      "acres": 2.7,
-      "containment_percent": 100,
-      "county": "Volusia",
-      "field_unit": "Orlando",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-08-14T18:01:39",
-      "status_updated_time": "2026-08-21T18:35:24",
-      "latitude": 29.268054962158203,
-      "longitude": -81.49500274658203,
       "is_obscured": false
     },
     {
