@@ -15,7 +15,7 @@
         "incident_number": "261700206",
         "incident_code": "2026-FLFLS-261700206",
         "name": "18128 Sabal Palm Drive- Lee (36)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.5,
         "containment_percent": 0,
@@ -23,9 +23,9 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-22T16:40:19",
-        "status_updated_time": "2026-08-22T16:40:19",
+        "status_updated_time": "2026-08-22T16:58:00",
         "is_obscured": false
       }
     },
@@ -43,45 +43,17 @@
         "incident_number": "261700205",
         "incident_code": "2026-FLFLS-261700205",
         "name": "Fuel Farm Road (36)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 95,
+        "acres": 0.5,
+        "containment_percent": 100,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T16:01:00",
-        "status_updated_time": "2026-08-22T16:29:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.0779037475586,
-          28.498300552368164
-        ]
-      },
-      "properties": {
-        "id": "c3b07b86-a73f-4121-ab41-d4f71f43e6a8",
-        "incident_number": "261200550",
-        "incident_code": "2026-FLFLS-261200550",
-        "name": "Bancroft (48)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.2,
-        "containment_percent": 100,
-        "county": "Orange",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-21T23:42:39",
-        "status_updated_time": "2026-08-22T01:23:52",
+        "status_updated_time": "2026-08-22T17:27:00",
         "is_obscured": false
       }
     },
