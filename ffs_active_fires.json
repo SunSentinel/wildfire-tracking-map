@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:43:57.734353Z",
+  "updated_at": "2026-08-22T16:16:16.762580Z",
   "incidents": [
     {
       "id": "c3b07b86-a73f-4121-ab41-d4f71f43e6a8",
@@ -74,7 +74,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-21T20:36:08",
       "status_updated_time": "2026-08-21T22:38:58",
       "latitude": 27.93833351135254,
@@ -242,26 +242,6 @@
       "is_obscured": false
     },
     {
-      "id": "719ed547-9345-498e-b142-90f55942bcfc",
-      "incident_number": "260200536",
-      "incident_code": "2026-FLFLS-260200536",
-      "name": "SMITH ST. (32)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 0.1,
-      "containment_percent": 100,
-      "county": "Jackson",
-      "field_unit": "Chipola",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-20T00:49:00",
-      "status_updated_time": "2026-08-20T02:11:00",
-      "latitude": 30.867399215698242,
-      "longitude": -85.16374969482422,
-      "is_obscured": false
-    },
-    {
       "id": "4e1c54bb-101c-46dd-af8f-e06df1bd87e3",
       "incident_number": "260700597",
       "incident_code": "2026-FLFLS-260700597",
@@ -354,7 +334,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 4,
       "discovery_time": "2026-08-19T12:55:21",
       "status_updated_time": "2026-08-19T17:49:57",
       "latitude": 29.293167114257812,
