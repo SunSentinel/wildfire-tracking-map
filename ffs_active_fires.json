@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T13:50:49.375828Z",
+  "updated_at": "2026-08-22T14:15:07.530707Z",
   "incidents": [
     {
       "id": "c3b07b86-a73f-4121-ab41-d4f71f43e6a8",
@@ -334,7 +334,7 @@
       "field_unit": "Lakeland",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-19T19:49:18",
       "status_updated_time": "2026-08-19T21:14:02",
       "latitude": 28.161945343017578,
@@ -434,7 +434,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-17T21:40:00",
       "status_updated_time": "2026-08-20T18:27:00",
       "latitude": 29.58353614807129,

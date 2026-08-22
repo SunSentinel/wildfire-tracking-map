@@ -471,7 +471,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-19T19:49:18",
         "status_updated_time": "2026-08-19T21:14:02",
         "is_obscured": false
@@ -611,7 +611,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-17T21:40:00",
         "status_updated_time": "2026-08-20T18:27:00",
         "is_obscured": false
