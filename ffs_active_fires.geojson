@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.91194152832031,
+          28.8347225189209
+        ]
+      },
+      "properties": {
+        "id": "f4f937fc-2adb-4183-8faf-9d1395fb6943",
+        "incident_number": "261200557",
+        "incident_code": "2026-FLFLS-261200557",
+        "name": "Oak Hill- Volusia (64)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-22T23:13:28",
+        "status_updated_time": "2026-08-22T23:13:28",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.80305480957031,
           28.34083366394043
         ]
@@ -43,7 +71,7 @@
         "incident_number": "261200556",
         "incident_code": "2026-FLFLS-261200556",
         "name": "POND (48)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 1.1,
         "containment_percent": 100,
@@ -53,7 +81,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T22:18:01",
-        "status_updated_time": "2026-08-22T22:18:49",
+        "status_updated_time": "2026-08-22T23:12:04",
         "is_obscured": false
       }
     },
@@ -71,7 +99,7 @@
         "incident_number": "261700207",
         "incident_code": "2026-FLFLS-261700207",
         "name": "6th Road (26)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 13.44,
         "containment_percent": 100,
@@ -81,7 +109,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T21:48:00",
-        "status_updated_time": "2026-08-22T22:39:00",
+        "status_updated_time": "2026-08-22T23:06:00",
         "is_obscured": false
       }
     },
@@ -91,7 +119,7 @@
         "type": "Point",
         "coordinates": [
           -81.60055541992188,
-          27.258054733276367
+          27.841388702392578
         ]
       },
       "properties": {
@@ -102,12 +130,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 16.0,
-        "containment_percent": 0,
-        "county": "DeSoto",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
+        "containment_percent": 90,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:55:54",
         "status_updated_time": "2026-08-22T21:14:25",
         "is_obscured": false
@@ -127,17 +155,17 @@
         "incident_number": "261600695",
         "incident_code": "2026-FLFLS-261600695",
         "name": "Green Farms (43)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 3.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Martin",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-22T20:42:00",
-        "status_updated_time": "2026-08-22T21:41:00",
+        "status_updated_time": "2026-08-22T23:21:00",
         "is_obscured": false
       }
     },
@@ -303,7 +331,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:03:06",
         "status_updated_time": "2026-08-22T20:52:25",
         "is_obscured": false
@@ -331,7 +359,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T16:40:19",
         "status_updated_time": "2026-08-22T21:00:00",
         "is_obscured": false
