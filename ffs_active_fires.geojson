@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.78714752197266,
+          26.72894859313965
+        ]
+      },
+      "properties": {
+        "id": "5ee48bd8-5cc7-4708-a3d5-3fa3ef850567",
+        "incident_number": "261700206",
+        "incident_code": "2026-FLFLS-261700206",
+        "name": "18128 Sabal Palm Drive- Lee (36)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.5,
+        "containment_percent": 0,
+        "county": "Lee",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-22T16:40:19",
+        "status_updated_time": "2026-08-22T16:40:19",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.74124145507812,
           26.548282623291016
         ]
@@ -18,7 +46,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 95,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
@@ -107,7 +135,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T21:31:36",
         "status_updated_time": "2026-08-21T23:43:03",
         "is_obscured": false
@@ -191,7 +219,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-21T19:55:37",
         "status_updated_time": "2026-08-21T20:26:08",
         "is_obscured": false
@@ -471,7 +499,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-19T15:49:19",
         "status_updated_time": "2026-08-19T21:45:57",
         "is_obscured": false
@@ -555,7 +583,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
         "is_obscured": false
@@ -639,7 +667,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-22T15:14:00",
         "is_obscured": false
