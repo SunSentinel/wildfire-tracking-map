@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-22T17:43:36.236000Z",
+  "updated_at": "2026-08-22T18:19:59.672991Z",
   "incidents": [
+    {
+      "id": "2ed2314b-e408-4843-830e-9635144c5197",
+      "incident_number": "261100615",
+      "incident_code": "2026-FLFLS-261100615",
+      "name": "34120 County Road 42- Lake (35)",
+      "status": "Reported",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Lake",
+      "field_unit": "Withlacoochee",
+      "region": "Region 3",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-08-22T18:03:06",
+      "status_updated_time": "2026-08-22T18:03:06",
+      "latitude": 29.007858276367188,
+      "longitude": -81.38932800292969,
+      "is_obscured": false
+    },
     {
       "id": "5ee48bd8-5cc7-4708-a3d5-3fa3ef850567",
       "incident_number": "261700206",
@@ -374,7 +394,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-18T22:11:13",
       "status_updated_time": "2026-08-19T17:58:07",
       "latitude": 29.898792266845703,
