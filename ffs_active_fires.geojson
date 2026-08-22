@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.58969116210938,
+          27.841983795166016
+        ]
+      },
+      "properties": {
+        "id": "36efbe71-3d79-4c6d-b728-14bdf647cb75",
+        "incident_number": "261400467",
+        "incident_code": "2026-FLFLS-261400467",
+        "name": "201 County Road 640- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-08-22T20:55:54",
+        "status_updated_time": "2026-08-22T20:55:54",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3932876586914,
+          27.16371726989746
+        ]
+      },
+      "properties": {
+        "id": "44e49a91-6b5e-4c07-9f19-d3028dba600a",
+        "incident_number": "261600695",
+        "incident_code": "2026-FLFLS-261600695",
+        "name": "Green farms (43)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Martin",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-08-22T20:42:00",
+        "status_updated_time": "2026-08-22T20:42:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.57076263427734,
           25.863874435424805
         ]
@@ -23,7 +79,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T20:30:00",
         "status_updated_time": "2026-08-22T20:30:00",
         "is_obscured": false
@@ -42,18 +98,18 @@
         "id": "ad64b380-3a2c-4934-8f55-3743e093f13b",
         "incident_number": "261200555",
         "incident_code": "2026-FLFLS-261200555",
-        "name": "DESERET (48)",
-        "status": "Active",
+        "name": "CONE (48)",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 2.0,
+        "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T19:19:59",
-        "status_updated_time": "2026-08-22T19:21:17",
+        "status_updated_time": "2026-08-22T20:55:26",
         "is_obscured": false
       }
     },
@@ -62,8 +118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.77999877929688,
-          26.399999618530273
+          -80.79055786132812,
+          26.419445037841797
         ]
       },
       "properties": {
@@ -99,17 +155,17 @@
         "incident_number": "261200554",
         "incident_code": "2026-FLFLS-261200554",
         "name": "NORTH END (49)",
-        "status": "Contained",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 97.0,
-        "containment_percent": 100,
+        "containment_percent": 75,
         "county": "Osceola",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T18:28:30",
-        "status_updated_time": "2026-08-22T20:40:21",
+        "status_updated_time": "2026-08-22T20:40:52",
         "is_obscured": false
       }
     },
@@ -129,8 +185,8 @@
         "name": "NORTHERN (35)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 10.0,
-        "containment_percent": 65,
+        "acres": 9.1,
+        "containment_percent": 100,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
@@ -155,17 +211,17 @@
         "incident_number": "261100615",
         "incident_code": "2026-FLFLS-261100615",
         "name": "34120 County Road 42- Lake (35)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 7.0,
-        "containment_percent": 25,
+        "containment_percent": 100,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 6,
         "discovery_time": "2026-08-22T18:03:06",
-        "status_updated_time": "2026-08-22T18:45:35",
+        "status_updated_time": "2026-08-22T20:52:25",
         "is_obscured": false
       }
     },
@@ -183,17 +239,17 @@
         "incident_number": "261700206",
         "incident_code": "2026-FLFLS-261700206",
         "name": "Sabal Palm Drive (36)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 20.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 8,
         "discovery_time": "2026-08-22T16:40:19",
-        "status_updated_time": "2026-08-22T16:58:00",
+        "status_updated_time": "2026-08-22T21:00:00",
         "is_obscured": false
       }
     },
@@ -331,7 +387,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T20:05:00",
         "status_updated_time": "2026-08-21T21:24:00",
         "is_obscured": false
