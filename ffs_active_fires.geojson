@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.57076263427734,
+          25.863874435424805
+        ]
+      },
+      "properties": {
+        "id": "32318392-8d9b-41d3-a7e7-670a6298fd10",
+        "incident_number": "261800143",
+        "incident_code": "2026-FLFLS-261800143",
+        "name": "WNW KROME (13)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Miami-Dade",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-22T20:30:00",
+        "status_updated_time": "2026-08-22T20:30:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.02838897705078,
           28.40305519104004
         ]
@@ -34,18 +62,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.748779296875,
-          26.405567169189453
+          -80.77999877929688,
+          26.399999618530273
         ]
       },
       "properties": {
         "id": "257417b7-4cc3-4820-9405-b977fedc0f02",
         "incident_number": "261800142",
         "incident_code": "2026-FLFLS-261800142",
-        "name": "HLWMA INVESTIGATION(50)",
-        "status": "Reported",
+        "name": "H2 (50)",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 100.0,
         "containment_percent": 0,
         "county": "Palm Beach",
         "field_unit": "Everglades",
@@ -53,7 +81,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 2,
         "discovery_time": "2026-08-22T18:39:00",
-        "status_updated_time": "2026-08-22T18:39:00",
+        "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
       }
     },
@@ -71,17 +99,17 @@
         "incident_number": "261200554",
         "incident_code": "2026-FLFLS-261200554",
         "name": "NORTH END (49)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 50.0,
-        "containment_percent": 25,
+        "acres": 97.0,
+        "containment_percent": 100,
         "county": "Osceola",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T18:28:30",
-        "status_updated_time": "2026-08-22T18:31:42",
+        "status_updated_time": "2026-08-22T20:40:21",
         "is_obscured": false
       }
     },
@@ -102,7 +130,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 10.0,
-        "containment_percent": 0,
+        "containment_percent": 65,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
@@ -135,7 +163,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-22T18:03:06",
         "status_updated_time": "2026-08-22T18:45:35",
         "is_obscured": false
@@ -146,8 +174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.78388977050781,
-          26.72861099243164
+          -81.78740692138672,
+          26.729717254638672
         ]
       },
       "properties": {
@@ -157,8 +185,8 @@
         "name": "Sabal Palm Drive (36)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 8.0,
-        "containment_percent": 85,
+        "acres": 20.0,
+        "containment_percent": 90,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
@@ -275,7 +303,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T20:36:08",
         "status_updated_time": "2026-08-21T22:38:58",
         "is_obscured": false
@@ -387,7 +415,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T16:22:00",
         "status_updated_time": "2026-08-21T18:44:02",
         "is_obscured": false
@@ -443,7 +471,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T19:39:24",
         "status_updated_time": "2026-08-21T01:05:33",
         "is_obscured": false
