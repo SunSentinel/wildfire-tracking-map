@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.80305480957031,
+          28.34083366394043
+        ]
+      },
+      "properties": {
+        "id": "2312a745-154c-4da3-93da-f8c46342d3ab",
+        "incident_number": "261400469",
+        "incident_code": "2026-FLFLS-261400469",
+        "name": "Four Corners- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 7,
+        "discovery_time": "2026-08-22T22:52:01",
+        "status_updated_time": "2026-08-22T22:52:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.96888732910156,
           28.435556411743164
         ]
@@ -17,8 +45,8 @@
         "name": "POND (48)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 25,
+        "acres": 1.1,
+        "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -34,26 +62,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.34976196289062,
-          26.698894500732422
+          -81.34278106689453,
+          26.698888778686523
         ]
       },
       "properties": {
         "id": "21999d8a-af66-4dbb-9d87-489741d8d1a1",
         "incident_number": "261700207",
         "incident_code": "2026-FLFLS-261700207",
-        "name": "Gerber Road (26)",
-        "status": "Reported",
+        "name": "6th Road (26)",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 13.44,
+        "containment_percent": 100,
         "county": "Hendry",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T21:48:00",
-        "status_updated_time": "2026-08-22T21:48:00",
+        "status_updated_time": "2026-08-22T22:39:00",
         "is_obscured": false
       }
     },
@@ -62,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.58969116210938,
-          27.841983795166016
+          -81.60055541992188,
+          27.258054733276367
         ]
       },
       "properties": {
@@ -73,11 +101,11 @@
         "name": "MUDHOLE FIRE (53)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 16.0,
         "containment_percent": 0,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
+        "county": "DeSoto",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-08-22T20:55:54",
@@ -191,7 +219,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
