@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.96888732910156,
+          28.435556411743164
+        ]
+      },
+      "properties": {
+        "id": "163a29be-6e61-48dd-a07a-b0e9218f73aa",
+        "incident_number": "261200556",
+        "incident_code": "2026-FLFLS-261200556",
+        "name": "POND (48)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 2.0,
+        "containment_percent": 25,
+        "county": "Orange",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-22T22:18:01",
+        "status_updated_time": "2026-08-22T22:18:49",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.34976196289062,
           26.698894500732422
         ]
@@ -14,7 +42,7 @@
         "id": "21999d8a-af66-4dbb-9d87-489741d8d1a1",
         "incident_number": "261700207",
         "incident_code": "2026-FLFLS-261700207",
-        "name": "Port LaBelle- Hendry (26)",
+        "name": "Gerber Road (26)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
@@ -73,8 +101,8 @@
         "name": "Green Farms (43)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 3.0,
+        "containment_percent": 90,
         "county": "Martin",
         "field_unit": "Okeechobee",
         "region": "Region 4",
@@ -107,7 +135,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:30:00",
         "status_updated_time": "2026-08-22T21:20:15",
         "is_obscured": false
@@ -135,7 +163,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T19:19:59",
         "status_updated_time": "2026-08-22T20:55:26",
         "is_obscured": false
@@ -191,7 +219,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:28:30",
         "status_updated_time": "2026-08-22T21:15:36",
         "is_obscured": false
