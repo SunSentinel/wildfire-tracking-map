@@ -17,7 +17,7 @@
         "name": "3rd Strike (48)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 1.0,
         "containment_percent": 0,
         "county": "Orange",
         "field_unit": "Orlando",
@@ -219,7 +219,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T20:30:00",
         "status_updated_time": "2026-08-22T21:20:15",
         "is_obscured": false
