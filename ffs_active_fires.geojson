@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.57465362548828,
+          26.211809158325195
+        ]
+      },
+      "properties": {
+        "id": "9d327db1-71ae-4c94-b309-e48de65bdffa",
+        "incident_number": "261700208",
+        "incident_code": "2026-FLFLS-261700208",
+        "name": "995 16th Street Southeast- Collier (11)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Collier",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-23T16:47:00",
+        "status_updated_time": "2026-08-23T16:47:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.61769104003906,
           27.870861053466797
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-23T16:01:13",
         "status_updated_time": "2026-08-23T16:13:53",
         "is_obscured": false
@@ -46,7 +74,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 5.0,
-        "containment_percent": 75,
+        "containment_percent": 90,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
