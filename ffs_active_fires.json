@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-23T07:11:34.484261Z",
+  "updated_at": "2026-08-23T07:55:36.981211Z",
   "incidents": [
     {
       "id": "45197b5a-4ac4-4e47-aaf3-eed396e302ee",
       "incident_number": "261600696",
       "incident_code": "2026-FLFLS-261600696",
-      "name": "40th AVE(47)",
-      "status": "Reported",
+      "name": "8 Seconds (47)",
+      "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
       "containment_percent": 0,
@@ -16,9 +16,9 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 3,
       "discovery_time": "2026-08-23T06:00:00",
-      "status_updated_time": "2026-08-23T06:00:00",
-      "latitude": 27.24151039123535,
-      "longitude": -80.78751373291016,
+      "status_updated_time": "2026-08-23T07:23:00",
+      "latitude": 27.24250030517578,
+      "longitude": -80.78666687011719,
       "is_obscured": false
     },
     {
