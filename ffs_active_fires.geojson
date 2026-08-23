@@ -185,7 +185,7 @@
         "name": "Green Farms (43)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 3.0,
+        "acres": 4.6,
         "containment_percent": 100,
         "county": "Martin",
         "field_unit": "Okeechobee",
@@ -219,7 +219,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:30:00",
         "status_updated_time": "2026-08-22T21:20:15",
         "is_obscured": false
@@ -527,7 +527,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-21T19:55:37",
         "status_updated_time": "2026-08-21T20:26:08",
         "is_obscured": false
@@ -639,7 +639,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-20T19:39:24",
         "status_updated_time": "2026-08-21T01:05:33",
         "is_obscured": false
@@ -835,7 +835,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-18T22:11:13",
         "status_updated_time": "2026-08-19T17:58:07",
         "is_obscured": false
@@ -947,7 +947,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-13T19:32:12",
         "status_updated_time": "2026-08-22T15:14:00",
         "is_obscured": false
