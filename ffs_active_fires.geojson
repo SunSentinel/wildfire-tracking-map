@@ -6,19 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.57465362548828,
-          26.211809158325195
+          -81.55583190917969,
+          26.196388244628906
         ]
       },
       "properties": {
         "id": "9d327db1-71ae-4c94-b309-e48de65bdffa",
         "incident_number": "261700208",
         "incident_code": "2026-FLFLS-261700208",
-        "name": "995 16th Street Southeast- Collier (11)",
+        "name": "18th Ave Southeast- Collier (11)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 0,
+        "acres": 7.0,
+        "containment_percent": 80,
         "county": "Collier",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
@@ -247,7 +247,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T20:30:00",
         "status_updated_time": "2026-08-22T21:20:15",
         "is_obscured": false
@@ -297,7 +297,7 @@
         "name": "H2 (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 200.0,
+        "acres": 350.0,
         "containment_percent": 85,
         "county": "Palm Beach",
         "field_unit": "Everglades",
@@ -586,34 +586,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-21T19:46:00",
         "status_updated_time": "2026-08-21T22:18:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.4124984741211,
-          26.850555419921875
-        ]
-      },
-      "properties": {
-        "id": "cf7bd6e8-2e6f-4875-8ad9-73b1b86d387f",
-        "incident_number": "261800141",
-        "incident_code": "2026-FLFLS-261800141",
-        "name": "CAMP LIMA (50)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 10.0,
-        "containment_percent": 100,
-        "county": "Palm Beach",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-21T16:22:00",
-        "status_updated_time": "2026-08-23T16:05:57",
         "is_obscured": false
       }
     },
