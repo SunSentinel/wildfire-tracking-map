@@ -51,7 +51,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
@@ -135,7 +135,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:55:54",
         "status_updated_time": "2026-08-22T21:14:25",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-22T20:42:00",
         "status_updated_time": "2026-08-22T23:21:00",
         "is_obscured": false
@@ -219,7 +219,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T19:19:59",
         "status_updated_time": "2026-08-22T20:55:26",
         "is_obscured": false
@@ -275,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-22T18:28:30",
         "status_updated_time": "2026-08-22T21:15:36",
         "is_obscured": false
@@ -362,34 +362,6 @@
         "resources_assigned": 3,
         "discovery_time": "2026-08-22T16:40:19",
         "status_updated_time": "2026-08-22T21:00:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.73500061035156,
-          26.544721603393555
-        ]
-      },
-      "properties": {
-        "id": "0853caf5-f9ed-41a1-bd75-1bd44d23dfee",
-        "incident_number": "261700205",
-        "incident_code": "2026-FLFLS-261700205",
-        "name": "Fuel Farm Road (36)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Lee",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-22T16:01:00",
-        "status_updated_time": "2026-08-22T17:27:00",
         "is_obscured": false
       }
     },
@@ -555,7 +527,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T19:46:00",
         "status_updated_time": "2026-08-21T22:18:00",
         "is_obscured": false
@@ -583,7 +555,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-21T16:22:00",
         "status_updated_time": "2026-08-21T18:44:02",
         "is_obscured": false
@@ -639,7 +611,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-20T19:39:24",
         "status_updated_time": "2026-08-21T01:05:33",
         "is_obscured": false
@@ -723,7 +695,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-19T23:19:00",
         "status_updated_time": "2026-08-20T15:29:31",
         "is_obscured": false
@@ -863,7 +835,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-18T22:11:13",
         "status_updated_time": "2026-08-19T17:58:07",
         "is_obscured": false
@@ -891,7 +863,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
         "is_obscured": false
