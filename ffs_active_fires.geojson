@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.91194152832031,
-          28.8347225189209
-        ]
-      },
-      "properties": {
-        "id": "f4f937fc-2adb-4183-8faf-9d1395fb6943",
-        "incident_number": "261200557",
-        "incident_code": "2026-FLFLS-261200557",
-        "name": "Oak Hill- Volusia (64)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-22T23:13:28",
-        "status_updated_time": "2026-08-22T23:13:28",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.80305480957031,
           28.34083366394043
         ]
@@ -45,13 +17,13 @@
         "name": "Four Corners (53)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 25.0,
+        "acres": 32.0,
         "containment_percent": 95,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
