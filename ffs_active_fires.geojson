@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.61947631835938,
-          27.872133255004883
+          -80.61769104003906,
+          27.870861053466797
         ]
       },
       "properties": {
@@ -15,7 +15,7 @@
         "incident_number": "261200559",
         "incident_code": "2026-FLFLS-261200559",
         "name": "Palm Bay- Brevard (05)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-23T16:01:13",
-        "status_updated_time": "2026-08-23T16:01:13",
+        "status_updated_time": "2026-08-23T16:13:53",
         "is_obscured": false
       }
     },
@@ -46,7 +46,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 5.0,
-        "containment_percent": 0,
+        "containment_percent": 75,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -79,7 +79,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T06:00:00",
         "status_updated_time": "2026-08-23T14:22:10",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T21:48:00",
         "status_updated_time": "2026-08-22T23:06:00",
         "is_obscured": false
@@ -219,7 +219,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:42:00",
         "status_updated_time": "2026-08-22T23:21:00",
         "is_obscured": false
@@ -241,7 +241,7 @@
         "name": "22 (13)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 180.0,
+        "acres": 500.0,
         "containment_percent": 30,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
@@ -297,7 +297,7 @@
         "name": "H2 (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 100.0,
+        "acres": 200.0,
         "containment_percent": 85,
         "county": "Palm Beach",
         "field_unit": "Everglades",
@@ -603,7 +603,7 @@
         "incident_number": "261800141",
         "incident_code": "2026-FLFLS-261800141",
         "name": "CAMP LIMA (50)",
-        "status": "Contained",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 10.0,
         "containment_percent": 100,
@@ -613,7 +613,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 2,
         "discovery_time": "2026-08-21T16:22:00",
-        "status_updated_time": "2026-08-21T18:44:02",
+        "status_updated_time": "2026-08-23T16:05:57",
         "is_obscured": false
       }
     },
