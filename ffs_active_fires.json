@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:14:35.057422Z",
+  "updated_at": "2026-08-23T23:43:23.726420Z",
   "incidents": [
     {
       "id": "5284c989-37c5-462d-b949-60147a2ae9ab",
@@ -14,7 +14,7 @@
       "field_unit": "Okeechobee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-23T22:35:00",
       "status_updated_time": "2026-08-23T22:35:00",
       "latitude": 26.9374942779541,
@@ -49,7 +49,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 3.0,
-      "containment_percent": 80,
+      "containment_percent": 95,
       "county": "Sarasota",
       "field_unit": "Myakka River",
       "region": "Region 4",
@@ -57,8 +57,8 @@
       "resources_assigned": 3,
       "discovery_time": "2026-08-23T19:18:02",
       "status_updated_time": "2026-08-23T20:05:50",
-      "latitude": 27.152015686035156,
-      "longitude": -82.37413787841797,
+      "latitude": 27.152849197387695,
+      "longitude": -82.37369537353516,
       "is_obscured": false
     },
     {
