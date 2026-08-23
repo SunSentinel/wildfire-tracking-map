@@ -18,7 +18,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 30,
         "county": "Okeechobee",
         "field_unit": "Okeechobee",
         "region": "Region 4",
