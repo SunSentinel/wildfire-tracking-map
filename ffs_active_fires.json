@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:24:42.807825Z",
+  "updated_at": "2026-08-23T09:51:23.872315Z",
   "incidents": [
     {
       "id": "45197b5a-4ac4-4e47-aaf3-eed396e302ee",
@@ -14,7 +14,7 @@
       "field_unit": "Okeechobee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-23T06:00:00",
       "status_updated_time": "2026-08-23T07:23:00",
       "latitude": 27.24250030517578,
