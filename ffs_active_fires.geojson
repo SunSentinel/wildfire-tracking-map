@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.47222137451172,
+          29.170833587646484
+        ]
+      },
+      "properties": {
+        "id": "8cbdd173-a92d-46a6-8b1a-ecd4c0f059be",
+        "incident_number": "261200560",
+        "incident_code": "2026-FLFLS-261200560",
+        "name": "1002-1018 Florida 40- Volusia (64)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-23T19:30:15",
+        "status_updated_time": "2026-08-23T19:30:15",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37347412109375,
+          27.151824951171875
+        ]
+      },
+      "properties": {
+        "id": "0dd6ffc2-a1e2-411b-8632-10d3e1275703",
+        "incident_number": "261500559",
+        "incident_code": "2026-FLFLS-261500559",
+        "name": "Bella Vista (58)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Sarasota",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-23T19:18:02",
+        "status_updated_time": "2026-08-23T19:18:02",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.55583190917969,
           26.196388244628906
         ]
@@ -14,7 +70,7 @@
         "id": "9d327db1-71ae-4c94-b309-e48de65bdffa",
         "incident_number": "261700208",
         "incident_code": "2026-FLFLS-261700208",
-        "name": "18th Ave Southeast- Collier (11)",
+        "name": "Woodland Estates (11)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 7.0,
@@ -241,7 +297,7 @@
         "name": "22 (13)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 500.0,
+        "acres": 800.0,
         "containment_percent": 30,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
