@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.61947631835938,
+          27.872133255004883
+        ]
+      },
+      "properties": {
+        "id": "6c9e5656-2049-44e3-9551-bb6112af10dd",
+        "incident_number": "261200559",
+        "incident_code": "2026-FLFLS-261200559",
+        "name": "Palm Bay- Brevard (05)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Brevard",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-23T16:01:13",
+        "status_updated_time": "2026-08-23T16:01:13",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.0361099243164,
           28.405000686645508
         ]
@@ -17,7 +45,7 @@
         "name": "3rd Strike (48)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 1.0,
+        "acres": 5.0,
         "containment_percent": 0,
         "county": "Orange",
         "field_unit": "Orlando",
@@ -155,17 +183,17 @@
         "incident_number": "261400467",
         "incident_code": "2026-FLFLS-261400467",
         "name": "MUDHOLE FIRE (53)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 16.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:55:54",
-        "status_updated_time": "2026-08-22T21:14:25",
+        "status_updated_time": "2026-08-23T16:08:51",
         "is_obscured": false
       }
     },
@@ -303,7 +331,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:28:30",
         "status_updated_time": "2026-08-22T21:15:36",
         "is_obscured": false
@@ -443,7 +471,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-21T21:31:36",
         "status_updated_time": "2026-08-21T23:43:03",
         "is_obscured": false
@@ -527,7 +555,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T19:55:37",
         "status_updated_time": "2026-08-21T20:26:08",
         "is_obscured": false
@@ -922,34 +950,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-17T20:08:16",
         "status_updated_time": "2026-08-17T23:46:45",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.47444152832031,
-          25.710832595825195
-        ]
-      },
-      "properties": {
-        "id": "8392d5a1-54d0-40b2-9a3a-38a109d4934c",
-        "incident_number": "261800132",
-        "incident_code": "2026-FLFLS-261800132",
-        "name": "THE RADIO TOWER (13)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 700.0,
-        "containment_percent": 100,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-13T19:32:12",
-        "status_updated_time": "2026-08-22T15:14:00",
         "is_obscured": false
       }
     },
