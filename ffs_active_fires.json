@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:43:41.527329Z",
+  "updated_at": "2026-08-23T20:14:41.352785Z",
   "incidents": [
     {
       "id": "8cbdd173-a92d-46a6-8b1a-ecd4c0f059be",
@@ -34,7 +34,7 @@
       "field_unit": "Myakka River",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-23T19:18:02",
       "status_updated_time": "2026-08-23T19:18:02",
       "latitude": 27.151824951171875,
@@ -208,7 +208,7 @@
       "name": "22 (13)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 800.0,
+      "acres": 850.0,
       "containment_percent": 30,
       "county": "Miami-Dade",
       "field_unit": "Everglades",
