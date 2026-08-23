@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T11:43:47.849985Z",
+  "updated_at": "2026-08-23T12:27:31.218593Z",
   "incidents": [
     {
       "id": "45197b5a-4ac4-4e47-aaf3-eed396e302ee",
@@ -214,7 +214,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-22T18:25:26",
       "status_updated_time": "2026-08-22T21:55:56",
       "latitude": 28.84083366394043,
@@ -274,7 +274,7 @@
       "field_unit": "Caloosahatchee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-08-22T16:01:00",
       "status_updated_time": "2026-08-22T17:27:00",
       "latitude": 26.544721603393555,
@@ -574,7 +574,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-19T15:49:19",
       "status_updated_time": "2026-08-19T21:45:57",
       "latitude": 29.245832443237305,
