@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:19:53.839256Z",
+  "updated_at": "2026-08-23T18:55:49.680923Z",
   "incidents": [
     {
       "id": "9d327db1-71ae-4c94-b309-e48de65bdffa",
@@ -9,7 +9,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 7.0,
-      "containment_percent": 80,
+      "containment_percent": 90,
       "county": "Collier",
       "field_unit": "Caloosahatchee",
       "region": "Region 4",
@@ -25,7 +25,7 @@
       "id": "6c9e5656-2049-44e3-9551-bb6112af10dd",
       "incident_number": "261200559",
       "incident_code": "2026-FLFLS-261200559",
-      "name": "Palm Bay- Brevard (05)",
+      "name": "MICCO (05)",
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
@@ -34,7 +34,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 6,
+      "resources_assigned": 8,
       "discovery_time": "2026-08-23T16:01:13",
       "status_updated_time": "2026-08-23T16:13:53",
       "latitude": 27.870861053466797,
@@ -174,7 +174,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 5,
       "discovery_time": "2026-08-22T20:30:00",
       "status_updated_time": "2026-08-22T21:20:15",
       "latitude": 25.942670822143555,
