@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.78751373291016,
+          27.24151039123535
+        ]
+      },
+      "properties": {
+        "id": "45197b5a-4ac4-4e47-aaf3-eed396e302ee",
+        "incident_number": "261600696",
+        "incident_code": "2026-FLFLS-261600696",
+        "name": "40th AVE(47)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Okeechobee",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-23T06:00:00",
+        "status_updated_time": "2026-08-23T06:00:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.80305480957031,
           28.34083366394043
         ]
