@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:46:37.950301Z",
+  "updated_at": "2026-08-23T21:15:34.054827Z",
   "incidents": [
     {
       "id": "8cbdd173-a92d-46a6-8b1a-ecd4c0f059be",
@@ -29,7 +29,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 3.0,
-      "containment_percent": 0,
+      "containment_percent": 20,
       "county": "Sarasota",
       "field_unit": "Myakka River",
       "region": "Region 4",
@@ -54,7 +54,7 @@
       "field_unit": "Caloosahatchee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-23T16:47:00",
       "status_updated_time": "2026-08-23T17:09:00",
       "latitude": 26.196388244628906,
@@ -214,7 +214,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 3,
       "discovery_time": "2026-08-22T20:30:00",
       "status_updated_time": "2026-08-22T21:20:15",
       "latitude": 25.942670822143555,
