@@ -15,9 +15,9 @@
         "incident_number": "261700208",
         "incident_code": "2026-FLFLS-261700208",
         "name": "995 16th Street Southeast- Collier (11)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 5.0,
         "containment_percent": 0,
         "county": "Collier",
         "field_unit": "Caloosahatchee",
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-23T16:47:00",
-        "status_updated_time": "2026-08-23T16:47:00",
+        "status_updated_time": "2026-08-23T17:09:00",
         "is_obscured": false
       }
     },
@@ -71,17 +71,17 @@
         "incident_number": "261200558",
         "incident_code": "2026-FLFLS-261200558",
         "name": "3rd Strike (48)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 90,
+        "acres": 2.0,
+        "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-23T14:39:08",
-        "status_updated_time": "2026-08-23T14:41:13",
+        "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
       }
     },
@@ -174,34 +174,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.34278106689453,
-          26.698888778686523
-        ]
-      },
-      "properties": {
-        "id": "21999d8a-af66-4dbb-9d87-489741d8d1a1",
-        "incident_number": "261700207",
-        "incident_code": "2026-FLFLS-261700207",
-        "name": "6th Road (26)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 13.44,
-        "containment_percent": 100,
-        "county": "Hendry",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-22T21:48:00",
-        "status_updated_time": "2026-08-22T23:06:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.60055541992188,
           27.841388702392578
         ]
@@ -275,7 +247,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:30:00",
         "status_updated_time": "2026-08-22T21:20:15",
         "is_obscured": false
@@ -443,7 +415,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T16:40:19",
         "status_updated_time": "2026-08-22T21:00:00",
         "is_obscured": false
@@ -499,7 +471,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T21:31:36",
         "status_updated_time": "2026-08-21T23:43:03",
         "is_obscured": false
