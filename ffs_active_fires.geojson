@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.0361099243164,
+          28.405000686645508
+        ]
+      },
+      "properties": {
+        "id": "c0052576-9b6b-4504-8405-1ff55c473008",
+        "incident_number": "261200558",
+        "incident_code": "2026-FLFLS-261200558",
+        "name": "3rd Strike (48)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Orange",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-23T14:39:08",
+        "status_updated_time": "2026-08-23T14:41:13",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.78666687011719,
           27.24250030517578
         ]
@@ -15,17 +43,17 @@
         "incident_number": "261600696",
         "incident_code": "2026-FLFLS-261600696",
         "name": "8 Seconds (47)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 2.0,
-        "containment_percent": 80,
+        "containment_percent": 100,
         "county": "Okeechobee",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-23T06:00:00",
-        "status_updated_time": "2026-08-23T07:23:00",
+        "status_updated_time": "2026-08-23T14:22:10",
         "is_obscured": false
       }
     },
@@ -51,7 +79,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
@@ -219,7 +247,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T19:19:59",
         "status_updated_time": "2026-08-22T20:55:26",
         "is_obscured": false
@@ -247,7 +275,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
@@ -670,34 +698,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-20T18:11:34",
         "status_updated_time": "2026-08-20T20:40:40",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.27664947509766,
-          29.622068405151367
-        ]
-      },
-      "properties": {
-        "id": "4e1c54bb-101c-46dd-af8f-e06df1bd87e3",
-        "incident_number": "260700597",
-        "incident_code": "2026-FLFLS-260700597",
-        "name": "Old Kings Rd. (18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.3,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-19T23:19:00",
-        "status_updated_time": "2026-08-20T15:29:31",
         "is_obscured": false
       }
     },
