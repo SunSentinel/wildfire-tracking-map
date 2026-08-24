@@ -34,34 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.47222137451172,
-          29.170833587646484
-        ]
-      },
-      "properties": {
-        "id": "8cbdd173-a92d-46a6-8b1a-ecd4c0f059be",
-        "incident_number": "261200560",
-        "incident_code": "2026-FLFLS-261200560",
-        "name": "1002-1018 Florida 40- Volusia (64)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-23T19:30:15",
-        "status_updated_time": "2026-08-23T19:30:15",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.37369537353516,
           27.152849197387695
         ]
@@ -107,7 +79,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-23T16:47:00",
         "status_updated_time": "2026-08-23T21:15:00",
         "is_obscured": false
@@ -135,7 +107,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-23T16:01:13",
         "status_updated_time": "2026-08-23T22:26:31",
         "is_obscured": false
@@ -219,7 +191,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
@@ -359,7 +331,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-22T19:19:59",
         "status_updated_time": "2026-08-22T20:55:26",
         "is_obscured": false
@@ -527,7 +499,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-21T23:24:20",
         "status_updated_time": "2026-08-22T03:49:38",
         "is_obscured": false
@@ -723,7 +695,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-20T19:39:24",
         "status_updated_time": "2026-08-21T01:05:33",
         "is_obscured": false
@@ -891,7 +863,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-19T12:55:21",
         "status_updated_time": "2026-08-19T17:49:57",
         "is_obscured": false
@@ -947,7 +919,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
         "is_obscured": false
@@ -975,7 +947,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-17T21:40:00",
         "status_updated_time": "2026-08-20T18:27:00",
         "is_obscured": false
@@ -1087,7 +1059,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
