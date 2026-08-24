@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.15540313720703,
-          26.9374942779541
+          -81.00833129882812,
+          26.93694496154785
         ]
       },
       "properties": {
         "id": "5284c989-37c5-462d-b949-60147a2ae9ab",
         "incident_number": "261600697",
         "incident_code": "2026-FLFLS-261600697",
-        "name": "Lakeport- Glades (22)",
-        "status": "Reported",
+        "name": "Slough (22)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 95,
         "county": "Glades",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T22:35:00",
-        "status_updated_time": "2026-08-23T22:35:00",
+        "status_updated_time": "2026-08-23T23:28:00",
         "is_obscured": false
       }
     },
@@ -79,7 +79,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T19:18:02",
         "status_updated_time": "2026-08-23T20:05:50",
         "is_obscured": false
@@ -135,7 +135,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-23T16:01:13",
         "status_updated_time": "2026-08-23T22:26:31",
         "is_obscured": false
