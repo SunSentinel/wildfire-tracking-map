@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.0239486694336,
+          30.975393295288086
+        ]
+      },
+      "properties": {
+        "id": "3f9f9e65-4c2e-4797-9835-077903bf425f",
+        "incident_number": "260200540",
+        "incident_code": "2026-FLFLS-260200540",
+        "name": "Timberlane Road (32)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Jackson",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-24T19:46:18",
+        "status_updated_time": "2026-08-24T19:46:18",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.7071304321289,
           26.3356876373291
         ]
@@ -34,26 +62,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.09964752197266,
-          26.992921829223633
+          -86.78314971923828,
+          30.899391174316406
         ]
       },
       "properties": {
-        "id": "871233a5-a41b-4f12-a7d0-f0cadd1c0d0b",
-        "incident_number": "261600702",
-        "incident_code": "2026-FLFLS-261600702",
-        "name": "Jupiter Island- Martin (43)",
+        "id": "9501f6f9-8c3d-4e0e-92b7-d4650232376d",
+        "incident_number": "260100423",
+        "incident_code": "2026-FLFLS-260100423",
+        "name": "Hurricane Lake road (57)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
+        "county": "Okaloosa",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-24T18:45:01",
-        "status_updated_time": "2026-08-24T18:45:01",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-24T18:27:00",
+        "status_updated_time": "2026-08-24T18:27:00",
         "is_obscured": false
       }
     },
@@ -471,7 +499,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:25:26",
         "status_updated_time": "2026-08-22T21:55:56",
         "is_obscured": false
