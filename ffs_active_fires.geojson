@@ -17,7 +17,7 @@
         "name": "Vincent Road (36)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 4.0,
         "containment_percent": 0,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.81623077392578,
-          28.461885452270508
+          -81.81655883789062,
+          28.461360931396484
         ]
       },
       "properties": {
@@ -45,7 +45,7 @@
         "name": "PRETTY LAKE  (35)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.75,
         "containment_percent": 0,
         "county": "Lake",
         "field_unit": "Withlacoochee",
@@ -74,7 +74,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 13.0,
-        "containment_percent": 0,
+        "containment_percent": 20,
         "county": "Taylor",
         "field_unit": "Perry",
         "region": "Region 2",
@@ -101,8 +101,8 @@
         "name": "Radio Tower Rd (36)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 0,
+        "acres": 60.0,
+        "containment_percent": 10,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
