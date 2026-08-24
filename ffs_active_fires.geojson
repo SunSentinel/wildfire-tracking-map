@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.68638610839844,
+          26.364444732666016
+        ]
+      },
+      "properties": {
+        "id": "2ffb23f8-82c0-4226-9cb8-c9169a39ac3b",
+        "incident_number": "261700211",
+        "incident_code": "2026-FLFLS-261700211",
+        "name": "27600 Vincent Road- Lee (36)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lee",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-08-24T20:21:00",
+        "status_updated_time": "2026-08-24T20:21:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.81623077392578,
           28.461885452270508
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-24T19:48:27",
         "status_updated_time": "2026-08-24T20:09:36",
         "is_obscured": false
@@ -42,7 +70,7 @@
         "id": "c8026d53-e84c-4f19-8a1b-63341cb72226",
         "incident_number": "260500273",
         "incident_code": "2026-FLFLS-260500273",
-        "name": "Perry- Taylor (62)",
+        "name": "Water Well",
         "status": "Active",
         "category": "Wildfire",
         "acres": 5.0,
@@ -51,7 +79,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 9,
         "discovery_time": "2026-08-24T19:30:00",
         "status_updated_time": "2026-08-24T19:44:10",
         "is_obscured": false
@@ -73,13 +101,13 @@
         "name": "Radio Tower Rd (36)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 5.0,
         "containment_percent": 0,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 15,
+        "resources_assigned": 14,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
         "is_obscured": false
@@ -101,13 +129,13 @@
         "name": "Beaver Creek Road (57)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 1.0,
+        "acres": 4.0,
         "containment_percent": 0,
         "county": "Okaloosa",
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-24T18:27:00",
         "status_updated_time": "2026-08-24T19:50:22",
         "is_obscured": false
@@ -135,7 +163,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-24T17:31:37",
         "status_updated_time": "2026-08-24T19:05:00",
         "is_obscured": false
