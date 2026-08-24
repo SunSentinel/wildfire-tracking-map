@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.97959899902344,
-          27.375106811523438
+          -81.02749633789062,
+          27.3880558013916
         ]
       },
       "properties": {
         "id": "ecb035f8-f134-4069-aa2e-99f20dfb9365",
         "incident_number": "261600700",
         "incident_code": "2026-FLFLS-261600700",
-        "name": "Basinger- Okeechobee (47)",
-        "status": "Reported",
+        "name": "Basinger (47)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 4,
         "discovery_time": "2026-08-24T16:08:51",
-        "status_updated_time": "2026-08-24T16:08:51",
+        "status_updated_time": "2026-08-24T16:40:12",
         "is_obscured": false
       }
     },
@@ -45,13 +45,13 @@
         "name": "Slough (22)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 300.0,
         "containment_percent": 95,
         "county": "Glades",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T22:35:00",
         "status_updated_time": "2026-08-23T23:28:00",
         "is_obscured": false
@@ -247,7 +247,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:55:54",
         "status_updated_time": "2026-08-23T16:08:51",
         "is_obscured": false
@@ -527,7 +527,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-21T21:31:36",
         "status_updated_time": "2026-08-21T23:43:03",
         "is_obscured": false
