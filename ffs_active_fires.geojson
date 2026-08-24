@@ -62,34 +62,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55583190917969,
-          26.196388244628906
-        ]
-      },
-      "properties": {
-        "id": "9d327db1-71ae-4c94-b309-e48de65bdffa",
-        "incident_number": "261700208",
-        "incident_code": "2026-FLFLS-261700208",
-        "name": "Woodland Estates (11)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 7.0,
-        "containment_percent": 100,
-        "county": "Collier",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-23T16:47:00",
-        "status_updated_time": "2026-08-23T21:15:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.61769104003906,
           27.870861053466797
         ]
@@ -191,7 +163,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
@@ -247,7 +219,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-22T20:55:54",
         "status_updated_time": "2026-08-23T16:08:51",
         "is_obscured": false
@@ -303,7 +275,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T20:30:00",
         "status_updated_time": "2026-08-22T21:20:15",
         "is_obscured": false
@@ -471,7 +443,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-22T16:40:19",
         "status_updated_time": "2026-08-22T21:00:00",
         "is_obscured": false
@@ -639,7 +611,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-21T19:46:00",
         "status_updated_time": "2026-08-21T22:18:00",
         "is_obscured": false
@@ -670,34 +642,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-21T12:46:22",
         "status_updated_time": "2026-08-21T12:46:22",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.71499633789062,
-          28.30638885498047
-        ]
-      },
-      "properties": {
-        "id": "493ce008-cd5c-42fd-9a19-3c168973f493",
-        "incident_number": "261200545",
-        "incident_code": "2026-FLFLS-261200545",
-        "name": "Gus Hipp (05)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 15.0,
-        "containment_percent": 100,
-        "county": "Brevard",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-20T19:39:24",
-        "status_updated_time": "2026-08-21T01:05:33",
         "is_obscured": false
       }
     },
@@ -807,7 +751,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-19T19:49:18",
         "status_updated_time": "2026-08-19T21:14:02",
         "is_obscured": false
@@ -891,7 +835,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-18T22:11:13",
         "status_updated_time": "2026-08-19T17:58:07",
         "is_obscured": false
@@ -922,34 +866,6 @@
         "resources_assigned": 3,
         "discovery_time": "2026-08-18T02:00:00",
         "status_updated_time": "2026-08-19T00:22:27",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.52865600585938,
-          29.58353614807129
-        ]
-      },
-      "properties": {
-        "id": "054c71ec-6ce8-4fee-b220-25b766efc57a",
-        "incident_number": "260800772",
-        "incident_code": "2026-FLFLS-260800772",
-        "name": "EAST END 2 (54)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 50.0,
-        "containment_percent": 100,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-17T21:40:00",
-        "status_updated_time": "2026-08-20T18:27:00",
         "is_obscured": false
       }
     },
@@ -1059,7 +975,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
