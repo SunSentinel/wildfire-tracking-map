@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.80992889404297,
-          27.346900939941406
+          -80.80860900878906,
+          27.349721908569336
         ]
       },
       "properties": {
         "id": "9ca1cd82-57ae-428f-ace2-d932af4554a3",
         "incident_number": "261600701",
         "incident_code": "2026-FLFLS-261600701",
-        "name": "Cypress Quarters- Okeechobee (47)",
-        "status": "Reported",
+        "name": "M-Cross (47)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -23,9 +23,9 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-24T17:31:37",
-        "status_updated_time": "2026-08-24T17:31:37",
+        "status_updated_time": "2026-08-24T18:21:05",
         "is_obscured": false
       }
     },
@@ -51,7 +51,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-24T16:08:51",
         "status_updated_time": "2026-08-24T17:14:00",
         "is_obscured": false
@@ -583,7 +583,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-21T19:55:37",
         "status_updated_time": "2026-08-21T20:26:08",
         "is_obscured": false
