@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.57003784179688,
+          26.220909118652344
+        ]
+      },
+      "properties": {
+        "id": "3cc8ac49-ee9b-4a39-ad2a-ed9dc030aaf1",
+        "incident_number": "261700212",
+        "incident_code": "2026-FLFLS-261700212",
+        "name": "510 18th Street Southeast- Collier (11)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Collier",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-25T16:12:12",
+        "status_updated_time": "2026-08-25T16:12:12",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.68722534179688,
           26.364166259765625
         ]
@@ -107,7 +135,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 13,
+        "resources_assigned": 16,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
         "is_obscured": false
@@ -146,34 +174,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.80860900878906,
-          27.349721908569336
-        ]
-      },
-      "properties": {
-        "id": "9ca1cd82-57ae-428f-ace2-d932af4554a3",
-        "incident_number": "261600701",
-        "incident_code": "2026-FLFLS-261600701",
-        "name": "M-Cross (47)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 11.0,
-        "containment_percent": 100,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-24T17:31:37",
-        "status_updated_time": "2026-08-24T19:05:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.02749633789062,
           27.3880558013916
         ]
@@ -191,7 +191,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-24T16:08:51",
         "status_updated_time": "2026-08-24T17:14:00",
         "is_obscured": false
@@ -303,7 +303,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
@@ -471,7 +471,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T19:19:59",
         "status_updated_time": "2026-08-22T20:55:26",
         "is_obscured": false
@@ -493,7 +493,7 @@
         "name": "H2 (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 350.0,
+        "acres": 511.0,
         "containment_percent": 90,
         "county": "Palm Beach",
         "field_unit": "Everglades",
@@ -614,34 +614,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-22T16:40:19",
         "status_updated_time": "2026-08-22T21:00:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.90555572509766,
-          27.781389236450195
-        ]
-      },
-      "properties": {
-        "id": "e228de6e-6715-4269-8bf8-009c6809c006",
-        "incident_number": "261400464",
-        "incident_code": "2026-FLFLS-261400464",
-        "name": "NIGHT FIRE (53)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 75.0,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-21T23:24:20",
-        "status_updated_time": "2026-08-22T03:49:38",
         "is_obscured": false
       }
     },
@@ -810,34 +782,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-20T18:11:34",
         "status_updated_time": "2026-08-20T20:40:40",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.96309661865234,
-          28.812299728393555
-        ]
-      },
-      "properties": {
-        "id": "5fa4d97a-94ac-4108-8ab3-eacb5a35fad6",
-        "incident_number": "261200540",
-        "incident_code": "2026-FLFLS-261200540",
-        "name": "SPUR (64)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-19T20:31:27",
-        "status_updated_time": "2026-08-19T22:09:13",
         "is_obscured": false
       }
     },
