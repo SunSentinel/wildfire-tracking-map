@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.88976287841797,
+          28.225990295410156
+        ]
+      },
+      "properties": {
+        "id": "9c1fddad-dac6-46c4-8f39-8cbc8399dd2d",
+        "incident_number": "261200564",
+        "incident_code": "2026-FLFLS-261200564",
+        "name": "Bull Creek- Osceola (49)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Osceola",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-25T19:39:41",
+        "status_updated_time": "2026-08-25T19:39:41",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56531524658203,
+          28.61712074279785
+        ]
+      },
+      "properties": {
+        "id": "5a63cd85-0e4f-4bd0-96e6-4a5e6785a74c",
+        "incident_number": "261100623",
+        "incident_code": "2026-FLFLS-261100623",
+        "name": "North Weeki Wachee- Hernando (27)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hernando",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-08-25T19:24:04",
+        "status_updated_time": "2026-08-25T19:27:39",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.33805847167969,
           26.83888816833496
         ]
@@ -415,7 +471,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 17,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
