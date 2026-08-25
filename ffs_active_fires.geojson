@@ -23,7 +23,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-25T21:34:00",
         "status_updated_time": "2026-08-25T21:34:00",
         "is_obscured": false
@@ -79,7 +79,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-25T19:53:00",
         "status_updated_time": "2026-08-25T21:42:42",
         "is_obscured": false
@@ -118,8 +118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.88976287841797,
-          28.225990295410156
+          -80.88888549804688,
+          28.226388931274414
         ]
       },
       "properties": {
@@ -130,7 +130,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 20.0,
-        "containment_percent": 30,
+        "containment_percent": 50,
         "county": "Osceola",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -157,8 +157,8 @@
         "name": "RATTLESNAKE SOUTH (27)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 40.0,
-        "containment_percent": 20,
+        "acres": 69.0,
+        "containment_percent": 75,
         "county": "Hernando",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
@@ -415,7 +415,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-24T16:08:51",
         "status_updated_time": "2026-08-24T17:14:00",
         "is_obscured": false
