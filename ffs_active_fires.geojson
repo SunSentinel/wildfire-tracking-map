@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.96430969238281,
+          30.16094207763672
+        ]
+      },
+      "properties": {
+        "id": "2db6ef9e-5e19-4a63-9194-8a745bee7304",
+        "incident_number": "260700604",
+        "incident_code": "2026-FLFLS-260700604",
+        "name": "Long Branch Cemetery (10)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Clay",
+        "field_unit": "Jacksonville",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-25T19:53:00",
+        "status_updated_time": "2026-08-25T19:53:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4286117553711,
+          27.107221603393555
+        ]
+      },
+      "properties": {
+        "id": "9c6034cf-c1eb-4fa4-ab9e-57c9e891b96d",
+        "incident_number": "261600707",
+        "incident_code": "2026-FLFLS-261600707",
+        "name": "STA (43)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Martin",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-25T19:45:00",
+        "status_updated_time": "2026-08-25T19:45:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.88976287841797,
           28.225990295410156
         ]
@@ -23,7 +79,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-25T19:39:41",
         "status_updated_time": "2026-08-25T19:39:41",
         "is_obscured": false
@@ -74,7 +130,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 75,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
@@ -303,7 +359,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-24T16:08:51",
         "status_updated_time": "2026-08-24T17:14:00",
         "is_obscured": false
@@ -426,8 +482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.78666687011719,
-          27.24250030517578
+          -80.78694152832031,
+          27.24277687072754
         ]
       },
       "properties": {
@@ -443,7 +499,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-23T06:00:00",
         "status_updated_time": "2026-08-23T14:22:10",
         "is_obscured": false
