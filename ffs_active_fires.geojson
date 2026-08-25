@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72162628173828,
+          30.792551040649414
+        ]
+      },
+      "properties": {
+        "id": "01981da4-bb50-46a2-be3b-bfb11ad5800f",
+        "incident_number": "260200541",
+        "incident_code": "2026-FLFLS-260200541",
+        "name": "SUSPICUOUS CHARACTOR 8/25 (30)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Holmes",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-25T20:59:52",
+        "status_updated_time": "2026-08-25T20:59:52",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.59661865234375,
           27.821895599365234
         ]
@@ -79,7 +107,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-25T19:45:00",
         "status_updated_time": "2026-08-25T20:42:26",
         "is_obscured": false
@@ -99,7 +127,7 @@
         "incident_number": "261200564",
         "incident_code": "2026-FLFLS-261200564",
         "name": "Unit 7 (49)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -109,7 +137,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 8,
         "discovery_time": "2026-08-25T19:39:41",
-        "status_updated_time": "2026-08-25T19:39:41",
+        "status_updated_time": "2026-08-25T20:41:15",
         "is_obscured": false
       }
     },
@@ -331,7 +359,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 11,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
         "is_obscured": false
