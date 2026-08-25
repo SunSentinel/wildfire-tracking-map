@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.31670379638672,
-          26.8128604888916
+          -81.3133316040039,
+          26.813888549804688
         ]
       },
       "properties": {
         "id": "df24e297-c459-4eec-bdc1-541b408bafe0",
         "incident_number": "261600705",
         "incident_code": "2026-FLFLS-261600705",
-        "name": "9835 Florida 78- Glades (22)",
-        "status": "Reported",
+        "name": "Locks  (22)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-25T17:33:37",
-        "status_updated_time": "2026-08-25T17:33:37",
+        "status_updated_time": "2026-08-25T18:03:22",
         "is_obscured": false
       }
     },
@@ -34,26 +34,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.51081085205078,
-          26.347747802734375
+          -81.52749633789062,
+          26.34749984741211
         ]
       },
       "properties": {
         "id": "b6269bf5-7f82-4fae-aace-3cc2caaac63d",
         "incident_number": "261700213",
         "incident_code": "2026-FLFLS-261700213",
-        "name": "CCSO Gun Club(11)",
-        "status": "Reported",
+        "name": "40th St NE (11)",
+        "status": "Controlled",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 1.0,
+        "containment_percent": 100,
         "county": "Collier",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 7,
         "discovery_time": "2026-08-25T17:23:12",
-        "status_updated_time": "2026-08-25T17:23:12",
+        "status_updated_time": "2026-08-25T18:11:10",
         "is_obscured": false
       }
     },
@@ -191,7 +191,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 13,
+        "resources_assigned": 15,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
         "is_obscured": false
@@ -866,34 +866,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-18T22:11:13",
         "status_updated_time": "2026-08-19T17:58:07",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.88027954101562,
-          28.91111183166504
-        ]
-      },
-      "properties": {
-        "id": "513d0edf-3c47-407c-8342-14ac841aeefb",
-        "incident_number": "261200518",
-        "incident_code": "2026-FLFLS-261200518",
-        "name": "Cemetery (64)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 100,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-09T22:15:24",
-        "status_updated_time": "2026-08-10T00:13:41",
         "is_obscured": false
       }
     },
