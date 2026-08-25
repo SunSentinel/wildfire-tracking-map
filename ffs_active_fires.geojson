@@ -79,7 +79,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-24T19:30:00",
         "status_updated_time": "2026-08-24T19:44:10",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-24T17:31:37",
         "status_updated_time": "2026-08-24T19:05:00",
         "is_obscured": false
@@ -359,7 +359,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 10,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
@@ -639,7 +639,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-21T23:24:20",
         "status_updated_time": "2026-08-22T03:49:38",
         "is_obscured": false
@@ -874,34 +874,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.26980590820312,
-          29.293167114257812
-        ]
-      },
-      "properties": {
-        "id": "3b8b8835-6603-4ef8-a736-c58921c6bb2b",
-        "incident_number": "260700596",
-        "incident_code": "2026-FLFLS-260700596",
-        "name": "Middle Hudson 4 (18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 40.0,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-19T12:55:21",
-        "status_updated_time": "2026-08-25T14:26:46",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.38460540771484,
           29.898792266845703
         ]
@@ -958,34 +930,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.28382110595703,
-          29.57906150817871
-        ]
-      },
-      "properties": {
-        "id": "7eddb330-f027-452c-8dcf-4fd7b239e244",
-        "incident_number": "260700592",
-        "incident_code": "2026-FLFLS-260700592",
-        "name": "Golden Bell Ave (18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-17T20:08:16",
-        "status_updated_time": "2026-08-17T23:46:45",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.88027954101562,
           28.91111183166504
         ]
@@ -1006,34 +950,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-09T22:15:24",
         "status_updated_time": "2026-08-10T00:13:41",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.26480102539062,
-          29.2821044921875
-        ]
-      },
-      "properties": {
-        "id": "8372373e-0324-467d-b548-2ea51cbe70bc",
-        "incident_number": "260700580",
-        "incident_code": "2026-FLFLS-260700580",
-        "name": "Hudson 4 (18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 15.0,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-09T20:37:07",
-        "status_updated_time": "2026-08-10T00:22:54",
         "is_obscured": false
       }
     },
