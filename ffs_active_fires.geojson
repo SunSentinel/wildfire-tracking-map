@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.59661865234375,
+          27.821895599365234
+        ]
+      },
+      "properties": {
+        "id": "c0521be9-5280-4eb2-8dac-0eae586fa06c",
+        "incident_number": "261400475",
+        "incident_code": "2026-FLFLS-261400475",
+        "name": "SOUTHERN (53)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 15.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 14,
+        "discovery_time": "2026-08-25T20:13:31",
+        "status_updated_time": "2026-08-25T20:42:21",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.96430969238281,
           30.16094207763672
         ]
@@ -15,9 +43,9 @@
         "incident_number": "260700604",
         "incident_code": "2026-FLFLS-260700604",
         "name": "Long Branch Cemetery (10)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.1,
         "containment_percent": 0,
         "county": "Clay",
         "field_unit": "Jacksonville",
@@ -25,7 +53,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-25T19:53:00",
-        "status_updated_time": "2026-08-25T19:53:00",
+        "status_updated_time": "2026-08-25T20:41:23",
         "is_obscured": false
       }
     },
@@ -43,17 +71,17 @@
         "incident_number": "261600707",
         "incident_code": "2026-FLFLS-261600707",
         "name": "STA (43)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 1.0,
+        "containment_percent": 90,
         "county": "Martin",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 2,
         "discovery_time": "2026-08-25T19:45:00",
-        "status_updated_time": "2026-08-25T19:45:00",
+        "status_updated_time": "2026-08-25T20:42:26",
         "is_obscured": false
       }
     },
@@ -70,7 +98,7 @@
         "id": "9c1fddad-dac6-46c4-8f39-8cbc8399dd2d",
         "incident_number": "261200564",
         "incident_code": "2026-FLFLS-261200564",
-        "name": "Bull Creek- Osceola (49)",
+        "name": "Unit 7 (49)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
@@ -90,19 +118,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.56531524658203,
-          28.61712074279785
+          -82.57027435302734,
+          28.598054885864258
         ]
       },
       "properties": {
         "id": "5a63cd85-0e4f-4bd0-96e6-4a5e6785a74c",
         "incident_number": "261100623",
         "incident_code": "2026-FLFLS-261100623",
-        "name": "North Weeki Wachee- Hernando (27)",
+        "name": "RATTLESNAKE SOUTH (27)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 40.0,
+        "containment_percent": 20,
         "county": "Hernando",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
@@ -163,7 +191,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-25T17:33:37",
         "status_updated_time": "2026-08-25T18:44:00",
         "is_obscured": false
@@ -303,7 +331,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 13,
+        "resources_assigned": 11,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
         "is_obscured": false
@@ -499,7 +527,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T06:00:00",
         "status_updated_time": "2026-08-23T14:22:10",
         "is_obscured": false
