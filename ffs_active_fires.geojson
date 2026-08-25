@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.68638610839844,
-          26.364444732666016
+          -81.68722534179688,
+          26.364166259765625
         ]
       },
       "properties": {
@@ -18,7 +18,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 4.7,
-        "containment_percent": 20,
+        "containment_percent": 50,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
@@ -74,12 +74,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 32.0,
-        "containment_percent": 65,
+        "containment_percent": 90,
         "county": "Taylor",
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 13,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-24T19:30:00",
         "status_updated_time": "2026-08-24T19:44:10",
         "is_obscured": false
@@ -102,7 +102,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 70.0,
-        "containment_percent": 65,
+        "containment_percent": 80,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
@@ -191,7 +191,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-24T16:08:51",
         "status_updated_time": "2026-08-24T17:14:00",
         "is_obscured": false
