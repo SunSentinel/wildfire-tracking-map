@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T10:58:17.085772Z",
+  "updated_at": "2026-08-25T11:29:33.576699Z",
   "incidents": [
     {
       "id": "2ffb23f8-82c0-4226-9cb8-c9169a39ac3b",
@@ -14,7 +14,7 @@
       "field_unit": "Caloosahatchee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 1,
       "discovery_time": "2026-08-24T20:21:00",
       "status_updated_time": "2026-08-24T20:54:00",
       "latitude": 26.364166259765625,
@@ -94,7 +94,7 @@
       "field_unit": "Blackwater",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-24T18:27:00",
       "status_updated_time": "2026-08-24T19:50:22",
       "latitude": 30.899391174316406,
