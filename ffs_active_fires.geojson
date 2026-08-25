@@ -23,7 +23,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-25T22:37:00",
         "status_updated_time": "2026-08-25T22:37:00",
         "is_obscured": false
@@ -79,7 +79,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 14,
+        "resources_assigned": 11,
         "discovery_time": "2026-08-25T20:13:31",
         "status_updated_time": "2026-08-25T22:46:58",
         "is_obscured": false
@@ -155,17 +155,17 @@
         "incident_number": "261200564",
         "incident_code": "2026-FLFLS-261200564",
         "name": "Unit 7 (49)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 20.0,
-        "containment_percent": 80,
+        "containment_percent": 100,
         "county": "Osceola",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 8,
         "discovery_time": "2026-08-25T19:39:41",
-        "status_updated_time": "2026-08-25T20:41:15",
+        "status_updated_time": "2026-08-25T23:12:02",
         "is_obscured": false
       }
     },
@@ -219,7 +219,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-25T16:45:21",
         "status_updated_time": "2026-08-25T18:50:46",
         "is_obscured": false
