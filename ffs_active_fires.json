@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T23:19:28.713090Z",
+  "updated_at": "2026-08-25T23:47:04.656251Z",
   "incidents": [
     {
       "id": "2825aa51-ee79-450f-8260-0d54c0f0c55e",
@@ -29,7 +29,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
-      "containment_percent": 0,
+      "containment_percent": 100,
       "county": "Collier",
       "field_unit": "Caloosahatchee",
       "region": "Region 4",
@@ -54,7 +54,7 @@
       "field_unit": "Lakeland",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 11,
+      "resources_assigned": 8,
       "discovery_time": "2026-08-25T20:13:31",
       "status_updated_time": "2026-08-25T22:46:58",
       "latitude": 27.824722290039062,
@@ -134,7 +134,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 6,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-25T19:24:04",
       "status_updated_time": "2026-08-25T22:40:49",
       "latitude": 28.598054885864258,
