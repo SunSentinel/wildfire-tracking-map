@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-26T05:59:51.187069Z",
+  "updated_at": "2026-08-26T06:59:12.742135Z",
   "incidents": [
     {
       "id": "0394650b-b82c-48ca-a7cd-8edaa2a38f4d",
       "incident_number": "261200565",
       "incident_code": "2026-FLFLS-261200565",
       "name": "638 South Co Road 13- Orange (48)",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
       "containment_percent": 0,
@@ -16,7 +16,7 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 2,
       "discovery_time": "2026-08-26T04:51:33",
-      "status_updated_time": "2026-08-26T04:51:33",
+      "status_updated_time": "2026-08-26T05:59:11",
       "latitude": 28.534652709960938,
       "longitude": -81.09943389892578,
       "is_obscured": false
