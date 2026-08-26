@@ -6,26 +6,194 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5950927734375,
-          26.596105575561523
+          -81.16694641113281,
+          28.484722137451172
         ]
       },
       "properties": {
-        "id": "851a0b65-ebd1-4d5e-95cc-3d19842ee0fd",
-        "incident_number": "261700218",
-        "incident_code": "2026-FLFLS-261700218",
-        "name": "915 Alexander Street East- Lee (36)",
+        "id": "98e7b03e-d043-49ea-8bc7-afc15ca020be",
+        "incident_number": "261200570",
+        "incident_code": "2026-FLFLS-261200570",
+        "name": "Alafaya- Orange (48)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Orange",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-26T23:28:39",
+        "status_updated_time": "2026-08-26T23:34:40",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72230529785156,
+          27.369922637939453
+        ]
+      },
+      "properties": {
+        "id": "22a458f4-0309-4228-8ec5-8397ba16e19c",
+        "incident_number": "261500566",
+        "incident_code": "2026-FLFLS-261500566",
+        "name": "Fish Branch (25)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Lee",
+        "county": "Hardee",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-26T23:14:44",
+        "status_updated_time": "2026-08-26T23:14:44",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66526794433594,
+          26.780921936035156
+        ]
+      },
+      "properties": {
+        "id": "c1302fef-2878-4739-80f0-148351f6f295",
+        "incident_number": "261500565",
+        "incident_code": "2026-FLFLS-261500565",
+        "name": "31 Southwest (08)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 15.0,
+        "containment_percent": 0,
+        "county": "Charlotte",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 14,
+        "discovery_time": "2026-08-26T22:44:00",
+        "status_updated_time": "2026-08-26T23:45:32",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9888916015625,
+          27.2630558013916
+        ]
+      },
+      "properties": {
+        "id": "2eb435a6-855c-4866-92e3-43007b2ea3e6",
+        "incident_number": "261600713",
+        "incident_code": "2026-FLFLS-261600713",
+        "name": "JW-2 (47)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 1.0,
+        "containment_percent": 100,
+        "county": "Okeechobee",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-08-26T22:15:00",
+        "status_updated_time": "2026-08-26T23:40:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97444915771484,
+          26.994600296020508
+        ]
+      },
+      "properties": {
+        "id": "eb1ef10e-6963-4ca0-b0e3-a2e05ea324e7",
+        "incident_number": "261500564",
+        "incident_code": "2026-FLFLS-261500564",
+        "name": "Prairie Shell Creek (08)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 15.0,
+        "containment_percent": 50,
+        "county": "Charlotte",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 4,
+        "discovery_time": "2026-08-26T21:45:00",
+        "status_updated_time": "2026-08-26T23:12:20",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19388580322266,
+          29.100833892822266
+        ]
+      },
+      "properties": {
+        "id": "513d797c-bbef-4ece-ac4e-dedc6006db17",
+        "incident_number": "261200569",
+        "incident_code": "2026-FLFLS-261200569",
+        "name": "92 SOUTH (64)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 1.0,
+        "containment_percent": 100,
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-26T21:11:16",
+        "status_updated_time": "2026-08-26T22:15:31",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5624771118164,
+          26.45612144470215
+        ]
+      },
+      "properties": {
+        "id": "15ac2988-ea5d-49b0-8812-73bbdd9558d7",
+        "incident_number": "261700220",
+        "incident_code": "2026-FLFLS-261700220",
+        "name": "CREW Cypress Dome (11)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 6.83,
+        "containment_percent": 100,
+        "county": "Collier",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
-        "discovery_time": "2026-08-26T19:44:00",
-        "status_updated_time": "2026-08-26T19:44:00",
+        "discovery_time": "2026-08-26T20:21:00",
+        "status_updated_time": "2026-08-26T22:28:00",
         "is_obscured": false
       }
     },
@@ -73,13 +241,13 @@
         "name": "31 East BRP (08)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 85.0,
-        "containment_percent": 40,
+        "acres": 70.0,
+        "containment_percent": 90,
         "county": "Charlotte",
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 16,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-26T18:10:10",
         "status_updated_time": "2026-08-26T18:53:44",
         "is_obscured": false
@@ -99,17 +267,45 @@
         "incident_number": "261200565",
         "incident_code": "2026-FLFLS-261200565",
         "name": "Tower (48)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 350.0,
-        "containment_percent": 40,
+        "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 15,
+        "resources_assigned": 10,
         "discovery_time": "2026-08-26T04:51:33",
-        "status_updated_time": "2026-08-26T05:59:11",
+        "status_updated_time": "2026-08-26T23:38:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68583679199219,
+          26.1391658782959
+        ]
+      },
+      "properties": {
+        "id": "ec110410-eb86-4113-9d8f-8650e764a62e",
+        "incident_number": "261700214",
+        "incident_code": "2026-FLFLS-261700214",
+        "name": "Heritage Dr (11)",
+        "status": "Controlled",
+        "category": "Wildfire",
+        "acres": 0.36,
+        "containment_percent": 100,
+        "county": "Collier",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-25T21:34:00",
+        "status_updated_time": "2026-08-26T23:19:10",
         "is_obscured": false
       }
     },
@@ -157,7 +353,7 @@
         "name": "STA (43)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 20.0,
+        "acres": 250.0,
         "containment_percent": 90,
         "county": "Martin",
         "field_unit": "Okeechobee",
@@ -331,7 +527,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-24T19:48:27",
         "status_updated_time": "2026-08-24T23:10:09",
         "is_obscured": false
@@ -387,37 +583,9 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.78314971923828,
-          30.899391174316406
-        ]
-      },
-      "properties": {
-        "id": "9501f6f9-8c3d-4e0e-92b7-d4650232376d",
-        "incident_number": "260100423",
-        "incident_code": "2026-FLFLS-260100423",
-        "name": "Beaver Creek Road (57)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 4.0,
-        "containment_percent": 100,
-        "county": "Okaloosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-08-24T18:27:00",
-        "status_updated_time": "2026-08-25T14:54:56",
         "is_obscured": false
       }
     },
@@ -527,7 +695,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T16:01:13",
         "status_updated_time": "2026-08-23T22:26:31",
         "is_obscured": false
@@ -650,34 +818,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.39472198486328,
-          27.165555953979492
-        ]
-      },
-      "properties": {
-        "id": "44e49a91-6b5e-4c07-9f19-d3028dba600a",
-        "incident_number": "261600695",
-        "incident_code": "2026-FLFLS-261600695",
-        "name": "Green Farms (43)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 4.6,
-        "containment_percent": 100,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-22T20:42:00",
-        "status_updated_time": "2026-08-22T23:21:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.02838897705078,
           28.40305519104004
         ]
@@ -751,7 +891,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:28:30",
         "status_updated_time": "2026-08-22T21:15:36",
         "is_obscured": false
