@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.09943389892578,
+          28.534652709960938
+        ]
+      },
+      "properties": {
+        "id": "0394650b-b82c-48ca-a7cd-8edaa2a38f4d",
+        "incident_number": "261200565",
+        "incident_code": "2026-FLFLS-261200565",
+        "name": "638 South Co Road 13- Orange (48)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Orange",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-08-26T04:51:33",
+        "status_updated_time": "2026-08-26T04:51:33",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.50555419921875,
           27.463611602783203
         ]
