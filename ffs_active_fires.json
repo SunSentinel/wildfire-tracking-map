@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T08:35:46.294361Z",
+  "updated_at": "2026-08-26T09:34:52.656584Z",
   "incidents": [
     {
       "id": "0394650b-b82c-48ca-a7cd-8edaa2a38f4d",
@@ -8,7 +8,7 @@
       "name": "Tower(48)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 21.0,
       "containment_percent": 0,
       "county": "Orange",
       "field_unit": "Orlando",
@@ -17,8 +17,8 @@
       "resources_assigned": 2,
       "discovery_time": "2026-08-26T04:51:33",
       "status_updated_time": "2026-08-26T05:59:11",
-      "latitude": 28.534652709960938,
-      "longitude": -81.09943389892578,
+      "latitude": 28.3482666015625,
+      "longitude": -81.10954284667969,
       "is_obscured": false
     },
     {

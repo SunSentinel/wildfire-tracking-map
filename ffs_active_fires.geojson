@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.09943389892578,
-          28.534652709960938
+          -81.10954284667969,
+          28.3482666015625
         ]
       },
       "properties": {
@@ -17,7 +17,7 @@
         "name": "Tower(48)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 21.0,
         "containment_percent": 0,
         "county": "Orange",
         "field_unit": "Orlando",
