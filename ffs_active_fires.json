@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:34:52.656584Z",
+  "updated_at": "2026-08-26T10:28:48.002786Z",
   "incidents": [
     {
       "id": "0394650b-b82c-48ca-a7cd-8edaa2a38f4d",
@@ -8,8 +8,8 @@
       "name": "Tower(48)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 21.0,
-      "containment_percent": 0,
+      "acres": 50.0,
+      "containment_percent": 5,
       "county": "Orange",
       "field_unit": "Orlando",
       "region": "Region 3",
