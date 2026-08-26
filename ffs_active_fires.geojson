@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.09722137451172,
-          28.329721450805664
-        ]
-      },
-      "properties": {
-        "id": "1efce098-ba20-48e3-80a8-36de23b7c5e1",
-        "incident_number": "261200567",
-        "incident_code": "2026-FLFLS-261200567",
-        "name": "SOLAR GRADE NORTH (49)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 100.0,
-        "containment_percent": 0,
-        "county": "Osceola",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T14:47:29",
-        "status_updated_time": "2026-08-26T14:50:38",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.10954284667969,
           28.3482666015625
         ]
@@ -45,13 +17,13 @@
         "name": "Tower (48)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 300.0,
+        "acres": 350.0,
         "containment_percent": 40,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 17,
+        "resources_assigned": 15,
         "discovery_time": "2026-08-26T04:51:33",
         "status_updated_time": "2026-08-26T05:59:11",
         "is_obscured": false
@@ -79,7 +51,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 6,
         "discovery_time": "2026-08-25T21:34:00",
         "status_updated_time": "2026-08-25T23:07:00",
         "is_obscured": false
@@ -107,7 +79,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 11,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-25T20:13:31",
         "status_updated_time": "2026-08-25T22:46:58",
         "is_obscured": false
@@ -135,7 +107,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-25T19:45:00",
         "status_updated_time": "2026-08-25T20:42:26",
         "is_obscured": false
@@ -214,7 +186,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 11.3,
-        "containment_percent": 75,
+        "containment_percent": 95,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
@@ -331,7 +303,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 12,
         "discovery_time": "2026-08-24T19:30:00",
         "status_updated_time": "2026-08-24T19:44:10",
         "is_obscured": false
@@ -359,7 +331,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 8,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
         "is_obscured": false
@@ -499,7 +471,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-23T16:01:13",
         "status_updated_time": "2026-08-23T22:26:31",
         "is_obscured": false
@@ -555,7 +527,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-23T06:00:00",
         "status_updated_time": "2026-08-23T14:22:10",
         "is_obscured": false
@@ -779,7 +751,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-22T18:25:26",
         "status_updated_time": "2026-08-22T21:55:56",
         "is_obscured": false
@@ -807,7 +779,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:03:06",
         "status_updated_time": "2026-08-22T20:52:25",
         "is_obscured": false
