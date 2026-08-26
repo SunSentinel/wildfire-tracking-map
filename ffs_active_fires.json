@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T11:54:24.307330Z",
+  "updated_at": "2026-08-26T12:39:14.146461Z",
   "incidents": [
     {
       "id": "0394650b-b82c-48ca-a7cd-8edaa2a38f4d",
@@ -8,13 +8,13 @@
       "name": "Tower (48)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 170.0,
-      "containment_percent": 10,
+      "acres": 300.0,
+      "containment_percent": 25,
       "county": "Orange",
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 12,
+      "resources_assigned": 14,
       "discovery_time": "2026-08-26T04:51:33",
       "status_updated_time": "2026-08-26T05:59:11",
       "latitude": 28.3482666015625,
