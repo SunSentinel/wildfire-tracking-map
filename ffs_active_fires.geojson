@@ -15,9 +15,9 @@
         "incident_number": "261700215",
         "incident_code": "2026-FLFLS-261700215",
         "name": "1484 Keane Avenue- Collier (11)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.1,
         "containment_percent": 0,
         "county": "Collier",
         "field_unit": "Caloosahatchee",
@@ -25,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-08-25T22:37:00",
-        "status_updated_time": "2026-08-25T22:37:00",
+        "status_updated_time": "2026-08-25T23:20:00",
         "is_obscured": false
       }
     },
@@ -34,18 +34,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6875,
-          26.136552810668945
+          -81.68583679199219,
+          26.1391658782959
         ]
       },
       "properties": {
         "id": "ec110410-eb86-4113-9d8f-8650e764a62e",
         "incident_number": "261700214",
         "incident_code": "2026-FLFLS-261700214",
-        "name": "Naples Heritage Dr(11)",
+        "name": "Heritage Dr (11)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.36,
         "containment_percent": 100,
         "county": "Collier",
         "field_unit": "Caloosahatchee",
@@ -79,7 +79,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-25T20:13:31",
         "status_updated_time": "2026-08-25T22:46:58",
         "is_obscured": false
