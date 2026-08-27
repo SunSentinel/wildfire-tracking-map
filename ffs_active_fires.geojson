@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.13737487792969,
+          30.83152198791504
+        ]
+      },
+      "properties": {
+        "id": "1bc3f89f-cf53-4eaa-9a4e-1d57378c57b9",
+        "incident_number": "260100427",
+        "incident_code": "2026-FLFLS-260100427",
+        "name": "Hollandtown Church Road (57)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 2.0,
+        "containment_percent": 0,
+        "county": "Santa Rosa",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-27T16:55:00",
+        "status_updated_time": "2026-08-27T16:57:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.16694641113281,
           28.484722137451172
         ]
@@ -34,34 +62,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.71785736083984,
-          27.37981414794922
-        ]
-      },
-      "properties": {
-        "id": "22a458f4-0309-4228-8ec5-8397ba16e19c",
-        "incident_number": "261500566",
-        "incident_code": "2026-FLFLS-261500566",
-        "name": "Fish Branch (25)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 10.0,
-        "containment_percent": 95,
-        "county": "Hardee",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T23:14:44",
-        "status_updated_time": "2026-08-27T00:25:14",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.66526794433594,
           26.780921936035156
         ]
@@ -82,34 +82,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-26T22:44:00",
         "status_updated_time": "2026-08-26T23:45:32",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.9888916015625,
-          27.2630558013916
-        ]
-      },
-      "properties": {
-        "id": "2eb435a6-855c-4866-92e3-43007b2ea3e6",
-        "incident_number": "261600713",
-        "incident_code": "2026-FLFLS-261600713",
-        "name": "JW-2 (47)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T22:15:00",
-        "status_updated_time": "2026-08-26T23:40:00",
         "is_obscured": false
       }
     },
@@ -174,62 +146,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55972290039062,
-          26.45861053466797
-        ]
-      },
-      "properties": {
-        "id": "15ac2988-ea5d-49b0-8812-73bbdd9558d7",
-        "incident_number": "261700220",
-        "incident_code": "2026-FLFLS-261700220",
-        "name": "CREW Cypress Dome (11)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 6.83,
-        "containment_percent": 100,
-        "county": "Collier",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T20:21:00",
-        "status_updated_time": "2026-08-26T22:28:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.69694519042969,
-          26.34583282470703
-        ]
-      },
-      "properties": {
-        "id": "1ab94ff8-5e64-4b70-91d1-b7412d6a8210",
-        "incident_number": "261700217",
-        "incident_code": "2026-FLFLS-261700217",
-        "name": "Terry Rd  (36)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Lee",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-26T18:26:00",
-        "status_updated_time": "2026-08-26T19:07:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.62300109863281,
           26.79655647277832
         ]
@@ -247,7 +163,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-26T18:10:10",
         "status_updated_time": "2026-08-26T18:53:44",
         "is_obscured": false
@@ -258,15 +174,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.10954284667969,
-          28.3482666015625
+          -81.11750030517578,
+          28.365554809570312
         ]
       },
       "properties": {
         "id": "0394650b-b82c-48ca-a7cd-8edaa2a38f4d",
         "incident_number": "261200565",
         "incident_code": "2026-FLFLS-261200565",
-        "name": "Tower (48)",
+        "name": "Tower (49)",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 350.0,
@@ -303,7 +219,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-25T21:34:00",
         "status_updated_time": "2026-08-26T23:19:10",
         "is_obscured": false
@@ -334,34 +250,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-25T20:13:31",
         "status_updated_time": "2026-08-25T22:46:58",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.4286117553711,
-          27.107221603393555
-        ]
-      },
-      "properties": {
-        "id": "9c6034cf-c1eb-4fa4-ab9e-57c9e891b96d",
-        "incident_number": "261600707",
-        "incident_code": "2026-FLFLS-261600707",
-        "name": "STA (43)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 250.0,
-        "containment_percent": 90,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-25T19:45:00",
-        "status_updated_time": "2026-08-25T20:42:26",
         "is_obscured": false
       }
     },
@@ -443,37 +331,9 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-25T16:45:21",
         "status_updated_time": "2026-08-25T18:50:46",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3133316040039,
-          26.813888549804688
-        ]
-      },
-      "properties": {
-        "id": "df24e297-c459-4eec-bdc1-541b408bafe0",
-        "incident_number": "261600705",
-        "incident_code": "2026-FLFLS-261600705",
-        "name": "Locks  (22)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.5,
-        "containment_percent": 100,
-        "county": "Glades",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-25T17:33:37",
-        "status_updated_time": "2026-08-25T18:44:00",
         "is_obscured": false
       }
     },
@@ -538,34 +398,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.47535705566406,
-          30.079999923706055
-        ]
-      },
-      "properties": {
-        "id": "c8026d53-e84c-4f19-8a1b-63341cb72226",
-        "incident_number": "260500273",
-        "incident_code": "2026-FLFLS-260500273",
-        "name": "Water Well",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 32.0,
-        "containment_percent": 100,
-        "county": "Taylor",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-24T19:30:00",
-        "status_updated_time": "2026-08-24T19:44:10",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.7071304321289,
           26.3356876373291
         ]
@@ -578,7 +410,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 70.0,
-        "containment_percent": 95,
+        "containment_percent": 100,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
@@ -586,34 +418,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-24T19:34:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.02749633789062,
-          27.3880558013916
-        ]
-      },
-      "properties": {
-        "id": "ecb035f8-f134-4069-aa2e-99f20dfb9365",
-        "incident_number": "261600700",
-        "incident_code": "2026-FLFLS-261600700",
-        "name": "Basinger (47)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 3.3,
-        "containment_percent": 100,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-24T16:08:51",
-        "status_updated_time": "2026-08-24T17:14:00",
         "is_obscured": false
       }
     },
@@ -717,13 +521,13 @@
         "name": "3rd Strike (48)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 2.0,
+        "acres": 20.0,
         "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
@@ -810,34 +614,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-22T20:55:54",
         "status_updated_time": "2026-08-23T16:08:51",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.02838897705078,
-          28.40305519104004
-        ]
-      },
-      "properties": {
-        "id": "ad64b380-3a2c-4934-8f55-3743e093f13b",
-        "incident_number": "261200555",
-        "incident_code": "2026-FLFLS-261200555",
-        "name": "CONE (48)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Orange",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-22T19:19:59",
-        "status_updated_time": "2026-08-22T20:55:26",
         "is_obscured": false
       }
     },
@@ -1033,7 +809,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-20T18:11:34",
-        "status_updated_time": "2026-08-20T20:40:40",
+        "status_updated_time": "2026-08-27T15:17:15",
         "is_obscured": false
       }
     },
