@@ -14,18 +14,18 @@
         "id": "98e7b03e-d043-49ea-8bc7-afc15ca020be",
         "incident_number": "261200570",
         "incident_code": "2026-FLFLS-261200570",
-        "name": "Alafaya- Orange (48)",
-        "status": "Active",
+        "name": "SOUTH ALAFAYA (48)",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 1.0,
+        "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-26T23:28:39",
-        "status_updated_time": "2026-08-26T23:34:40",
+        "status_updated_time": "2026-08-27T02:14:07",
         "is_obscured": false
       }
     },
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.72230529785156,
-          27.369922637939453
+          -81.71785736083984,
+          27.37981414794922
         ]
       },
       "properties": {
@@ -43,17 +43,17 @@
         "incident_number": "261500566",
         "incident_code": "2026-FLFLS-261500566",
         "name": "Fish Branch (25)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 10.0,
+        "containment_percent": 95,
         "county": "Hardee",
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-08-26T23:14:44",
-        "status_updated_time": "2026-08-26T23:14:44",
+        "status_updated_time": "2026-08-27T00:25:14",
         "is_obscured": false
       }
     },
@@ -73,13 +73,13 @@
         "name": "31 Southwest (08)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 15.0,
-        "containment_percent": 0,
+        "acres": 50.0,
+        "containment_percent": 95,
         "county": "Charlotte",
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 14,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-26T22:44:00",
         "status_updated_time": "2026-08-26T23:45:32",
         "is_obscured": false
@@ -101,13 +101,13 @@
         "name": "JW-2 (47)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 1.0,
+        "acres": 2.0,
         "containment_percent": 100,
         "county": "Okeechobee",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-26T22:15:00",
         "status_updated_time": "2026-08-26T23:40:00",
         "is_obscured": false
@@ -118,8 +118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.97444915771484,
-          26.994600296020508
+          -81.97269439697266,
+          26.985584259033203
         ]
       },
       "properties": {
@@ -130,12 +130,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 15.0,
-        "containment_percent": 50,
+        "containment_percent": 90,
         "county": "Charlotte",
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-26T21:45:00",
         "status_updated_time": "2026-08-26T23:12:20",
         "is_obscured": false
@@ -174,8 +174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5624771118164,
-          26.45612144470215
+          -81.55972290039062,
+          26.45861053466797
         ]
       },
       "properties": {
@@ -275,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 10,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-26T04:51:33",
         "status_updated_time": "2026-08-26T23:38:00",
         "is_obscured": false
