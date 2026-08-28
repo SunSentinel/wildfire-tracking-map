@@ -23,7 +23,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-27T21:17:35",
         "status_updated_time": "2026-08-28T00:23:27",
         "is_obscured": false
@@ -62,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.16694641113281,
-          28.484722137451172
+          -81.15583038330078,
+          28.496110916137695
         ]
       },
       "properties": {
@@ -79,7 +79,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-26T23:28:39",
         "status_updated_time": "2026-08-27T02:14:07",
         "is_obscured": false
@@ -191,7 +191,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-26T18:10:10",
         "status_updated_time": "2026-08-26T18:53:44",
         "is_obscured": false
@@ -219,7 +219,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-26T04:51:33",
         "status_updated_time": "2026-08-26T23:38:00",
         "is_obscured": false
@@ -275,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-25T19:39:41",
         "status_updated_time": "2026-08-25T23:12:02",
         "is_obscured": false
@@ -370,34 +370,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.81655883789062,
-          28.461360931396484
-        ]
-      },
-      "properties": {
-        "id": "2eea8b57-7be2-4315-976c-c5d6e5601955",
-        "incident_number": "261100620",
-        "incident_code": "2026-FLFLS-261100620",
-        "name": "PRETTY LAKE  (35)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.75,
-        "containment_percent": 100,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-24T19:48:27",
-        "status_updated_time": "2026-08-24T23:10:09",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.7071304321289,
           26.3356876373291
         ]
@@ -415,7 +387,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-24T18:51:00",
         "status_updated_time": "2026-08-27T15:56:00",
         "is_obscured": false
@@ -471,7 +443,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-23T16:01:13",
         "status_updated_time": "2026-08-23T22:26:31",
         "is_obscured": false
@@ -499,7 +471,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
@@ -527,7 +499,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
@@ -555,7 +527,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T22:18:01",
         "status_updated_time": "2026-08-22T23:12:04",
         "is_obscured": false
@@ -622,34 +594,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.1227798461914,
-          27.928054809570312
-        ]
-      },
-      "properties": {
-        "id": "fbaac45b-e098-4805-af23-350a2f3cb4cb",
-        "incident_number": "261200554",
-        "incident_code": "2026-FLFLS-261200554",
-        "name": "NORTH END (49)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 97.0,
-        "containment_percent": 100,
-        "county": "Osceola",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-22T18:28:30",
-        "status_updated_time": "2026-08-22T21:15:36",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.75916290283203,
           28.84083366394043
         ]
@@ -667,7 +611,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-22T18:25:26",
         "status_updated_time": "2026-08-22T21:55:56",
         "is_obscured": false
@@ -835,7 +779,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-18T22:11:13",
         "status_updated_time": "2026-08-19T17:58:07",
         "is_obscured": false
