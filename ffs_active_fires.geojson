@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.00924682617188,
-          27.385921478271484
+          -81.26439666748047,
+          29.61973762512207
         ]
       },
       "properties": {
-        "id": "2b1f8b26-d9a6-41a9-ac11-59d91b76ca6f",
-        "incident_number": "261600726",
-        "incident_code": "2026-FLFLS-261600726",
-        "name": "17455 U.S. 98- Okeechobee (47)",
+        "id": "35ba2228-f068-44a7-afc7-3f981e344747",
+        "incident_number": "260700614",
+        "incident_code": "2026-FLFLS-260700614",
+        "name": "Lake Place- Flagler (18)",
         "status": "Reported",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.1,
         "containment_percent": 0,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
+        "county": "Flagler",
+        "field_unit": "Jacksonville",
+        "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-29T19:00:00",
-        "status_updated_time": "2026-08-29T19:00:00",
+        "resources_assigned": 4,
+        "discovery_time": "2026-08-29T21:06:03",
+        "status_updated_time": "2026-08-29T21:06:03",
         "is_obscured": false
       }
     },
@@ -51,7 +51,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-29T16:16:17",
         "status_updated_time": "2026-08-29T18:48:00",
         "is_obscured": false
