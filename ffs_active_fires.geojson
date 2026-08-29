@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.99361419677734,
-          27.384721755981445
-        ]
-      },
-      "properties": {
-        "id": "7514e3a4-26d2-4c1c-8312-a4335f3dfe70",
-        "incident_number": "261600722",
-        "incident_code": "2026-FLFLS-261600722",
-        "name": "Bass (47)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 100,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-28T20:30:00",
-        "status_updated_time": "2026-08-28T21:18:17",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.33361053466797,
           27.191110610961914
         ]
@@ -191,7 +163,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-26T22:44:00",
         "status_updated_time": "2026-08-26T23:45:32",
         "is_obscured": false
@@ -258,34 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.62300109863281,
-          26.79655647277832
-        ]
-      },
-      "properties": {
-        "id": "8fb76c98-a662-4b4d-94bf-6f58b002a4b1",
-        "incident_number": "261500561",
-        "incident_code": "2026-FLFLS-261500561",
-        "name": "31 East BRP (08)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 70.0,
-        "containment_percent": 90,
-        "county": "Charlotte",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T18:10:10",
-        "status_updated_time": "2026-08-26T18:53:44",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.10944366455078,
           28.348054885864258
         ]
@@ -314,34 +258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60722351074219,
-          27.824722290039062
-        ]
-      },
-      "properties": {
-        "id": "c0521be9-5280-4eb2-8dac-0eae586fa06c",
-        "incident_number": "261400475",
-        "incident_code": "2026-FLFLS-261400475",
-        "name": "SOUTHERN (53)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 20.0,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-25T20:13:31",
-        "status_updated_time": "2026-08-25T22:46:58",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.88888549804688,
           28.226388931274414
         ]
@@ -359,7 +275,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-25T19:39:41",
         "status_updated_time": "2026-08-25T23:12:02",
         "is_obscured": false
@@ -409,7 +325,7 @@
         "name": "Slough (22)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 320.0,
+        "acres": 414.0,
         "containment_percent": 95,
         "county": "Glades",
         "field_unit": "Okeechobee",
@@ -471,7 +387,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
@@ -510,34 +426,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60055541992188,
-          27.841388702392578
-        ]
-      },
-      "properties": {
-        "id": "36efbe71-3d79-4c6d-b728-14bdf647cb75",
-        "incident_number": "261400467",
-        "incident_code": "2026-FLFLS-261400467",
-        "name": "MUDHOLE FIRE (53)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 16.0,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-22T20:55:54",
-        "status_updated_time": "2026-08-23T16:08:51",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.79055786132812,
           26.419445037841797
         ]
@@ -555,7 +443,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
@@ -586,34 +474,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:25:26",
         "status_updated_time": "2026-08-22T21:55:56",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6544418334961,
-          27.84027862548828
-        ]
-      },
-      "properties": {
-        "id": "46f6b1b7-f4fe-46ef-99c3-5356c57899f3",
-        "incident_number": "261400458",
-        "incident_code": "2026-FLFLS-261400458",
-        "name": "ORANGE ACRES (53)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 20.0,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-20T18:37:11",
-        "status_updated_time": "2026-08-20T20:20:56",
         "is_obscured": false
       }
     },
