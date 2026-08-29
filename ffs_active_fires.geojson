@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.00924682617188,
+          27.385921478271484
+        ]
+      },
+      "properties": {
+        "id": "2b1f8b26-d9a6-41a9-ac11-59d91b76ca6f",
+        "incident_number": "261600726",
+        "incident_code": "2026-FLFLS-261600726",
+        "name": "17455 U.S. 98- Okeechobee (47)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Okeechobee",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-08-29T19:00:00",
+        "status_updated_time": "2026-08-29T19:00:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.77999877929688,
+          27.59833335876465
+        ]
+      },
+      "properties": {
+        "id": "e20fa3dc-253b-4c93-b1a4-78e2d0727fd6",
+        "incident_number": "261600725",
+        "incident_code": "2026-FLFLS-261600725",
+        "name": "54th trl (47)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 2.0,
+        "containment_percent": 100,
+        "county": "Okeechobee",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 4,
+        "discovery_time": "2026-08-29T16:16:17",
+        "status_updated_time": "2026-08-29T18:48:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.33361053466797,
           27.191110610961914
         ]
@@ -118,34 +174,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.13737487792969,
-          30.83152198791504
-        ]
-      },
-      "properties": {
-        "id": "1bc3f89f-cf53-4eaa-9a4e-1d57378c57b9",
-        "incident_number": "260100427",
-        "incident_code": "2026-FLFLS-260100427",
-        "name": "Hollandtown Church Road (57)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-27T16:55:00",
-        "status_updated_time": "2026-08-28T19:09:40",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.66526794433594,
           26.780921936035156
         ]
@@ -163,7 +191,7 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-26T22:44:00",
         "status_updated_time": "2026-08-26T23:45:32",
         "is_obscured": false
@@ -202,34 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.19388580322266,
-          29.100833892822266
-        ]
-      },
-      "properties": {
-        "id": "513d797c-bbef-4ece-ac4e-dedc6006db17",
-        "incident_number": "261200569",
-        "incident_code": "2026-FLFLS-261200569",
-        "name": "92 SOUTH (64)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.0,
-        "containment_percent": 100,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T21:11:16",
-        "status_updated_time": "2026-08-26T22:15:31",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.10944366455078,
           28.348054885864258
         ]
@@ -250,34 +250,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-26T04:51:33",
         "status_updated_time": "2026-08-26T23:38:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.88888549804688,
-          28.226388931274414
-        ]
-      },
-      "properties": {
-        "id": "9c1fddad-dac6-46c4-8f39-8cbc8399dd2d",
-        "incident_number": "261200564",
-        "incident_code": "2026-FLFLS-261200564",
-        "name": "Unit 7 (49)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 20.0,
-        "containment_percent": 100,
-        "county": "Osceola",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-25T19:39:41",
-        "status_updated_time": "2026-08-25T23:12:02",
         "is_obscured": false
       }
     },
@@ -387,7 +359,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
@@ -474,34 +446,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:25:26",
         "status_updated_time": "2026-08-22T21:55:56",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.19527435302734,
-          29.245832443237305
-        ]
-      },
-      "properties": {
-        "id": "d9a2eb0e-4389-467c-9a7d-1b5668f9c0fb",
-        "incident_number": "261200539",
-        "incident_code": "2026-FLFLS-261200539",
-        "name": "SAWGRASS POND (64)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 45.0,
-        "containment_percent": 100,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-19T15:49:19",
-        "status_updated_time": "2026-08-19T21:45:57",
         "is_obscured": false
       }
     },
