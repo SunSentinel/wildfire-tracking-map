@@ -62,34 +62,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.01052856445312,
-          27.612972259521484
-        ]
-      },
-      "properties": {
-        "id": "798c5b3c-93cf-4426-a706-f705eca5c782",
-        "incident_number": "261500567",
-        "incident_code": "2026-FLFLS-261500567",
-        "name": "Watkins Rd",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 120.0,
-        "containment_percent": 100,
-        "county": "Hardee",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-08-27T21:17:35",
-        "status_updated_time": "2026-08-28T00:23:27",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.97269439697266,
           26.985584259033203
         ]
@@ -269,13 +241,13 @@
         "name": "H2 (50)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 511.0,
+        "acres": 621.0,
         "containment_percent": 90,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
