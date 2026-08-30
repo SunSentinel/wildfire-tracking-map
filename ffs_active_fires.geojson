@@ -23,65 +23,9 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-29T21:06:03",
         "status_updated_time": "2026-08-29T22:41:10",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.77999877929688,
-          27.59833335876465
-        ]
-      },
-      "properties": {
-        "id": "e20fa3dc-253b-4c93-b1a4-78e2d0727fd6",
-        "incident_number": "261600725",
-        "incident_code": "2026-FLFLS-261600725",
-        "name": "54th trl (47)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Okeechobee",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
-        "discovery_time": "2026-08-29T16:16:17",
-        "status_updated_time": "2026-08-29T18:48:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.15972137451172,
-          27.09861183166504
-        ]
-      },
-      "properties": {
-        "id": "0dbe75d2-d8fe-4383-8ac5-97ff2ed174c6",
-        "incident_number": "261600719",
-        "incident_code": "2026-FLFLS-261600719",
-        "name": "Osprey (43)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-08-28T17:16:03",
-        "status_updated_time": "2026-08-28T19:15:11",
         "is_obscured": false
       }
     },
@@ -135,37 +79,9 @@
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-27T21:17:35",
         "status_updated_time": "2026-08-28T00:23:27",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.66526794433594,
-          26.780921936035156
-        ]
-      },
-      "properties": {
-        "id": "c1302fef-2878-4739-80f0-148351f6f295",
-        "incident_number": "261500565",
-        "incident_code": "2026-FLFLS-261500565",
-        "name": "31 Southwest (08)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 50.0,
-        "containment_percent": 95,
-        "county": "Charlotte",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T22:44:00",
-        "status_updated_time": "2026-08-26T23:45:32",
         "is_obscured": false
       }
     },
@@ -303,7 +219,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
@@ -390,34 +306,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:25:26",
         "status_updated_time": "2026-08-22T21:55:56",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.38460540771484,
-          29.898792266845703
-        ]
-      },
-      "properties": {
-        "id": "7196e661-e32b-43b3-893b-5fee33952a18",
-        "incident_number": "260700595",
-        "incident_code": "2026-FLFLS-260700595",
-        "name": "Carter Rd (55)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 41.0,
-        "containment_percent": 100,
-        "county": "St. Johns",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-18T22:11:13",
-        "status_updated_time": "2026-08-19T17:58:07",
         "is_obscured": false
       }
     },
