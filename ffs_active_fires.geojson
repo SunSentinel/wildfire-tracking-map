@@ -23,7 +23,7 @@
         "field_unit": "Jacksonville",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-29T21:06:03",
         "status_updated_time": "2026-08-29T22:41:10",
         "is_obscured": false
@@ -51,37 +51,9 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-08-29T16:16:17",
         "status_updated_time": "2026-08-29T18:48:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.33361053466797,
-          27.191110610961914
-        ]
-      },
-      "properties": {
-        "id": "106ffe53-3e10-4f34-8fa9-9de28ca18bae",
-        "incident_number": "261600721",
-        "incident_code": "2026-FLFLS-261600721",
-        "name": "World (43)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 15.8,
-        "containment_percent": 100,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-28T18:38:00",
-        "status_updated_time": "2026-08-28T21:10:18",
         "is_obscured": false
       }
     },
@@ -107,7 +79,7 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-28T17:16:03",
         "status_updated_time": "2026-08-28T19:15:11",
         "is_obscured": false
@@ -258,34 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.57027435302734,
-          28.598054885864258
-        ]
-      },
-      "properties": {
-        "id": "5a63cd85-0e4f-4bd0-96e6-4a5e6785a74c",
-        "incident_number": "261100623",
-        "incident_code": "2026-FLFLS-261100623",
-        "name": "RATTLESNAKE SOUTH (27)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 69.0,
-        "containment_percent": 100,
-        "county": "Hernando",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-25T19:24:04",
-        "status_updated_time": "2026-08-25T22:40:49",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.14167022705078,
           26.93694496154785
         ]
@@ -359,7 +303,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
@@ -415,7 +359,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
