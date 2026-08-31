@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.04263305664062,
+          30.56214714050293
+        ]
+      },
+      "properties": {
+        "id": "4d0d8f7e-2755-4409-9685-056098cc1da3",
+        "incident_number": "260600994",
+        "incident_code": "2026-FLFLS-260600994",
+        "name": "NW 25TH LN (24-04)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 1.5,
+        "containment_percent": 100,
+        "county": "Hamilton",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-08-31T19:26:00",
+        "status_updated_time": "2026-08-31T21:02:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.26361083984375,
           29.620555877685547
         ]
@@ -62,34 +90,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.61769104003906,
-          27.870861053466797
-        ]
-      },
-      "properties": {
-        "id": "6c9e5656-2049-44e3-9551-bb6112af10dd",
-        "incident_number": "261200559",
-        "incident_code": "2026-FLFLS-261200559",
-        "name": "MICCO (05)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 95.0,
-        "containment_percent": 100,
-        "county": "Brevard",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-23T16:01:13",
-        "status_updated_time": "2026-08-23T22:26:31",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.0361099243164,
           28.405000686645508
         ]
@@ -107,7 +107,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
