@@ -34,34 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.37916564941406,
-          26.967500686645508
-        ]
-      },
-      "properties": {
-        "id": "bd998dd3-669d-4a88-a184-99da760c7ac5",
-        "incident_number": "261600718",
-        "incident_code": "2026-FLFLS-261600718",
-        "name": "Warfield Slough (43)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 21.87,
-        "containment_percent": 100,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-28T16:10:00",
-        "status_updated_time": "2026-08-28T18:53:14",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.97269439697266,
           26.985584259033203
         ]
@@ -82,62 +54,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-26T21:45:00",
         "status_updated_time": "2026-08-26T23:12:20",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.10944366455078,
-          28.348054885864258
-        ]
-      },
-      "properties": {
-        "id": "0394650b-b82c-48ca-a7cd-8edaa2a38f4d",
-        "incident_number": "261200565",
-        "incident_code": "2026-FLFLS-261200565",
-        "name": "Tower (49)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 350.0,
-        "containment_percent": 100,
-        "county": "Osceola",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-26T04:51:33",
-        "status_updated_time": "2026-08-26T23:38:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.14167022705078,
-          26.93694496154785
-        ]
-      },
-      "properties": {
-        "id": "5284c989-37c5-462d-b949-60147a2ae9ab",
-        "incident_number": "261600697",
-        "incident_code": "2026-FLFLS-261600697",
-        "name": "Slough (22)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 414.0,
-        "containment_percent": 95,
-        "county": "Glades",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-23T22:35:00",
-        "status_updated_time": "2026-08-28T20:20:40",
         "is_obscured": false
       }
     },
@@ -191,7 +107,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-23T14:39:08",
         "status_updated_time": "2026-08-23T17:31:38",
         "is_obscured": false
