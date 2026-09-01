@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-01T19:09:24.908984Z",
+  "updated_at": "2026-09-01T21:53:24.164569Z",
   "incidents": [
+    {
+      "id": "da14bdd4-7253-431b-b1b4-56093d31236c",
+      "incident_number": "261600731",
+      "incident_code": "2026-FLFLS-261600731",
+      "name": "Lakeport- Glades (22)",
+      "status": "Reported",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Glades",
+      "field_unit": "Okeechobee",
+      "region": "Region 4",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-09-01T21:08:23",
+      "status_updated_time": "2026-09-01T21:08:23",
+      "latitude": 26.95624351501465,
+      "longitude": -81.11746978759766,
+      "is_obscured": false
+    },
     {
       "id": "f2eb1a59-b378-440d-8907-50f76584eef9",
       "incident_number": "260500275",
@@ -74,7 +94,7 @@
       "field_unit": "Jacksonville",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-08-29T21:06:03",
       "status_updated_time": "2026-08-29T22:41:10",
       "latitude": 29.620555877685547,
