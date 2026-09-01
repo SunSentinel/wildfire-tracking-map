@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.57222747802734,
+          29.916973114013672
+        ]
+      },
+      "properties": {
+        "id": "f2eb1a59-b378-440d-8907-50f76584eef9",
+        "incident_number": "260500275",
+        "incident_code": "2026-FLFLS-260500275",
+        "name": "Two Trail- Taylor (62)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 5.0,
+        "containment_percent": 100,
+        "county": "Taylor",
+        "field_unit": "Perry",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-01T00:43:00",
+        "status_updated_time": "2026-09-01T03:07:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.30536651611328,
           30.61954116821289
         ]
