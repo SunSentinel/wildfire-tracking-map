@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.30536651611328,
-          30.61954116821289
-        ]
-      },
-      "properties": {
-        "id": "34e54912-fa48-49d4-a63b-e7202a9bb010",
-        "incident_number": "260500274",
-        "incident_code": "2026-FLFLS-260500274",
-        "name": "Rue DR- Madison (40)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Madison",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-08-31T21:34:00",
-        "status_updated_time": "2026-08-31T22:46:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.04263305664062,
           30.56214714050293
         ]
@@ -54,34 +26,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-08-31T19:26:00",
         "status_updated_time": "2026-08-31T21:02:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.26361083984375,
-          29.620555877685547
-        ]
-      },
-      "properties": {
-        "id": "35ba2228-f068-44a7-afc7-3f981e344747",
-        "incident_number": "260700614",
-        "incident_code": "2026-FLFLS-260700614",
-        "name": "Old Golf Flagler (18)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Flagler",
-        "field_unit": "Jacksonville",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-29T21:06:03",
-        "status_updated_time": "2026-08-29T22:41:10",
         "is_obscured": false
       }
     },
@@ -146,34 +90,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.75916290283203,
-          28.84083366394043
-        ]
-      },
-      "properties": {
-        "id": "df71b22d-c18c-4d60-8085-cbbeffd99bb2",
-        "incident_number": "261100617",
-        "incident_code": "2026-FLFLS-261100617",
-        "name": "NORTHERN (35)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 9.1,
-        "containment_percent": 100,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-08-22T18:25:26",
-        "status_updated_time": "2026-08-22T21:55:56",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.85013580322266,
           30.493410110473633
         ]
@@ -191,7 +107,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
