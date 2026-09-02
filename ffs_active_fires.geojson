@@ -6,62 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.58416748046875,
-          29.925832748413086
-        ]
-      },
-      "properties": {
-        "id": "467a56f4-6b35-4903-ab1f-a6a4a4635409",
-        "incident_number": "260500276",
-        "incident_code": "2026-FLFLS-260500276",
-        "name": "Fox Hunter South Road- Taylor (62)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Taylor",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-01T22:55:00",
-        "status_updated_time": "2026-09-02T00:08:28",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.57222747802734,
-          29.916973114013672
-        ]
-      },
-      "properties": {
-        "id": "f2eb1a59-b378-440d-8907-50f76584eef9",
-        "incident_number": "260500275",
-        "incident_code": "2026-FLFLS-260500275",
-        "name": "Two Trail- Taylor (62)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 100,
-        "county": "Taylor",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-01T00:43:00",
-        "status_updated_time": "2026-09-01T03:07:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.30536651611328,
           30.61954116821289
         ]
@@ -79,7 +23,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-08-31T21:34:00",
         "status_updated_time": "2026-08-31T22:46:00",
         "is_obscured": false
@@ -98,7 +42,7 @@
         "id": "4d0d8f7e-2755-4409-9685-056098cc1da3",
         "incident_number": "260600994",
         "incident_code": "2026-FLFLS-260600994",
-        "name": "NW 25TH LN (24-04)",
+        "name": "76TH TERR (24-04)",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 1.5,
@@ -154,7 +98,7 @@
         "id": "2312a745-154c-4da3-93da-f8c46342d3ab",
         "incident_number": "261400469",
         "incident_code": "2026-FLFLS-261400469",
-        "name": "Four Corners (53)",
+        "name": "FOUR CORNERS (53)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 11.0,
@@ -247,7 +191,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
