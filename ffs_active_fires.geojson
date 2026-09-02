@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.23116302490234,
+          26.788949966430664
+        ]
+      },
+      "properties": {
+        "id": "cdd2789d-f877-403d-b749-9e2e52e6d326",
+        "incident_number": "261600733",
+        "incident_code": "2026-FLFLS-261600733",
+        "name": "1682 Indian Hills Dr (22)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.1,
+        "containment_percent": 0,
+        "county": "Glades",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-09-02T21:34:00",
+        "status_updated_time": "2026-09-02T21:34:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.04263305664062,
           30.56214714050293
         ]
