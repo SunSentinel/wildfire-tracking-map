@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.56478118896484,
-          29.929765701293945
+          -83.58416748046875,
+          29.925832748413086
         ]
       },
       "properties": {
@@ -15,17 +15,17 @@
         "incident_number": "260500276",
         "incident_code": "2026-FLFLS-260500276",
         "name": "Fox Hunter South Road- Taylor (62)",
-        "status": "Reported",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 0.1,
+        "containment_percent": 100,
         "county": "Taylor",
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-01T22:55:00",
-        "status_updated_time": "2026-09-01T22:55:00",
+        "status_updated_time": "2026-09-02T00:08:28",
         "is_obscured": false
       }
     },
