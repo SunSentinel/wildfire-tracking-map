@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T13:43:59.844880Z",
+  "updated_at": "2026-09-03T17:26:37.931215Z",
   "incidents": [
     {
       "id": "060488c6-2c89-4505-8f3d-1c040c71b327",
@@ -9,7 +9,7 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 30.0,
-      "containment_percent": 40,
+      "containment_percent": 95,
       "county": "Miami-Dade",
       "field_unit": "Everglades",
       "region": "Region 4",
@@ -94,7 +94,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-14T17:59:00",
       "status_updated_time": "2026-07-14T18:57:01",
       "latitude": 30.493410110473633,
