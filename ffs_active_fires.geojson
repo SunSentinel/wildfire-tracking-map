@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.36973571777344,
+          30.616519927978516
+        ]
+      },
+      "properties": {
+        "id": "0ac3059c-131b-4d2b-afe3-fbed70898301",
+        "incident_number": "260200552",
+        "incident_code": "2026-FLFLS-260200552",
+        "name": "West Laurel Drive (32)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Jackson",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-03T03:24:57",
+        "status_updated_time": "2026-09-03T03:24:57",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.55305480957031,
           25.375
         ]
@@ -18,12 +46,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 30.0,
-        "containment_percent": 0,
+        "containment_percent": 40,
         "county": "Miami-Dade",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-02T21:38:19",
         "status_updated_time": "2026-09-02T23:14:22",
         "is_obscured": false
