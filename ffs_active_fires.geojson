@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.51972198486328,
+          25.920278549194336
+        ]
+      },
+      "properties": {
+        "id": "6f88ab12-f25f-49f5-9702-a483ab41a62e",
+        "incident_number": "261800146",
+        "incident_code": "2026-FLFLS-261800146",
+        "name": "3B (13)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Miami-Dade",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-09-03T21:03:12",
+        "status_updated_time": "2026-09-03T21:47:33",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.49972534179688,
+          26.325834274291992
+        ]
+      },
+      "properties": {
+        "id": "d8161475-2055-477a-b5c0-caa69fa32f17",
+        "incident_number": "261800147",
+        "incident_code": "2026-FLFLS-261800147",
+        "name": "S7 (06)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Broward",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-09-03T21:02:25",
+        "status_updated_time": "2026-09-03T22:25:51",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20857238769531,
+          28.085067749023438
+        ]
+      },
+      "properties": {
+        "id": "1db4775b-c765-4f6a-8221-af883880d078",
+        "incident_number": "261400496",
+        "incident_code": "2026-FLFLS-261400496",
+        "name": "OSI DAVID BYRN (29)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Hillsborough",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-03T20:27:24",
+        "status_updated_time": "2026-09-03T20:27:24",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.55305480957031,
           25.375
         ]
@@ -79,7 +163,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T22:52:01",
         "status_updated_time": "2026-08-22T23:58:30",
         "is_obscured": false
