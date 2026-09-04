@@ -23,37 +23,9 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-04T01:48:31",
         "status_updated_time": "2026-09-04T02:34:23",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.51972198486328,
-          25.920278549194336
-        ]
-      },
-      "properties": {
-        "id": "6f88ab12-f25f-49f5-9702-a483ab41a62e",
-        "incident_number": "261800146",
-        "incident_code": "2026-FLFLS-261800146",
-        "name": "3B (13)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 75.0,
-        "containment_percent": 0,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-09-03T21:03:12",
-        "status_updated_time": "2026-09-03T21:47:33",
         "is_obscured": false
       }
     },
@@ -71,45 +43,17 @@
         "incident_number": "261800147",
         "incident_code": "2026-FLFLS-261800147",
         "name": "S7 (06)",
-        "status": "Active",
+        "status": "Controlled",
         "category": "Wildfire",
-        "acres": 200.0,
-        "containment_percent": 10,
+        "acres": 884.0,
+        "containment_percent": 100,
         "county": "Broward",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-03T21:02:25",
-        "status_updated_time": "2026-09-03T22:25:51",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.55305480957031,
-          25.375
-        ]
-      },
-      "properties": {
-        "id": "060488c6-2c89-4505-8f3d-1c040c71b327",
-        "incident_number": "261800145",
-        "incident_code": "2026-FLFLS-261800145",
-        "name": "SOUTHERN GLADES (13)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 35.0,
-        "containment_percent": 95,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-09-02T21:38:19",
-        "status_updated_time": "2026-09-02T23:14:22",
+        "status_updated_time": "2026-09-04T16:27:39",
         "is_obscured": false
       }
     },
@@ -191,7 +135,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
