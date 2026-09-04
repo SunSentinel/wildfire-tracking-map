@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.87245178222656,
+          30.297657012939453
+        ]
+      },
+      "properties": {
+        "id": "c642eb11-b6e9-44c3-8034-ea583899c387",
+        "incident_number": "260601004",
+        "incident_code": "2026-FLFLS-260601004",
+        "name": "HOGAN RD (61)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Suwannee",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-04T21:18:00",
+        "status_updated_time": "2026-09-04T21:18:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.60275268554688,
+          25.837596893310547
+        ]
+      },
+      "properties": {
+        "id": "e09ae373-dcb7-4494-860c-0e7cf73f9473",
+        "incident_number": "261800148",
+        "incident_code": "2026-FLFLS-261800148",
+        "name": "178 (13)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 200.0,
+        "containment_percent": 0,
+        "county": "Miami-Dade",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-09-04T20:00:00",
+        "status_updated_time": "2026-09-04T20:35:37",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.27166748046875,
           28.678333282470703
         ]
