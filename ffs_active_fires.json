@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-04T00:37:30.610068Z",
+  "updated_at": "2026-09-04T05:20:40.195092Z",
   "incidents": [
+    {
+      "id": "f0b8f2b0-a43c-4163-a796-99ff270289e5",
+      "incident_number": "261100636",
+      "incident_code": "2026-FLFLS-261100636",
+      "name": "Hope CourT(09)",
+      "status": "Active",
+      "category": "Wildfire",
+      "acres": 0.1,
+      "containment_percent": 0,
+      "county": "Citrus",
+      "field_unit": "Withlacoochee",
+      "region": "Region 3",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-09-04T01:48:31",
+      "status_updated_time": "2026-09-04T02:34:23",
+      "latitude": 28.678333282470703,
+      "longitude": -82.27166748046875,
+      "is_obscured": false
+    },
     {
       "id": "6f88ab12-f25f-49f5-9702-a483ab41a62e",
       "incident_number": "261800146",
@@ -34,7 +54,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 7,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-03T21:02:25",
       "status_updated_time": "2026-09-03T22:25:51",
       "latitude": 26.325834274291992,
