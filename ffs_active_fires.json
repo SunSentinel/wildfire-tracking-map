@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-04T05:20:40.195092Z",
+  "updated_at": "2026-09-04T09:48:28.840897Z",
   "incidents": [
     {
       "id": "f0b8f2b0-a43c-4163-a796-99ff270289e5",
       "incident_number": "261100636",
       "incident_code": "2026-FLFLS-261100636",
-      "name": "Hope CourT(09)",
+      "name": "HOPE COURT(09)",
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.1,
-      "containment_percent": 0,
+      "containment_percent": 95,
       "county": "Citrus",
       "field_unit": "Withlacoochee",
       "region": "Region 3",
