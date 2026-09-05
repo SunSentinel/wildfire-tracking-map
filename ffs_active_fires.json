@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:23:56.752010Z",
+  "updated_at": "2026-09-05T17:25:52.152838Z",
   "incidents": [
     {
       "id": "c642eb11-b6e9-44c3-8034-ea583899c387",
@@ -29,12 +29,12 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 200.0,
-      "containment_percent": 0,
+      "containment_percent": 50,
       "county": "Miami-Dade",
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-09-04T20:00:00",
       "status_updated_time": "2026-09-04T20:35:37",
       "latitude": 25.837596893310547,
@@ -59,26 +59,6 @@
       "status_updated_time": "2026-09-04T02:34:23",
       "latitude": 28.678333282470703,
       "longitude": -82.27166748046875,
-      "is_obscured": false
-    },
-    {
-      "id": "4d0d8f7e-2755-4409-9685-056098cc1da3",
-      "incident_number": "260600994",
-      "incident_code": "2026-FLFLS-260600994",
-      "name": "76TH TERR (24-04)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 1.5,
-      "containment_percent": 100,
-      "county": "Hamilton",
-      "field_unit": "Suwannee",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-08-31T19:26:00",
-      "status_updated_time": "2026-08-31T21:02:01",
-      "latitude": 30.56214714050293,
-      "longitude": -83.04263305664062,
       "is_obscured": false
     },
     {
@@ -134,7 +114,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-07-14T17:59:00",
       "status_updated_time": "2026-07-14T18:57:01",
       "latitude": 30.493410110473633,
