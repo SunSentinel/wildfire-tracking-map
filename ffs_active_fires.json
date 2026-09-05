@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-05T21:26:56.298251Z",
+  "updated_at": "2026-09-05T23:06:46.584267Z",
   "incidents": [
     {
       "id": "98d2a6e8-90d3-47e4-ba72-3c4d19ae6548",
       "incident_number": "261200584",
       "incident_code": "2026-FLFLS-261200584",
-      "name": "Palm Bay- Brevard (05)",
+      "name": "EAST PARKWAY (05)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 4.0,
-      "containment_percent": 0,
+      "acres": 10.0,
+      "containment_percent": 50,
       "county": "Brevard",
       "field_unit": "Orlando",
       "region": "Region 3",
@@ -17,8 +17,8 @@
       "resources_assigned": 6,
       "discovery_time": "2026-09-05T20:50:44",
       "status_updated_time": "2026-09-05T21:16:42",
-      "latitude": 27.898056030273438,
-      "longitude": -80.58985900878906,
+      "latitude": 27.90277862548828,
+      "longitude": -80.5838851928711,
       "is_obscured": false
     },
     {
