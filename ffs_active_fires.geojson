@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.58985900878906,
+          27.898056030273438
+        ]
+      },
+      "properties": {
+        "id": "98d2a6e8-90d3-47e4-ba72-3c4d19ae6548",
+        "incident_number": "261200584",
+        "incident_code": "2026-FLFLS-261200584",
+        "name": "Palm Bay- Brevard (05)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 4.0,
+        "containment_percent": 0,
+        "county": "Brevard",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-09-05T20:50:44",
+        "status_updated_time": "2026-09-05T21:16:42",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.87017059326172,
           30.301847457885742
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-04T21:18:00",
         "status_updated_time": "2026-09-04T22:08:01",
         "is_obscured": false
