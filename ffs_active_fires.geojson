@@ -6,36 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.0111083984375,
-          27.637500762939453
-        ]
-      },
-      "properties": {
-        "id": "cb05d55c-dc5c-4957-afd0-f7a27ec9ec3a",
-        "incident_number": "261400501",
-        "incident_code": "2026-FLFLS-261400501",
-        "name": "FORT GREEN  (53)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 100.0,
-        "containment_percent": 50,
-        "county": "Hardee",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
-        "discovery_time": "2026-09-04T23:52:07",
-        "status_updated_time": "2026-09-05T02:14:27",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.87245178222656,
-          30.297657012939453
+          -82.87017059326172,
+          30.301847457885742
         ]
       },
       "properties": {
@@ -45,13 +17,13 @@
         "name": "HOGAN RD (61)",
         "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.1,
         "containment_percent": 100,
         "county": "Suwannee",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-09-04T21:18:00",
         "status_updated_time": "2026-09-04T22:08:01",
         "is_obscured": false
@@ -219,7 +191,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
