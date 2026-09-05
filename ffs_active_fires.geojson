@@ -118,34 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.49972534179688,
-          26.325834274291992
-        ]
-      },
-      "properties": {
-        "id": "d8161475-2055-477a-b5c0-caa69fa32f17",
-        "incident_number": "261800147",
-        "incident_code": "2026-FLFLS-261800147",
-        "name": "S7 (06)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 884.0,
-        "containment_percent": 100,
-        "county": "Broward",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-03T21:02:25",
-        "status_updated_time": "2026-09-04T16:27:39",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.04263305664062,
           30.56214714050293
         ]

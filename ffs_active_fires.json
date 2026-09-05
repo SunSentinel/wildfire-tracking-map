@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:44:39.997514Z",
+  "updated_at": "2026-09-05T12:16:40.396197Z",
   "incidents": [
     {
       "id": "cb05d55c-dc5c-4957-afd0-f7a27ec9ec3a",
@@ -79,26 +79,6 @@
       "status_updated_time": "2026-09-04T02:34:23",
       "latitude": 28.678333282470703,
       "longitude": -82.27166748046875,
-      "is_obscured": false
-    },
-    {
-      "id": "d8161475-2055-477a-b5c0-caa69fa32f17",
-      "incident_number": "261800147",
-      "incident_code": "2026-FLFLS-261800147",
-      "name": "S7 (06)",
-      "status": "Controlled",
-      "category": "Wildfire",
-      "acres": 884.0,
-      "containment_percent": 100,
-      "county": "Broward",
-      "field_unit": "Everglades",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-03T21:02:25",
-      "status_updated_time": "2026-09-04T16:27:39",
-      "latitude": 26.325834274291992,
-      "longitude": -80.49972534179688,
       "is_obscured": false
     },
     {
