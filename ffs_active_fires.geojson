@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.47820281982422,
+          26.090900421142578
+        ]
+      },
+      "properties": {
+        "id": "f35efe70-793c-4184-9463-a2cc20452951",
+        "incident_number": "261700225",
+        "incident_code": "2026-FLFLS-261700225",
+        "name": "Collier",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Collier",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 5,
+        "discovery_time": "2026-09-06T19:48:14",
+        "status_updated_time": "2026-09-06T19:48:14",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.58779907226562,
           26.12649917602539
         ]
@@ -17,8 +45,8 @@
         "name": "MM-32 (06)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 1.0,
-        "containment_percent": 0,
+        "acres": 2.0,
+        "containment_percent": 80,
         "county": "Broward",
         "field_unit": "Everglades",
         "region": "Region 4",
