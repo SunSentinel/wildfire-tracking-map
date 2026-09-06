@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.58779907226562,
+          26.12649917602539
+        ]
+      },
+      "properties": {
+        "id": "59d1ad6e-7869-49f1-84f2-76c8d2c03cd9",
+        "incident_number": "261800149",
+        "incident_code": "2026-FLFLS-261800149",
+        "name": "MM-32 (06)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 1.0,
+        "containment_percent": 0,
+        "county": "Broward",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-09-06T15:32:00",
+        "status_updated_time": "2026-09-06T16:08:48",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.5838851928711,
           27.90277862548828
         ]
@@ -54,34 +82,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-09-04T21:18:00",
         "status_updated_time": "2026-09-04T22:08:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.27166748046875,
-          28.678333282470703
-        ]
-      },
-      "properties": {
-        "id": "f0b8f2b0-a43c-4163-a796-99ff270289e5",
-        "incident_number": "261100636",
-        "incident_code": "2026-FLFLS-261100636",
-        "name": "HOPE COURT(09)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-09-04T01:48:31",
-        "status_updated_time": "2026-09-04T02:34:23",
         "is_obscured": false
       }
     },
