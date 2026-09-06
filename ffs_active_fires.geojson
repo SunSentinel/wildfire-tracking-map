@@ -6,8 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.47820281982422,
-          26.090900421142578
+          -81.60292053222656,
+          28.928537368774414
+        ]
+      },
+      "properties": {
+        "id": "e204547c-e746-4162-831c-6c5c46dc6ecc",
+        "incident_number": "261100638",
+        "incident_code": "2026-FLFLS-261100638",
+        "name": "21321 Wiygul Road- Lake (35)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lake",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-09-06T22:32:08",
+        "status_updated_time": "2026-09-06T22:32:08",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.61136627197266,
+          27.093856811523438
+        ]
+      },
+      "properties": {
+        "id": "79df00af-772c-47a9-98bd-10245623c093",
+        "incident_number": "261600742",
+        "incident_code": "2026-FLFLS-261600742",
+        "name": "26110 Southwest 86th Street- Martin (43)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Martin",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-09-06T22:31:44",
+        "status_updated_time": "2026-09-06T22:31:44",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.789306640625,
+          27.64637565612793
+        ]
+      },
+      "properties": {
+        "id": "b7fd0733-b0c2-43d0-abcc-e9b5415fd493",
+        "incident_number": "261400503",
+        "incident_code": "2026-FLFLS-261400503",
+        "name": "1607 West County Line Road- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 4,
+        "discovery_time": "2026-09-06T21:50:23",
+        "status_updated_time": "2026-09-06T21:50:23",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4655532836914,
+          26.091110229492188
         ]
       },
       "properties": {
@@ -15,17 +99,17 @@
         "incident_number": "261700225",
         "incident_code": "2026-FLFLS-261700225",
         "name": "Collier",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 2.0,
+        "containment_percent": 50,
         "county": "Collier",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 5,
         "discovery_time": "2026-09-06T19:48:14",
-        "status_updated_time": "2026-09-06T19:48:14",
+        "status_updated_time": "2026-09-06T21:22:43",
         "is_obscured": false
       }
     },
@@ -51,7 +135,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-06T15:32:00",
         "status_updated_time": "2026-09-06T16:08:48",
         "is_obscured": false
