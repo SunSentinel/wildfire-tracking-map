@@ -23,7 +23,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-09-05T20:50:44",
         "status_updated_time": "2026-09-06T00:59:14",
         "is_obscured": false
@@ -62,34 +62,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.60275268554688,
-          25.837596893310547
-        ]
-      },
-      "properties": {
-        "id": "e09ae373-dcb7-4494-860c-0e7cf73f9473",
-        "incident_number": "261800148",
-        "incident_code": "2026-FLFLS-261800148",
-        "name": "178 (13)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 200.0,
-        "containment_percent": 50,
-        "county": "Miami-Dade",
-        "field_unit": "Everglades",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-04T20:00:00",
-        "status_updated_time": "2026-09-04T20:35:37",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.27166748046875,
           28.678333282470703
         ]
@@ -107,7 +79,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-09-04T01:48:31",
         "status_updated_time": "2026-09-04T02:34:23",
         "is_obscured": false
