@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:12:09.123416Z",
+  "updated_at": "2026-09-06T19:21:30.517599Z",
   "incidents": [
     {
       "id": "59d1ad6e-7869-49f1-84f2-76c8d2c03cd9",
@@ -34,7 +34,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-05T20:50:44",
       "status_updated_time": "2026-09-06T00:59:14",
       "latitude": 27.90277862548828,
