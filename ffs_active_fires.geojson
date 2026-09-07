@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.95240783691406,
-          27.688127517700195
+          -81.95861053466797,
+          27.672500610351562
         ]
       },
       "properties": {
         "id": "1ec1f392-bde1-4180-be4c-c9b187076630",
         "incident_number": "261400505",
         "incident_code": "2026-FLFLS-261400505",
-        "name": "Fort Green- Polk (53)",
+        "name": "Fort Green (53)",
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
@@ -146,34 +146,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.87017059326172,
-          30.301847457885742
-        ]
-      },
-      "properties": {
-        "id": "c642eb11-b6e9-44c3-8034-ea583899c387",
-        "incident_number": "260601004",
-        "incident_code": "2026-FLFLS-260601004",
-        "name": "HOGAN RD (61)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Suwannee",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-04T21:18:00",
-        "status_updated_time": "2026-09-04T22:08:01",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.80305480957031,
           28.34083366394043
         ]
@@ -242,12 +214,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 170.0,
-        "containment_percent": 85,
+        "containment_percent": 90,
         "county": "Hamilton",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
