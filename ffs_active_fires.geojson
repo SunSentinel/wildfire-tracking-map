@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.95240783691406,
+          27.688127517700195
+        ]
+      },
+      "properties": {
+        "id": "1ec1f392-bde1-4180-be4c-c9b187076630",
+        "incident_number": "261400505",
+        "incident_code": "2026-FLFLS-261400505",
+        "name": "Fort Green- Polk (53)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 8,
+        "discovery_time": "2026-09-07T16:48:28",
+        "status_updated_time": "2026-09-07T16:48:28",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.61444091796875,
           27.092777252197266
         ]
@@ -54,34 +82,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-09-06T21:50:23",
         "status_updated_time": "2026-09-07T00:09:58",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4655532836914,
-          26.091110229492188
-        ]
-      },
-      "properties": {
-        "id": "f35efe70-793c-4184-9463-a2cc20452951",
-        "incident_number": "261700225",
-        "incident_code": "2026-FLFLS-261700225",
-        "name": "80th Ave SE (11)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 90,
-        "county": "Collier",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-06T19:48:14",
-        "status_updated_time": "2026-09-06T21:22:43",
         "is_obscured": false
       }
     },
@@ -247,7 +247,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-07-14T17:59:00",
         "status_updated_time": "2026-07-14T18:57:01",
         "is_obscured": false
