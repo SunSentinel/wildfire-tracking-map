@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.94805908203125,
-          27.664167404174805
-        ]
-      },
-      "properties": {
-        "id": "06ced7f1-0a50-45a5-bddc-2397b7dd6480",
-        "incident_number": "261400507",
-        "incident_code": "2026-FLFLS-261400507",
-        "name": "STREAMSONG (53)~",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 300.0,
-        "containment_percent": 75,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-09-07T22:07:40",
-        "status_updated_time": "2026-09-07T23:31:59",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.95861053466797,
           27.672500610351562
         ]
@@ -46,12 +18,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 131.0,
-        "containment_percent": 0,
+        "containment_percent": 95,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-09-07T16:48:28",
         "status_updated_time": "2026-09-07T21:43:20",
         "is_obscured": false
