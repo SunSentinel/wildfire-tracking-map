@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:47:33.492682Z",
+  "updated_at": "2026-09-08T22:16:39.794877Z",
   "incidents": [
     {
       "id": "1ec1f392-bde1-4180-be4c-c9b187076630",
@@ -14,7 +14,7 @@
       "field_unit": "Lakeland",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-07T16:48:28",
       "status_updated_time": "2026-09-07T21:43:20",
       "latitude": 27.672500610351562,
