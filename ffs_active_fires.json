@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T00:24:19.694613Z",
+  "updated_at": "2026-09-09T04:57:00.681170Z",
   "incidents": [
     {
       "id": "5831ba4f-300e-4395-939c-c066d994050c",
@@ -14,7 +14,7 @@
       "field_unit": "Everglades",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-08T22:35:13",
       "status_updated_time": "2026-09-08T23:32:06",
       "latitude": 26.175556182861328,
