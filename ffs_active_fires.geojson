@@ -34,34 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.61444091796875,
-          27.092777252197266
-        ]
-      },
-      "properties": {
-        "id": "79df00af-772c-47a9-98bd-10245623c093",
-        "incident_number": "261600742",
-        "incident_code": "2026-FLFLS-261600742",
-        "name": "86th Street (43)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Martin",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
-        "discovery_time": "2026-09-06T22:31:44",
-        "status_updated_time": "2026-09-07T00:14:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.58779907226562,
           26.12649917602539
         ]
@@ -82,34 +54,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-09-06T15:32:00",
         "status_updated_time": "2026-09-06T16:08:48",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5838851928711,
-          27.90277862548828
-        ]
-      },
-      "properties": {
-        "id": "98d2a6e8-90d3-47e4-ba72-3c4d19ae6548",
-        "incident_number": "261200584",
-        "incident_code": "2026-FLFLS-261200584",
-        "name": "EAST PARKWAY (05)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 10.0,
-        "containment_percent": 100,
-        "county": "Brevard",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-05T20:50:44",
-        "status_updated_time": "2026-09-06T00:59:14",
         "is_obscured": false
       }
     },

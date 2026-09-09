@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:28:22.889665Z",
+  "updated_at": "2026-09-09T19:57:50.424625Z",
   "incidents": [
     {
       "id": "1ec1f392-bde1-4180-be4c-c9b187076630",
@@ -22,26 +22,6 @@
       "is_obscured": false
     },
     {
-      "id": "79df00af-772c-47a9-98bd-10245623c093",
-      "incident_number": "261600742",
-      "incident_code": "2026-FLFLS-261600742",
-      "name": "86th Street (43)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 0.5,
-      "containment_percent": 100,
-      "county": "Martin",
-      "field_unit": "Okeechobee",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 4,
-      "discovery_time": "2026-09-06T22:31:44",
-      "status_updated_time": "2026-09-07T00:14:00",
-      "latitude": 27.092777252197266,
-      "longitude": -80.61444091796875,
-      "is_obscured": false
-    },
-    {
       "id": "59d1ad6e-7869-49f1-84f2-76c8d2c03cd9",
       "incident_number": "261800149",
       "incident_code": "2026-FLFLS-261800149",
@@ -59,26 +39,6 @@
       "status_updated_time": "2026-09-06T16:08:48",
       "latitude": 26.12649917602539,
       "longitude": -80.58779907226562,
-      "is_obscured": false
-    },
-    {
-      "id": "98d2a6e8-90d3-47e4-ba72-3c4d19ae6548",
-      "incident_number": "261200584",
-      "incident_code": "2026-FLFLS-261200584",
-      "name": "EAST PARKWAY (05)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 10.0,
-      "containment_percent": 100,
-      "county": "Brevard",
-      "field_unit": "Orlando",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-05T20:50:44",
-      "status_updated_time": "2026-09-06T00:59:14",
-      "latitude": 27.90277862548828,
-      "longitude": -80.5838851928711,
       "is_obscured": false
     },
     {
