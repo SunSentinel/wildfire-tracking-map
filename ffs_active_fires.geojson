@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.23444366455078,
+          26.908485412597656
+        ]
+      },
+      "properties": {
+        "id": "8b7ae5b1-0d3b-452e-b170-fd95ba684de9",
+        "incident_number": "261500571",
+        "incident_code": "2026-FLFLS-261500571",
+        "name": "Ingram Boulevard (08)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.1,
+        "containment_percent": 0,
+        "county": "Charlotte",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-09T21:14:21",
+        "status_updated_time": "2026-09-09T21:18:02",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.95861053466797,
           27.672500610351562
         ]
