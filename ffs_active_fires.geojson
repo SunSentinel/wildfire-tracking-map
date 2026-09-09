@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.71805572509766,
+          26.175556182861328
+        ]
+      },
+      "properties": {
+        "id": "5831ba4f-300e-4395-939c-c066d994050c",
+        "incident_number": "261800150",
+        "incident_code": "2026-FLFLS-261800150",
+        "name": "THE 41",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 40.0,
+        "containment_percent": 0,
+        "county": "Broward",
+        "field_unit": "Everglades",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 2,
+        "discovery_time": "2026-09-08T22:35:13",
+        "status_updated_time": "2026-09-08T23:32:06",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.95861053466797,
           27.672500610351562
         ]
