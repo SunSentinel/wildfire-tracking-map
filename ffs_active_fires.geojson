@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.58780670166016,
-          30.09423828125
-        ]
-      },
-      "properties": {
-        "id": "91f1480e-9836-4cc6-9149-045c917086ab",
-        "incident_number": "260601013",
-        "incident_code": "2026-FLFLS-260601013",
-        "name": "OSI ANDY MANGRUM (12)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Columbia",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-10T14:50:00",
-        "status_updated_time": "2026-09-10T14:50:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.72823333740234,
           26.24842071533203
         ]
@@ -135,7 +107,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
