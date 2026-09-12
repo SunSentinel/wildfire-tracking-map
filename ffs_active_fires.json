@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-09-12T19:31:54.793043Z",
+  "updated_at": "2026-09-12T21:53:15.222760Z",
   "incidents": [
-    {
-      "id": "ec4afbdb-a167-4b49-857f-b963a69a9fdd",
-      "incident_number": "261200590",
-      "incident_code": "2026-FLFLS-261200590",
-      "name": "Mud Lake- Volusia (64)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Volusia",
-      "field_unit": "Orlando",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-12T19:24:28",
-      "status_updated_time": "2026-09-12T19:24:28",
-      "latitude": 29.10700035095215,
-      "longitude": -81.35489654541016,
-      "is_obscured": false
-    },
     {
       "id": "1ec1f392-bde1-4180-be4c-c9b187076630",
       "incident_number": "261400505",
