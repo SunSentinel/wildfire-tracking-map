@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.35489654541016,
+          29.10700035095215
+        ]
+      },
+      "properties": {
+        "id": "ec4afbdb-a167-4b49-857f-b963a69a9fdd",
+        "incident_number": "261200590",
+        "incident_code": "2026-FLFLS-261200590",
+        "name": "Mud Lake- Volusia (64)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-12T19:24:28",
+        "status_updated_time": "2026-09-12T19:24:28",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.95861053466797,
           27.672500610351562
         ]
