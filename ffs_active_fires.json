@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-09-11T23:25:05.565021Z",
+  "updated_at": "2026-09-12T01:19:23.365942Z",
   "incidents": [
-    {
-      "id": "e13b6c7c-39e8-4ee6-a8f3-c3c71b83767a",
-      "incident_number": "261800152",
-      "incident_code": "2026-FLFLS-261800152",
-      "name": "THE 42",
-      "status": "Controlled",
-      "category": "Wildfire",
-      "acres": 25.0,
-      "containment_percent": 100,
-      "county": "Broward",
-      "field_unit": "Everglades",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-09T23:33:18",
-      "status_updated_time": "2026-09-10T15:32:44",
-      "latitude": 26.24842071533203,
-      "longitude": -80.72823333740234,
-      "is_obscured": false
-    },
     {
       "id": "1ec1f392-bde1-4180-be4c-c9b187076630",
       "incident_number": "261400505",
