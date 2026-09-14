@@ -34,6 +34,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.71666717529297,
+          27.74250030517578
+        ]
+      },
+      "properties": {
+        "id": "c936958f-ccfe-436f-8c96-da9ffff3003d",
+        "incident_number": "261600755",
+        "incident_code": "2026-FLFLS-261600755",
+        "name": "Blue Lake (31)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 90,
+        "county": "Indian River",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-09-13T14:00:00",
+        "status_updated_time": "2026-09-14T14:48:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.95861053466797,
           27.672500610351562
         ]
