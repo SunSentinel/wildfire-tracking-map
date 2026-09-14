@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-14T20:42:34.950252Z",
+  "updated_at": "2026-09-14T23:39:09.786583Z",
   "incidents": [
+    {
+      "id": "3f735905-b464-44b5-89d8-d6fea8a8e4fa",
+      "incident_number": "260700636",
+      "incident_code": "2026-FLFLS-260700636",
+      "name": "04-45 Kolobize (Franklin Rd) OSI",
+      "status": "Reported",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Nassau",
+      "field_unit": "Jacksonville",
+      "region": "Region 2",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-09-14T22:09:11",
+      "status_updated_time": "2026-09-14T22:09:11",
+      "latitude": 30.734132766723633,
+      "longitude": -81.96305847167969,
+      "is_obscured": false
+    },
     {
       "id": "eb66cab5-23c9-4717-ab8d-96cd72174471",
       "incident_number": "261200594",
@@ -14,7 +34,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-14T18:08:57",
       "status_updated_time": "2026-09-14T18:46:39",
       "latitude": 29.162221908569336,
