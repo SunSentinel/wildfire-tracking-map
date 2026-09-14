@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.2165756225586,
-          30.279293060302734
+          -81.45333099365234,
+          29.162221908569336
         ]
       },
       "properties": {
-        "id": "f40656fc-d108-441c-8d6d-ffdfe36e0a3c",
-        "incident_number": "260601015",
-        "incident_code": "2026-FLFLS-260601015",
-        "name": "ILLEGAL BURN/CR 136 (61)",
-        "status": "Reported",
+        "id": "eb66cab5-23c9-4717-ab8d-96cd72174471",
+        "incident_number": "261200594",
+        "incident_code": "2026-FLFLS-261200594",
+        "name": "Road #22 (64)",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Suwannee",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
+        "county": "Volusia",
+        "field_unit": "Orlando",
+        "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-14T00:05:00",
-        "status_updated_time": "2026-09-14T00:05:00",
+        "resources_assigned": 5,
+        "discovery_time": "2026-09-14T18:08:57",
+        "status_updated_time": "2026-09-14T18:46:39",
         "is_obscured": false
       }
     },
@@ -45,13 +45,13 @@
         "name": "Blue Lake (31)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 225.0,
         "containment_percent": 90,
         "county": "Indian River",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-13T14:00:00",
         "status_updated_time": "2026-09-14T14:48:00",
         "is_obscured": false
