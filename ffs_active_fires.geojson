@@ -18,7 +18,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 12.0,
-        "containment_percent": 0,
+        "containment_percent": 75,
         "county": "Volusia",
         "field_unit": "Orlando",
         "region": "Region 3",
@@ -51,37 +51,9 @@
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-09-13T14:00:00",
         "status_updated_time": "2026-09-14T14:48:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.95861053466797,
-          27.672500610351562
-        ]
-      },
-      "properties": {
-        "id": "1ec1f392-bde1-4180-be4c-c9b187076630",
-        "incident_number": "261400505",
-        "incident_code": "2026-FLFLS-261400505",
-        "name": "FORT GREEN (53)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 131.0,
-        "containment_percent": 95,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-07T16:48:28",
-        "status_updated_time": "2026-09-07T21:43:20",
         "is_obscured": false
       }
     },
