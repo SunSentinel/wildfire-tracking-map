@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:44:23.579565Z",
+  "updated_at": "2026-09-15T17:52:57.110371Z",
   "incidents": [
     {
       "id": "eb66cab5-23c9-4717-ab8d-96cd72174471",
@@ -14,7 +14,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-09-14T18:08:57",
       "status_updated_time": "2026-09-14T18:46:39",
       "latitude": 29.162221908569336,
@@ -28,13 +28,13 @@
       "name": "Blue Lake (31)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 225.0,
+      "acres": 932.02,
       "containment_percent": 90,
       "county": "Indian River",
       "field_unit": "Okeechobee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-13T14:00:00",
       "status_updated_time": "2026-09-14T14:48:00",
       "latitude": 27.74250030517578,
