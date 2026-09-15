@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.11190795898438,
+          29.877408981323242
+        ]
+      },
+      "properties": {
+        "id": "130cf47c-c0d7-4136-9413-90ad46ab14a6",
+        "incident_number": "260601019",
+        "incident_code": "2026-FLFLS-260601019",
+        "name": "SE 109TH ST (04)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 2.0,
+        "containment_percent": 90,
+        "county": "Bradford",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-15T20:44:00",
+        "status_updated_time": "2026-09-15T20:45:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.45333099365234,
           29.162221908569336
         ]
