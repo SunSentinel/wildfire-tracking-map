@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.9638900756836,
+          29.572221755981445
+        ]
+      },
+      "properties": {
+        "id": "ea27b72b-444f-4de7-b0e1-d1a382b88505",
+        "incident_number": "260800794",
+        "incident_code": "2026-FLFLS-260800794",
+        "name": "NEAL RD (54)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.1,
+        "containment_percent": 95,
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-16T19:59:00",
+        "status_updated_time": "2026-09-16T20:29:00.001",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.11190795898438,
           29.877408981323242
         ]
@@ -107,7 +135,7 @@
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
         "is_obscured": false
