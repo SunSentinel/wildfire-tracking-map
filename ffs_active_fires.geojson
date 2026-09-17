@@ -34,34 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.9638900756836,
-          29.572221755981445
-        ]
-      },
-      "properties": {
-        "id": "ea27b72b-444f-4de7-b0e1-d1a382b88505",
-        "incident_number": "260800794",
-        "incident_code": "2026-FLFLS-260800794",
-        "name": "NEAL RD (54)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 95,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-16T19:59:00",
-        "status_updated_time": "2026-09-16T20:29:00.001",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.11190795898438,
           29.877408981323242
         ]
@@ -110,34 +82,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-09-14T18:08:57",
         "status_updated_time": "2026-09-15T18:34:03",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.71666717529297,
-          27.74250030517578
-        ]
-      },
-      "properties": {
-        "id": "c936958f-ccfe-436f-8c96-da9ffff3003d",
-        "incident_number": "261600755",
-        "incident_code": "2026-FLFLS-261600755",
-        "name": "Blue Lake (31)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 932.02,
-        "containment_percent": 95,
-        "county": "Indian River",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-13T14:00:00",
-        "status_updated_time": "2026-09-14T14:48:00",
         "is_obscured": false
       }
     },

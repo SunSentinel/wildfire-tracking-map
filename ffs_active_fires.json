@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T12:40:29.757490Z",
+  "updated_at": "2026-09-17T17:24:40.623085Z",
   "incidents": [
     {
       "id": "ae163fef-a59c-496d-b587-04e3df2d759a",
@@ -19,26 +19,6 @@
       "status_updated_time": "2026-09-17T01:18:00",
       "latitude": 30.2005558013916,
       "longitude": -83.64861297607422,
-      "is_obscured": false
-    },
-    {
-      "id": "ea27b72b-444f-4de7-b0e1-d1a382b88505",
-      "incident_number": "260800794",
-      "incident_code": "2026-FLFLS-260800794",
-      "name": "NEAL RD (54)",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 0.1,
-      "containment_percent": 95,
-      "county": "Putnam",
-      "field_unit": "Waccasassa",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-16T19:59:00",
-      "status_updated_time": "2026-09-16T20:29:00.001",
-      "latitude": 29.572221755981445,
-      "longitude": -81.9638900756836,
       "is_obscured": false
     },
     {
@@ -79,26 +59,6 @@
       "status_updated_time": "2026-09-15T18:34:03",
       "latitude": 29.162221908569336,
       "longitude": -81.45333099365234,
-      "is_obscured": false
-    },
-    {
-      "id": "c936958f-ccfe-436f-8c96-da9ffff3003d",
-      "incident_number": "261600755",
-      "incident_code": "2026-FLFLS-261600755",
-      "name": "Blue Lake (31)",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 932.02,
-      "containment_percent": 95,
-      "county": "Indian River",
-      "field_unit": "Okeechobee",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-13T14:00:00",
-      "status_updated_time": "2026-09-14T14:48:00",
-      "latitude": 27.74250030517578,
-      "longitude": -80.71666717529297,
       "is_obscured": false
     },
     {
