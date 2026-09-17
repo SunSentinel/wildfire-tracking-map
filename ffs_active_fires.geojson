@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.51419830322266,
+          30.85141944885254
+        ]
+      },
+      "properties": {
+        "id": "86393dbd-4fb7-42f8-ba44-c3d70e5185b1",
+        "incident_number": "260100439",
+        "incident_code": "2026-FLFLS-260100439",
+        "name": "97A (17)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Escambia",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-09-17T19:25:01",
+        "status_updated_time": "2026-09-17T19:25:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77104187011719,
+          30.1955509185791
+        ]
+      },
+      "properties": {
+        "id": "e291c288-406d-4bac-9e3b-e3b45f355516",
+        "incident_number": "260200559",
+        "incident_code": "2026-FLFLS-260200559",
+        "name": "44 Chip Seal Parkway (03)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.1,
+        "containment_percent": 0,
+        "county": "Bay",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-09-17T19:04:39",
+        "status_updated_time": "2026-09-17T19:50:17",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.64861297607422,
           30.2005558013916
         ]
