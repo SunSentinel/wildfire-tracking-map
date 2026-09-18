@@ -23,7 +23,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 13,
         "discovery_time": "2026-09-17T23:24:00",
         "status_updated_time": "2026-09-17T23:25:00",
         "is_obscured": false
@@ -43,7 +43,7 @@
         "incident_number": "260100439",
         "incident_code": "2026-FLFLS-260100439",
         "name": "97A (17)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.5,
         "containment_percent": 100,
@@ -51,9 +51,9 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-09-17T19:25:01",
-        "status_updated_time": "2026-09-17T19:28:56",
+        "status_updated_time": "2026-09-17T21:35:08",
         "is_obscured": false
       }
     },
