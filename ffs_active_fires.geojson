@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.65354919433594,
+          26.538400650024414
+        ]
+      },
+      "properties": {
+        "id": "0226ffca-bf8a-437b-9fd1-a707cf6a101f",
+        "incident_number": "261700233",
+        "incident_code": "2026-FLFLS-261700233",
+        "name": "Lehigh Acres- Lee (36)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lee",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-18T22:59:15",
+        "status_updated_time": "2026-09-18T22:59:15",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27996063232422,
+          27.10063934326172
+        ]
+      },
+      "properties": {
+        "id": "5e3ebb1d-33a6-4595-89da-50ad5b070063",
+        "incident_number": "261500578",
+        "incident_code": "2026-FLFLS-261500578",
+        "name": "MM187 NB- Sarasota (58)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Sarasota",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-09-18T21:40:44",
+        "status_updated_time": "2026-09-18T21:40:44",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.92472076416016,
           28.75027847290039
         ]
