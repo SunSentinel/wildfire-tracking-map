@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.31002807617188,
+          28.899456024169922
+        ]
+      },
+      "properties": {
+        "id": "1e5cc552-8969-40eb-94d3-29acdc7a9b8a",
+        "incident_number": "261100650",
+        "incident_code": "2026-FLFLS-261100650",
+        "name": "7450 East Cabin Lane- Citrus (09)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 12.0,
+        "containment_percent": 0,
+        "county": "Citrus",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 7,
+        "discovery_time": "2026-09-17T23:24:00",
+        "status_updated_time": "2026-09-17T23:25:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.51419830322266,
           30.85141944885254
         ]
