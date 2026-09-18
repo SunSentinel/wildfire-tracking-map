@@ -6,19 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.31002807617188,
-          28.899456024169922
+          -82.31083679199219,
+          28.899166107177734
         ]
       },
       "properties": {
         "id": "1e5cc552-8969-40eb-94d3-29acdc7a9b8a",
         "incident_number": "261100650",
         "incident_code": "2026-FLFLS-261100650",
-        "name": "7450 East Cabin Lane- Citrus (09)",
+        "name": "EAST CABIN LANE (09)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 12.0,
-        "containment_percent": 0,
+        "acres": 92.0,
+        "containment_percent": 30,
         "county": "Citrus",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
