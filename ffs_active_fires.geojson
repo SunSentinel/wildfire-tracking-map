@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.92611694335938,
-          28.750410079956055
+          -81.92472076416016,
+          28.75027847290039
         ]
       },
       "properties": {
@@ -15,17 +15,17 @@
         "incident_number": "261100651",
         "incident_code": "2026-FLFLS-261100651",
         "name": "CONSTRUCTION (35)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 0,
+        "acres": 2.0,
+        "containment_percent": 100,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-18T17:23:37",
-        "status_updated_time": "2026-09-18T17:25:42",
+        "status_updated_time": "2026-09-18T18:41:31",
         "is_obscured": false
       }
     },
@@ -45,13 +45,13 @@
         "name": "EAST CABIN LANE (09)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 92.0,
-        "containment_percent": 30,
+        "acres": 99.0,
+        "containment_percent": 99,
         "county": "Citrus",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 9,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-17T23:24:00",
         "status_updated_time": "2026-09-17T23:25:00",
         "is_obscured": false
