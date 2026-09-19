@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.56782531738281,
-          26.496355056762695
-        ]
-      },
-      "properties": {
-        "id": "798d1427-b9f8-42ad-9c01-984ba27f48cc",
-        "incident_number": "261700234",
-        "incident_code": "2026-FLFLS-261700234",
-        "name": "Tina's Lane (36)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Lee",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-09-19T15:41:00",
-        "status_updated_time": "2026-09-19T16:35:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.92472076416016,
           28.75027847290039
         ]
@@ -191,7 +163,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-14T18:08:57",
         "status_updated_time": "2026-09-15T18:34:03",
         "is_obscured": false
