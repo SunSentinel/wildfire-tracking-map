@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.65354919433594,
-          26.538400650024414
-        ]
-      },
-      "properties": {
-        "id": "0226ffca-bf8a-437b-9fd1-a707cf6a101f",
-        "incident_number": "261700233",
-        "incident_code": "2026-FLFLS-261700233",
-        "name": "Cancelled (36) 0233",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Lee",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-18T22:59:15",
-        "status_updated_time": "2026-09-18T22:59:15",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.30247497558594,
           27.10936164855957
         ]
@@ -43,7 +15,7 @@
         "incident_number": "261500578",
         "incident_code": "2026-FLFLS-261500578",
         "name": "MM187 NB- Sarasota (58)",
-        "status": "Reported",
+        "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
@@ -53,7 +25,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-09-18T21:40:44",
-        "status_updated_time": "2026-09-18T21:40:44",
+        "status_updated_time": "2026-09-18T23:15:00",
         "is_obscured": false
       }
     },
@@ -99,17 +71,17 @@
         "incident_number": "261100650",
         "incident_code": "2026-FLFLS-261100650",
         "name": "EAST CABIN LANE (09)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 99.0,
-        "containment_percent": 99,
+        "containment_percent": 100,
         "county": "Citrus",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-09-17T23:24:00",
-        "status_updated_time": "2026-09-17T23:25:00",
+        "status_updated_time": "2026-09-19T14:32:00",
         "is_obscured": false
       }
     },
@@ -135,7 +107,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-09-17T19:25:01",
         "status_updated_time": "2026-09-17T21:35:08",
         "is_obscured": false
