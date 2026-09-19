@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.30247497558594,
-          27.10936164855957
+          -81.56782531738281,
+          26.496355056762695
         ]
       },
       "properties": {
-        "id": "5e3ebb1d-33a6-4595-89da-50ad5b070063",
-        "incident_number": "261500578",
-        "incident_code": "2026-FLFLS-261500578",
-        "name": "MM187 NB- Sarasota (58)",
+        "id": "798d1427-b9f8-42ad-9c01-984ba27f48cc",
+        "incident_number": "261700234",
+        "incident_code": "2026-FLFLS-261700234",
+        "name": "Tina's Lane (36)",
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Sarasota",
-        "field_unit": "Myakka River",
+        "county": "Lee",
+        "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
-        "discovery_time": "2026-09-18T21:40:44",
-        "status_updated_time": "2026-09-18T23:15:00",
+        "discovery_time": "2026-09-19T15:41:00",
+        "status_updated_time": "2026-09-19T16:35:00",
         "is_obscured": false
       }
     },
@@ -191,7 +191,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-09-14T18:08:57",
         "status_updated_time": "2026-09-15T18:34:03",
         "is_obscured": false
