@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.37694549560547,
-          27.327913284301758
+          -81.37555694580078,
+          27.32638931274414
         ]
       },
       "properties": {
         "id": "45291b9f-e0f3-4961-a376-28a583e2d7bc",
         "incident_number": "261600773",
         "incident_code": "2026-FLFLS-261600773",
-        "name": "Henry (28)",
-        "status": "Reported",
+        "name": "Solar (28)",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Highlands",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-19T21:29:00",
-        "status_updated_time": "2026-09-19T21:29:00",
+        "status_updated_time": "2026-09-19T22:04:00",
         "is_obscured": false
       }
     },
@@ -107,7 +107,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-17T19:25:01",
         "status_updated_time": "2026-09-17T21:35:08",
         "is_obscured": false
