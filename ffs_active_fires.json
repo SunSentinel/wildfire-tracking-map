@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:13:28.679910Z",
+  "updated_at": "2026-09-20T19:35:56.711831Z",
   "incidents": [
     {
       "id": "5546e93a-71c7-4387-94e6-8cb3e5d3b866",
@@ -94,7 +94,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 4,
       "discovery_time": "2026-09-15T20:44:00",
       "status_updated_time": "2026-09-15T20:45:01",
       "latitude": 29.877408981323242,
@@ -114,7 +114,7 @@
       "field_unit": "Orlando",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-14T18:08:57",
       "status_updated_time": "2026-09-15T18:34:03",
       "latitude": 29.162221908569336,
