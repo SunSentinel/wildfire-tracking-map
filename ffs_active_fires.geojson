@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.19402313232422,
-          30.587642669677734
-        ]
-      },
-      "properties": {
-        "id": "1020ed9f-2945-4b63-9089-2132534f93cd",
-        "incident_number": "260200561",
-        "incident_code": "2026-FLFLS-260200561",
-        "name": "Hasty Pond Road (32)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Jackson",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-21T15:22:52",
-        "status_updated_time": "2026-09-21T15:22:52",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.0353012084961,
           29.17188835144043
         ]
@@ -118,34 +90,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.11190795898438,
-          29.877408981323242
-        ]
-      },
-      "properties": {
-        "id": "130cf47c-c0d7-4136-9413-90ad46ab14a6",
-        "incident_number": "260601019",
-        "incident_code": "2026-FLFLS-260601019",
-        "name": "SE 109TH ST (04)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Bradford",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-15T20:44:00",
-        "status_updated_time": "2026-09-21T15:50:32",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.45333099365234,
           29.162221908569336
         ]
@@ -186,42 +130,14 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 631.0,
-        "containment_percent": 90,
+        "containment_percent": 98,
         "county": "Palm Beach",
         "field_unit": "Everglades",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-08-22T18:39:00",
         "status_updated_time": "2026-08-22T20:00:41",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.85013580322266,
-          30.493410110473633
-        ]
-      },
-      "properties": {
-        "id": "ab222ffb-380e-4e40-9d5d-96b8ab14334f",
-        "incident_number": "260600886",
-        "incident_code": "2026-FLFLS-260600886",
-        "name": "BEE HAVEN BAY (24-06)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 170.0,
-        "containment_percent": 100,
-        "county": "Hamilton",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-07-14T17:59:00",
-        "status_updated_time": "2026-09-21T15:25:00",
         "is_obscured": false
       }
     }
