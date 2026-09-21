@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.19402313232422,
+          30.587642669677734
+        ]
+      },
+      "properties": {
+        "id": "1020ed9f-2945-4b63-9089-2132534f93cd",
+        "incident_number": "260200561",
+        "incident_code": "2026-FLFLS-260200561",
+        "name": "Hasty Pond Road (32)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Jackson",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-21T15:22:52",
+        "status_updated_time": "2026-09-21T15:22:52",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.0353012084961,
           29.17188835144043
         ]
@@ -43,7 +71,7 @@
         "incident_number": "260200560",
         "incident_code": "2026-FLFLS-260200560",
         "name": "SEAY RD (32)",
-        "status": "Contained",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 2.0,
         "containment_percent": 100,
@@ -53,7 +81,7 @@
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-09-20T00:45:51",
-        "status_updated_time": "2026-09-20T15:48:42",
+        "status_updated_time": "2026-09-21T13:34:21",
         "is_obscured": false
       }
     },
@@ -90,62 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.31083679199219,
-          28.899166107177734
-        ]
-      },
-      "properties": {
-        "id": "1e5cc552-8969-40eb-94d3-29acdc7a9b8a",
-        "incident_number": "261100650",
-        "incident_code": "2026-FLFLS-261100650",
-        "name": "EAST CABIN LANE (09)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 99.0,
-        "containment_percent": 100,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-17T23:24:00",
-        "status_updated_time": "2026-09-19T14:32:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.64861297607422,
-          30.2005558013916
-        ]
-      },
-      "properties": {
-        "id": "ae163fef-a59c-496d-b587-04e3df2d759a",
-        "incident_number": "260500277",
-        "incident_code": "2026-FLFLS-260500277",
-        "name": "Pacem Road- Taylor (62)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Taylor",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-16T23:45:00",
-        "status_updated_time": "2026-09-17T01:18:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.11190795898438,
           29.877408981323242
         ]
@@ -155,17 +127,17 @@
         "incident_number": "260601019",
         "incident_code": "2026-FLFLS-260601019",
         "name": "SE 109TH ST (04)",
-        "status": "Active",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 2.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Bradford",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-09-15T20:44:00",
-        "status_updated_time": "2026-09-15T20:45:01",
+        "status_updated_time": "2026-09-21T15:50:32",
         "is_obscured": false
       }
     },
@@ -239,17 +211,17 @@
         "incident_number": "260600886",
         "incident_code": "2026-FLFLS-260600886",
         "name": "BEE HAVEN BAY (24-06)",
-        "status": "Active",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 170.0,
-        "containment_percent": 90,
+        "containment_percent": 100,
         "county": "Hamilton",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-07-14T17:59:00",
-        "status_updated_time": "2026-07-14T18:57:01",
+        "status_updated_time": "2026-09-21T15:25:00",
         "is_obscured": false
       }
     }
