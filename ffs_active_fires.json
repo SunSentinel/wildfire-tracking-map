@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-22T17:52:17.936815Z",
+  "updated_at": "2026-09-22T20:45:10.991114Z",
   "incidents": [
     {
       "id": "7b73f810-3a7e-4e83-ad81-56c44c79f73d",
       "incident_number": "260800805",
       "incident_code": "2026-FLFLS-260800805",
       "name": "OSI PREVATT 1384408 - SW 11TH RD (01)",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
       "containment_percent": 0,
@@ -14,9 +14,9 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-09-22T17:22:00",
-      "status_updated_time": "2026-09-22T17:22:00",
+      "status_updated_time": "2026-09-22T18:16:00",
       "latitude": 29.642227172851562,
       "longitude": -82.48697662353516,
       "is_obscured": false
