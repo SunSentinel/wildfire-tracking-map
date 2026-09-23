@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-22T23:25:11.835577Z",
+  "updated_at": "2026-09-23T01:36:49.539153Z",
   "incidents": [
     {
       "id": "bc7c0ed0-8c19-4633-9796-34acbc4bc0e8",
       "incident_number": "260100443",
       "incident_code": "2026-FLFLS-260100443",
-      "name": "Raughton Rd (57)",
+      "name": "Garcon Point Marsh (57)",
       "status": "Active",
       "category": "Wildfire",
       "acres": 0.0,
-      "containment_percent": 0,
+      "containment_percent": 60,
       "county": "Santa Rosa",
       "field_unit": "Blackwater",
       "region": "Region 1",
