@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.04186248779297,
+          29.736610412597656
+        ]
+      },
+      "properties": {
+        "id": "752275f6-d7ec-4a58-aa4a-8ed745ee6c0e",
+        "incident_number": "260400503",
+        "incident_code": "2026-FLFLS-260400503",
+        "name": "BOX R AREA  (19-T5) 0503",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Franklin",
+        "field_unit": "Tallahassee",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-09-22T23:34:00",
+        "status_updated_time": "2026-09-23T11:46:48.001",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.08293914794922,
           30.46988296508789
         ]
