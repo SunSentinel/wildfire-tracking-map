@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T01:36:49.539153Z",
+  "updated_at": "2026-09-23T07:09:19.564331Z",
   "incidents": [
     {
       "id": "bc7c0ed0-8c19-4633-9796-34acbc4bc0e8",
@@ -8,13 +8,13 @@
       "name": "Garcon Point Marsh (57)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
+      "acres": 75.0,
       "containment_percent": 60,
       "county": "Santa Rosa",
       "field_unit": "Blackwater",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 11,
+      "resources_assigned": 0,
       "discovery_time": "2026-09-22T21:56:00",
       "status_updated_time": "2026-09-22T21:57:29.1284217",
       "latitude": 30.46988296508789,
