@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:34:33.730292Z",
+  "updated_at": "2026-10-01T13:45:49.600412Z",
   "incidents": [
     {
       "id": "26a12abb-3635-4fe6-bd78-349ee01433ff",
@@ -174,7 +174,7 @@
       "field_unit": "Tallahassee",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 6,
       "discovery_time": "2026-09-29T17:39:00",
       "status_updated_time": "2026-09-29T21:39:00",
       "latitude": 30.194141387939453,
