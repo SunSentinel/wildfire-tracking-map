@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.49779510498047,
+          28.803722381591797
+        ]
+      },
+      "properties": {
+        "id": "120c9fd9-cd71-4a09-9628-ac4647dc9d20",
+        "incident_number": "261100680",
+        "incident_code": "2026-FLFLS-261100680",
+        "name": "IB S GATE PT (09)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Citrus",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-10-02T19:13:00",
+        "status_updated_time": "2026-10-02T19:14:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7057876586914,
+          29.611785888671875
+        ]
+      },
+      "properties": {
+        "id": "93c0add0-0208-4193-a7d2-56aef33fd33a",
+        "incident_number": "260800824",
+        "incident_code": "2026-FLFLS-260800824",
+        "name": "91ST TRAIL (21)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 1.0,
+        "containment_percent": 95,
+        "county": "Gilchrist",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-02T16:42:00",
+        "status_updated_time": "2026-10-02T17:22:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.44139099121094,
           28.991111755371094
         ]
@@ -51,7 +107,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-30T19:42:00",
         "status_updated_time": "2026-09-30T20:47:00",
         "is_obscured": false
@@ -275,7 +331,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-09-27T22:25:08",
         "status_updated_time": "2026-09-28T14:27:06",
         "is_obscured": false
@@ -306,34 +362,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-09-27T18:44:45",
         "status_updated_time": "2026-09-27T20:06:43",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.92597961425781,
-          28.750837326049805
-        ]
-      },
-      "properties": {
-        "id": "57d2a7c2-07de-4bf7-9551-62b655c28284",
-        "incident_number": "261100664",
-        "incident_code": "2026-FLFLS-261100664",
-        "name": "CONSTRUCTION 2 (35)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.0,
-        "containment_percent": 100,
-        "county": "Lake",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-27T17:12:06",
-        "status_updated_time": "2026-09-27T19:11:00",
         "is_obscured": false
       }
     },
