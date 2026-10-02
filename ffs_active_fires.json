@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T08:45:59.963645Z",
+  "updated_at": "2026-10-02T15:15:20.614376Z",
   "incidents": [
     {
       "id": "2fd91f10-0689-475e-8da4-53ee2ba4610d",
@@ -34,31 +34,11 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-09-30T19:42:00",
       "status_updated_time": "2026-09-30T20:47:00",
       "latitude": 29.443889617919922,
       "longitude": -81.6419448852539,
-      "is_obscured": false
-    },
-    {
-      "id": "6a998ee2-91ec-467b-9145-14e048367313",
-      "incident_number": "260700661",
-      "incident_code": "2026-FLFLS-260700661",
-      "name": "Deleene Rd (45)",
-      "status": "Controlled",
-      "category": "Wildfire",
-      "acres": 0.25,
-      "containment_percent": 100,
-      "county": "Nassau",
-      "field_unit": "Jacksonville",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-30T17:39:15",
-      "status_updated_time": "2026-10-01T14:37:03",
-      "latitude": 30.578899383544922,
-      "longitude": -81.58039855957031,
       "is_obscured": false
     },
     {
@@ -122,26 +102,6 @@
       "is_obscured": false
     },
     {
-      "id": "47418297-8d31-4417-b0ec-49c0734a2a79",
-      "incident_number": "260601059",
-      "incident_code": "2026-FLFLS-260601059",
-      "name": "NW BRONCO TERR (12)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 1.0,
-      "containment_percent": 100,
-      "county": "Columbia",
-      "field_unit": "Suwannee",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-29T19:51:00",
-      "status_updated_time": "2026-09-29T20:49:00",
-      "latitude": 30.244230270385742,
-      "longitude": -82.70878601074219,
-      "is_obscured": false
-    },
-    {
       "id": "fc3eccc6-0b72-40e9-a62c-a514f7a2f6d4",
       "incident_number": "260400510",
       "incident_code": "2026-FLFLS-260400510",
@@ -202,26 +162,6 @@
       "is_obscured": false
     },
     {
-      "id": "417d5edb-1f8e-416e-a372-45cb5fecefe6",
-      "incident_number": "260200569",
-      "incident_code": "2026-FLFLS-260200569",
-      "name": "TAYLOR RD (32)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 0.25,
-      "containment_percent": 100,
-      "county": "Jackson",
-      "field_unit": "Chipola",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-28T18:04:44",
-      "status_updated_time": "2026-09-28T19:37:59",
-      "latitude": 30.76555633544922,
-      "longitude": -85.40682983398438,
-      "is_obscured": false
-    },
-    {
       "id": "6998f3d2-f005-4b76-af8d-2b5406e0a1d4",
       "incident_number": "260601056",
       "incident_code": "2026-FLFLS-260601056",
@@ -254,7 +194,7 @@
       "field_unit": "Chipola",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-09-27T22:25:08",
       "status_updated_time": "2026-09-28T14:27:06",
       "latitude": 30.930204391479492,
