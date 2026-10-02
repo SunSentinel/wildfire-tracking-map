@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.02061462402344,
-          29.179397583007812
-        ]
-      },
-      "properties": {
-        "id": "8aeecfcf-e033-44aa-ac8b-480bd60490db",
-        "incident_number": "260800823",
-        "incident_code": "2026-FLFLS-260800823",
-        "name": "SW 153RD CT (38)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Levy",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
-        "discovery_time": "2026-10-01T22:14:00",
-        "status_updated_time": "2026-10-01T22:14:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.44139099121094,
           28.991111755371094
         ]
@@ -51,7 +23,7 @@
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-01T18:40:32",
         "status_updated_time": "2026-10-01T20:07:00",
         "is_obscured": false
