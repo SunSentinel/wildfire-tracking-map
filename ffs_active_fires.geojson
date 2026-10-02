@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.49779510498047,
-          28.803722381591797
+          -86.29145812988281,
+          30.395889282226562
         ]
       },
       "properties": {
-        "id": "120c9fd9-cd71-4a09-9628-ac4647dc9d20",
-        "incident_number": "261100680",
-        "incident_code": "2026-FLFLS-261100680",
-        "name": "IB S GATE PT (09)",
-        "status": "Active",
+        "id": "3d8a0c13-b40f-42fa-a02c-d3a864bc2183",
+        "incident_number": "260200577",
+        "incident_code": "2026-FLFLS-260200577",
+        "name": "70 McDowell Street- Walton (66)",
+        "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
         "containment_percent": 0,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
+        "county": "Walton",
+        "field_unit": "Chipola",
+        "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-10-02T19:13:00",
-        "status_updated_time": "2026-10-02T19:14:00",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-02T23:43:20",
+        "status_updated_time": "2026-10-02T23:43:20",
         "is_obscured": false
       }
     },
