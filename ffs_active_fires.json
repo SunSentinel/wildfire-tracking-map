@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-03T18:05:03.817855Z",
+  "updated_at": "2026-10-03T21:36:31.910456Z",
   "incidents": [
-    {
-      "id": "57849c2b-a715-4a56-bf42-60d478319fb3",
-      "incident_number": "260700666",
-      "incident_code": "2026-FLFLS-260700666",
-      "name": "07-18 Dunn (Flagler CR 305) OSI",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Flagler",
-      "field_unit": "Jacksonville",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-10-03T13:30:57",
-      "status_updated_time": "2026-10-03T13:30:57",
-      "latitude": 29.349082946777344,
-      "longitude": -81.35052490234375,
-      "is_obscured": false
-    },
     {
       "id": "93c0add0-0208-4193-a7d2-56aef33fd33a",
       "incident_number": "260800824",
