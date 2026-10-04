@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:40:42.705171Z",
+  "updated_at": "2026-10-04T17:14:01.870846Z",
   "incidents": [
     {
       "id": "93c0add0-0208-4193-a7d2-56aef33fd33a",
@@ -199,26 +199,6 @@
       "status_updated_time": "2026-09-29T04:01:00",
       "latitude": 30.558074951171875,
       "longitude": -83.11282348632812,
-      "is_obscured": false
-    },
-    {
-      "id": "997493c2-cc57-4adf-a453-45f03ecde2a2",
-      "incident_number": "260200568",
-      "incident_code": "2026-FLFLS-260200568",
-      "name": "Heisler Road (32)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 7.5,
-      "containment_percent": 100,
-      "county": "Jackson",
-      "field_unit": "Chipola",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-27T22:25:08",
-      "status_updated_time": "2026-09-28T14:27:06",
-      "latitude": 30.930204391479492,
-      "longitude": -85.50125122070312,
       "is_obscured": false
     },
     {
