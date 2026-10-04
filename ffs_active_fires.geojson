@@ -230,34 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.60944366455078,
-          30.091968536376953
-        ]
-      },
-      "properties": {
-        "id": "0056fc2d-ddb1-4188-b600-4d807b6378c1",
-        "incident_number": "260500281",
-        "incident_code": "2026-FLFLS-260500281",
-        "name": "3635 Golf Course Road- Taylor (62)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 100,
-        "county": "Taylor",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-28T21:21:00",
-        "status_updated_time": "2026-09-29T01:29:41",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.11282348632812,
           30.558074951171875
         ]
