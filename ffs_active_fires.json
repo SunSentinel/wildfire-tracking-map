@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T17:14:01.870846Z",
+  "updated_at": "2026-10-04T20:17:54.130794Z",
   "incidents": [
     {
       "id": "93c0add0-0208-4193-a7d2-56aef33fd33a",
@@ -126,7 +126,7 @@
       "incident_number": "260400510",
       "incident_code": "2026-FLFLS-260400510",
       "name": "LIGHTHOUSE  RD (65) 0510",
-      "status": "Contained",
+      "status": "Controlled",
       "category": "Wildfire",
       "acres": 3.0,
       "containment_percent": 100,
@@ -136,7 +136,7 @@
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 0,
       "discovery_time": "2026-09-29T17:39:00",
-      "status_updated_time": "2026-09-29T21:39:00",
+      "status_updated_time": "2026-10-04T18:22:00",
       "latitude": 30.194141387939453,
       "longitude": -84.17156219482422,
       "is_obscured": false
