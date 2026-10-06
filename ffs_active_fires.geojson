@@ -14,7 +14,7 @@
         "id": "38c35703-2628-4b0b-a766-8380b78b37a0",
         "incident_number": "260601073",
         "incident_code": "2026-FLFLS-260601073",
-        "name": "SW THRAHSER LN (12)",
+        "name": "SW THRASHER LN (12)",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 0.1,
@@ -110,62 +110,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-09-29T21:32:21",
         "status_updated_time": "2026-09-29T23:55:15",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.10865020751953,
-          30.026063919067383
-        ]
-      },
-      "properties": {
-        "id": "23aba78c-59ef-4a99-b15b-4ec589da08f5",
-        "incident_number": "260601060",
-        "incident_code": "2026-FLFLS-260601060",
-        "name": "NW 38TH AVE (04)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.75,
-        "containment_percent": 100,
-        "county": "Bradford",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-29T20:14:00",
-        "status_updated_time": "2026-09-29T22:27:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.04486846923828,
-          29.351320266723633
-        ]
-      },
-      "properties": {
-        "id": "fb9b2409-869d-428c-864b-601ec14e6c4d",
-        "incident_number": "260800819",
-        "incident_code": "2026-FLFLS-260800819",
-        "name": "NE 65TH AVE (42)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Marion",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-29T17:02:00",
-        "status_updated_time": "2026-10-01T14:21:00",
         "is_obscured": false
       }
     },
