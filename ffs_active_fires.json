@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T07:05:05.219452Z",
+  "updated_at": "2026-10-06T14:19:27.610044Z",
   "incidents": [
     {
       "id": "38c35703-2628-4b0b-a766-8380b78b37a0",
@@ -39,26 +39,6 @@
       "status_updated_time": "2026-10-02T17:22:00",
       "latitude": 29.611785888671875,
       "longitude": -82.7057876586914,
-      "is_obscured": false
-    },
-    {
-      "id": "a1fc53cd-d191-4cda-abca-4386edc9e9a2",
-      "incident_number": "260800821",
-      "incident_code": "2026-FLFLS-260800821",
-      "name": "OAKRUN ROAD (54)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 3.1,
-      "containment_percent": 100,
-      "county": "Putnam",
-      "field_unit": "Waccasassa",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-09-30T19:42:00",
-      "status_updated_time": "2026-09-30T20:47:00",
-      "latitude": 29.443889617919922,
-      "longitude": -81.6419448852539,
       "is_obscured": false
     },
     {
