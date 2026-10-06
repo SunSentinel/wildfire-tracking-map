@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-06T00:31:45.375395Z",
+  "updated_at": "2026-10-06T07:05:05.219452Z",
   "incidents": [
-    {
-      "id": "372b9767-b995-4c0f-85fe-55964a34d95d",
-      "incident_number": "261600809",
-      "incident_code": "2026-FLFLS-261600809",
-      "name": "Lot 2 (47)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Okeechobee",
-      "field_unit": "Okeechobee",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-10-05T23:50:00",
-      "status_updated_time": "2026-10-05T23:50:00",
-      "latitude": 27.553207397460938,
-      "longitude": -80.83556365966797,
-      "is_obscured": false
-    },
     {
       "id": "38c35703-2628-4b0b-a766-8380b78b37a0",
       "incident_number": "260601073",
