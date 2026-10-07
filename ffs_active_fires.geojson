@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.7057876586914,
-          29.611785888671875
-        ]
-      },
-      "properties": {
-        "id": "93c0add0-0208-4193-a7d2-56aef33fd33a",
-        "incident_number": "260800824",
-        "incident_code": "2026-FLFLS-260800824",
-        "name": "91ST TRAIL (21)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 1.0,
-        "containment_percent": 100,
-        "county": "Gilchrist",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-02T16:42:00",
-        "status_updated_time": "2026-10-02T17:22:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.5838851928711,
           28.924165725708008
         ]
