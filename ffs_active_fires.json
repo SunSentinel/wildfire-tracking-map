@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:26:08.764712Z",
+  "updated_at": "2026-10-09T20:12:39.800556Z",
   "incidents": [
     {
       "id": "6f1fb3c8-67ad-4467-92e3-5d4d08381380",
@@ -99,26 +99,6 @@
       "status_updated_time": "2026-09-25T15:39:57",
       "latitude": 28.821388244628906,
       "longitude": -82.5713882446289,
-      "is_obscured": false
-    },
-    {
-      "id": "2312a745-154c-4da3-93da-f8c46342d3ab",
-      "incident_number": "261400469",
-      "incident_code": "2026-FLFLS-261400469",
-      "name": "FOUR CORNERS (53)",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 11.0,
-      "containment_percent": 90,
-      "county": "Polk",
-      "field_unit": "Lakeland",
-      "region": "Region 3",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-08-22T22:52:01",
-      "status_updated_time": "2026-09-28T16:08:03",
-      "latitude": 28.34083366394043,
-      "longitude": -81.80305480957031,
       "is_obscured": false
     }
   ]
