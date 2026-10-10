@@ -6,90 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5838851928711,
-          28.924165725708008
-        ]
-      },
-      "properties": {
-        "id": "6f1fb3c8-67ad-4467-92e3-5d4d08381380",
-        "incident_number": "261100673",
-        "incident_code": "2026-FLFLS-261100673",
-        "name": "HIDDEN OAKS  (09)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.76,
-        "containment_percent": 100,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-09-29T21:32:21",
-        "status_updated_time": "2026-09-29T23:55:15",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.53472137451172,
-          28.795000076293945
-        ]
-      },
-      "properties": {
-        "id": "c7b68e80-579e-43b0-ba72-265673154ab6",
-        "incident_number": "261100665",
-        "incident_code": "2026-FLFLS-261100665",
-        "name": "EVERGREEN (09)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 100,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-27T18:44:45",
-        "status_updated_time": "2026-09-27T20:06:43",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.57444763183594,
-          28.809444427490234
-        ]
-      },
-      "properties": {
-        "id": "85f9ebf9-dc6f-4084-863f-e40dd17d2ec0",
-        "incident_number": "261100663",
-        "incident_code": "2026-FLFLS-261100663",
-        "name": "MICHIGAN (09)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-26T21:02:00",
-        "status_updated_time": "2026-09-27T02:01:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.26898193359375,
           28.802915573120117
         ]
@@ -110,34 +26,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-09-26T18:43:49",
         "status_updated_time": "2026-09-26T21:23:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5713882446289,
-          28.821388244628906
-        ]
-      },
-      "properties": {
-        "id": "d8dc6472-e98e-4a0f-a032-bee29cb315be",
-        "incident_number": "261100660",
-        "incident_code": "2026-FLFLS-261100660",
-        "name": "STONEBROOK (09)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.3,
-        "containment_percent": 100,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-09-25T04:53:01",
-        "status_updated_time": "2026-09-25T15:39:57",
         "is_obscured": false
       }
     }
