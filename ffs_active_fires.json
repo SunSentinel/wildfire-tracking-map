@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-10-12T17:14:13.135064Z",
-  "incidents": []
+  "updated_at": "2026-10-12T23:42:08.672316Z",
+  "incidents": [
+    {
+      "id": "b2154319-535a-44ee-a2da-a3203805dc7a",
+      "incident_number": "260800837",
+      "incident_code": "2026-FLFLS-260800837",
+      "name": "Newberry- Levy (38)",
+      "status": "Active",
+      "category": "Wildfire",
+      "acres": 3.75,
+      "containment_percent": 0,
+      "county": "Levy",
+      "field_unit": "Waccasassa",
+      "region": "Region 2",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-10-12T19:38:45",
+      "status_updated_time": "2026-10-12T20:00:55",
+      "latitude": 29.517051696777344,
+      "longitude": -82.72296142578125,
+      "is_obscured": false
+    }
+  ]
 }

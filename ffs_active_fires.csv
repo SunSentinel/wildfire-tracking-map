@@ -1,2 +1,2 @@
 id,incident_number,incident_code,name,status,category,acres,containment_percent,county,field_unit,region,protecting_unit,resources_assigned,discovery_time,status_updated_time,latitude,longitude,is_obscured
-c8254c01-7339-4323-81fa-8119a4a21194,261100662,2026-FLFLS-261100662,KILLDEER (09),Contained,Wildfire,2.0,100,Citrus,Withlacoochee,Region 3,FLFLS - Florida Forest Service,0,2026-09-26T18:43:49,2026-09-26T21:23:00,28.802915573120117,-82.26898193359375,False
+b2154319-535a-44ee-a2da-a3203805dc7a,260800837,2026-FLFLS-260800837,Newberry- Levy (38),Active,Wildfire,3.75,0,Levy,Waccasassa,Region 2,FLFLS - Florida Forest Service,0,2026-10-12T19:38:45,2026-10-12T20:00:55,29.517051696777344,-82.72296142578125,False
