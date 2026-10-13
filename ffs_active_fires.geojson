@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.39974212646484,
+          30.443771362304688
+        ]
+      },
+      "properties": {
+        "id": "751a5667-6013-43fb-842e-8a0b08908044",
+        "incident_number": "260200582",
+        "incident_code": "2026-FLFLS-260200582",
+        "name": "Cardinal Avenue (03)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 5.0,
+        "containment_percent": 75,
+        "county": "Bay",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-13T20:12:54",
+        "status_updated_time": "2026-10-13T20:29:32",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.72296142578125,
           29.517051696777344
         ]
