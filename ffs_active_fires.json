@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-13T12:33:44.855376Z",
+  "updated_at": "2026-10-13T19:41:45.731687Z",
   "incidents": [
     {
       "id": "b2154319-535a-44ee-a2da-a3203805dc7a",
       "incident_number": "260800837",
       "incident_code": "2026-FLFLS-260800837",
-      "name": "Newberry- Levy (38)",
+      "name": "ASBELL CREEK RD (38)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 3.75,
+      "acres": 3.44,
       "containment_percent": 0,
       "county": "Levy",
       "field_unit": "Waccasassa",
