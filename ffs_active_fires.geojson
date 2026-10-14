@@ -46,7 +46,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 3.44,
-        "containment_percent": 0,
+        "containment_percent": 90,
         "county": "Levy",
         "field_unit": "Waccasassa",
         "region": "Region 2",
