@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T14:36:11.145026Z",
+  "updated_at": "2026-10-15T18:49:20.740329Z",
   "incidents": [
     {
       "id": "b2d864f2-68df-4997-b4e7-150ae4eb3f55",
@@ -19,26 +19,6 @@
       "status_updated_time": "2026-10-15T13:57:00",
       "latitude": 29.955198287963867,
       "longitude": -82.80663299560547,
-      "is_obscured": false
-    },
-    {
-      "id": "c98646e5-1cee-4b4f-b64d-7a863aefb6cb",
-      "incident_number": "261500590",
-      "incident_code": "2026-FLFLS-261500590",
-      "name": "Shady Avenue- Sarasota (58)",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Sarasota",
-      "field_unit": "Myakka River",
-      "region": "Region 4",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-10-15T01:22:20",
-      "status_updated_time": "2026-10-15T02:20:02",
-      "latitude": 27.03487205505371,
-      "longitude": -82.2001724243164,
       "is_obscured": false
     },
     {
