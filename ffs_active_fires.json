@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-16T09:26:00.594436Z",
+  "updated_at": "2026-10-16T14:06:01.001833Z",
   "incidents": [
-    {
-      "id": "b2d864f2-68df-4997-b4e7-150ae4eb3f55",
-      "incident_number": "260601089",
-      "incident_code": "2026-FLFLS-260601089",
-      "name": "OSI HAROLD HANSARD (04-61)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Suwannee",
-      "field_unit": "Suwannee",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-10-15T13:57:00",
-      "status_updated_time": "2026-10-15T13:57:00",
-      "latitude": 29.955198287963867,
-      "longitude": -82.80663299560547,
-      "is_obscured": false
-    },
     {
       "id": "b2154319-535a-44ee-a2da-a3203805dc7a",
       "incident_number": "260800837",
