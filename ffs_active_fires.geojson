@@ -15,45 +15,17 @@
         "incident_number": "260601095",
         "incident_code": "2026-FLFLS-260601095",
         "name": "264TH ST (61)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 8.5,
+        "containment_percent": 100,
         "county": "Suwannee",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-16T17:34:00",
-        "status_updated_time": "2026-10-16T17:42:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.70611572265625,
-          29.93785285949707
-        ]
-      },
-      "properties": {
-        "id": "2c0b65fc-be7c-4a9a-b38e-8909062bb5b9",
-        "incident_number": "260601094",
-        "incident_code": "2026-FLFLS-260601094",
-        "name": "JEANLEA PL (12)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Columbia",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
-        "discovery_time": "2026-10-16T17:25:00",
-        "status_updated_time": "2026-10-16T17:36:55",
+        "status_updated_time": "2026-10-16T18:58:56",
         "is_obscured": false
       }
     }
