@@ -1,2 +1,3 @@
 id,incident_number,incident_code,name,status,category,acres,containment_percent,county,field_unit,region,protecting_unit,resources_assigned,discovery_time,status_updated_time,latitude,longitude,is_obscured
-b2154319-535a-44ee-a2da-a3203805dc7a,260800837,2026-FLFLS-260800837,ASBELL CREEK RD (38),Active,Wildfire,3.44,90,Levy,Waccasassa,Region 2,FLFLS - Florida Forest Service,0,2026-10-12T19:38:45,2026-10-12T20:00:55,29.517051696777344,-82.72296142578125,False
+5454e73d-5981-47a6-990a-bdb499e53e52,260601095,2026-FLFLS-260601095,264TH ST (61),Active,Wildfire,0.0,0,Suwannee,Suwannee,Region 2,FLFLS - Florida Forest Service,5,2026-10-16T17:34:00,2026-10-16T17:42:00,29.9696102142334,-82.80715942382812,False
+2c0b65fc-be7c-4a9a-b38e-8909062bb5b9,260601094,2026-FLFLS-260601094,JEANLEA PL (12),Contained,Wildfire,0.1,100,Columbia,Suwannee,Region 2,FLFLS - Florida Forest Service,5,2026-10-16T17:25:00,2026-10-16T17:36:55,29.93785285949707,-82.70611572265625,False
