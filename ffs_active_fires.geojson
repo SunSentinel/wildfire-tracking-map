@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.69644927978516,
+          30.71929931640625
+        ]
+      },
+      "properties": {
+        "id": "3e05ab10-3f72-4817-be3a-d71102d95a28",
+        "incident_number": "260100460",
+        "incident_code": "2026-FLFLS-260100460",
+        "name": "4681 Haybarn Road- Okaloosa (46)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Okaloosa",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-17T21:31:55",
+        "status_updated_time": "2026-10-17T21:31:55",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.3503189086914,
           30.669538497924805
         ]
@@ -15,17 +43,17 @@
         "incident_number": "260100459",
         "incident_code": "2026-FLFLS-260100459",
         "name": "Stout Road (17)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Escambia",
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 3,
         "discovery_time": "2026-10-17T18:58:03",
-        "status_updated_time": "2026-10-17T19:00:26",
+        "status_updated_time": "2026-10-17T20:46:01",
         "is_obscured": false
       }
     },
