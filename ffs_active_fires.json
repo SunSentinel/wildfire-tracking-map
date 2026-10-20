@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-20T08:21:52.804933Z",
+  "updated_at": "2026-10-20T13:44:03.176974Z",
   "incidents": [
+    {
+      "id": "0b2b43e4-832b-48dc-badb-d7f48e23e0d8",
+      "incident_number": "261600832",
+      "incident_code": "2026-FLFLS-261600832",
+      "name": "23499 Florida 78- Glades (22)",
+      "status": "Reported",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 0,
+      "county": "Glades",
+      "field_unit": "Okeechobee",
+      "region": "Region 4",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-10-20T13:15:00",
+      "status_updated_time": "2026-10-20T13:15:00",
+      "latitude": 27.089086532592773,
+      "longitude": -80.96691131591797,
+      "is_obscured": false
+    },
     {
       "id": "b57389d7-edae-4286-805e-1b716898e702",
       "incident_number": "261100693",
@@ -14,7 +34,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 2,
       "discovery_time": "2026-10-19T10:09:37",
       "status_updated_time": "2026-10-19T13:43:35",
       "latitude": 28.924165725708008,
