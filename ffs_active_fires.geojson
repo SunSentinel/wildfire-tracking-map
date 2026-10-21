@@ -6,26 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.59855651855469,
-          27.75592041015625
+          -82.9593505859375,
+          29.240278244018555
         ]
       },
       "properties": {
-        "id": "d682ba96-d772-4860-b323-d870dde95b4b",
-        "incident_number": "261600834",
-        "incident_code": "2026-FLFLS-261600834",
-        "name": "OSI- Ramirez (31)",
+        "id": "2698829e-480a-4d39-a1b2-d4ab901df4fb",
+        "incident_number": "260800843",
+        "incident_code": "2026-FLFLS-260800843",
+        "name": "112TH CT CEDAR KEY (38)",
         "status": "Reported",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 1.0,
         "containment_percent": 0,
-        "county": "Indian River",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
+        "county": "Levy",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
-        "discovery_time": "2026-10-21T14:00:00",
-        "status_updated_time": "2026-10-21T14:00:00",
+        "discovery_time": "2026-10-21T17:47:00",
+        "status_updated_time": "2026-10-21T17:47:00",
         "is_obscured": false
       }
     },
@@ -51,7 +51,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-20T20:41:05",
         "status_updated_time": "2026-10-20T21:27:36",
         "is_obscured": false
@@ -107,37 +107,9 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-17T21:31:55",
         "status_updated_time": "2026-10-17T21:31:55",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.3503189086914,
-          30.669538497924805
-        ]
-      },
-      "properties": {
-        "id": "2baf97b5-f828-4970-8486-53f255baef79",
-        "incident_number": "260100459",
-        "incident_code": "2026-FLFLS-260100459",
-        "name": "Stout Road (17)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 100,
-        "county": "Escambia",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-17T18:58:03",
-        "status_updated_time": "2026-10-17T20:46:01",
         "is_obscured": false
       }
     }
