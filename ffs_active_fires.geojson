@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.59855651855469,
+          27.75592041015625
+        ]
+      },
+      "properties": {
+        "id": "d682ba96-d772-4860-b323-d870dde95b4b",
+        "incident_number": "261600834",
+        "incident_code": "2026-FLFLS-261600834",
+        "name": "OSI- Ramirez (31)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Indian River",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-21T14:00:00",
+        "status_updated_time": "2026-10-21T14:00:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.0307388305664,
           30.831560134887695
         ]
@@ -23,37 +51,9 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-20T20:41:05",
         "status_updated_time": "2026-10-20T21:27:36",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.31796264648438,
-          30.517080307006836
-        ]
-      },
-      "properties": {
-        "id": "8e4ce265-8afc-4607-b50b-26e99e2f6ec8",
-        "incident_number": "260100465",
-        "incident_code": "2026-FLFLS-260100465",
-        "name": "17-SC-Pine Forest",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Escambia",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-20T16:29:19",
-        "status_updated_time": "2026-10-20T16:53:13",
         "is_obscured": false
       }
     },
@@ -107,7 +107,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 2,
         "discovery_time": "2026-10-17T21:31:55",
         "status_updated_time": "2026-10-17T21:31:55",
         "is_obscured": false
