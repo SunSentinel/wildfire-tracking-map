@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-20T21:46:33.460557Z",
+  "updated_at": "2026-10-21T00:19:25.024442Z",
   "incidents": [
     {
       "id": "be54b2a0-8593-4e75-9f17-c797d1015f7c",
       "incident_number": "260200592",
       "incident_code": "2026-FLFLS-260200592",
       "name": "Brown Road (30)",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
+      "acres": 3.5,
+      "containment_percent": 90,
       "county": "Holmes",
       "field_unit": "Chipola",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
+      "resources_assigned": 0,
       "discovery_time": "2026-10-20T20:41:05",
-      "status_updated_time": "2026-10-20T20:41:05",
+      "status_updated_time": "2026-10-20T21:27:36",
       "latitude": 30.831560134887695,
       "longitude": -86.0307388305664,
       "is_obscured": false
