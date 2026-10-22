@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.07195281982422,
+          30.588775634765625
+        ]
+      },
+      "properties": {
+        "id": "5b85619f-3e6f-4827-b211-69eb10a2ec22",
+        "incident_number": "260100469",
+        "incident_code": "2026-FLFLS-260100469",
+        "name": "Fairlands Road (57)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 1.0,
+        "containment_percent": 0,
+        "county": "Santa Rosa",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-22T21:54:54",
+        "status_updated_time": "2026-10-22T21:55:34",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95999908447266,
+          29.564443588256836
+        ]
+      },
+      "properties": {
+        "id": "ea325124-174d-4fb6-b9aa-5e6c4e1a8e74",
+        "incident_number": "260500283",
+        "incident_code": "2026-FLFLS-260500283",
+        "name": "Trailer Park- Dixie (15)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.25,
+        "containment_percent": 100,
+        "county": "Dixie",
+        "field_unit": "Perry",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-22T20:48:00",
+        "status_updated_time": "2026-10-22T21:41:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.53704833984375,
           29.40553092956543
         ]
@@ -18,13 +74,13 @@
         "status": "Reported",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 95,
         "county": "Levy",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
-        "discovery_time": "2026-10-22T20:24:22",
+        "discovery_time": "2026-10-22T19:49:00",
         "status_updated_time": "2026-10-22T20:24:22",
         "is_obscured": false
       }
@@ -34,26 +90,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.92108917236328,
-          29.489871978759766
+          -82.92667388916016,
+          30.16156768798828
+        ]
+      },
+      "properties": {
+        "id": "a493f8a4-2095-4772-a3fa-19c10f9367f8",
+        "incident_number": "260601110",
+        "incident_code": "2026-FLFLS-260601110",
+        "name": "87TH RD (61)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 7.0,
+        "containment_percent": 100,
+        "county": "Suwannee",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-22T20:17:00",
+        "status_updated_time": "2026-10-22T22:45:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91759490966797,
+          29.488454818725586
         ]
       },
       "properties": {
         "id": "a0fd0ae4-e9b0-4903-b8e5-0721b1dcc9f4",
         "incident_number": "260800848",
         "incident_code": "2026-FLFLS-260800848",
-        "name": "NW 88TH TERR (38)",
-        "status": "Reported",
+        "name": "NW 86TH CT (38)",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 2.0,
+        "containment_percent": 97,
         "county": "Levy",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-10-22T19:29:00",
-        "status_updated_time": "2026-10-22T19:29:00",
+        "status_updated_time": "2026-10-22T19:46:00",
         "is_obscured": false
       }
     },
@@ -107,7 +191,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 10,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-22T16:13:00",
         "status_updated_time": "2026-10-22T16:13:01",
         "is_obscured": false
@@ -129,13 +213,13 @@
         "name": "BEE HAVEN (2) (24-06)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 200.0,
+        "acres": 2400.0,
         "containment_percent": 35,
         "county": "Hamilton",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 21,
+        "resources_assigned": 34,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
