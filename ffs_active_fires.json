@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T01:08:29.237089Z",
+  "updated_at": "2026-10-22T06:18:35.375161Z",
   "incidents": [
     {
       "id": "bb2b7fca-8965-4797-a0e0-e4b3ed5d52af",
@@ -8,13 +8,13 @@
       "name": "BEE HAVEN (2) (24-06)",
       "status": "Active",
       "category": "Wildfire",
-      "acres": 90.0,
-      "containment_percent": 0,
+      "acres": 125.0,
+      "containment_percent": 35,
       "county": "Hamilton",
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 24,
+      "resources_assigned": 3,
       "discovery_time": "2026-10-21T19:40:00",
       "status_updated_time": "2026-10-21T19:45:02",
       "latitude": 30.495134353637695,
