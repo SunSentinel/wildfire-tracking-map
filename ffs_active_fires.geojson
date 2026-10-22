@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.88996887207031,
+          28.105262756347656
+        ]
+      },
+      "properties": {
+        "id": "b0bd2a3d-0e96-4f62-b2b3-83568a370de3",
+        "incident_number": "261400584",
+        "incident_code": "2026-FLFLS-261400584",
+        "name": "Lakeland- Polk (53)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.25,
+        "containment_percent": 100,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 7,
+        "discovery_time": "2026-10-22T16:38:26",
+        "status_updated_time": "2026-10-22T17:00:20",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48429107666016,
+          30.023271560668945
+        ]
+      },
+      "properties": {
+        "id": "51f925be-25ef-448b-b1f9-9d9e1f50c9fb",
+        "incident_number": "260601109",
+        "incident_code": "2026-FLFLS-260601109",
+        "name": "NW 87TH AVE (63)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Union",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 6,
+        "discovery_time": "2026-10-22T16:13:00",
+        "status_updated_time": "2026-10-22T16:13:01",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
@@ -17,71 +73,15 @@
         "name": "BEE HAVEN (2) (24-06)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 125.0,
+        "acres": 200.0,
         "containment_percent": 35,
         "county": "Hamilton",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 21,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.0307388305664,
-          30.831560134887695
-        ]
-      },
-      "properties": {
-        "id": "be54b2a0-8593-4e75-9f17-c797d1015f7c",
-        "incident_number": "260200592",
-        "incident_code": "2026-FLFLS-260200592",
-        "name": "Brown Road (30)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 3.5,
-        "containment_percent": 90,
-        "county": "Holmes",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-20T20:41:05",
-        "status_updated_time": "2026-10-20T21:27:36",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.96691131591797,
-          27.089086532592773
-        ]
-      },
-      "properties": {
-        "id": "0b2b43e4-832b-48dc-badb-d7f48e23e0d8",
-        "incident_number": "261600832",
-        "incident_code": "2026-FLFLS-261600832",
-        "name": "23499 Florida 78- Glades (22)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Glades",
-        "field_unit": "Okeechobee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-20T13:15:00",
-        "status_updated_time": "2026-10-20T13:15:00",
         "is_obscured": false
       }
     },
