@@ -6,15 +6,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.88996887207031,
-          28.105262756347656
+          -82.53704833984375,
+          29.40553092956543
+        ]
+      },
+      "properties": {
+        "id": "3b596f7f-7581-4d9c-a211-1d3b9402c95e",
+        "incident_number": "260800849",
+        "incident_code": "2026-FLFLS-260800849",
+        "name": "NE 141ST TERR (38)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Levy",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-22T20:24:22",
+        "status_updated_time": "2026-10-22T20:24:22",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92108917236328,
+          29.489871978759766
+        ]
+      },
+      "properties": {
+        "id": "a0fd0ae4-e9b0-4903-b8e5-0721b1dcc9f4",
+        "incident_number": "260800848",
+        "incident_code": "2026-FLFLS-260800848",
+        "name": "NW 88TH TERR (38)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Levy",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-22T19:29:00",
+        "status_updated_time": "2026-10-22T19:29:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92749786376953,
+          28.0977783203125
         ]
       },
       "properties": {
         "id": "b0bd2a3d-0e96-4f62-b2b3-83568a370de3",
         "incident_number": "261400584",
         "incident_code": "2026-FLFLS-261400584",
-        "name": "Lakeland- Polk (53)",
+        "name": "BRIDGE WATER (53)",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 0.25,
@@ -23,7 +79,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-22T16:38:26",
         "status_updated_time": "2026-10-22T17:00:20",
         "is_obscured": false
@@ -45,13 +101,13 @@
         "name": "NW 87TH AVE (63)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 15.0,
+        "containment_percent": 95,
         "county": "Union",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 10,
         "discovery_time": "2026-10-22T16:13:00",
         "status_updated_time": "2026-10-22T16:13:01",
         "is_obscured": false
