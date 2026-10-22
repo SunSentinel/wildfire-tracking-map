@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:36:13.836914Z",
+  "updated_at": "2026-10-22T01:08:29.237089Z",
   "incidents": [
     {
       "id": "bb2b7fca-8965-4797-a0e0-e4b3ed5d52af",
@@ -14,7 +14,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 9,
+      "resources_assigned": 24,
       "discovery_time": "2026-10-21T19:40:00",
       "status_updated_time": "2026-10-21T19:45:02",
       "latitude": 30.495134353637695,
