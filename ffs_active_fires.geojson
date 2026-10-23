@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.87236785888672,
+          30.499479293823242
+        ]
+      },
+      "properties": {
+        "id": "912720b7-c6c3-4731-bbd0-469802a44518",
+        "incident_number": "260400527",
+        "incident_code": "2026-FLFLS-260400527",
+        "name": "Drifton- Jefferson (33)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Jefferson",
+        "field_unit": "Tallahassee",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-23T17:33:00",
+        "status_updated_time": "2026-10-23T17:33:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02141571044922,
+          30.81951332092285
+        ]
+      },
+      "properties": {
+        "id": "df935074-2cfe-44f9-8a4a-abca33066713",
+        "incident_number": "260100471",
+        "incident_code": "2026-FLFLS-260100471",
+        "name": "57-OSI-Adams/Creek Stone Road- Santa Rosa (57)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Santa Rosa",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-23T17:00:35",
+        "status_updated_time": "2026-10-23T17:00:35",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.07195281982422,
           30.588775634765625
         ]
@@ -15,73 +71,17 @@
         "incident_number": "260100469",
         "incident_code": "2026-FLFLS-260100469",
         "name": "Fairlands Road (57)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 1.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Santa Rosa",
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-10-22T21:54:54",
-        "status_updated_time": "2026-10-22T21:55:34",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.95999908447266,
-          29.564443588256836
-        ]
-      },
-      "properties": {
-        "id": "ea325124-174d-4fb6-b9aa-5e6c4e1a8e74",
-        "incident_number": "260500283",
-        "incident_code": "2026-FLFLS-260500283",
-        "name": "Trailer Park- Dixie (15)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Dixie",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-22T20:48:00",
-        "status_updated_time": "2026-10-22T21:41:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5365982055664,
-          29.40549659729004
-        ]
-      },
-      "properties": {
-        "id": "3b596f7f-7581-4d9c-a211-1d3b9402c95e",
-        "incident_number": "260800849",
-        "incident_code": "2026-FLFLS-260800849",
-        "name": "NE 141ST TERR (38)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 95,
-        "county": "Levy",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-22T19:49:00",
-        "status_updated_time": "2026-10-22T20:24:22",
+        "status_updated_time": "2026-10-22T22:30:42",
         "is_obscured": false
       }
     },
@@ -118,62 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.91759490966797,
-          29.488454818725586
-        ]
-      },
-      "properties": {
-        "id": "a0fd0ae4-e9b0-4903-b8e5-0721b1dcc9f4",
-        "incident_number": "260800848",
-        "incident_code": "2026-FLFLS-260800848",
-        "name": "NW 86TH CT (38)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 97,
-        "county": "Levy",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-10-22T19:29:00",
-        "status_updated_time": "2026-10-22T19:46:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.92749786376953,
-          28.0977783203125
-        ]
-      },
-      "properties": {
-        "id": "b0bd2a3d-0e96-4f62-b2b3-83568a370de3",
-        "incident_number": "261400584",
-        "incident_code": "2026-FLFLS-261400584",
-        "name": "BRIDGE WATER (53)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.25,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-10-22T16:38:26",
-        "status_updated_time": "2026-10-22T17:00:20",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.48429107666016,
           30.023271560668945
         ]
@@ -191,7 +135,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-22T16:13:00",
         "status_updated_time": "2026-10-22T16:13:01",
         "is_obscured": false
@@ -219,7 +163,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 17,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
@@ -247,7 +191,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-17T21:31:55",
         "status_updated_time": "2026-10-17T21:31:55",
         "is_obscured": false
