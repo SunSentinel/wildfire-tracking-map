@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.87236785888672,
-          30.499479293823242
-        ]
-      },
-      "properties": {
-        "id": "912720b7-c6c3-4731-bbd0-469802a44518",
-        "incident_number": "260400527",
-        "incident_code": "2026-FLFLS-260400527",
-        "name": "Drifton- Jefferson (33)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Jefferson",
-        "field_unit": "Tallahassee",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-23T17:33:00",
-        "status_updated_time": "2026-10-23T17:33:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -87.02141571044922,
           30.81951332092285
         ]
@@ -163,7 +135,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 17,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
