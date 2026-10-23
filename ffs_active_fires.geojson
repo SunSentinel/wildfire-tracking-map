@@ -62,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.53704833984375,
-          29.40553092956543
+          -82.5365982055664,
+          29.40549659729004
         ]
       },
       "properties": {
@@ -135,7 +135,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-22T19:29:00",
         "status_updated_time": "2026-10-22T19:46:00",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-22T16:38:26",
         "status_updated_time": "2026-10-22T17:00:20",
         "is_obscured": false
@@ -191,7 +191,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-22T16:13:00",
         "status_updated_time": "2026-10-22T16:13:01",
         "is_obscured": false

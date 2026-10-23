@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T08:14:41.661832Z",
+  "updated_at": "2026-10-23T13:40:13.972266Z",
   "incidents": [
     {
       "id": "5b85619f-3e6f-4827-b211-69eb10a2ec22",
@@ -57,8 +57,8 @@
       "resources_assigned": 0,
       "discovery_time": "2026-10-22T19:49:00",
       "status_updated_time": "2026-10-22T20:24:22",
-      "latitude": 29.40553092956543,
-      "longitude": -82.53704833984375,
+      "latitude": 29.40549659729004,
+      "longitude": -82.5365982055664,
       "is_obscured": false
     },
     {
@@ -94,7 +94,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-10-22T19:29:00",
       "status_updated_time": "2026-10-22T19:46:00",
       "latitude": 29.488454818725586,
@@ -114,7 +114,7 @@
       "field_unit": "Lakeland",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-10-22T16:38:26",
       "status_updated_time": "2026-10-22T17:00:20",
       "latitude": 28.0977783203125,
@@ -134,7 +134,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
+      "resources_assigned": 3,
       "discovery_time": "2026-10-22T16:13:00",
       "status_updated_time": "2026-10-22T16:13:01",
       "latitude": 30.023271560668945,
