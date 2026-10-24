@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:47:39.002168Z",
+  "updated_at": "2026-10-24T19:11:26.282800Z",
   "incidents": [
     {
       "id": "254a8aa5-a11e-4852-ae06-c0847ca22aa4",
@@ -114,7 +114,7 @@
       "field_unit": "Blackwater",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 6,
+      "resources_assigned": 0,
       "discovery_time": "2026-10-17T21:31:55",
       "status_updated_time": "2026-10-17T21:31:55",
       "latitude": 30.71929931640625,
