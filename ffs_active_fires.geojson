@@ -6,8 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.22132110595703,
-          30.355613708496094
+          -81.70640563964844,
+          26.333127975463867
+        ]
+      },
+      "properties": {
+        "id": "cfab36cc-c48f-406e-8e38-8fc5301b47ae",
+        "incident_number": "261700246",
+        "incident_code": "2026-FLFLS-261700246",
+        "name": "Bonita Beach Rd SE (36)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Lee",
+        "field_unit": "Caloosahatchee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-24T22:32:00",
+        "status_updated_time": "2026-10-24T22:32:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68389892578125,
+          30.177053451538086
+        ]
+      },
+      "properties": {
+        "id": "7acfa234-63b6-4c4b-8c1d-882e3902881b",
+        "incident_number": "260601112",
+        "incident_code": "2026-FLFLS-260601112",
+        "name": "SW COMMERCE DR (12)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Columbia",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-24T22:06:00",
+        "status_updated_time": "2026-10-24T22:06:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16388702392578,
+          29.990554809570312
+        ]
+      },
+      "properties": {
+        "id": "5d1a9b75-0db0-4699-b902-2efd264cde0e",
+        "incident_number": "260500284",
+        "incident_code": "2026-FLFLS-260500284",
+        "name": "St. Regis (34)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 1.5,
+        "containment_percent": 100,
+        "county": "Lafayette",
+        "field_unit": "Perry",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-24T20:53:41",
+        "status_updated_time": "2026-10-24T22:44:31",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21937561035156,
+          30.356094360351562
         ]
       },
       "properties": {
@@ -18,12 +102,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 3.0,
-        "containment_percent": 35,
+        "containment_percent": 80,
         "county": "Walton",
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 17,
+        "resources_assigned": 15,
         "discovery_time": "2026-10-24T18:59:00",
         "status_updated_time": "2026-10-24T19:26:39.7164878",
         "is_obscured": false
