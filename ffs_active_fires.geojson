@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.83731842041016,
+          30.03804588317871
+        ]
+      },
+      "properties": {
+        "id": "254a8aa5-a11e-4852-ae06-c0847ca22aa4",
+        "incident_number": "260601111",
+        "incident_code": "2026-FLFLS-260601111",
+        "name": "45TH DR (61)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Suwannee",
+        "field_unit": "Suwannee",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-24T15:32:00",
+        "status_updated_time": "2026-10-24T15:32:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.02141571044922,
           30.81951332092285
         ]
@@ -26,34 +54,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-10-23T17:00:35",
         "status_updated_time": "2026-10-23T17:00:35",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.07195281982422,
-          30.588775634765625
-        ]
-      },
-      "properties": {
-        "id": "5b85619f-3e6f-4827-b211-69eb10a2ec22",
-        "incident_number": "260100469",
-        "incident_code": "2026-FLFLS-260100469",
-        "name": "Fairlands Road (57)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.0,
-        "containment_percent": 100,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-22T21:54:54",
-        "status_updated_time": "2026-10-22T22:30:42",
         "is_obscured": false
       }
     },
@@ -107,7 +107,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-22T16:13:00",
         "status_updated_time": "2026-10-22T16:13:01",
         "is_obscured": false
@@ -135,7 +135,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 12,
+        "resources_assigned": 13,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
@@ -163,7 +163,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 6,
         "discovery_time": "2026-10-17T21:31:55",
         "status_updated_time": "2026-10-17T21:31:55",
         "is_obscured": false
