@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.302490234375,
-          29.175146102905273
-        ]
-      },
-      "properties": {
-        "id": "4c5f5a03-90c2-40ca-9f53-02690877aa89",
-        "incident_number": "261200634",
-        "incident_code": "2026-FLFLS-261200634",
-        "name": "5300 State Rd11- Volusia (64)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Volusia",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-10-23T21:57:28",
-        "status_updated_time": "2026-10-23T21:57:28",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -87.02141571044922,
           30.81951332092285
         ]
@@ -135,7 +107,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 5,
         "discovery_time": "2026-10-22T16:13:00",
         "status_updated_time": "2026-10-22T16:13:01",
         "is_obscured": false
@@ -163,7 +135,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 12,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
