@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.285400390625,
+          30.926605224609375
+        ]
+      },
+      "properties": {
+        "id": "a24c9db3-803f-4db1-b15b-b75be0e3f6d3",
+        "incident_number": "260200599",
+        "incident_code": "2026-FLFLS-260200599",
+        "name": "NORTH SUTTLES DR (66)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Walton",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-10-25T19:31:00",
+        "status_updated_time": "2026-10-25T19:31:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.53472137451172,
           27.767221450805664
         ]
@@ -15,17 +43,17 @@
         "incident_number": "261400588",
         "incident_code": "2026-FLFLS-261400588",
         "name": "CELLULAR  (53)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 90,
+        "acres": 2.0,
+        "containment_percent": 100,
         "county": "Polk",
         "field_unit": "Lakeland",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-25T16:21:07",
-        "status_updated_time": "2026-10-25T16:34:02",
+        "status_updated_time": "2026-10-25T17:19:43",
         "is_obscured": false
       }
     },
@@ -74,12 +102,12 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 7.33,
-        "containment_percent": 65,
+        "containment_percent": 80,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 9,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-24T22:32:00",
         "status_updated_time": "2026-10-25T00:01:00",
         "is_obscured": false
@@ -157,7 +185,7 @@
         "name": "SATINWOOD (66)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 3.0,
+        "acres": 4.0,
         "containment_percent": 90,
         "county": "Walton",
         "field_unit": "Chipola",
@@ -250,34 +278,6 @@
         "resources_assigned": 13,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.69644927978516,
-          30.71929931640625
-        ]
-      },
-      "properties": {
-        "id": "3e05ab10-3f72-4817-be3a-d71102d95a28",
-        "incident_number": "260100460",
-        "incident_code": "2026-FLFLS-260100460",
-        "name": "Haybarn Road (46)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 100,
-        "county": "Okaloosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-17T21:31:55",
-        "status_updated_time": "2026-10-17T21:31:55",
         "is_obscured": false
       }
     }
