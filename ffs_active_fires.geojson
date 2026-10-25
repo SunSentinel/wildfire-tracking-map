@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.53472137451172,
+          27.767221450805664
+        ]
+      },
+      "properties": {
+        "id": "fdb6f88a-d5f9-4dee-82fd-932d8f537dde",
+        "incident_number": "261400588",
+        "incident_code": "2026-FLFLS-261400588",
+        "name": "CELLULAR  (53)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 5.0,
+        "containment_percent": 90,
+        "county": "Polk",
+        "field_unit": "Lakeland",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 8,
+        "discovery_time": "2026-10-25T16:21:07",
+        "status_updated_time": "2026-10-25T16:34:02",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.25942993164062,
           29.52509307861328
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-25T02:10:00",
         "status_updated_time": "2026-10-25T03:57:00",
         "is_obscured": false
@@ -34,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.71580505371094,
-          26.340778350830078
+          -81.71778106689453,
+          26.34000015258789
         ]
       },
       "properties": {
@@ -45,13 +73,13 @@
         "name": "Bonita Beach Rd (36)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 3.0,
-        "containment_percent": 0,
+        "acres": 7.33,
+        "containment_percent": 65,
         "county": "Lee",
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 9,
         "discovery_time": "2026-10-24T22:32:00",
         "status_updated_time": "2026-10-25T00:01:00",
         "is_obscured": false
@@ -107,7 +135,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-24T20:53:41",
         "status_updated_time": "2026-10-24T22:44:31",
         "is_obscured": false
@@ -135,7 +163,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 5,
         "discovery_time": "2026-10-24T18:59:00",
         "status_updated_time": "2026-10-24T19:26:39.7164878",
         "is_obscured": false
@@ -219,7 +247,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 13,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
