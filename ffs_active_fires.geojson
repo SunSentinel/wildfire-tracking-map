@@ -23,7 +23,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-25T02:10:00",
         "status_updated_time": "2026-10-25T03:57:00",
         "is_obscured": false
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.70640563964844,
-          26.333127975463867
+          -81.71580505371094,
+          26.340778350830078
         ]
       },
       "properties": {
@@ -107,7 +107,7 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-10-24T20:53:41",
         "status_updated_time": "2026-10-24T22:44:31",
         "is_obscured": false
@@ -135,37 +135,9 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-24T18:59:00",
         "status_updated_time": "2026-10-24T19:26:39.7164878",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.83731842041016,
-          30.03804588317871
-        ]
-      },
-      "properties": {
-        "id": "254a8aa5-a11e-4852-ae06-c0847ca22aa4",
-        "incident_number": "260601111",
-        "incident_code": "2026-FLFLS-260601111",
-        "name": "45TH DR (61)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Suwannee",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-24T15:32:00",
-        "status_updated_time": "2026-10-24T15:32:00",
         "is_obscured": false
       }
     },
@@ -194,34 +166,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-10-23T17:00:35",
         "status_updated_time": "2026-10-23T17:00:35",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.92667388916016,
-          30.16156768798828
-        ]
-      },
-      "properties": {
-        "id": "a493f8a4-2095-4772-a3fa-19c10f9367f8",
-        "incident_number": "260601110",
-        "incident_code": "2026-FLFLS-260601110",
-        "name": "87TH RD (61)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 7.0,
-        "containment_percent": 100,
-        "county": "Suwannee",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-22T20:17:00",
-        "status_updated_time": "2026-10-22T22:45:01",
         "is_obscured": false
       }
     },
@@ -275,7 +219,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 7,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
