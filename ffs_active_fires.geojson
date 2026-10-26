@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.96968841552734,
+          29.669469833374023
+        ]
+      },
+      "properties": {
+        "id": "18e815f8-4efc-4977-bf84-9af4c888cb5d",
+        "incident_number": "260500286",
+        "incident_code": "2026-FLFLS-260500286",
+        "name": "796th Dixie (15)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.1,
+        "containment_percent": 100,
+        "county": "Dixie",
+        "field_unit": "Perry",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-26T20:27:00",
+        "status_updated_time": "2026-10-26T21:10:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.0655517578125,
           28.474166870117188
         ]
@@ -14,18 +42,18 @@
         "id": "75d943a1-a12a-49e0-87ec-df21efbbed89",
         "incident_number": "261200636",
         "incident_code": "2026-FLFLS-261200636",
-        "name": "20605 Quinn Street- Orange (48)",
-        "status": "Reported",
+        "name": "Quinn Street (48)",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 0.1,
+        "containment_percent": 100,
         "county": "Orange",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-26T17:41:20",
-        "status_updated_time": "2026-10-26T17:41:20",
+        "status_updated_time": "2026-10-26T18:53:57",
         "is_obscured": false
       }
     },
@@ -275,7 +303,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
