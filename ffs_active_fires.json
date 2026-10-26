@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T22:13:38.559145Z",
+  "updated_at": "2026-10-26T00:30:59.936001Z",
   "incidents": [
     {
       "id": "a24c9db3-803f-4db1-b15b-b75be0e3f6d3",
@@ -26,17 +26,17 @@
       "incident_number": "260601114",
       "incident_code": "2026-FLFLS-260601114",
       "name": "BELL SPRINGS (12)",
-      "status": "Reported",
+      "status": "Active",
       "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
+      "acres": 6.0,
+      "containment_percent": 90,
       "county": "Columbia",
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
       "resources_assigned": 0,
       "discovery_time": "2026-10-25T19:20:00",
-      "status_updated_time": "2026-10-25T19:20:00",
+      "status_updated_time": "2026-10-25T19:28:02",
       "latitude": 30.33637237548828,
       "longitude": -82.68203735351562,
       "is_obscured": false
