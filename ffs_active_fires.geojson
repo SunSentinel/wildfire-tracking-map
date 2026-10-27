@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.15638732910156,
+          28.497777938842773
+        ]
+      },
+      "properties": {
+        "id": "749fb0e9-5cb5-4d5a-ac2c-60c469e0fa79",
+        "incident_number": "261200639",
+        "incident_code": "2026-FLFLS-261200639",
+        "name": "ALAFAYA (48)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 15.0,
+        "containment_percent": 100,
+        "county": "Orange",
+        "field_unit": "Orlando",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 8,
+        "discovery_time": "2026-10-27T19:21:43",
+        "status_updated_time": "2026-10-27T22:01:38",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.70872497558594,
           27.937084197998047
         ]
@@ -15,45 +43,17 @@
         "incident_number": "261200638",
         "incident_code": "2026-FLFLS-261200638",
         "name": "OSMOSIS (05)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 1.0,
-        "containment_percent": 0,
+        "acres": 2.0,
+        "containment_percent": 100,
         "county": "Brevard",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
-        "discovery_time": "2026-10-27T17:38:01",
-        "status_updated_time": "2026-10-27T18:31:31",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.68203735351562,
-          30.33637237548828
-        ]
-      },
-      "properties": {
-        "id": "165ce040-feb1-48c9-81d0-990638264ea2",
-        "incident_number": "260601114",
-        "incident_code": "2026-FLFLS-260601114",
-        "name": "BELL SPRINGS (12)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 6.0,
-        "containment_percent": 90,
-        "county": "Columbia",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
-        "discovery_time": "2026-10-25T19:20:00",
-        "status_updated_time": "2026-10-25T19:28:02",
+        "discovery_time": "2026-10-27T17:38:01",
+        "status_updated_time": "2026-10-27T19:00:11",
         "is_obscured": false
       }
     },
@@ -191,7 +191,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 9,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
