@@ -6,82 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.96968841552734,
-          29.669469833374023
+          -80.70872497558594,
+          27.937084197998047
         ]
       },
       "properties": {
-        "id": "18e815f8-4efc-4977-bf84-9af4c888cb5d",
-        "incident_number": "260500286",
-        "incident_code": "2026-FLFLS-260500286",
-        "name": "796th Dixie (15)",
-        "status": "Contained",
+        "id": "ddac90fb-6205-4afb-8cfd-4cf8a9460106",
+        "incident_number": "261200638",
+        "incident_code": "2026-FLFLS-261200638",
+        "name": "OSMOSIS (05)",
+        "status": "Active",
         "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Dixie",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-26T20:27:00",
-        "status_updated_time": "2026-10-26T21:10:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.0655517578125,
-          28.474166870117188
-        ]
-      },
-      "properties": {
-        "id": "75d943a1-a12a-49e0-87ec-df21efbbed89",
-        "incident_number": "261200636",
-        "incident_code": "2026-FLFLS-261200636",
-        "name": "Quinn Street (48)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Orange",
+        "acres": 1.0,
+        "containment_percent": 0,
+        "county": "Brevard",
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
-        "discovery_time": "2026-10-26T17:41:20",
-        "status_updated_time": "2026-10-26T18:53:57",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.285400390625,
-          30.926605224609375
-        ]
-      },
-      "properties": {
-        "id": "a24c9db3-803f-4db1-b15b-b75be0e3f6d3",
-        "incident_number": "260200599",
-        "incident_code": "2026-FLFLS-260200599",
-        "name": "NORTH SUTTLES DR (66)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 95,
-        "county": "Walton",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
-        "discovery_time": "2026-10-25T19:31:00",
-        "status_updated_time": "2026-10-25T20:05:18.3029157",
+        "resources_assigned": 7,
+        "discovery_time": "2026-10-27T17:38:01",
+        "status_updated_time": "2026-10-27T18:31:31",
         "is_obscured": false
       }
     },
@@ -118,62 +62,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.53916931152344,
-          27.767221450805664
-        ]
-      },
-      "properties": {
-        "id": "fdb6f88a-d5f9-4dee-82fd-932d8f537dde",
-        "incident_number": "261400588",
-        "incident_code": "2026-FLFLS-261400588",
-        "name": "CELLULAR  (53)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Polk",
-        "field_unit": "Lakeland",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-25T16:21:07",
-        "status_updated_time": "2026-10-25T17:19:43",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.25942993164062,
-          29.52509307861328
-        ]
-      },
-      "properties": {
-        "id": "b2b30624-3b74-4344-82e1-c3aebf3d3e3b",
-        "incident_number": "260500285",
-        "incident_code": "2026-FLFLS-260500285",
-        "name": "Cemetery Road- Dixie (15)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 1.5,
-        "containment_percent": 100,
-        "county": "Dixie",
-        "field_unit": "Perry",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-25T02:10:00",
-        "status_updated_time": "2026-10-25T03:57:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.71778106689453,
           26.34000015258789
         ]
@@ -191,7 +79,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-24T22:32:00",
         "status_updated_time": "2026-10-25T00:01:00",
         "is_obscured": false
@@ -298,7 +186,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 2060.0,
-        "containment_percent": 80,
+        "containment_percent": 85,
         "county": "Hamilton",
         "field_unit": "Suwannee",
         "region": "Region 2",
