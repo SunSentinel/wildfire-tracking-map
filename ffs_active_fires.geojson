@@ -23,7 +23,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 2,
         "discovery_time": "2026-10-27T19:21:43",
         "status_updated_time": "2026-10-27T22:01:38",
         "is_obscured": false
@@ -79,7 +79,7 @@
         "field_unit": "Caloosahatchee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 4,
         "discovery_time": "2026-10-24T22:32:00",
         "status_updated_time": "2026-10-25T00:01:00",
         "is_obscured": false
@@ -99,7 +99,7 @@
         "incident_number": "260500284",
         "incident_code": "2026-FLFLS-260500284",
         "name": "St. Regis (34)",
-        "status": "Contained",
+        "status": "Controlled",
         "category": "Wildfire",
         "acres": 1.5,
         "containment_percent": 100,
@@ -107,9 +107,9 @@
         "field_unit": "Perry",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-24T20:53:41",
-        "status_updated_time": "2026-10-24T22:44:31",
+        "status_updated_time": "2026-10-28T15:06:00",
         "is_obscured": false
       }
     },
@@ -135,7 +135,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-10-24T18:59:00",
         "status_updated_time": "2026-10-24T19:26:39.7164878",
         "is_obscured": false
@@ -191,7 +191,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 5,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
