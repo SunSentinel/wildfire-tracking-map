@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.29144287109375,
+          30.395692825317383
+        ]
+      },
+      "properties": {
+        "id": "79f2e9cc-1adc-4611-ba6a-dcb1c98a5acb",
+        "incident_number": "260200604",
+        "incident_code": "2026-FLFLS-260200604",
+        "name": "ILLEGAL BURN - McDowell Street (66)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Walton",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-10-29T23:22:33",
+        "status_updated_time": "2026-10-29T23:22:33",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82943725585938,
+          30.922176361083984
+        ]
+      },
+      "properties": {
+        "id": "e90ce8dc-68e6-45b5-95b6-31c8eeacf1a7",
+        "incident_number": "260200603",
+        "incident_code": "2026-FLFLS-260200603",
+        "name": "County Road 179 (30)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.25,
+        "containment_percent": 100,
+        "county": "Holmes",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-10-29T22:28:10",
+        "status_updated_time": "2026-10-29T23:13:12",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.28728485107422,
+          30.422483444213867
+        ]
+      },
+      "properties": {
+        "id": "8ebd3f7f-f575-4e50-bcc3-a670da203176",
+        "incident_number": "260100480",
+        "incident_code": "2026-FLFLS-260100480",
+        "name": "Eaton Road (17)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 3.0,
+        "containment_percent": 0,
+        "county": "Escambia",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 8,
+        "discovery_time": "2026-10-29T20:40:51",
+        "status_updated_time": "2026-10-29T20:41:46",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.15638732910156,
           28.497777938842773
         ]
@@ -135,7 +219,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
