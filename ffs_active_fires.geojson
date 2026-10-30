@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.83916473388672,
+          28.50694465637207
+        ]
+      },
+      "properties": {
+        "id": "dc13b85f-1c09-407b-8a85-7e8e99ecee1a",
+        "incident_number": "261100710",
+        "incident_code": "2026-FLFLS-261100710",
+        "name": "RED BARN  (35)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 5.0,
+        "containment_percent": 0,
+        "county": "Lake",
+        "field_unit": "Withlacoochee",
+        "region": "Region 3",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 11,
+        "discovery_time": "2026-10-30T19:42:06",
+        "status_updated_time": "2026-10-30T19:57:29",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.29144287109375,
           30.395692825317383
         ]
@@ -71,45 +99,17 @@
         "incident_number": "260100480",
         "incident_code": "2026-FLFLS-260100480",
         "name": "Eaton Road (17)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 3.0,
-        "containment_percent": 85,
+        "containment_percent": 100,
         "county": "Escambia",
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-10-29T20:40:51",
-        "status_updated_time": "2026-10-29T20:41:46",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.15638732910156,
-          28.497777938842773
-        ]
-      },
-      "properties": {
-        "id": "749fb0e9-5cb5-4d5a-ac2c-60c469e0fa79",
-        "incident_number": "261200639",
-        "incident_code": "2026-FLFLS-261200639",
-        "name": "ALAFAYA (48)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 15.0,
-        "containment_percent": 100,
-        "county": "Orange",
-        "field_unit": "Orlando",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-27T19:21:43",
-        "status_updated_time": "2026-10-27T22:01:38",
+        "status_updated_time": "2026-10-30T15:01:46",
         "is_obscured": false
       }
     },
@@ -135,7 +135,7 @@
         "field_unit": "Orlando",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-27T17:38:01",
         "status_updated_time": "2026-10-27T19:00:11",
         "is_obscured": false
@@ -219,7 +219,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
