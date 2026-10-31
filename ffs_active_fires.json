@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:24:09.157956Z",
+  "updated_at": "2026-10-31T06:03:43.020855Z",
   "incidents": [
     {
       "id": "dc13b85f-1c09-407b-8a85-7e8e99ecee1a",
@@ -9,12 +9,12 @@
       "status": "Active",
       "category": "Wildfire",
       "acres": 6.0,
-      "containment_percent": 30,
+      "containment_percent": 50,
       "county": "Lake",
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 16,
+      "resources_assigned": 0,
       "discovery_time": "2026-10-30T19:42:06",
       "status_updated_time": "2026-10-30T19:57:29",
       "latitude": 28.504167556762695,
