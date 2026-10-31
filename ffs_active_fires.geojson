@@ -6,54 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.83916473388672,
-          28.50694465637207
+          -81.84750366210938,
+          28.504167556762695
         ]
       },
       "properties": {
         "id": "dc13b85f-1c09-407b-8a85-7e8e99ecee1a",
         "incident_number": "261100710",
         "incident_code": "2026-FLFLS-261100710",
-        "name": "RED BARN  (35)",
+        "name": "RED BARN (35)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 5.0,
-        "containment_percent": 0,
+        "acres": 6.0,
+        "containment_percent": 30,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 11,
+        "resources_assigned": 16,
         "discovery_time": "2026-10-30T19:42:06",
         "status_updated_time": "2026-10-30T19:57:29",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.29144287109375,
-          30.395692825317383
-        ]
-      },
-      "properties": {
-        "id": "79f2e9cc-1adc-4611-ba6a-dcb1c98a5acb",
-        "incident_number": "260200604",
-        "incident_code": "2026-FLFLS-260200604",
-        "name": "ILLEGAL BURN - McDowell Street (66)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Walton",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-29T23:22:33",
-        "status_updated_time": "2026-10-29T23:22:33",
         "is_obscured": false
       }
     },
