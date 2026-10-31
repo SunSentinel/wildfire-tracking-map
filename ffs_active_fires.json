@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:28:21.390493Z",
+  "updated_at": "2026-10-31T20:36:36.336574Z",
   "incidents": [
     {
       "id": "4647fcac-8a56-48a6-8d63-6c11b9a08f34",
@@ -34,7 +34,7 @@
       "field_unit": "Withlacoochee",
       "region": "Region 3",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 14,
+      "resources_assigned": 0,
       "discovery_time": "2026-10-30T19:42:06",
       "status_updated_time": "2026-10-30T19:57:29",
       "latitude": 28.504167556762695,
@@ -59,26 +59,6 @@
       "status_updated_time": "2026-10-29T23:13:12",
       "latitude": 30.922176361083984,
       "longitude": -85.82943725585938,
-      "is_obscured": false
-    },
-    {
-      "id": "8ebd3f7f-f575-4e50-bcc3-a670da203176",
-      "incident_number": "260100480",
-      "incident_code": "2026-FLFLS-260100480",
-      "name": "Eaton Road (17)",
-      "status": "Contained",
-      "category": "Wildfire",
-      "acres": 3.0,
-      "containment_percent": 100,
-      "county": "Escambia",
-      "field_unit": "Blackwater",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-10-29T20:40:51",
-      "status_updated_time": "2026-10-30T15:01:46",
-      "latitude": 30.422483444213867,
-      "longitude": -87.28728485107422,
       "is_obscured": false
     },
     {
