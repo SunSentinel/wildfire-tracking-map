@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.96833038330078,
+          29.63249969482422
+        ]
+      },
+      "properties": {
+        "id": "4e75d238-684e-44c5-8115-eb4d52ffa967",
+        "incident_number": "260800857",
+        "incident_code": "2026-FLFLS-260800857",
+        "name": "MICHIGAN DR (54)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 4.0,
+        "containment_percent": 90,
+        "county": "Putnam",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-10-31T22:12:00",
+        "status_updated_time": "2026-10-31T23:07:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.54060363769531,
           26.161649703979492
         ]
