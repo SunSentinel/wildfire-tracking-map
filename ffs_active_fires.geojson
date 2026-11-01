@@ -15,45 +15,17 @@
         "incident_number": "260800857",
         "incident_code": "2026-FLFLS-260800857",
         "name": "MICHIGAN DR (54)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 4.0,
-        "containment_percent": 90,
+        "acres": 3.53,
+        "containment_percent": 100,
         "county": "Putnam",
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 7,
         "discovery_time": "2026-10-31T22:12:00",
-        "status_updated_time": "2026-10-31T23:07:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.54060363769531,
-          26.161649703979492
-        ]
-      },
-      "properties": {
-        "id": "4647fcac-8a56-48a6-8d63-6c11b9a08f34",
-        "incident_number": "261700252",
-        "incident_code": "2026-FLFLS-261700252",
-        "name": "38th Ave (11)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.23,
-        "containment_percent": 100,
-        "county": "Collier",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-31T11:43:00",
-        "status_updated_time": "2026-10-31T13:09:00",
+        "status_updated_time": "2026-11-01T14:13:00",
         "is_obscured": false
       }
     },
@@ -135,7 +107,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 2,
         "discovery_time": "2026-10-24T18:59:00",
         "status_updated_time": "2026-10-24T19:26:39.7164878",
         "is_obscured": false
