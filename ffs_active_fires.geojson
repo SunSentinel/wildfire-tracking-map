@@ -23,7 +23,7 @@
         "field_unit": "Waccasassa",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 7,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-31T22:12:00",
         "status_updated_time": "2026-11-01T14:13:00",
         "is_obscured": false
@@ -107,7 +107,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-24T18:59:00",
         "status_updated_time": "2026-10-24T19:26:39.7164878",
         "is_obscured": false

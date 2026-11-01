@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T17:00:26.402092Z",
+  "updated_at": "2026-11-01T21:17:55.768079Z",
   "incidents": [
     {
       "id": "4e75d238-684e-44c5-8115-eb4d52ffa967",
@@ -14,7 +14,7 @@
       "field_unit": "Waccasassa",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 7,
+      "resources_assigned": 0,
       "discovery_time": "2026-10-31T22:12:00",
       "status_updated_time": "2026-11-01T14:13:00",
       "latitude": 29.63249969482422,
@@ -74,7 +74,7 @@
       "field_unit": "Chipola",
       "region": "Region 1",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 0,
       "discovery_time": "2026-10-24T18:59:00",
       "status_updated_time": "2026-10-24T19:26:39.7164878",
       "latitude": 30.356094360351562,
