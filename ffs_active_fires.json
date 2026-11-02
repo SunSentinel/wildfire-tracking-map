@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-02T00:56:21.812603Z",
+  "updated_at": "2026-11-02T07:11:20.139486Z",
   "incidents": [
     {
       "id": "c4d8cdbf-3160-4305-ab52-1168566e35f4",
       "incident_number": "261700253",
       "incident_code": "2026-FLFLS-261700253",
       "name": "Burnt Store (36)",
-      "status": "Active",
+      "status": "Contained",
       "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
+      "acres": 2.0,
+      "containment_percent": 100,
       "county": "Lee",
       "field_unit": "Caloosahatchee",
       "region": "Region 4",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-11-01T21:25:00",
-      "status_updated_time": "2026-11-01T22:27:00",
+      "status_updated_time": "2026-11-02T02:10:00",
       "latitude": 26.70659828186035,
       "longitude": -82.0470199584961,
       "is_obscured": false
