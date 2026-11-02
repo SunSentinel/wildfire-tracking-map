@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:17:59.039078Z",
+  "updated_at": "2026-11-02T23:57:41.483291Z",
   "incidents": [
     {
       "id": "dc13b85f-1c09-407b-8a85-7e8e99ecee1a",
@@ -19,26 +19,6 @@
       "status_updated_time": "2026-10-30T19:57:29",
       "latitude": 28.504167556762695,
       "longitude": -81.84750366210938,
-      "is_obscured": false
-    },
-    {
-      "id": "5b266be0-faba-42b7-9c87-432a59c27368",
-      "incident_number": "260200597",
-      "incident_code": "2026-FLFLS-260200597",
-      "name": "SATINWOOD (66)",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 4.0,
-      "containment_percent": 95,
-      "county": "Walton",
-      "field_unit": "Chipola",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 3,
-      "discovery_time": "2026-10-24T18:59:00",
-      "status_updated_time": "2026-10-24T19:26:39.7164878",
-      "latitude": 30.356094360351562,
-      "longitude": -86.21937561035156,
       "is_obscured": false
     },
     {
