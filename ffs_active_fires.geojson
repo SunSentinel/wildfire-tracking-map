@@ -6,62 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.0470199584961,
-          26.70659828186035
-        ]
-      },
-      "properties": {
-        "id": "c4d8cdbf-3160-4305-ab52-1168566e35f4",
-        "incident_number": "261700253",
-        "incident_code": "2026-FLFLS-261700253",
-        "name": "Burnt Store (36)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 100,
-        "county": "Lee",
-        "field_unit": "Caloosahatchee",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-01T21:25:00",
-        "status_updated_time": "2026-11-02T02:10:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.96833038330078,
-          29.63249969482422
-        ]
-      },
-      "properties": {
-        "id": "4e75d238-684e-44c5-8115-eb4d52ffa967",
-        "incident_number": "260800857",
-        "incident_code": "2026-FLFLS-260800857",
-        "name": "MICHIGAN DR (54)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 3.53,
-        "containment_percent": 100,
-        "county": "Putnam",
-        "field_unit": "Waccasassa",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-31T22:12:00",
-        "status_updated_time": "2026-11-01T14:13:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.84750366210938,
           28.504167556762695
         ]
@@ -90,34 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.82943725585938,
-          30.922176361083984
-        ]
-      },
-      "properties": {
-        "id": "e90ce8dc-68e6-45b5-95b6-31c8eeacf1a7",
-        "incident_number": "260200603",
-        "incident_code": "2026-FLFLS-260200603",
-        "name": "County Road 179 (30)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 100,
-        "county": "Holmes",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-10-29T22:28:10",
-        "status_updated_time": "2026-10-29T23:13:12",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -86.21937561035156,
           30.356094360351562
         ]
@@ -135,7 +51,7 @@
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
+        "resources_assigned": 3,
         "discovery_time": "2026-10-24T18:59:00",
         "status_updated_time": "2026-10-24T19:26:39.7164878",
         "is_obscured": false
