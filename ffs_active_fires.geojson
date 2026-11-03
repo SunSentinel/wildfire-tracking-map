@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.9850082397461,
-          30.768470764160156
-        ]
-      },
-      "properties": {
-        "id": "e5bfb7e0-ca9a-436f-858b-4fb7cd8f58c3",
-        "incident_number": "260100486",
-        "incident_code": "2026-FLFLS-260100486",
-        "name": "CANX-James Wilbur Way  (57)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-03T02:23:00",
-        "status_updated_time": "2026-11-03T02:23:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.84750366210938,
           28.504167556762695
         ]
@@ -43,17 +15,17 @@
         "incident_number": "261100710",
         "incident_code": "2026-FLFLS-261100710",
         "name": "RED BARN (35)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 6.0,
-        "containment_percent": 80,
+        "containment_percent": 100,
         "county": "Lake",
         "field_unit": "Withlacoochee",
         "region": "Region 3",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-10-30T19:42:06",
-        "status_updated_time": "2026-10-30T19:57:29",
+        "status_updated_time": "2026-11-03T18:36:53",
         "is_obscured": false
       }
     },
@@ -107,7 +79,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 2,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
