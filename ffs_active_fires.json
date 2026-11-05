@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-11-05T17:04:14.324263Z",
+  "updated_at": "2026-11-05T22:44:20.686369Z",
   "incidents": [
-    {
-      "id": "d4f289cd-de90-4f28-bedc-3a9687328d35",
-      "incident_number": "260200609",
-      "incident_code": "2026-FLFLS-260200609",
-      "name": "OSI - MURILLO - Oscar Road -APPROVED-(32)",
-      "status": "Reported",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Jackson",
-      "field_unit": "Chipola",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-11-04T16:32:01",
-      "status_updated_time": "2026-11-04T16:32:01",
-      "latitude": 30.893770217895508,
-      "longitude": -85.09187316894531,
-      "is_obscured": false
-    },
     {
       "id": "bb2b7fca-8965-4797-a0e0-e4b3ed5d52af",
       "incident_number": "260601105",
