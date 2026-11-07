@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-11-07T09:46:16.302894Z",
+  "updated_at": "2026-11-07T16:01:18.793495Z",
   "incidents": [
-    {
-      "id": "ed7e8bcc-7074-44d9-90a0-a53a56843390",
-      "incident_number": "260800862",
-      "incident_code": "2026-FLFLS-260800862",
-      "name": "OSI BERNARDO 1429057 -  SW 59TH LN (42)",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Marion",
-      "field_unit": "Waccasassa",
-      "region": "Region 2",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-11-06T14:25:00",
-      "status_updated_time": "2026-11-06T15:22:00",
-      "latitude": 29.12831687927246,
-      "longitude": -82.46086883544922,
-      "is_obscured": false
-    },
     {
       "id": "bb2b7fca-8965-4797-a0e0-e4b3ed5d52af",
       "incident_number": "260601105",
@@ -34,7 +14,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 2,
+      "resources_assigned": 4,
       "discovery_time": "2026-10-21T19:40:00",
       "status_updated_time": "2026-10-21T19:45:02",
       "latitude": 30.495134353637695,
