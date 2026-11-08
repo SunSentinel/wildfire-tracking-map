@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.47225189208984,
-          28.861452102661133
-        ]
-      },
-      "properties": {
-        "id": "0a730359-992d-49ed-9211-39e162cd7d5e",
-        "incident_number": "261100718",
-        "incident_code": "2026-FLFLS-261100718",
-        "name": "OSI PONDER AVE / ARNOLD (09)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-07T17:10:00",
-        "status_updated_time": "2026-11-07T17:15:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
@@ -51,7 +23,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 4,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
