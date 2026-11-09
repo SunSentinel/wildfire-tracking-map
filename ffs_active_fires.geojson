@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.04988861083984,
-          30.722238540649414
-        ]
-      },
-      "properties": {
-        "id": "a3c4d56e-eea1-4397-ab6c-de45691b034c",
-        "incident_number": "260100490",
-        "incident_code": "2026-FLFLS-260100490",
-        "name": "Clear Creek Rd (57)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-08T23:56:00",
-        "status_updated_time": "2026-11-08T23:56:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
