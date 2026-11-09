@@ -1,2 +1,3 @@
 id,incident_number,incident_code,name,status,category,acres,containment_percent,county,field_unit,region,protecting_unit,resources_assigned,discovery_time,status_updated_time,latitude,longitude,is_obscured
+a3c4d56e-eea1-4397-ab6c-de45691b034c,260100490,2026-FLFLS-260100490,Clear Creek Rd (57),Reported,Wildfire,0.0,0,Santa Rosa,Blackwater,Region 1,FLFLS - Florida Forest Service,0,2026-11-08T23:56:00,2026-11-08T23:56:00,30.722238540649414,-87.04988861083984,False
 bb2b7fca-8965-4797-a0e0-e4b3ed5d52af,260601105,2026-FLFLS-260601105,BEE HAVEN (2) (24-06),Active,Wildfire,2060.0,85,Hamilton,Suwannee,Region 2,FLFLS - Florida Forest Service,2,2026-10-21T19:40:00,2026-10-21T19:45:02,30.495134353637695,-82.85758972167969,False
