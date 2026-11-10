@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-09T18:07:35.084414Z",
+  "updated_at": "2026-11-10T01:41:29.632943Z",
   "incidents": [
+    {
+      "id": "bcadb42f-6539-481f-8058-ed38dea206e5",
+      "incident_number": "260400549",
+      "incident_code": "2026-FLFLS-260400549",
+      "name": "LAKE AVENUE N (65) 0549",
+      "status": "Contained",
+      "category": "Wildfire",
+      "acres": 0.0,
+      "containment_percent": 100,
+      "county": "Wakulla",
+      "field_unit": "Tallahassee",
+      "region": "Region 1",
+      "protecting_unit": "FLFLS - Florida Forest Service",
+      "resources_assigned": 0,
+      "discovery_time": "2026-11-09T17:58:00",
+      "status_updated_time": "2026-11-09T19:17:00",
+      "latitude": 30.032079696655273,
+      "longitude": -84.40269470214844,
+      "is_obscured": false
+    },
     {
       "id": "a3c4d56e-eea1-4397-ab6c-de45691b034c",
       "incident_number": "260100490",
@@ -34,7 +54,7 @@
       "field_unit": "Suwannee",
       "region": "Region 2",
       "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 5,
+      "resources_assigned": 0,
       "discovery_time": "2026-10-21T19:40:00",
       "status_updated_time": "2026-10-21T19:45:02",
       "latitude": 30.495134353637695,
