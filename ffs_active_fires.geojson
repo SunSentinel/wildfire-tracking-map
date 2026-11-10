@@ -6,62 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.40269470214844,
-          30.032079696655273
-        ]
-      },
-      "properties": {
-        "id": "bcadb42f-6539-481f-8058-ed38dea206e5",
-        "incident_number": "260400549",
-        "incident_code": "2026-FLFLS-260400549",
-        "name": "LAKE AVENUE N (65) 0549",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 100,
-        "county": "Wakulla",
-        "field_unit": "Tallahassee",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-09T17:58:00",
-        "status_updated_time": "2026-11-09T19:17:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.04988861083984,
-          30.722238540649414
-        ]
-      },
-      "properties": {
-        "id": "a3c4d56e-eea1-4397-ab6c-de45691b034c",
-        "incident_number": "260100490",
-        "incident_code": "2026-FLFLS-260100490",
-        "name": "Clear Creek Rd  (57)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 0,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-08T23:56:00",
-        "status_updated_time": "2026-11-09T00:27:55.2404941",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
@@ -79,7 +23,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
