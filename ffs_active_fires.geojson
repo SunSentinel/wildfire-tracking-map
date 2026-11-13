@@ -6,6 +6,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.43548583984375,
+          27.37906837463379
+        ]
+      },
+      "properties": {
+        "id": "4b6cbaef-3435-466e-8869-74a1989bb5a7",
+        "incident_number": "261600856",
+        "incident_code": "2026-FLFLS-261600856",
+        "name": "Grand Concord (28)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Highlands",
+        "field_unit": "Okeechobee",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-11-13T22:17:00",
+        "status_updated_time": "2026-11-13T22:17:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40856170654297,
+          27.026348114013672
+        ]
+      },
+      "properties": {
+        "id": "bf2aa7aa-6cf4-42d9-9f2f-fe80576b105f",
+        "incident_number": "261500603",
+        "incident_code": "2026-FLFLS-261500603",
+        "name": "Viola Road (58)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Sarasota",
+        "field_unit": "Myakka River",
+        "region": "Region 4",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-11-13T22:08:00",
+        "status_updated_time": "2026-11-13T22:08:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4318618774414,
+          29.338199615478516
+        ]
+      },
+      "properties": {
+        "id": "cc9bb9ca-6ae0-4351-9d4b-b9e85c4e7289",
+        "incident_number": "260800872",
+        "incident_code": "2026-FLFLS-260800872",
+        "name": "NE 205TH AVE (38)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 1.0,
+        "containment_percent": 0,
+        "county": "Levy",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-11-13T19:55:00",
+        "status_updated_time": "2026-11-13T20:12:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.82305908203125,
+          30.624296188354492
+        ]
+      },
+      "properties": {
+        "id": "a7d5dde5-e0e8-4be1-9a00-f02d0986f18e",
+        "incident_number": "260400557",
+        "incident_code": "2026-FLFLS-260400557",
+        "name": "GILBERT  (33) 0557",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 100,
+        "county": "Jefferson",
+        "field_unit": "Tallahassee",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-11-13T18:20:00",
+        "status_updated_time": "2026-11-13T21:37:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.69244384765625,
           30.893999099731445
         ]
@@ -54,34 +166,6 @@
         "resources_assigned": 0,
         "discovery_time": "2026-11-12T20:23:00",
         "status_updated_time": "2026-11-12T20:29:27",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.10306549072266,
-          30.657609939575195
-        ]
-      },
-      "properties": {
-        "id": "70e73760-7dc4-4690-9aaa-4f62aab220f6",
-        "incident_number": "260200614",
-        "incident_code": "2026-FLFLS-260200614",
-        "name": "W Indian Creek Ranch Road (66)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.1,
-        "containment_percent": 0,
-        "county": "Walton",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-12T19:11:09",
-        "status_updated_time": "2026-11-12T19:45:00",
         "is_obscured": false
       }
     },
