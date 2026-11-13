@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.69244384765625,
+          30.893999099731445
+        ]
+      },
+      "properties": {
+        "id": "61952677-0b6f-49f9-9efa-0652c7a04904",
+        "incident_number": "260200615",
+        "incident_code": "2026-FLFLS-260200615",
+        "name": "Robbins Bridge Road- Holmes (30)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.75,
+        "containment_percent": 100,
+        "county": "Holmes",
+        "field_unit": "Chipola",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-11-12T21:31:53",
+        "status_updated_time": "2026-11-12T22:35:43",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.11241912841797,
           30.734405517578125
         ]
@@ -23,7 +51,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 5,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-12T20:23:00",
         "status_updated_time": "2026-11-12T20:29:27",
         "is_obscured": false
@@ -45,13 +73,13 @@
         "name": "W Indian Creek Ranch Road (66)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 0.1,
         "containment_percent": 0,
         "county": "Walton",
         "field_unit": "Chipola",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-12T19:11:09",
         "status_updated_time": "2026-11-12T19:45:00",
         "is_obscured": false
