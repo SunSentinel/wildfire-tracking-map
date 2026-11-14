@@ -6,54 +6,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.43548583984375,
-          27.37906837463379
+          -81.445556640625,
+          27.376667022705078
         ]
       },
       "properties": {
         "id": "4b6cbaef-3435-466e-8869-74a1989bb5a7",
         "incident_number": "261600856",
         "incident_code": "2026-FLFLS-261600856",
-        "name": "Grand Concord (28)",
-        "status": "Reported",
+        "name": "Grand Concourse (28)",
+        "status": "Contained",
         "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
+        "acres": 0.1,
+        "containment_percent": 100,
         "county": "Highlands",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-11-13T22:17:00",
-        "status_updated_time": "2026-11-13T22:17:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.40856170654297,
-          27.026348114013672
-        ]
-      },
-      "properties": {
-        "id": "bf2aa7aa-6cf4-42d9-9f2f-fe80576b105f",
-        "incident_number": "261500603",
-        "incident_code": "2026-FLFLS-261500603",
-        "name": "Viola Road (58)",
-        "status": "Reported",
-        "category": "Wildfire",
-        "acres": 0.0,
-        "containment_percent": 0,
-        "county": "Sarasota",
-        "field_unit": "Myakka River",
-        "region": "Region 4",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-13T22:08:00",
-        "status_updated_time": "2026-11-13T22:08:00",
+        "status_updated_time": "2026-11-13T23:30:00",
         "is_obscured": false
       }
     },
@@ -146,34 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.11241912841797,
-          30.734405517578125
-        ]
-      },
-      "properties": {
-        "id": "af732611-c782-4a3f-a27c-ad24889bee84",
-        "incident_number": "260100497",
-        "incident_code": "2026-FLFLS-260100497",
-        "name": "Horace Lunsford Road (57)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 2.0,
-        "containment_percent": 0,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-12T20:23:00",
-        "status_updated_time": "2026-11-12T20:29:27",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
@@ -191,7 +135,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
