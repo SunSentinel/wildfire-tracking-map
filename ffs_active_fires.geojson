@@ -6,26 +6,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.94422912597656,
-          27.46502113342285
+          -83.046875,
+          29.68494415283203
+        ]
+      },
+      "properties": {
+        "id": "ee8c6e58-522b-44f3-a0e1-1d3dab31731e",
+        "incident_number": "260500287",
+        "incident_code": "2026-FLFLS-260500287",
+        "name": "412th Avenue- Dixie (15)",
+        "status": "Contained",
+        "category": "Wildfire",
+        "acres": 0.25,
+        "containment_percent": 100,
+        "county": "Dixie",
+        "field_unit": "Perry",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-11-14T21:20:00",
+        "status_updated_time": "2026-11-14T22:21:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9463882446289,
+          27.464445114135742
         ]
       },
       "properties": {
         "id": "12233911-0291-4a03-8db8-0d45aa7f436f",
         "incident_number": "261600858",
         "incident_code": "2026-FLFLS-261600858",
-        "name": "CR 724 (47)",
-        "status": "Reported",
+        "name": "240th St (47)",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Okeechobee",
         "field_unit": "Okeechobee",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 3,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-14T20:11:00",
-        "status_updated_time": "2026-11-14T20:11:00",
+        "status_updated_time": "2026-11-14T20:49:00",
         "is_obscured": false
       }
     },
@@ -51,7 +79,7 @@
         "field_unit": "Blackwater",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-14T19:27:08",
         "status_updated_time": "2026-11-14T19:31:00",
         "is_obscured": false
@@ -73,13 +101,13 @@
         "name": "223RD ST (04)",
         "status": "Active",
         "category": "Wildfire",
-        "acres": 0.0,
+        "acres": 1.5,
         "containment_percent": 95,
         "county": "Bradford",
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 4,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-14T19:16:00",
         "status_updated_time": "2026-11-14T19:16:02",
         "is_obscured": false
