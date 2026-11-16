@@ -6,8 +6,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.06343841552734,
-          27.054861068725586
+          -87.10319519042969,
+          30.556060791015625
+        ]
+      },
+      "properties": {
+        "id": "a833e348-af5e-457c-8e3b-b56737935c86",
+        "incident_number": "260100501",
+        "incident_code": "2026-FLFLS-260100501",
+        "name": "Damon Dr  (57)",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 0.2,
+        "containment_percent": 0,
+        "county": "Santa Rosa",
+        "field_unit": "Blackwater",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 0,
+        "discovery_time": "2026-11-15T20:12:59",
+        "status_updated_time": "2026-11-15T20:21:31",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.06485748291016,
+          27.052860260009766
         ]
       },
       "properties": {
@@ -15,17 +43,17 @@
         "incident_number": "261500604",
         "incident_code": "2026-FLFLS-261500604",
         "name": "Blueleaf Dr- Sarasota (58)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 0.0,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Sarasota",
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 8,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-15T18:15:07",
-        "status_updated_time": "2026-11-15T18:20:32",
+        "status_updated_time": "2026-11-15T21:03:11",
         "is_obscured": false
       }
     },
@@ -70,7 +98,7 @@
         "id": "297f62c9-cecb-4c7c-a694-203766b894ca",
         "incident_number": "260400559",
         "incident_code": "2026-FLFLS-260400559",
-        "name": "VETERANS MEMORIAL   (37) 0559",
+        "name": "VETERANS MEMORIAL N  (37) 0559",
         "status": "Contained",
         "category": "Wildfire",
         "acres": 0.1,
@@ -79,7 +107,7 @@
         "field_unit": "Tallahassee",
         "region": "Region 1",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-15T01:52:00",
         "status_updated_time": "2026-11-15T03:51:00",
         "is_obscured": false
