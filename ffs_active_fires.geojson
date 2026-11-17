@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.22163391113281,
-          26.932905197143555
+          -82.21843719482422,
+          26.93256950378418
         ]
       },
       "properties": {
@@ -15,45 +15,17 @@
         "incident_number": "261500606",
         "incident_code": "2026-FLFLS-261500606",
         "name": "South McCall Rd- Charlotte (08)",
-        "status": "Active",
+        "status": "Contained",
         "category": "Wildfire",
         "acres": 1.5,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Charlotte",
         "field_unit": "Myakka River",
         "region": "Region 4",
         "protecting_unit": "FLFLS - Florida Forest Service",
         "resources_assigned": 0,
         "discovery_time": "2026-11-17T00:50:47",
-        "status_updated_time": "2026-11-17T00:57:39",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.10319519042969,
-          30.556060791015625
-        ]
-      },
-      "properties": {
-        "id": "a833e348-af5e-457c-8e3b-b56737935c86",
-        "incident_number": "260100501",
-        "incident_code": "2026-FLFLS-260100501",
-        "name": "Damon Dr  (57)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 0.2,
-        "containment_percent": 100,
-        "county": "Santa Rosa",
-        "field_unit": "Blackwater",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-15T20:12:59",
-        "status_updated_time": "2026-11-15T20:21:31",
+        "status_updated_time": "2026-11-17T13:45:35",
         "is_obscured": false
       }
     },
