@@ -18,7 +18,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 0.2,
-        "containment_percent": 0,
+        "containment_percent": 100,
         "county": "Santa Rosa",
         "field_unit": "Blackwater",
         "region": "Region 1",
@@ -107,37 +107,9 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 2,
+        "resources_assigned": 0,
         "discovery_time": "2026-11-14T19:16:00",
         "status_updated_time": "2026-11-14T19:16:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.30279541015625,
-          30.044130325317383
-        ]
-      },
-      "properties": {
-        "id": "b97775b2-30ad-4524-9a96-ee51a80a0643",
-        "incident_number": "260200617",
-        "incident_code": "2026-FLFLS-260200617",
-        "name": "Tremont Court (23)",
-        "status": "Controlled",
-        "category": "Wildfire",
-        "acres": 0.5,
-        "containment_percent": 100,
-        "county": "Gulf",
-        "field_unit": "Chipola",
-        "region": "Region 1",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-14T18:38:29",
-        "status_updated_time": "2026-11-15T18:27:06",
         "is_obscured": false
       }
     },
@@ -191,7 +163,7 @@
         "field_unit": "Suwannee",
         "region": "Region 2",
         "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 6,
+        "resources_assigned": 0,
         "discovery_time": "2026-10-21T19:40:00",
         "status_updated_time": "2026-10-21T19:45:02",
         "is_obscured": false
