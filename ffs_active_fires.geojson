@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.08382415771484,
-          30.04065704345703
-        ]
-      },
-      "properties": {
-        "id": "316abaae-e8cb-462e-8669-82145edfed0d",
-        "incident_number": "260601159",
-        "incident_code": "2026-FLFLS-260601159",
-        "name": "223RD ST (04)",
-        "status": "Active",
-        "category": "Wildfire",
-        "acres": 1.5,
-        "containment_percent": 95,
-        "county": "Bradford",
-        "field_unit": "Suwannee",
-        "region": "Region 2",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-14T19:16:00",
-        "status_updated_time": "2026-11-14T19:16:02",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.40611267089844,
           28.67888832092285
         ]
