@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-11-19T05:30:19.421941Z",
+  "updated_at": "2026-11-19T15:02:33.281916Z",
   "incidents": [
-    {
-      "id": "f8c30e43-2e8f-4c25-bc97-fcc0c86faab9",
-      "incident_number": "260100500",
-      "incident_code": "2026-FLFLS-260100500",
-      "name": "Old Pollard Road (57)",
-      "status": "Active",
-      "category": "Wildfire",
-      "acres": 0.0,
-      "containment_percent": 0,
-      "county": "Santa Rosa",
-      "field_unit": "Blackwater",
-      "region": "Region 1",
-      "protecting_unit": "FLFLS - Florida Forest Service",
-      "resources_assigned": 0,
-      "discovery_time": "2026-11-14T19:27:08",
-      "status_updated_time": "2026-11-14T19:31:00",
-      "latitude": 30.985326766967773,
-      "longitude": -87.1496353149414,
-      "is_obscured": false
-    },
     {
       "id": "316abaae-e8cb-462e-8669-82145edfed0d",
       "incident_number": "260601159",
