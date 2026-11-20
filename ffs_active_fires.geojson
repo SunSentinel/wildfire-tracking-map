@@ -6,34 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.40611267089844,
-          28.67888832092285
-        ]
-      },
-      "properties": {
-        "id": "bfa8a583-a82f-41ab-bc3f-22496ea09ad7",
-        "incident_number": "261100730",
-        "incident_code": "2026-FLFLS-261100730",
-        "name": "RADAR HILL 1 (09)",
-        "status": "Contained",
-        "category": "Wildfire",
-        "acres": 16.5,
-        "containment_percent": 100,
-        "county": "Citrus",
-        "field_unit": "Withlacoochee",
-        "region": "Region 3",
-        "protecting_unit": "FLFLS - Florida Forest Service",
-        "resources_assigned": 0,
-        "discovery_time": "2026-11-14T16:48:00",
-        "status_updated_time": "2026-11-15T17:25:00",
-        "is_obscured": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
@@ -46,7 +18,7 @@
         "status": "Active",
         "category": "Wildfire",
         "acres": 2060.0,
-        "containment_percent": 85,
+        "containment_percent": 90,
         "county": "Hamilton",
         "field_unit": "Suwannee",
         "region": "Region 2",
