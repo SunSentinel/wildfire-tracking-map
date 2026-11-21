@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.43413543701172,
+          29.433101654052734
+        ]
+      },
+      "properties": {
+        "id": "569de1be-eb9a-4ce8-9ccf-b6f9220964fc",
+        "incident_number": "260800880",
+        "incident_code": "2026-FLFLS-260800880",
+        "name": "NE 75TH ST (38)",
+        "status": "Reported",
+        "category": "Wildfire",
+        "acres": 0.0,
+        "containment_percent": 0,
+        "county": "Levy",
+        "field_unit": "Waccasassa",
+        "region": "Region 2",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 4,
+        "discovery_time": "2026-11-21T21:35:41",
+        "status_updated_time": "2026-11-21T21:35:41",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
