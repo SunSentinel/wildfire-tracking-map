@@ -1,3 +1,2 @@
 id,incident_number,incident_code,name,status,category,acres,containment_percent,county,field_unit,region,protecting_unit,resources_assigned,discovery_time,status_updated_time,latitude,longitude,is_obscured
-569de1be-eb9a-4ce8-9ccf-b6f9220964fc,260800880,2026-FLFLS-260800880,NE 75TH ST (38),Reported,Wildfire,0.0,0,Levy,Waccasassa,Region 2,FLFLS - Florida Forest Service,4,2026-11-21T21:35:41,2026-11-21T21:35:41,29.433101654052734,-82.43413543701172,False
 bb2b7fca-8965-4797-a0e0-e4b3ed5d52af,260601105,2026-FLFLS-260601105,BEE HAVEN (2) (24-06),Active,Wildfire,2060.0,90,Hamilton,Suwannee,Region 2,FLFLS - Florida Forest Service,0,2026-10-21T19:40:00,2026-10-21T19:45:02,30.495134353637695,-82.85758972167969,False
