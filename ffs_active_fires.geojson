@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -84.9520034790039,
+          30.20800018310547
+        ]
+      },
+      "properties": {
+        "id": "6c392318-5c6a-4f42-ae00-65c8e71d71b1",
+        "incident_number": "260400568",
+        "incident_code": "2026-FLFLS-260400568",
+        "name": "MUTUAL AID-USFS (39) 0568",
+        "status": "Active",
+        "category": "Wildfire",
+        "acres": 50.0,
+        "containment_percent": 100,
+        "county": "Liberty",
+        "field_unit": "Tallahassee",
+        "region": "Region 1",
+        "protecting_unit": "FLFLS - Florida Forest Service",
+        "resources_assigned": 3,
+        "discovery_time": "2026-11-27T20:33:00",
+        "status_updated_time": "2026-11-27T21:24:00",
+        "is_obscured": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.85758972167969,
           30.495134353637695
         ]
